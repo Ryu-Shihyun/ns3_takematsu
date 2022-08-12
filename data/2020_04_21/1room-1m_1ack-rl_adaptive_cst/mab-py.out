@@ -1,0 +1,2995 @@
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 28803
+Node 0, (CST, Tx power, MCS) = (-72.0,  0, 7) - (mean, std): (0.778007751011833948, 0.023596458909150436)    played    14.65 s,       1795 time(s)
+Node 0, (CST, Tx power, MCS) = (-82.0,  0, 7) - (mean, std): (0.591378149991045210, 0.069673301429161769)    played     7.35 s,        205 time(s)
+Node 0, (CST, Tx power, MCS) = (-81.0,  0, 7) - (mean, std): (0.626007786067700689, 0.061898446059017287)    played     9.46 s,        260 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.811296613754464047, 0.014379932713576269)    played    28.53 s,       4835 time(s)
+                                                                                                           played    60.00 s,       7095 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-72.0,  0, 7) - (mean, std): (0.823352316825650798, 0.018151839895669614)    played    21.22 s,       3034 time(s)
+Node 1, (CST, Tx power, MCS) = (-73.0,  0, 7) - (mean, std): (0.789385521433380033, 0.025086383169282252)    played    13.35 s,       1588 time(s)
+Node 1, (CST, Tx power, MCS) = (-82.0,  0, 7) - (mean, std): (0.499461208543584001, 0.103142124625879336)    played     6.91 s,         93 time(s)
+Node 1, (CST, Tx power, MCS) = (-81.0,  0, 7) - (mean, std): (0.663460601600112665, 0.057448498962142609)    played     3.58 s,        302 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.810230471296097599, 0.019861453057473933)    played    14.95 s,       2534 time(s)
+                                                                                                           played    60.00 s,       7551 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82.0,  0, 7) - (mean, std): (0.092214387840509698, 0.229415733870561772)    played     4.80 s,         18 time(s)
+Node 2, (CST, Tx power, MCS) = (-81.0,  0, 7) - (mean, std): (0.386306730657278108, 0.149071198499985985)    played     0.56 s,         44 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.912838503994419459, 0.010105651043180541)    played    54.63 s,       9791 time(s)
+                                                                                                           played    60.00 s,       9853 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-72.0,  0, 7) - (mean, std): (0.465270062471581536, 0.065094455490411929)    played    23.82 s,        235 time(s)
+Node 3, (CST, Tx power, MCS) = (-71.0,  0, 7) - (mean, std): (0.580952159011975944, 0.023479095302146476)    played    14.39 s,       1813 time(s)
+Node 3, (CST, Tx power, MCS) = (-81.0,  0, 7) - (mean, std): (0.142616657462676155, 0.164398987305357291)    played     7.25 s,         36 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.581639427430051037, 0.021219039474017432)    played    14.17 s,       2220 time(s)
+                                                                                                           played    59.63 s,       4304 time(s)
+
+Mean throughputs: [35.9094 39.5154 53.9964 16.6996]
+Aggregate throughput: 146.1209
+Min-Max: 37.2968
+JFI: 0.7331 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -81  -72  -62]
+ [ 205  260 1795 4835]]
+[[ -82  -81  -73  -72  -62]
+ [  93  302 1588 3034 2534]]
+[[ -82  -81  -62]
+ [  18   44 9791]]
+[[ -81  -72  -71  -62]
+ [  36  235 1813 2220]]
+Mean PCS: [-65.8041 -69.3376 -62.1214 -66.4961]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [43.9739 46.3511 59.0922 10.9104]
+Aggregate throughput: 160.3276
+Min-Max: 48.1818
+JFI: 0.6925 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -81  -72  -62]
+ [   5   13  441 2444]]
+[[ -82  -81  -73  -72  -62]
+ [   3   10  400 1526  982]]
+[[ -82  -81  -62]
+ [   1    1 3544]]
+[[-81 -72 -71 -62]
+ [  3  41 485 622]]
+Mean PCS: [-63.6386 -68.8162 -62.0110 -66.1981]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 33723
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.938976943165125033, 0.009598538062015112)    played    60.00 s,      10853 time(s)
+                                                                                                           played    60.00 s,      10853 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.938980418928317184, 0.009598538062015112)    played    60.00 s,      10853 time(s)
+                                                                                                           played    60.00 s,      10853 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-74.0,  0, 7) - (mean, std): (0.783674302348350449, 0.012175220396312523)    played    52.88 s,       6745 time(s)
+Node 2, (CST, Tx power, MCS) = (-73.0,  0, 7) - (mean, std): (0.687893910790658203, 0.039497625276668218)    played     4.13 s,        640 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.688913111977232040, 0.045267873021259265)    played     2.98 s,        487 time(s)
+                                                                                                           played    59.99 s,       7872 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-74.0,  0, 7) - (mean, std): (0.536577517097075796, 0.017203067924632873)    played    54.95 s,       3378 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.482597798644480880, 0.036084391824351608)    played     5.05 s,        767 time(s)
+                                                                                                           played    60.00 s,       4145 time(s)
+
+Mean throughputs: [61.0379 61.0384 42.7406 21.4019]
+Aggregate throughput: 186.2189
+Min-Max: 39.6365
+JFI: 0.7403 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[  -62]
+ [10853]]
+[[  -62]
+ [10853]]
+[[ -74  -73  -62]
+ [6745  640  487]]
+[[ -74  -62]
+ [3378  767]]
+Mean PCS: [-62.0000 -62.0000 -73.1763 -71.7795]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [61.0458 61.0357 43.9795 20.2312]
+Aggregate throughput: 186.2922
+Min-Max: 40.8145
+JFI: 0.7357 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -62]
+ [3614]]
+[[ -62]
+ [3614]]
+[[ -74  -73  -62]
+ [2516   35   86]]
+[[ -74  -62]
+ [1146  115]]
+Mean PCS: [-62.0000 -62.0000 -73.5954 -72.9056]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 31386
+Node 0, (CST, Tx power, MCS) = (-77.0,  0, 7) - (mean, std): (0.383230074414819155, 0.058520573598065277)    played    25.46 s,        291 time(s)
+Node 0, (CST, Tx power, MCS) = (-76.0,  0, 7) - (mean, std): (0.518535998999019920, 0.022530295452966646)    played    20.83 s,       1969 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.508669283188237231, 0.027950849718747370)    played    13.70 s,       1279 time(s)
+                                                                                                           played    60.00 s,       3539 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.938987256188723141, 0.009598538062015112)    played    60.00 s,      10853 time(s)
+                                                                                                           played    60.00 s,      10853 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-79.0,  0, 7) - (mean, std): (0.381441856638544186, 0.077382323253413682)    played     3.55 s,        166 time(s)
+Node 2, (CST, Tx power, MCS) = (-78.0,  0, 7) - (mean, std): (0.407174664664143204, 0.073127242412713067)    played     3.02 s,        186 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.750598544667315681, 0.011978840099549633)    played    53.43 s,       6968 time(s)
+                                                                                                           played    59.99 s,       7320 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-79.0,  0, 7) - (mean, std): (0.444426508567213274, 0.090535746042518531)    played     3.27 s,        121 time(s)
+Node 3, (CST, Tx power, MCS) = (-78.0,  0, 7) - (mean, std): (0.431006516799263273, 0.094491118252306799)    played     1.63 s,        111 time(s)
+Node 3, (CST, Tx power, MCS) = (-77.0,  0, 7) - (mean, std): (0.553236108570550500, 0.086386842558136015)    played     1.48 s,        133 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.892225321422975948, 0.010363946430143024)    played    53.62 s,       9309 time(s)
+                                                                                                           played    60.00 s,       9674 time(s)
+
+Mean throughputs: [16.7919 61.0375 38.2006 51.9844]
+Aggregate throughput: 168.0144
+Min-Max: 44.2456
+JFI: 0.7158 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -77  -76  -62]
+ [ 291 1969 1279]]
+[[  -62]
+ [10853]]
+[[ -79  -78  -62]
+ [ 166  186 6968]]
+[[ -79  -78  -77  -62]
+ [ 121  111  133 9309]]
+Mean PCS: [-71.0226 -62.0000 -62.7921 -62.6024]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [17.4142 61.0345 40.2004 59.4940]
+Aggregate throughput: 178.1431
+Min-Max: 43.6203
+JFI: 0.7158 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-77 -76 -62]
+ [ 16 732 456]]
+[[ -62]
+ [3614]]
+[[ -62]
+ [2541]]
+[[ -62]
+ [3575]]
+Mean PCS: [-70.7110 -62.0000 -62.0000 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 31231
+Node 0, (CST, Tx power, MCS) = (-80.0,  0, 7) - (mean, std): (0.467309192713364907, 0.134839972492648424)    played     1.15 s,         54 time(s)
+Node 0, (CST, Tx power, MCS) = (-76.0,  0, 7) - (mean, std): (0.870462443136901021, 0.021491713855208944)    played    13.30 s,       2164 time(s)
+Node 0, (CST, Tx power, MCS) = (-75.0,  0, 7) - (mean, std): (0.884439531550294866, 0.017568209223157664)    played    19.06 s,       3239 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.894415131359038607, 0.014498845575379761)    played    26.48 s,       4756 time(s)
+                                                                                                           played    59.99 s,      10213 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-68.0,  0, 7) - (mean, std): (0.320935218852055282, 0.045738935374634825)    played     4.75 s,        477 time(s)
+Node 1, (CST, Tx power, MCS) = (-69.0,  0, 7) - (mean, std): (0.316678493504452208, 0.053838190205816552)    played     6.46 s,        344 time(s)
+Node 1, (CST, Tx power, MCS) = (-76.0,  0, 7) - (mean, std): (0.224496580418003411, 0.080321932890249886)    played    33.46 s,        154 time(s)
+Node 1, (CST, Tx power, MCS) = (-75.0,  0, 7) - (mean, std): (0.190013257754823944, 0.095346258924559224)    played    12.95 s,        109 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.316588131997534439, 0.061313933948496581)    played     2.01 s,        265 time(s)
+                                                                                                           played    59.62 s,       1349 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-80.0,  0, 7) - (mean, std): (0.703152062402912281, 0.042409446483998546)    played     4.77 s,        555 time(s)
+Node 2, (CST, Tx power, MCS) = (-81.0,  0, 7) - (mean, std): (0.578957939841115210, 0.076923076923076927)    played     2.53 s,        168 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.880367380989532711, 0.010463892544913835)    played    52.70 s,       9132 time(s)
+                                                                                                           played    60.00 s,       9855 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-69.0,  0, 7) - (mean, std): (0.865570549995639427, 0.011235955056179775)    played    48.46 s,       7920 time(s)
+Node 3, (CST, Tx power, MCS) = (-82.0,  0, 7) - (mean, std): (0.497501867481178583, 0.110431526074846548)    played     0.97 s,         81 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.828988707913144940, 0.023479095302146476)    played    10.56 s,       1813 time(s)
+                                                                                                           played    60.00 s,       9814 time(s)
+
+Mean throughputs: [55.3413  4.1495 52.7693 51.8201]
+Aggregate throughput: 164.0801
+Min-Max: 51.1918
+JFI: 0.6579 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -80  -76  -75  -62]
+ [  54 2164 3239 4756]]
+[[-76 -75 -69 -68 -62]
+ [154 109 344 477 265]]
+[[ -81  -80  -62]
+ [ 168  555 9132]]
+[[ -82  -69  -62]
+ [  81 7920 1813]]
+Mean PCS: [-69.1845 -68.5552 -63.3376 -67.8141]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [56.9464  4.0784 56.4478 52.0159]
+Aggregate throughput: 169.4884
+Min-Max: 52.8680
+JFI: 0.6563 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -80  -76  -75  -62]
+ [   2  494 1065 1905]]
+[[-76 -75 -69 -68 -62]
+ [ 35  20 104 190 108]]
+[[ -62]
+ [3478]]
+[[ -82  -69  -62]
+ [   4 2921  352]]
+Mean PCS: [-68.0003 -67.7287 -62.0000 -68.2640]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 33486
+Node 0, (CST, Tx power, MCS) = (-78.0,  0, 7) - (mean, std): (0.629250465420339355, 0.015539870121416246)    played    55.64 s,       4140 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.552763216104324884, 0.039163022499397869)    played     4.36 s,        651 time(s)
+                                                                                                           played    60.00 s,       4791 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-78.0,  0, 7) - (mean, std): (0.763076820236608611, 0.012479542518340214)    played    56.38 s,       6420 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.691395632286679107, 0.041812100500354540)    played     3.60 s,        571 time(s)
+                                                                                                           played    59.99 s,       6991 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.938982973326899284, 0.009598980258503129)    played    60.00 s,      10852 time(s)
+                                                                                                           played    60.00 s,      10852 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.938875488475472642, 0.009598980258503129)    played    60.00 s,      10852 time(s)
+                                                                                                           played    60.00 s,      10852 time(s)
+
+Mean throughputs: [25.5567 38.5171 61.0376 61.0306]
+Aggregate throughput: 186.1420
+Min-Max: 35.4809
+JFI: 0.7537 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -78  -62]
+ [4140  651]]
+[[ -78  -62]
+ [6420  571]]
+[[  -62]
+ [10852]]
+[[  -62]
+ [10852]]
+Mean PCS: [-75.8259 -76.6932 -62.0000 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [26.6994 37.6745 61.0310 61.0310]
+Aggregate throughput: 186.4359
+Min-Max: 34.3316
+JFI: 0.7573 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -78  -62]
+ [1535   87]]
+[[ -78  -62]
+ [2136  131]]
+[[ -62]
+ [3613]]
+[[ -62]
+ [3614]]
+Mean PCS: [-77.1418 -77.0754 -62.0000 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 43248
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.938931907395480492, 0.009598538062015112)    played    60.00 s,      10853 time(s)
+                                                                                                           played    60.00 s,      10853 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.938916836453224879, 0.009598095926633500)    played    60.00 s,      10854 time(s)
+                                                                                                           played    60.00 s,      10854 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82.0,  0, 7) - (mean, std): (0.541634126604730537, 0.125988157669742418)    played     0.71 s,         62 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.936910315750038802, 0.009660145050098943)    played    59.29 s,      10715 time(s)
+                                                                                                           played    60.00 s,      10777 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82.0,  0, 7) - (mean, std): (0.599942221499909278, 0.110431526074846548)    played     0.88 s,         81 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.937671984694607663, 0.009674600943034482)    played    59.12 s,      10683 time(s)
+                                                                                                           played    60.00 s,      10764 time(s)
+
+Mean throughputs: [61.0356 61.0348 60.5089 60.5051]
+Aggregate throughput: 243.0844
+Min-Max: 0.5305
+JFI: 0.9957 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[  -62]
+ [10853]]
+[[  -62]
+ [10854]]
+[[  -82   -62]
+ [   62 10715]]
+[[  -82   -62]
+ [   81 10683]]
+Mean PCS: [-62.0000 -62.0000 -62.1151 -62.1505]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [61.0322 61.0422 60.7736 60.6624]
+Aggregate throughput: 243.5104
+Min-Max: 0.3797
+JFI: 0.9973 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -62]
+ [3614]]
+[[ -62]
+ [3615]]
+[[ -82  -62]
+ [   5 3603]]
+[[ -82  -62]
+ [   7 3596]]
+Mean PCS: [-62.0000 -62.0000 -62.0277 -62.0389]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 33174
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.938969322707479792, 0.009598538062015112)    played    60.00 s,      10853 time(s)
+                                                                                                           played    60.00 s,      10853 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-63.0,  0, 7) - (mean, std): (0.527182052475194673, 0.021007290795078383)    played    23.71 s,       2265 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.529311849310884153, 0.017054817003221697)    played    36.28 s,       3437 time(s)
+                                                                                                           played    59.99 s,       5702 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.939097829961922703, 0.009597653852344219)    played    60.00 s,      10855 time(s)
+                                                                                                           played    60.00 s,      10855 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.532292388443036280, 0.013170441819759387)    played    60.00 s,       5764 time(s)
+                                                                                                           played    60.00 s,       5764 time(s)
+
+Mean throughputs: [61.0369 28.5115 61.0465 28.8584]
+Aggregate throughput: 179.4533
+Min-Max: 32.5349
+JFI: 0.7350 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[  -62]
+ [10853]]
+[[ -63  -62]
+ [2265 3437]]
+[[  -62]
+ [10855]]
+[[ -62]
+ [5764]]
+Mean PCS: [-62.0000 -62.3972 -62.0000 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [61.0358 28.1957 61.0563 28.9469]
+Aggregate throughput: 179.2348
+Min-Max: 32.8606
+JFI: 0.7340 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -62]
+ [3614]]
+[[ -63  -62]
+ [ 892 1002]]
+[[ -62]
+ [3615]]
+[[ -62]
+ [1938]]
+Mean PCS: [-62.0000 -62.4710 -62.0000 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 23688
+Node 0, (CST, Tx power, MCS) = (-79.0,  0, 7) - (mean, std): (0.586859205184413035, 0.039715073539476883)    played     9.16 s,        633 time(s)
+Node 0, (CST, Tx power, MCS) = (-78.0,  0, 7) - (mean, std): (0.665138142095119789, 0.014362124740535652)    played    47.62 s,       4847 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.573432782995632495, 0.044543540318737397)    played     3.20 s,        503 time(s)
+                                                                                                           played    59.98 s,       5983 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-80.0,  0, 7) - (mean, std): (0.717870931566185200, 0.014265349750363764)    played    53.23 s,       4913 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.667083414088847637, 0.030671383606587218)    played     6.77 s,       1062 time(s)
+                                                                                                           played    60.00 s,       5975 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-79.0,  0, 7) - (mean, std): (0.628324355965266479, 0.027267094157460592)    played    16.71 s,       1344 time(s)
+Node 2, (CST, Tx power, MCS) = (-78.0,  0, 7) - (mean, std): (0.659080594937446418, 0.015543624166674879)    played    41.10 s,       4138 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.566904044344209934, 0.053682812709501891)    played     2.19 s,        346 time(s)
+                                                                                                           played    60.00 s,       5828 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-80.0,  0, 7) - (mean, std): (0.717312034831726120, 0.014851121190588817)    played    49.46 s,       4533 time(s)
+Node 3, (CST, Tx power, MCS) = (-79.0,  0, 7) - (mean, std): (0.651659042406500855, 0.036588086663230115)    played     6.30 s,        746 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.641858275049656313, 0.040032038451271783)    played     4.23 s,        623 time(s)
+                                                                                                           played    60.00 s,       5902 time(s)
+
+Mean throughputs: [32.6162 31.9855 32.0092 31.2250]
+Aggregate throughput: 127.8359
+Min-Max: 1.3912
+JFI: 0.9848 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -79  -78  -62]
+ [ 633 4847  503]]
+[[ -80  -62]
+ [4913 1062]]
+[[ -79  -78  -62]
+ [1344 4138  346]]
+[[ -80  -79  -62]
+ [4533  746  623]]
+Mean PCS: [-76.7607 -76.8007 -77.2807 -77.9736]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [33.5442 31.1692 31.1302 32.6433]
+Aggregate throughput: 128.4869
+Min-Max: 2.4140
+JFI: 0.9691 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -79  -78  -62]
+ [  67 1895   36]]
+[[ -80  -62]
+ [1720  198]]
+[[ -79  -78  -62]
+ [ 346 1442   88]]
+[[ -80  -79  -62]
+ [1828   92   53]]
+Mean PCS: [-77.7452 -78.1418 -77.4339 -79.4698]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 26599
+Node 0, (CST, Tx power, MCS) = (-77.0,  0, 7) - (mean, std): (0.710733038743926571, 0.026153289048297074)    played    16.85 s,       1461 time(s)
+Node 0, (CST, Tx power, MCS) = (-76.0,  0, 7) - (mean, std): (0.733575997314715345, 0.019873215837929108)    played    22.35 s,       2531 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.796714458400846426, 0.016968662364707825)    played    20.80 s,       3472 time(s)
+                                                                                                           played    60.00 s,       7464 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82.0,  0, 7) - (mean, std): (0.389942236456507385, 0.101534616513361903)    played     2.75 s,         96 time(s)
+Node 1, (CST, Tx power, MCS) = (-79.0,  0, 7) - (mean, std): (0.423156141011255982, 0.094915799575249898)    played     3.37 s,        110 time(s)
+Node 1, (CST, Tx power, MCS) = (-78.0,  0, 7) - (mean, std): (0.402894490776248448, 0.102597835208515412)    played     3.22 s,         94 time(s)
+Node 1, (CST, Tx power, MCS) = (-77.0,  0, 7) - (mean, std): (0.575872992057890998, 0.053300179088902611)    played     4.59 s,        351 time(s)
+Node 1, (CST, Tx power, MCS) = (-76.0,  0, 7) - (mean, std): (0.604512058452011947, 0.042678959977631992)    played     5.83 s,        548 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.760630563262650994, 0.012228813970784217)    played    40.25 s,       6686 time(s)
+                                                                                                           played    60.00 s,       7885 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-63.0,  0, 7) - (mean, std): (0.547756047671715263, 0.016114366641495927)    played    38.64 s,       3850 time(s)
+Node 2, (CST, Tx power, MCS) = (-78.0,  0, 7) - (mean, std): (0.391454964522624738, 0.054635836470815304)    played     8.26 s,        334 time(s)
+Node 2, (CST, Tx power, MCS) = (-77.0,  0, 7) - (mean, std): (0.454974202992937948, 0.034380708208626445)    played    12.16 s,        845 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.317799479887141134, 0.087038827977848926)    played     0.88 s,        131 time(s)
+                                                                                                           played    59.93 s,       5160 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-63.0,  0, 7) - (mean, std): (0.591096306759885115, 0.013679391379114570)    played    50.19 s,       5343 time(s)
+Node 3, (CST, Tx power, MCS) = (-82.0,  0, 7) - (mean, std): (0.500228182740498961, 0.040723148118768406)    played     8.45 s,        602 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.381028253989804444, 0.082760588860236795)    played     1.36 s,        145 time(s)
+                                                                                                           played    60.00 s,       6090 time(s)
+
+Mean throughputs: [39.4052 37.9264 24.6001 29.3319]
+Aggregate throughput: 131.2637
+Min-Max: 14.8051
+JFI: 0.8431 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -77  -76  -62]
+ [1461 2531 3472]]
+[[ -82  -79  -78  -77  -76  -62]
+ [  96  110   94  351  548 6686]]
+[[ -78  -77  -63  -62]
+ [ 334  845 3850  131]]
+[[ -82  -63  -62]
+ [ 602 5343  145]]
+Mean PCS: [-69.6834 -64.3121 -66.2382 -64.8544]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [43.3795 50.1012 25.8386 28.2991]
+Aggregate throughput: 147.6183
+Min-Max: 24.2626
+JFI: 0.7842 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -77  -76  -62]
+ [ 130  430 2238]]
+[[ -82  -79  -78  -77  -76  -62]
+ [   1    5    3   13   19 3300]]
+[[ -78  -77  -63  -62]
+ [  22   64 1670   22]]
+[[ -82  -63  -62]
+ [  49 1882   19]]
+Mean PCS: [-64.8485 -62.1838 -63.6772 -63.4677]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 33314
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.938975780440832741, 0.009598538062015112)    played    60.00 s,      10853 time(s)
+                                                                                                           played    60.00 s,      10853 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-64.0,  0, 7) - (mean, std): (0.524619556609524862, 0.018797789509922808)    played    30.06 s,       2829 time(s)
+Node 1, (CST, Tx power, MCS) = (-66.0,  0, 7) - (mean, std): (0.527199195682576449, 0.019027781815309067)    played    28.90 s,       2761 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.300082960763382034, 0.083918135829668908)    played     1.03 s,        141 time(s)
+                                                                                                           played    60.00 s,       5731 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-64.0,  0, 7) - (mean, std): (0.531758559952119403, 0.022332781224177665)    played    21.31 s,       2004 time(s)
+Node 2, (CST, Tx power, MCS) = (-66.0,  0, 7) - (mean, std): (0.540876575245330615, 0.016437677572823703)    played    37.58 s,       3700 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.342266628943884710, 0.076028592126970551)    played     1.11 s,        172 time(s)
+                                                                                                           played    59.99 s,       5876 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.938955581917532700, 0.009598095926633500)    played    60.00 s,      10854 time(s)
+                                                                                                           played    60.00 s,      10854 time(s)
+
+Mean throughputs: [61.0383 27.5993 28.4225 61.0373]
+Aggregate throughput: 178.0975
+Min-Max: 33.4390
+JFI: 0.7294 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[  -62]
+ [10853]]
+[[ -66  -64  -62]
+ [2761 2829  141]]
+[[ -66  -64  -62]
+ [3700 2004  172]]
+[[  -62]
+ [10854]]
+Mean PCS: [-62.0000 -64.9143 -65.2008 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [61.0336 28.2727 28.8208 61.0375]
+Aggregate throughput: 179.1646
+Min-Max: 32.7648
+JFI: 0.7338 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -62]
+ [3613]]
+[[-66 -64 -62]
+ [962 933   6]]
+[[ -66  -64  -62]
+ [1289  630    9]]
+[[ -62]
+ [3614]]
+Mean PCS: [-62.0000 -65.0058 -65.3278 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 31945
+Node 0, (CST, Tx power, MCS) = (-78.0,  0, 7) - (mean, std): (0.681569496280013731, 0.058722021951470346)    played     2.20 s,        289 time(s)
+Node 0, (CST, Tx power, MCS) = (-77.0,  0, 7) - (mean, std): (0.675043940499216899, 0.055048188256318027)    played     2.60 s,        329 time(s)
+Node 0, (CST, Tx power, MCS) = (-82.0,  0, 7) - (mean, std): (0.470393625742391686, 0.112508790092602395)    played     1.29 s,         78 time(s)
+Node 0, (CST, Tx power, MCS) = (-81.0,  0, 7) - (mean, std): (0.590828042998218783, 0.085125653075874858)    played     1.49 s,        137 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.886743689560819282, 0.010504804420483137)    played    52.42 s,       9061 time(s)
+                                                                                                           played    59.99 s,       9894 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-72.0,  0, 7) - (mean, std): (0.691979844581373293, 0.018083448741266828)    played    26.17 s,       3057 time(s)
+Node 1, (CST, Tx power, MCS) = (-82.0,  0, 7) - (mean, std): (0.348578412387265502, 0.116247638743819284)    played     2.65 s,         73 time(s)
+Node 1, (CST, Tx power, MCS) = (-73.0,  0, 7) - (mean, std): (0.682245625129489053, 0.018692405136401476)    played    28.17 s,       2861 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.609610871799187493, 0.046473941234017310)    played     3.01 s,        462 time(s)
+                                                                                                           played    60.00 s,       6453 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.939021410365355802, 0.009598538062015112)    played    60.00 s,      10853 time(s)
+                                                                                                           played    60.00 s,      10853 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-72.0,  0, 7) - (mean, std): (0.641375093404883523, 0.018814417367671945)    played    32.24 s,       2824 time(s)
+Node 3, (CST, Tx power, MCS) = (-71.0,  0, 7) - (mean, std): (0.414723795814527119, 0.077151674981045956)    played     1.66 s,        167 time(s)
+Node 3, (CST, Tx power, MCS) = (-77.0,  0, 7) - (mean, std): (0.331886623480993515, 0.092450032704204863)    played     8.98 s,        116 time(s)
+Node 3, (CST, Tx power, MCS) = (-76.0,  0, 7) - (mean, std): (0.596753995837109752, 0.027451402562301407)    played    15.09 s,       1326 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.508121508885913453, 0.056523341894422145)    played     2.03 s,        312 time(s)
+                                                                                                           played    59.99 s,       4745 time(s)
+
+Mean throughputs: [52.6705 32.1005 61.0401 23.6986]
+Aggregate throughput: 169.5096
+Min-Max: 37.3415
+JFI: 0.7376 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -81  -78  -77  -62]
+ [  78  137  289  329 9061]]
+[[ -82  -73  -72  -62]
+ [  73 2861 3057  462]]
+[[  -62]
+ [10853]]
+[[ -77  -76  -72  -71  -62]
+ [ 116 1326 2824  167  312]]
+Mean PCS: [-63.3869 -71.8405 -62.0000 -72.5473]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [57.0804 29.7838 61.0356 28.4415]
+Aggregate throughput: 176.3412
+Min-Max: 32.5942
+JFI: 0.7456 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -78  -77  -62]
+ [   1    1 3487]]
+[[ -82  -73  -72  -62]
+ [   2  795 1123   78]]
+[[ -62]
+ [3614]]
+[[ -77  -76  -72  -71  -62]
+ [   1  206 1564    4   23]]
+Mean PCS: [-62.0089 -72.0175 -62.0000 -72.3309]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 23831
+Node 0, (CST, Tx power, MCS) = (-77.0,  0, 7) - (mean, std): (0.586936895062854180, 0.016060242533977920)    played    55.62 s,       3876 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.497431631879841130, 0.039497625276668218)    played     4.37 s,        640 time(s)
+                                                                                                           played    60.00 s,       4516 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82.0,  0, 7) - (mean, std): (0.701441469504624826, 0.015592675657499598)    played    46.61 s,       4112 time(s)
+Node 1, (CST, Tx power, MCS) = (-81.0,  0, 7) - (mean, std): (0.642530365920300883, 0.036514837167011073)    played     6.54 s,        749 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.640849686607531721, 0.030978910540439487)    played     6.84 s,       1041 time(s)
+                                                                                                           played    59.99 s,       5902 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-78.0,  0, 7) - (mean, std): (0.763621408540097746, 0.018236155465055130)    played    26.43 s,       3006 time(s)
+Node 2, (CST, Tx power, MCS) = (-77.0,  0, 7) - (mean, std): (0.770442116463244009, 0.016321229282941278)    played    30.19 s,       3753 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.707139879517445724, 0.041030496993110913)    played     3.38 s,        593 time(s)
+                                                                                                           played    59.99 s,       7352 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82.0,  0, 7) - (mean, std): (0.729911967598548483, 0.014232081969285940)    played    51.43 s,       4936 time(s)
+Node 3, (CST, Tx power, MCS) = (-81.0,  0, 7) - (mean, std): (0.665711107859976670, 0.040927275453502901)    played     5.26 s,        596 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.658195670271029654, 0.043437224276306939)    played     3.31 s,        529 time(s)
+                                                                                                           played    60.00 s,       6061 time(s)
+
+Mean throughputs: [23.8531 30.5468 40.5409 32.4958]
+Aggregate throughput: 127.4366
+Min-Max: 16.6877
+JFI: 0.8426 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -77  -62]
+ [3876  640]]
+[[ -82  -81  -62]
+ [4112  749 1041]]
+[[ -78  -77  -62]
+ [3006 3753  593]]
+[[ -82  -81  -62]
+ [4936  596  529]]
+Mean PCS: [-74.8742 -78.3455 -76.1990 -80.1561]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [24.3022 30.9481 40.3961 32.8200]
+Aggregate throughput: 128.4665
+Min-Max: 16.0939
+JFI: 0.8485 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -77  -62]
+ [1420   35]]
+[[ -82  -81  -62]
+ [1617  178  140]]
+[[ -78  -77  -62]
+ [ 903 1406  109]]
+[[ -82  -81  -62]
+ [1777  109  116]]
+Mean PCS: [-76.6392 -80.4610 -76.6973 -80.7867]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 34001
+Node 0, (CST, Tx power, MCS) = (-78.0,  0, 7) - (mean, std): (0.597644552119301009, 0.043355498476205998)    played     4.35 s,        531 time(s)
+Node 0, (CST, Tx power, MCS) = (-81.0,  0, 7) - (mean, std): (0.559682141242256570, 0.053376051268362382)    played     6.80 s,        350 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.895653695252411786, 0.010831877897521379)    played    48.84 s,       8522 time(s)
+                                                                                                           played    60.00 s,       9403 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-80.0,  0, 7) - (mean, std): (0.658805743852630132, 0.061898446059017287)    played     2.07 s,        260 time(s)
+Node 1, (CST, Tx power, MCS) = (-82.0,  0, 7) - (mean, std): (0.626349504494060905, 0.056613851707229788)    played     4.62 s,        311 time(s)
+Node 1, (CST, Tx power, MCS) = (-81.0,  0, 7) - (mean, std): (0.693400924712505362, 0.034836650714580884)    played     8.34 s,        823 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.915055253104004929, 0.011181737692078706)    played    44.96 s,       7997 time(s)
+                                                                                                           played    60.00 s,       9391 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-77.0,  0, 7) - (mean, std): (0.738357167553251648, 0.016874182676570676)    played    37.98 s,       3511 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.839712789579776353, 0.016262850187403553)    played    22.02 s,       3780 time(s)
+                                                                                                           played    60.00 s,       7291 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-78.0,  0, 7) - (mean, std): (0.414307007555026752, 0.105999788000636003)    played     4.01 s,         88 time(s)
+Node 3, (CST, Tx power, MCS) = (-77.0,  0, 7) - (mean, std): (0.471603077302146567, 0.079808688446762213)    played     3.09 s,        156 time(s)
+Node 3, (CST, Tx power, MCS) = (-76.0,  0, 7) - (mean, std): (0.580726104722999903, 0.048564293117863207)    played     3.81 s,        423 time(s)
+Node 3, (CST, Tx power, MCS) = (-82.0,  0, 7) - (mean, std): (0.184698024492313623, 0.164398987305357291)    played     8.60 s,         36 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.895303802672949733, 0.011773671953194386)    played    40.49 s,       7213 time(s)
+                                                                                                           played    60.00 s,       7916 time(s)
+
+Mean throughputs: [50.4128 51.2923 39.0759 42.1936]
+Aggregate throughput: 182.9746
+Min-Max: 12.2164
+JFI: 0.8973 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -81  -78  -62]
+ [ 350  531 8522]]
+[[ -82  -81  -80  -62]
+ [ 311  823  260 7997]]
+[[ -77  -62]
+ [3511 3780]]
+[[ -82  -78  -77  -76  -62]
+ [  36   88  156  423 7213]]
+Mean PCS: [-63.6108 -64.8258 -69.2233 -63.3125]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [60.5951 60.6945 43.6185 59.7666]
+Aggregate throughput: 224.6748
+Min-Max: 17.0760
+JFI: 0.8856 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -62]
+ [3612]]
+[[ -62]
+ [3614]]
+[[ -77  -62]
+ [ 257 2468]]
+[[ -62]
+ [3608]]
+Mean PCS: [-62.0000 -62.0000 -63.4147 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 33577
+Node 0, (CST, Tx power, MCS) = (-77.0,  0, 7) - (mean, std): (0.724112391963984248, 0.013904991953878735)    played    54.63 s,       5171 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.651262905212380394, 0.034421419541075714)    played     5.36 s,        843 time(s)
+                                                                                                           played    60.00 s,       6014 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.939142084255598197, 0.009597653852344219)    played    60.00 s,      10855 time(s)
+                                                                                                           played    60.00 s,      10855 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.937544531058909669, 0.009598538062015112)    played    60.00 s,      10853 time(s)
+                                                                                                           played    60.00 s,      10853 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-77.0,  0, 7) - (mean, std): (0.718250678927125241, 0.014704292441876154)    played    50.52 s,       4624 time(s)
+Node 3, (CST, Tx power, MCS) = (-76.0,  0, 7) - (mean, std): (0.648383621960319623, 0.039073233258228174)    played     5.83 s,        654 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.654763572431093510, 0.041594516540385151)    played     3.63 s,        577 time(s)
+                                                                                                           played    59.98 s,       5855 time(s)
+
+Mean throughputs: [32.4590 61.0477 60.9441 31.1086]
+Aggregate throughput: 185.5594
+Min-Max: 29.9391
+JFI: 0.7604 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -77  -62]
+ [5171  843]]
+[[  -62]
+ [10855]]
+[[  -62]
+ [10853]]
+[[ -77  -76  -62]
+ [4624  654  577]]
+Mean PCS: [-74.8974 -62.0000 -62.0000 -75.4101]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [33.0787 61.0538 60.9773 31.1388]
+Aggregate throughput: 186.2486
+Min-Max: 29.9150
+JFI: 0.7629 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -77  -62]
+ [1913   76]]
+[[ -62]
+ [3615]]
+[[ -62]
+ [3614]]
+[[ -77  -76  -62]
+ [1613  120  204]]
+Mean PCS: [-76.4268 -62.0000 -62.0000 -75.3583]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 23334
+Node 0, (CST, Tx power, MCS) = (-68.0,  0, 7) - (mean, std): (0.534152527420270973, 0.013364255385983523)    played    58.42 s,       5598 time(s)
+Node 0, (CST, Tx power, MCS) = (-66.0,  0, 7) - (mean, std): (0.286580062565487625, 0.092847669088525930)    played     0.94 s,        115 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.283406968770097356, 0.094491118252306799)    played     0.64 s,        111 time(s)
+                                                                                                           played    60.00 s,       5824 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-78.0,  0, 7) - (mean, std): (0.530928033675972633, 0.016703827619526525)    played    58.34 s,       3583 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.421116844692295211, 0.064684622735315084)    played     1.63 s,        238 time(s)
+                                                                                                           played    59.98 s,       3821 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-69.0,  0, 7) - (mean, std): (0.526713013120513218, 0.018537599944001618)    played    30.53 s,       2909 time(s)
+Node 2, (CST, Tx power, MCS) = (-68.0,  0, 7) - (mean, std): (0.529505137042394547, 0.019020896422713335)    played    28.75 s,       2763 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.306431908209296333, 0.090166963466743230)    played     0.70 s,        122 time(s)
+                                                                                                           played    59.98 s,       5794 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-78.0,  0, 7) - (mean, std): (0.793113652366450261, 0.011605958636065741)    played    57.06 s,       7423 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.684828141730177697, 0.045980048987170286)    played     2.93 s,        472 time(s)
+                                                                                                           played    60.00 s,       7895 time(s)
+
+Mean throughputs: [28.1482 20.7941 27.9294 43.7606]
+Aggregate throughput: 120.6324
+Min-Max: 22.9665
+JFI: 0.7823 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -68  -66  -62]
+ [5598  115  111]]
+[[ -78  -62]
+ [3583  238]]
+[[ -69  -68  -62]
+ [2909 2763  122]]
+[[ -78  -62]
+ [7423  472]]
+Mean PCS: [-67.8462 -77.0034 -68.3757 -77.0434]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [28.5123 19.7443 28.2612 44.6830]
+Aggregate throughput: 121.2008
+Min-Max: 24.9388
+JFI: 0.7705 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -68  -66  -62]
+ [1917    6    9]]
+[[ -78  -62]
+ [1141   57]]
+[[-69 -68 -62]
+ [973 935   9]]
+[[ -78  -62]
+ [2618   37]]
+Mean PCS: [-67.9658 -77.2387 -68.4794 -77.7770]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 31217
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.938873821703360645, 0.009598538062015112)    played    60.00 s,      10853 time(s)
+                                                                                                           played    60.00 s,      10853 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-68.0,  0, 7) - (mean, std): (0.877150428689952855, 0.012495120046661576)    played    36.79 s,       6404 time(s)
+Node 1, (CST, Tx power, MCS) = (-69.0,  0, 7) - (mean, std): (0.790627965834640456, 0.018324732907511420)    played    20.39 s,       2977 time(s)
+Node 1, (CST, Tx power, MCS) = (-76.0,  0, 7) - (mean, std): (0.246447915826308511, 0.136082763487954339)    played     1.19 s,         53 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.526622129475687428, 0.070186240634359645)    played     1.63 s,        202 time(s)
+                                                                                                           played    60.00 s,       9636 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-69.0,  0, 7) - (mean, std): (0.183635729474741966, 0.054964970992931274)    played    46.65 s,        330 time(s)
+Node 2, (CST, Tx power, MCS) = (-68.0,  0, 7) - (mean, std): (0.167660607173793580, 0.063887656499993992)    played     4.42 s,        244 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.199672806078194348, 0.045175395145262566)    played     8.79 s,        489 time(s)
+                                                                                                           played    59.87 s,       1063 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-63.0,  0, 7) - (mean, std): (0.782373100479424544, 0.038208035995043507)    played     4.52 s,        684 time(s)
+Node 3, (CST, Tx power, MCS) = (-76.0,  0, 7) - (mean, std): (0.492497008163719108, 0.093658581158169399)    played     1.58 s,        113 time(s)
+Node 3, (CST, Tx power, MCS) = (-75.0,  0, 7) - (mean, std): (0.807202732597034234, 0.026334032657486166)    played     9.79 s,       1441 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.882941574828303710, 0.011602833293707725)    played    44.11 s,       7427 time(s)
+                                                                                                           played    60.00 s,       9665 time(s)
+
+Mean throughputs: [61.0302 49.8230  2.5353 51.9142]
+Aggregate throughput: 165.3027
+Min-Max: 58.4949
+JFI: 0.6446 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[  -62]
+ [10853]]
+[[ -76  -69  -68  -62]
+ [  53 2977 6404  202]]
+[[-69 -68 -62]
+ [330 244 489]]
+[[ -76  -75  -63  -62]
+ [ 113 1441  684 7427]]
+Mean PCS: [-62.0000 -68.2272 -65.5503 -64.1727]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [61.0290 54.9704  0.0606 55.6303]
+Aggregate throughput: 171.6903
+Min-Max: 60.9684
+JFI: 0.6333 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -62]
+ [3614]]
+[[ -68]
+ [3481]]
+[[-69 -68 -62]
+ [ 54  45  95]]
+[[ -75  -63  -62]
+ [  20   27 3357]]
+Mean PCS: [-62.0000 -68.0000 -65.3402 -62.0843]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 31934
+Node 0, (CST, Tx power, MCS) = (-76.0,  0, 7) - (mean, std): (0.263768937639179191, 0.076249285166302333)    played    23.18 s,        171 time(s)
+Node 0, (CST, Tx power, MCS) = (-75.0,  0, 7) - (mean, std): (0.223291840184032614, 0.085749292571254424)    played    20.07 s,        135 time(s)
+Node 0, (CST, Tx power, MCS) = (-66.0,  0, 7) - (mean, std): (0.328522128510600975, 0.062745580513815860)    played     1.75 s,        253 time(s)
+Node 0, (CST, Tx power, MCS) = (-67.0,  0, 7) - (mean, std): (0.420921551943638839, 0.034040395878489879)    played    13.19 s,        862 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.324909982193887004, 0.072547625011001163)    played     1.48 s,        189 time(s)
+                                                                                                           played    59.68 s,       1610 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-80.0,  0, 7) - (mean, std): (0.531713204837182984, 0.104828483672191830)    played     1.07 s,         90 time(s)
+Node 1, (CST, Tx power, MCS) = (-75.0,  0, 7) - (mean, std): (0.765030641981534143, 0.047891314261057569)    played     3.01 s,        435 time(s)
+Node 1, (CST, Tx power, MCS) = (-74.0,  0, 7) - (mean, std): (0.837546737507055217, 0.036961063547728643)    played     4.44 s,        731 time(s)
+Node 1, (CST, Tx power, MCS) = (-81.0,  0, 7) - (mean, std): (0.580505680429032278, 0.085125653075874858)    played     1.71 s,        137 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.907018284245932560, 0.010665491157310273)    played    49.77 s,       8790 time(s)
+                                                                                                           played    60.00 s,      10183 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.938980956783296183, 0.009598095926633500)    played    60.00 s,      10854 time(s)
+                                                                                                           played    60.00 s,      10854 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-69.0,  0, 7) - (mean, std): (0.576445313466717790, 0.060302268915552723)    played     2.47 s,        274 time(s)
+Node 3, (CST, Tx power, MCS) = (-67.0,  0, 7) - (mean, std): (0.858050581082662189, 0.010683736294369339)    played    54.47 s,       8760 time(s)
+Node 3, (CST, Tx power, MCS) = (-81.0,  0, 7) - (mean, std): (0.271576341147260647, 0.144337567297406433)    played     1.64 s,         47 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.558983065965744430, 0.069504804685691590)    played     1.41 s,        206 time(s)
+                                                                                                           played    59.99 s,       9287 time(s)
+
+Mean throughputs: [ 5.9213 55.2160 61.0373 48.6786]
+Aggregate throughput: 170.8532
+Min-Max: 55.1161
+JFI: 0.6632 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-76 -75 -67 -66 -62]
+ [171 135 862 253 189]]
+[[ -81  -80  -75  -74  -62]
+ [ 137   90  435  731 8790]]
+[[  -62]
+ [10854]]
+[[ -81  -69  -67  -62]
+ [  47  274 8760  206]]
+Mean PCS: [-67.8826 -63.8315 -62.0000 -67.0190]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [ 6.7090 59.6948 61.0483 50.7498]
+Aggregate throughput: 178.2019
+Min-Max: 54.3393
+JFI: 0.6674 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-76 -75 -67 -66 -62]
+ [ 13  15 417  52  71]]
+[[ -80  -75  -74  -62]
+ [   1    9  149 3418]]
+[[ -62]
+ [3615]]
+[[ -67]
+ [3164]]
+Mean PCS: [-66.7007 -62.5376 -62.0000 -67.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 33208
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.532777142162838224, 0.013160173357473413)    played    60.00 s,       5773 time(s)
+                                                                                                           played    60.00 s,       5773 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.527720037227702221, 0.013210604445218543)    played    59.99 s,       5729 time(s)
+                                                                                                           played    59.99 s,       5729 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.938886680904594484, 0.009598980258503129)    played    60.00 s,      10852 time(s)
+                                                                                                           played    60.00 s,      10852 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.939071943072501636, 0.009598095926633500)    played    60.00 s,      10854 time(s)
+                                                                                                           played    60.00 s,      10854 time(s)
+
+Mean throughputs: [28.6955 28.4476 61.0324 61.0433]
+Aggregate throughput: 179.2188
+Min-Max: 32.5957
+JFI: 0.7340 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -62]
+ [5773]]
+[[ -62]
+ [5729]]
+[[  -62]
+ [10852]]
+[[  -62]
+ [10854]]
+Mean PCS: [-62.0000 -62.0000 -62.0000 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [28.5982 28.6356 61.0479 61.0541]
+Aggregate throughput: 179.3357
+Min-Max: 32.4559
+JFI: 0.7344 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -62]
+ [1913]]
+[[ -62]
+ [1915]]
+[[ -62]
+ [3614]]
+[[ -62]
+ [3615]]
+Mean PCS: [-62.0000 -62.0000 -62.0000 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 33585
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.939075969390000376, 0.009598538062015112)    played    60.00 s,      10853 time(s)
+                                                                                                           played    60.00 s,      10853 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-75.0,  0, 7) - (mean, std): (0.672456469929850975, 0.013165875092222739)    played    55.39 s,       5768 time(s)
+Node 1, (CST, Tx power, MCS) = (-74.0,  0, 7) - (mean, std): (0.544866891773164386, 0.053682812709501891)    played     2.25 s,        346 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.565786994679809974, 0.054554472558998091)    played     2.35 s,        335 time(s)
+                                                                                                           played    60.00 s,       6449 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-76.0,  0, 7) - (mean, std): (0.573161993087990873, 0.032427221756276076)    played    14.50 s,        950 time(s)
+Node 2, (CST, Tx power, MCS) = (-75.0,  0, 7) - (mean, std): (0.625128002467273181, 0.015439527928210990)    played    43.85 s,       4194 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.504384711704856326, 0.059028133610095526)    played     1.64 s,        286 time(s)
+                                                                                                           played    60.00 s,       5430 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.938998528724464432, 0.009598538062015112)    played    60.00 s,      10853 time(s)
+                                                                                                           played    60.00 s,      10853 time(s)
+
+Mean throughputs: [61.0436 34.8229 29.7997 61.0386]
+Aggregate throughput: 186.7048
+Min-Max: 31.2438
+JFI: 0.7633 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[  -62]
+ [10853]]
+[[ -75  -74  -62]
+ [5768  346  335]]
+[[ -76  -75  -62]
+ [ 950 4194  286]]
+[[  -62]
+ [10853]]
+Mean PCS: [-62.0000 -74.2710 -74.4902 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [61.0394 34.8645 29.9938 61.0367]
+Aggregate throughput: 186.9345
+Min-Max: 31.0456
+JFI: 0.7644 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -62]
+ [3614]]
+[[ -75  -74  -62]
+ [2017   30   53]]
+[[ -76  -75  -62]
+ [ 161 1596   36]]
+[[ -62]
+ [3614]]
+Mean PCS: [-62.0000 -74.6576 -74.8288 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 35667
+Node 0, (CST, Tx power, MCS) = (-75.0,  0, 7) - (mean, std): (0.509229511287900505, 0.047036043419179864)    played     9.71 s,        451 time(s)
+Node 0, (CST, Tx power, MCS) = (-74.0,  0, 7) - (mean, std): (0.493364768827020239, 0.054473471070284329)    played     3.14 s,        336 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.846794959241063960, 0.011150413311667513)    played    47.15 s,       8042 time(s)
+                                                                                                           played    60.00 s,       8829 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-79.0,  0, 7) - (mean, std): (0.127359107953046863, 0.213200716355610442)    played     5.65 s,         21 time(s)
+Node 1, (CST, Tx power, MCS) = (-78.0,  0, 7) - (mean, std): (0.141323647476488512, 0.208514414057074771)    played     5.76 s,         22 time(s)
+Node 1, (CST, Tx power, MCS) = (-75.0,  0, 7) - (mean, std): (0.521421851421482785, 0.091669849702821132)    played     1.49 s,        118 time(s)
+Node 1, (CST, Tx power, MCS) = (-74.0,  0, 7) - (mean, std): (0.631270070308393771, 0.062745580513815860)    played     2.22 s,        253 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.900429149179037269, 0.011189434999827962)    played    44.88 s,       7986 time(s)
+                                                                                                           played    60.00 s,       8400 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-78.0,  0, 7) - (mean, std): (0.799660538189202352, 0.030289126640769135)    played     9.15 s,       1089 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.892087075962826326, 0.010582158705422128)    played    50.85 s,       8929 time(s)
+                                                                                                           played    60.00 s,      10018 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-79.0,  0, 7) - (mean, std): (0.619630557986361352, 0.056980288229818973)    played     7.00 s,        307 time(s)
+Node 3, (CST, Tx power, MCS) = (-78.0,  0, 7) - (mean, std): (0.623106825967788880, 0.055470019622522911)    played     7.00 s,        324 time(s)
+Node 3, (CST, Tx power, MCS) = (-75.0,  0, 7) - (mean, std): (0.679072147821080607, 0.044856130401625664)    played     4.33 s,        496 time(s)
+Node 3, (CST, Tx power, MCS) = (-74.0,  0, 7) - (mean, std): (0.688687579456922272, 0.048280454958526758)    played     3.15 s,        428 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.906048672555785806, 0.012068355657364752)    played    38.52 s,       6865 time(s)
+                                                                                                           played    60.00 s,       8420 time(s)
+
+Mean throughputs: [45.9718 45.4737 54.2827 45.3634]
+Aggregate throughput: 191.0916
+Min-Max: 8.9194
+JFI: 0.9269 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -75  -74  -62]
+ [ 451  336 8042]]
+[[ -79  -78  -75  -74  -62]
+ [  21   22  118  253 7986]]
+[[ -78  -62]
+ [1089 8929]]
+[[ -79  -78  -75  -74  -62]
+ [ 307  324  496  428 6865]]
+Mean PCS: [-63.1207 -62.6285 -63.7393 -64.6113]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [56.1174 59.5674 57.1757 60.3393]
+Aggregate throughput: 233.1998
+Min-Max: 4.2219
+JFI: 0.9714 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -62]
+ [3494]]
+[[ -62]
+ [3585]]
+[[ -78  -62]
+ [  10 3484]]
+[[ -62]
+ [3610]]
+Mean PCS: [-62.0000 -62.0000 -62.0458 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 30553
+Node 0, (CST, Tx power, MCS) = (-82.0,  0, 7) - (mean, std): (0.050569657091856422, 0.242535625036332969)    played     4.34 s,         16 time(s)
+Node 0, (CST, Tx power, MCS) = (-81.0,  0, 7) - (mean, std): (0.415245048951666695, 0.147441956154897136)    played     1.67 s,         45 time(s)
+Node 0, (CST, Tx power, MCS) = (-80.0,  0, 7) - (mean, std): (0.440887742154700002, 0.129099444873580549)    played     2.38 s,         59 time(s)
+Node 0, (CST, Tx power, MCS) = (-79.0,  0, 7) - (mean, std): (0.513012512094182194, 0.113227703414459577)    played     0.85 s,         77 time(s)
+Node 0, (CST, Tx power, MCS) = (-67.0,  0, 7) - (mean, std): (0.824866175179071459, 0.022167554926073633)    played    14.50 s,       2034 time(s)
+Node 0, (CST, Tx power, MCS) = (-65.0,  0, 7) - (mean, std): (0.839041385977733700, 0.015125495013558084)    played    28.83 s,       4370 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.803493762393344912, 0.027756369082668448)    played     7.43 s,       1297 time(s)
+                                                                                                           played    60.00 s,       7898 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-79.0,  0, 7) - (mean, std): (0.736701250080123105, 0.043895128130614712)    played     4.52 s,        518 time(s)
+Node 1, (CST, Tx power, MCS) = (-78.0,  0, 7) - (mean, std): (0.680787533097636288, 0.060745673923078697)    played     2.09 s,        270 time(s)
+Node 1, (CST, Tx power, MCS) = (-82.0,  0, 7) - (mean, std): (0.610473359374024804, 0.065372045046061353)    played     2.87 s,        233 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.891830912415916055, 0.010647339176450346)    played    50.53 s,       8820 time(s)
+                                                                                                           played    60.00 s,       9841 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-80.0,  0, 7) - (mean, std): (0.750546962372693471, 0.038984058779272523)    played     6.41 s,        657 time(s)
+Node 2, (CST, Tx power, MCS) = (-79.0,  0, 7) - (mean, std): (0.742418861293803301, 0.042640143271122088)    played     3.95 s,        549 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.904263207927921475, 0.010679470721459512)    played    49.64 s,       8767 time(s)
+                                                                                                           played    59.99 s,       9973 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-79.0,  0, 7) - (mean, std): (0.443763200845279426, 0.062017367294604227)    played    24.67 s,        259 time(s)
+Node 3, (CST, Tx power, MCS) = (-78.0,  0, 7) - (mean, std): (0.402581046562356382, 0.079056941504209485)    played    11.57 s,        159 time(s)
+Node 3, (CST, Tx power, MCS) = (-67.0,  0, 7) - (mean, std): (0.548561119243114459, 0.038720154633118314)    played     7.80 s,        666 time(s)
+Node 3, (CST, Tx power, MCS) = (-65.0,  0, 7) - (mean, std): (0.587061056968232964, 0.026011343419135434)    played    13.99 s,       1477 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.486211882901268266, 0.059654998627189357)    played     1.93 s,        280 time(s)
+                                                                                                           played    59.97 s,       2841 time(s)
+
+Mean throughputs: [41.7110 52.7655 54.2182 12.3666]
+Aggregate throughput: 161.0613
+Min-Max: 41.8516
+JFI: 0.7054 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -81  -80  -79  -67  -65  -62]
+ [  16   45   59   77 2034 4370 1297]]
+[[ -82  -79  -78  -62]
+ [ 233  518  270 8820]]
+[[ -80  -79  -62]
+ [ 657  549 8767]]
+[[ -79  -78  -67  -65  -62]
+ [ 259  159  666 1477  280]]
+Mean PCS: [-65.3966 -63.8073 -64.1216 -67.1771]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [42.7491 58.4483 58.9651 13.3790]
+Aggregate throughput: 173.5414
+Min-Max: 45.5861
+JFI: 0.7010 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -81  -80  -79  -67  -65  -62]
+ [   1    3    4    1  654 1754  311]]
+[[ -78  -62]
+ [   7 3536]]
+[[ -80  -62]
+ [   1 3552]]
+[[-79 -78 -67 -65 -62]
+ [ 18  12 253 659  84]]
+Mean PCS: [-65.1884 -62.0316 -62.0051 -65.6452]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 32676
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.526473838058785781, 0.013286177276387440)    played    59.99 s,       5664 time(s)
+                                                                                                           played    59.99 s,       5664 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.908746034986437246, 0.009776240735618596)    played    59.99 s,      10462 time(s)
+                                                                                                           played    59.99 s,      10462 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82.0,  0, 7) - (mean, std): (0.681227999940468898, 0.081923192051904042)    played     1.39 s,        148 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.939054637392542135, 0.009713775060676494)    played    58.61 s,      10597 time(s)
+                                                                                                           played    60.00 s,      10745 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.539508454307018104, 0.013123856838821040)    played    59.98 s,       5805 time(s)
+                                                                                                           played    59.98 s,       5805 time(s)
+
+Mean throughputs: [28.2827 57.5183 60.4538 29.0778]
+Aggregate throughput: 175.3326
+Min-Max: 32.1710
+JFI: 0.7426 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -62]
+ [5664]]
+[[  -62]
+ [10462]]
+[[  -82   -62]
+ [  148 10597]]
+[[ -62]
+ [5805]]
+Mean PCS: [-62.0000 -62.0000 -62.2755 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [28.0848 58.4057 60.9080 29.2126]
+Aggregate throughput: 176.6111
+Min-Max: 32.8232
+JFI: 0.7397 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -62]
+ [1881]]
+[[ -62]
+ [3526]]
+[[ -82  -62]
+ [   8 3599]]
+[[ -62]
+ [1945]]
+Mean PCS: [-62.0000 -62.0000 -62.0444 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 30841
+Node 0, (CST, Tx power, MCS) = (-80.0,  0, 7) - (mean, std): (0.516376708470466128, 0.054232614454664041)    played     5.32 s,        339 time(s)
+Node 0, (CST, Tx power, MCS) = (-75.0,  0, 7) - (mean, std): (0.627350977733083903, 0.040422604172722164)    played     4.80 s,        611 time(s)
+Node 0, (CST, Tx power, MCS) = (-74.0,  0, 7) - (mean, std): (0.664360374660897035, 0.043602072019694731)    played     4.04 s,        525 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.902237139913386721, 0.011124165631960945)    played    45.83 s,       8080 time(s)
+                                                                                                           played    60.00 s,       9555 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-80.0,  0, 7) - (mean, std): (0.403813335928844053, 0.079555728417573010)    played     2.97 s,        157 time(s)
+Node 1, (CST, Tx power, MCS) = (-71.0,  0, 7) - (mean, std): (0.892055607942483064, 0.010923255186885403)    played    49.03 s,       8380 time(s)
+Node 1, (CST, Tx power, MCS) = (-69.0,  0, 7) - (mean, std): (0.536056602295091000, 0.050379272185987832)    played     2.69 s,        393 time(s)
+Node 1, (CST, Tx power, MCS) = (-81.0,  0, 7) - (mean, std): (0.421953054060971056, 0.070014004201400484)    played     3.84 s,        203 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.568848488943032859, 0.066964953018242498)    played     1.47 s,        222 time(s)
+                                                                                                           played    60.00 s,       9355 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-71.0,  0, 7) - (mean, std): (0.319673513433952616, 0.068199433947047347)    played    16.40 s,        214 time(s)
+Node 2, (CST, Tx power, MCS) = (-70.0,  0, 7) - (mean, std): (0.209637415351171780, 0.098532927816429305)    played     4.96 s,        102 time(s)
+Node 2, (CST, Tx power, MCS) = (-75.0,  0, 7) - (mean, std): (0.310343610221991917, 0.054392829322042119)    played    17.84 s,        337 time(s)
+Node 2, (CST, Tx power, MCS) = (-74.0,  0, 7) - (mean, std): (0.319333649050484780, 0.053682812709501891)    played    17.78 s,        346 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.220743189633954312, 0.111111111111111105)    played     2.73 s,         80 time(s)
+                                                                                                           played    59.72 s,       1079 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.938962275929743018, 0.009598980258503129)    played    59.99 s,      10852 time(s)
+                                                                                                           played    59.99 s,      10852 time(s)
+
+Mean throughputs: [50.9493 49.5119  3.6079 61.0361]
+Aggregate throughput: 165.1052
+Min-Max: 57.4282
+JFI: 0.6503 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -80  -75  -74  -62]
+ [ 339  611  525 8080]]
+[[ -81  -80  -71  -69  -62]
+ [ 203  157 8380  393  222]]
+[[-75 -74 -71 -70 -62]
+ [337 346 214 102  80]]
+[[  -62]
+ [10852]]
+Mean PCS: [-64.1293 -71.0704 -72.4495 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [59.3334 59.1160  0.0000 61.0401]
+Aggregate throughput: 179.4895
+Min-Max: 61.0401
+JFI: 0.6339 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -62]
+ [3583]]
+[[ -71]
+ [3568]]
+[[-75 -74 -71 -70]
+ [ 14   8  17   1]]
+[[ -62]
+ [3614]]
+Mean PCS: [-62.0000 -71.0000 -72.9750 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 33349
+Node 0, (CST, Tx power, MCS) = (-76.0,  0, 7) - (mean, std): (0.742520443150355147, 0.024203782378574807)    played    17.29 s,       1706 time(s)
+Node 0, (CST, Tx power, MCS) = (-75.0,  0, 7) - (mean, std): (0.772443657091422820, 0.014011045056973285)    played    40.76 s,       5093 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.633368846982926725, 0.056613851707229788)    played     1.94 s,        311 time(s)
+                                                                                                           played    59.99 s,       7110 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.939005940444149534, 0.009598538062015112)    played    60.00 s,      10853 time(s)
+                                                                                                           played    60.00 s,      10853 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-75.0,  0, 7) - (mean, std): (0.604162211575184793, 0.015351947767604296)    played    57.83 s,       4242 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.502397039191230466, 0.058722021951470346)    played     2.17 s,        289 time(s)
+                                                                                                           played    60.00 s,       4531 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.939070231030902480, 0.009597653852344219)    played    60.00 s,      10855 time(s)
+                                                                                                           played    60.00 s,      10855 time(s)
+
+Mean throughputs: [39.3990 61.0399 24.7724 61.0447]
+Aggregate throughput: 186.2560
+Min-Max: 36.2724
+JFI: 0.7518 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -76  -75  -62]
+ [1706 5093  311]]
+[[  -62]
+ [10853]]
+[[ -75  -62]
+ [4242  289]]
+[[  -62]
+ [10855]]
+Mean PCS: [-74.6713 -62.0000 -74.1708 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [41.4602 61.0465 22.9144 61.0545]
+Aggregate throughput: 186.4757
+Min-Max: 38.1400
+JFI: 0.7463 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -76  -75  -62]
+ [ 427 2013   27]]
+[[ -62]
+ [3614]]
+[[ -75  -62]
+ [1313   81]]
+[[ -62]
+ [3615]]
+Mean PCS: [-75.0308 -62.0000 -74.2446 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 30300
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.938946223900108956, 0.009598980258503129)    played    60.00 s,      10852 time(s)
+                                                                                                           played    60.00 s,      10852 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-80.0,  0, 7) - (mean, std): (0.407031297042027951, 0.074124931666110117)    played     5.60 s,        181 time(s)
+Node 1, (CST, Tx power, MCS) = (-79.0,  0, 7) - (mean, std): (0.387318517922375649, 0.075164602800282879)    played     3.35 s,        176 time(s)
+Node 1, (CST, Tx power, MCS) = (-77.0,  0, 7) - (mean, std): (0.497180148588636683, 0.071247049987909636)    played     2.13 s,        196 time(s)
+Node 1, (CST, Tx power, MCS) = (-76.0,  0, 7) - (mean, std): (0.449094332124072682, 0.059549133417541367)    played     3.28 s,        281 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.896606113176672381, 0.011188734587633614)    played    45.63 s,       7987 time(s)
+                                                                                                           played    60.00 s,       8821 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-80.0,  0, 7) - (mean, std): (0.431832816296157496, 0.051571062312939668)    played     5.57 s,        375 time(s)
+Node 2, (CST, Tx power, MCS) = (-81.0,  0, 7) - (mean, std): (0.410907841976720201, 0.061780206321521550)    played     4.42 s,        261 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.845481996497215782, 0.011426519503184350)    played    50.00 s,       7658 time(s)
+                                                                                                           played    60.00 s,       8294 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-78.0,  0, 7) - (mean, std): (0.404826068658244054, 0.047727395990334764)    played    23.20 s,        438 time(s)
+Node 3, (CST, Tx power, MCS) = (-77.0,  0, 7) - (mean, std): (0.377834147965521117, 0.058025885318565944)    played    20.19 s,        296 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.512746494959457122, 0.025000000000000001)    played    16.60 s,       1599 time(s)
+                                                                                                           played    59.99 s,       2333 time(s)
+
+Mean throughputs: [61.0365 46.7186 44.5826 10.6911]
+Aggregate throughput: 163.0288
+Min-Max: 50.3454
+JFI: 0.6881 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[  -62]
+ [10852]]
+[[ -80  -79  -77  -76  -62]
+ [ 181  176  196  281 7987]]
+[[ -81  -80  -62]
+ [ 261  375 7658]]
+[[ -78  -77  -62]
+ [ 438  296 1599]]
+Mean PCS: [-62.0000 -63.4878 -63.4117 -66.9070]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [61.0284 59.5611 52.2953  6.9561]
+Aggregate throughput: 179.8409
+Min-Max: 54.0723
+JFI: 0.6696 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -62]
+ [3613]]
+[[ -62]
+ [3576]]
+[[ -62]
+ [3165]]
+[[-78 -77 -62]
+ [ 21  15 463]]
+Mean PCS: [-62.0000 -62.0000 -62.0000 -63.1242]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 32659
+Node 0, (CST, Tx power, MCS) = (-82.0,  0, 7) - (mean, std): (0.891134694908602754, 0.015963771420352525)    played    24.16 s,       3923 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.913068188580017370, 0.012454352825280486)    played    35.84 s,       6446 time(s)
+                                                                                                           played    60.00 s,      10369 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-71.0,  0, 7) - (mean, std): (0.824756003005818528, 0.011230285342153484)    played    52.04 s,       7928 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.783395472576893348, 0.026726124191242439)    played     7.96 s,       1399 time(s)
+                                                                                                           played    60.00 s,       9327 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-71.0,  0, 7) - (mean, std): (0.409569897356671209, 0.027328117197209841)    played    23.93 s,       1338 time(s)
+Node 2, (CST, Tx power, MCS) = (-70.0,  0, 7) - (mean, std): (0.289723446848488941, 0.057166195047502949)    played     2.26 s,        305 time(s)
+Node 2, (CST, Tx power, MCS) = (-82.0,  0, 7) - (mean, std): (0.169978251815540771, 0.101015254455221068)    played    31.06 s,         97 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.308044859785969072, 0.051987524491003634)    played     2.69 s,        369 time(s)
+                                                                                                           played    59.94 s,       2109 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.939069133053639149, 0.009598095926633500)    played    60.00 s,      10854 time(s)
+                                                                                                           played    60.00 s,      10854 time(s)
+
+Mean throughputs: [57.3591 48.1817  7.8809 61.0442]
+Aggregate throughput: 174.4659
+Min-Max: 53.1633
+JFI: 0.6734 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -62]
+ [3923 6446]]
+[[ -71  -62]
+ [7928 1399]]
+[[ -82  -71  -70  -62]
+ [  97 1338  305  369]]
+[[  -62]
+ [10854]]
+Mean PCS: [-69.5668 -69.6500 -69.7866 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [56.9783 44.0011 12.1728 61.0475]
+Aggregate throughput: 174.1997
+Min-Max: 48.8747
+JFI: 0.6943 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -62]
+ [ 729 2716]]
+[[ -71  -62]
+ [2618  242]]
+[[-82 -71 -70 -62]
+ [ 13 839  53  56]]
+[[ -62]
+ [3615]]
+Mean PCS: [-66.2322 -70.2385 -70.5692 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 23689
+Node 0, (CST, Tx power, MCS) = (-69.0,  0, 7) - (mean, std): (0.638410407627160614, 0.014207641788266268)    played    46.04 s,       4953 time(s)
+Node 0, (CST, Tx power, MCS) = (-74.0,  0, 7) - (mean, std): (0.544737976901711662, 0.052414241836095915)    played     4.88 s,        363 time(s)
+Node 0, (CST, Tx power, MCS) = (-82.0,  0, 7) - (mean, std): (0.227732297345145551, 0.141421356237309503)    played     2.91 s,         49 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.584647098077255789, 0.032058528181875073)    played     6.17 s,        972 time(s)
+                                                                                                           played    59.99 s,       6337 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-72.0,  0, 7) - (mean, std): (0.253202569105837605, 0.061780206321521550)    played     3.85 s,        261 time(s)
+Node 1, (CST, Tx power, MCS) = (-75.0,  0, 7) - (mean, std): (0.183198319701518925, 0.083624201000709081)    played    25.64 s,        142 time(s)
+Node 1, (CST, Tx power, MCS) = (-74.0,  0, 7) - (mean, std): (0.095298529328666698, 0.115470053837925163)    played    14.71 s,         74 time(s)
+Node 1, (CST, Tx power, MCS) = (-73.0,  0, 7) - (mean, std): (0.250843173678434395, 0.065232807305344226)    played     3.56 s,        234 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.344760083995296673, 0.022599230735278433)    played    11.97 s,       1957 time(s)
+                                                                                                           played    59.74 s,       2668 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-72.0,  0, 7) - (mean, std): (0.345519676117447383, 0.076249285166302333)    played     4.51 s,        171 time(s)
+Node 2, (CST, Tx power, MCS) = (-71.0,  0, 7) - (mean, std): (0.398375748384313777, 0.058621038176054914)    played     4.63 s,        290 time(s)
+Node 2, (CST, Tx power, MCS) = (-69.0,  0, 7) - (mean, std): (0.543454497409628479, 0.015787724448766815)    played    41.17 s,       4011 time(s)
+Node 2, (CST, Tx power, MCS) = (-75.0,  0, 7) - (mean, std): (0.179771760870004932, 0.120385853085769198)    played     8.09 s,         68 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.363877317350548235, 0.062994078834871209)    played     1.60 s,        251 time(s)
+                                                                                                           played    60.00 s,       4791 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82.0,  0, 7) - (mean, std): (0.320431607503417648, 0.152498570332604666)    played     1.36 s,         42 time(s)
+Node 3, (CST, Tx power, MCS) = (-76.0,  0, 7) - (mean, std): (0.509051834762837330, 0.105409255338945976)    played     1.12 s,         89 time(s)
+Node 3, (CST, Tx power, MCS) = (-75.0,  0, 7) - (mean, std): (0.521872411957766680, 0.103695169473042526)    played     1.05 s,         92 time(s)
+Node 3, (CST, Tx power, MCS) = (-74.0,  0, 7) - (mean, std): (0.728356652515169345, 0.050507627227610534)    played     3.11 s,        391 time(s)
+Node 3, (CST, Tx power, MCS) = (-73.0,  0, 7) - (mean, std): (0.686309512763938590, 0.052558833122763667)    played     2.45 s,        361 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.873046629733015722, 0.010588682299829932)    played    50.91 s,       8918 time(s)
+                                                                                                           played    60.00 s,       9893 time(s)
+
+Mean throughputs: [30.4901  6.4032 21.3083 51.9300]
+Aggregate throughput: 110.1316
+Min-Max: 45.5267
+JFI: 0.6253 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -74  -69  -62]
+ [  49  363 4953  972]]
+[[ -75  -74  -73  -72  -62]
+ [ 142   74  234  261 1957]]
+[[ -75  -72  -71  -69  -62]
+ [  68  171  290 4011  251]]
+[[ -82  -76  -75  -74  -73  -62]
+ [  42   89   92  391  361 8918]]
+Mean PCS: [-68.3132 -64.9678 -68.9466 -63.2074]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [29.4447  3.9815 25.5442 56.2883]
+Aggregate throughput: 115.2586
+Min-Max: 52.3068
+JFI: 0.6078 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -74  -69  -62]
+ [   1   56 1827  115]]
+[[-75 -74 -73 -72 -62]
+ [ 26  10  59  57 650]]
+[[ -75  -72  -71  -69  -62]
+ [   1    9   18 1768    5]]
+[[ -82  -76  -75  -74  -62]
+ [   1    2    2   13 3495]]
+Mean PCS: [-68.7439 -64.0910 -69.0189 -62.0655]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 33515
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.938950027497832185, 0.009598980258503129)    played    60.00 s,      10852 time(s)
+                                                                                                           played    60.00 s,      10852 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.939075666311894430, 0.009597653852344219)    played    60.00 s,      10855 time(s)
+                                                                                                           played    60.00 s,      10855 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-77.0,  0, 7) - (mean, std): (0.596834212745185999, 0.016303866268150616)    played    53.91 s,       3761 time(s)
+Node 2, (CST, Tx power, MCS) = (-76.0,  0, 7) - (mean, std): (0.454050737366255674, 0.065512178208041838)    played     2.59 s,        232 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.517762246125085257, 0.043643578047198477)    played     3.49 s,        524 time(s)
+                                                                                                           played    60.00 s,       4517 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-78.0,  0, 7) - (mean, std): (0.745319858740969177, 0.025482359571881278)    played    15.51 s,       1539 time(s)
+Node 3, (CST, Tx power, MCS) = (-77.0,  0, 7) - (mean, std): (0.777479394310976901, 0.013866171683985996)    played    41.17 s,       5200 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.690070908501112079, 0.042524325556256230)    played     3.31 s,        552 time(s)
+                                                                                                           played    59.99 s,       7291 time(s)
+
+Mean throughputs: [61.0355 61.0451 23.6645 40.1948]
+Aggregate throughput: 185.9398
+Min-Max: 37.3806
+JFI: 0.7477 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[  -62]
+ [10852]]
+[[  -62]
+ [10855]]
+[[ -77  -76  -62]
+ [3761  232  524]]
+[[ -78  -77  -62]
+ [1539 5200  552]]
+Mean PCS: [-62.0000 -62.0000 -75.2085 -76.0754]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [61.0364 61.0489 23.2969 40.6272]
+Aggregate throughput: 186.0094
+Min-Max: 37.7520
+JFI: 0.7467 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -62]
+ [3614]]
+[[ -62]
+ [3615]]
+[[ -77  -76  -62]
+ [1302   51  108]]
+[[ -78  -77  -62]
+ [ 394 1965   62]]
+Mean PCS: [-62.0000 -62.0000 -75.8563 -76.7786]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 33378
+Node 0, (CST, Tx power, MCS) = (-82.0,  0, 7) - (mean, std): (0.859266828671671590, 0.032376195411908809)    played     6.14 s,        953 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.934105108052030508, 0.010137275833254928)    played    53.86 s,       9730 time(s)
+                                                                                                           played    60.00 s,      10683 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-74.0,  0, 7) - (mean, std): (0.600154474649982506, 0.033370432213299994)    played     8.72 s,        897 time(s)
+Node 1, (CST, Tx power, MCS) = (-75.0,  0, 7) - (mean, std): (0.664000623602346685, 0.019181177921614532)    played    33.02 s,       2717 time(s)
+Node 1, (CST, Tx power, MCS) = (-82.0,  0, 7) - (mean, std): (0.187996490843514275, 0.152498570332604666)    played    13.32 s,         42 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.616997507689533875, 0.036417852036461487)    played     4.94 s,        753 time(s)
+                                                                                                           played    59.99 s,       4409 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.939043538787040832, 0.009598095926633500)    played    60.00 s,      10854 time(s)
+                                                                                                           played    60.00 s,      10854 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-75.0,  0, 7) - (mean, std): (0.795718789686497896, 0.014088699899813706)    played    45.71 s,       5037 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.773436309171511627, 0.020429446161135921)    played    14.29 s,       2395 time(s)
+                                                                                                           played    60.00 s,       7432 time(s)
+
+Mean throughputs: [59.8255 21.2875 61.0421 39.6219]
+Aggregate throughput: 181.7770
+Min-Max: 39.7546
+JFI: 0.7356 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -62]
+ [ 953 9730]]
+[[ -82  -75  -74  -62]
+ [  42 2717  897  753]]
+[[  -62]
+ [10854]]
+[[ -75  -62]
+ [5037 2395]]
+Mean PCS: [-63.7841 -72.6430 -62.0000 -70.8107]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [60.6661 26.3341 61.0456 35.1017]
+Aggregate throughput: 183.1474
+Min-Max: 34.7115
+JFI: 0.7485 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -62]
+ [  58 3544]]
+[[ -82  -75  -74  -62]
+ [   2 1369  136  234]]
+[[ -62]
+ [3615]]
+[[ -75  -62]
+ [1656  547]]
+Mean PCS: [-62.3220 -73.1827 -62.0000 -71.7721]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 33273
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.939043532036115125, 0.009598095926633500)    played    60.00 s,      10854 time(s)
+                                                                                                           played    60.00 s,      10854 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-68.0,  0, 7) - (mean, std): (0.530693236862338935, 0.017099639201419235)    played    35.61 s,       3419 time(s)
+Node 1, (CST, Tx power, MCS) = (-67.0,  0, 7) - (mean, std): (0.521923707595447151, 0.021214264175324349)    played    23.95 s,       2221 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.198549490887356656, 0.120385853085769198)    played     0.42 s,         68 time(s)
+                                                                                                           played    59.98 s,       5708 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-69.0,  0, 7) - (mean, std): (0.545817029945839027, 0.016226412783707848)    played    38.68 s,       3797 time(s)
+Node 2, (CST, Tx power, MCS) = (-67.0,  0, 7) - (mean, std): (0.534118859705841609, 0.022768472012439346)    played    20.56 s,       1928 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.310211358589859654, 0.086386842558136015)    played     0.76 s,        133 time(s)
+                                                                                                           played    60.00 s,       5858 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.939072718046701338, 0.009598538062015112)    played    60.00 s,      10853 time(s)
+                                                                                                           played    60.00 s,      10853 time(s)
+
+Mean throughputs: [61.0422 27.8498 28.6706 61.0433]
+Aggregate throughput: 178.6058
+Min-Max: 33.1935
+JFI: 0.7314 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[  -62]
+ [10854]]
+[[ -68  -67  -62]
+ [3419 2221   68]]
+[[ -69  -67  -62]
+ [3797 1928  133]]
+[[  -62]
+ [10853]]
+Mean PCS: [-62.0000 -67.5394 -68.1828 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [61.0528 27.4116 29.4703 61.0344]
+Aggregate throughput: 178.9691
+Min-Max: 33.6412
+JFI: 0.7328 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -62]
+ [3615]]
+[[ -68  -67  -62]
+ [1163  692    4]]
+[[ -69  -67  -62]
+ [1318  645   21]]
+[[ -62]
+ [3614]]
+Mean PCS: [-62.0000 -67.6148 -68.2757 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 32396
+Node 0, (CST, Tx power, MCS) = (-82.0,  0, 7) - (mean, std): (0.187241976975340535, 0.117851130197757920)    played    11.83 s,         71 time(s)
+Node 0, (CST, Tx power, MCS) = (-81.0,  0, 7) - (mean, std): (0.263512773883124107, 0.089802651013387455)    played    18.61 s,        123 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.555115405365084635, 0.018423987433960502)    played    29.56 s,       2945 time(s)
+                                                                                                           played    60.00 s,       3139 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-80.0,  0, 7) - (mean, std): (0.560826829123527770, 0.119522860933439362)    played     0.75 s,         69 time(s)
+Node 1, (CST, Tx power, MCS) = (-81.0,  0, 7) - (mean, std): (0.434542838778740059, 0.150755672288881815)    played     0.82 s,         43 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.931783240320273598, 0.009737232209257126)    played    58.43 s,      10546 time(s)
+                                                                                                           played    60.00 s,      10658 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.939055187057382557, 0.009598095926633500)    played    60.00 s,      10854 time(s)
+                                                                                                           played    60.00 s,      10854 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82.0,  0, 7) - (mean, std): (0.307910003194311777, 0.154303349962091912)    played     1.78 s,         41 time(s)
+Node 3, (CST, Tx power, MCS) = (-81.0,  0, 7) - (mean, std): (0.416827401995496227, 0.127000127000190505)    played     1.58 s,         61 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.775541660661702714, 0.011437725271791939)    played    56.40 s,       7643 time(s)
+                                                                                                           played    59.76 s,       7745 time(s)
+
+Mean throughputs: [15.2291 59.5539 61.0436 41.1589]
+Aggregate throughput: 176.9854
+Min-Max: 45.8145
+JFI: 0.7052 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -81  -62]
+ [  71  123 2945]]
+[[  -81   -80   -62]
+ [   43    69 10546]]
+[[  -62]
+ [10854]]
+[[ -82  -81  -62]
+ [  41   61 7643]]
+Mean PCS: [-63.1969 -62.1932 -62.0000 -62.2555]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [24.0687 60.5615 61.0487 32.0281]
+Aggregate throughput: 177.7069
+Min-Max: 36.9800
+JFI: 0.7278 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -81  -62]
+ [   4    4 1647]]
+[[ -81  -80  -62]
+ [   3    2 3599]]
+[[ -62]
+ [3615]]
+[[ -82  -81  -62]
+ [   2    1 2105]]
+Mean PCS: [-62.0943 -62.0258 -62.0000 -62.0280]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 23020
+Node 0, (CST, Tx power, MCS) = (-66.0,  0, 7) - (mean, std): (0.392512873197845835, 0.024588511980245170)    played    24.29 s,       1653 time(s)
+Node 0, (CST, Tx power, MCS) = (-65.0,  0, 7) - (mean, std): (0.396963485509963521, 0.020924348765934363)    played    33.53 s,       2283 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.272511155855638287, 0.064282434653322507)    played     2.18 s,        241 time(s)
+                                                                                                           played    60.00 s,       4177 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-68.0,  0, 7) - (mean, std): (0.371798524872905600, 0.019090088708030313)    played    41.55 s,       2743 time(s)
+Node 1, (CST, Tx power, MCS) = (-66.0,  0, 7) - (mean, std): (0.342319376436540812, 0.031927542840705050)    played    15.48 s,        980 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.219010620182917781, 0.060302268915552723)    played     2.97 s,        274 time(s)
+                                                                                                           played    60.00 s,       3997 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.939046005722370070, 0.009598538062015112)    played    60.00 s,      10853 time(s)
+                                                                                                           played    60.00 s,      10853 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-66.0,  0, 7) - (mean, std): (0.349378012603895005, 0.016864581433872119)    played    55.29 s,       3515 time(s)
+Node 3, (CST, Tx power, MCS) = (-65.0,  0, 7) - (mean, std): (0.193259065925565077, 0.057543533764843599)    played     3.29 s,        301 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.173617858664076669, 0.074953168899586142)    played     1.41 s,        177 time(s)
+                                                                                                           played    59.99 s,       3993 time(s)
+
+Mean throughputs: [18.5702 16.8037 61.0414 15.7546]
+Aggregate throughput: 112.1699
+Min-Max: 45.2868
+JFI: 0.5951 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -66  -65  -62]
+ [1653 2283  241]]
+[[ -68  -66  -62]
+ [2743  980  274]]
+[[  -62]
+ [10853]]
+[[ -66  -65  -62]
+ [3515  301  177]]
+Mean PCS: [-65.2226 -67.0983 -62.0000 -65.7473]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [17.8520 18.1559 61.0486 17.6653]
+Aggregate throughput: 114.7217
+Min-Max: 43.3833
+JFI: 0.6055 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-66 -65 -62]
+ [606 688  38]]
+[[ -68  -66  -62]
+ [1054  257   14]]
+[[ -62]
+ [3614]]
+[[ -66  -65  -62]
+ [1311   12   18]]
+Mean PCS: [-65.3694 -67.5487 -62.0000 -65.9374]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 30797
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.938900488810349043, 0.009598538062015112)    played    60.00 s,      10853 time(s)
+                                                                                                           played    60.00 s,      10853 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-78.0,  0, 7) - (mean, std): (0.350789846381793780, 0.123091490979332738)    played     1.09 s,         65 time(s)
+Node 1, (CST, Tx power, MCS) = (-77.0,  0, 7) - (mean, std): (0.422825898194470196, 0.092450032704204863)    played     1.74 s,        116 time(s)
+Node 1, (CST, Tx power, MCS) = (-65.0,  0, 7) - (mean, std): (0.850419531605247525, 0.010526315789473684)    played    55.98 s,       9024 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.507705231095452514, 0.078086880944303036)    played     1.18 s,        163 time(s)
+                                                                                                           played    60.00 s,       9368 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-64.0,  0, 7) - (mean, std): (0.177786623316342846, 0.082478609884232251)    played     1.69 s,        146 time(s)
+Node 2, (CST, Tx power, MCS) = (-71.0,  0, 7) - (mean, std): (0.187479002486062224, 0.067419986246324212)    played    20.51 s,        219 time(s)
+Node 2, (CST, Tx power, MCS) = (-70.0,  0, 7) - (mean, std): (0.220010003873399945, 0.053994924715603888)    played    30.80 s,        342 time(s)
+Node 2, (CST, Tx power, MCS) = (-65.0,  0, 7) - (mean, std): (0.220881502986491091, 0.054312544659356837)    played     5.92 s,        338 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.129747352582779779, 0.086710996952411995)    played     1.04 s,        132 time(s)
+                                                                                                           played    59.96 s,       1177 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-70.0,  0, 7) - (mean, std): (0.865730700277889786, 0.011165694518168505)    played    49.19 s,       8020 time(s)
+Node 3, (CST, Tx power, MCS) = (-77.0,  0, 7) - (mean, std): (0.462792946281387563, 0.098058067569092022)    played     1.68 s,        103 time(s)
+Node 3, (CST, Tx power, MCS) = (-76.0,  0, 7) - (mean, std): (0.449416918174467883, 0.099014754297667429)    played     1.68 s,        101 time(s)
+Node 3, (CST, Tx power, MCS) = (-69.0,  0, 7) - (mean, std): (0.748713958930587120, 0.044721359549995794)    played     3.23 s,        499 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.772050918902406180, 0.038433122101204392)    played     4.22 s,        676 time(s)
+                                                                                                           played    59.99 s,       9399 time(s)
+
+Mean throughputs: [61.0318 48.8508  3.1761 49.5224]
+Aggregate throughput: 162.5811
+Min-Max: 57.8557
+JFI: 0.6471 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[  -62]
+ [10853]]
+[[ -78  -77  -65  -62]
+ [  65  116 9024  163]]
+[[-71 -70 -65 -64 -62]
+ [219 342 338 146 132]]
+[[ -77  -76  -70  -69  -62]
+ [ 103  101 8020  499  676]]
+Mean PCS: [-62.0000 -65.1866 -67.1088 -69.5127]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [61.0435 53.3655  2.1896 54.1345]
+Aggregate throughput: 170.7331
+Min-Max: 58.8540
+JFI: 0.6442 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -62]
+ [3614]]
+[[ -65]
+ [3325]]
+[[-71 -70 -65 -64 -62]
+ [ 45  70  75  42  17]]
+[[ -70  -69  -62]
+ [3271   31   34]]
+Mean PCS: [-62.0000 -65.0000 -67.1165 -69.9092]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 33400
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.939061947461142132, 0.009597653852344219)    played    60.00 s,      10855 time(s)
+                                                                                                           played    60.00 s,      10855 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.938938241146484942, 0.009598538062015112)    played    60.00 s,      10853 time(s)
+                                                                                                           played    60.00 s,      10853 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-68.0,  0, 7) - (mean, std): (0.520380784938443308, 0.013270958953000709)    played    59.20 s,       5677 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.276265278502303036, 0.090166963466743230)    played     0.79 s,        122 time(s)
+                                                                                                           played    59.98 s,       5799 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-68.0,  0, 7) - (mean, std): (0.526233711420784567, 0.013441297309091865)    played    57.59 s,       5534 time(s)
+Node 3, (CST, Tx power, MCS) = (-67.0,  0, 7) - (mean, std): (0.365473660143085577, 0.064549722436790274)    played     1.44 s,        239 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.276724105376784935, 0.090909090909090912)    played     0.97 s,        120 time(s)
+                                                                                                           played    59.99 s,       5893 time(s)
+
+Mean throughputs: [61.0434 61.0360 27.3762 27.8781]
+Aggregate throughput: 177.3337
+Min-Max: 33.6672
+JFI: 0.7263 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[  -62]
+ [10855]]
+[[  -62]
+ [10853]]
+[[ -68  -62]
+ [5677  122]]
+[[ -68  -67  -62]
+ [5534  239  120]]
+Mean PCS: [-62.0000 -62.0000 -67.8738 -67.8373]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [61.0520 61.0331 27.9677 28.4247]
+Aggregate throughput: 178.4775
+Min-Max: 33.0843
+JFI: 0.7309 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -62]
+ [3615]]
+[[ -62]
+ [3614]]
+[[ -68  -62]
+ [1908    9]]
+[[ -68  -67  -62]
+ [1912   27    7]]
+Mean PCS: [-62.0000 -62.0000 -67.9718 -67.9645]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 30304
+Node 0, (CST, Tx power, MCS) = (-80.0,  0, 7) - (mean, std): (0.461759434464944996, 0.077615052570633294)    played     2.39 s,        165 time(s)
+Node 0, (CST, Tx power, MCS) = (-79.0,  0, 7) - (mean, std): (0.473109193291931629, 0.070534561585859828)    played     2.74 s,        200 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.819697416343268093, 0.011213327559218682)    played    54.87 s,       7952 time(s)
+                                                                                                           played    60.00 s,       8317 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-78.0,  0, 7) - (mean, std): (0.349017514209341573, 0.084215192106651890)    played    13.36 s,        140 time(s)
+Node 1, (CST, Tx power, MCS) = (-77.0,  0, 7) - (mean, std): (0.416135776489676812, 0.055215763037423274)    played    23.65 s,        327 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.540541149789000697, 0.021320071635561044)    played    22.58 s,       2199 time(s)
+                                                                                                           played    59.60 s,       2666 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-79.0,  0, 7) - (mean, std): (0.104816656402962394, 0.213200716355610442)    played     6.50 s,         21 time(s)
+Node 2, (CST, Tx power, MCS) = (-78.0,  0, 7) - (mean, std): (0.372543462298986217, 0.141421356237309503)    played     0.92 s,         49 time(s)
+Node 2, (CST, Tx power, MCS) = (-77.0,  0, 7) - (mean, std): (0.421112174745834567, 0.128036879932895975)    played     1.17 s,         60 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.915296142175284433, 0.010424587657074937)    played    51.40 s,       9201 time(s)
+                                                                                                           played    60.00 s,       9331 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-77.0,  0, 7) - (mean, std): (0.753424011272238903, 0.035578403348241000)    played     7.81 s,        789 time(s)
+Node 3, (CST, Tx power, MCS) = (-76.0,  0, 7) - (mean, std): (0.799735011819150188, 0.036588086663230115)    played     4.69 s,        746 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.917605099037330674, 0.010874705707258892)    played    47.49 s,       8455 time(s)
+                                                                                                           played    60.00 s,       9990 time(s)
+
+Mean throughputs: [44.8373 13.0183 51.2917 54.8511]
+Aggregate throughput: 163.9984
+Min-Max: 41.8328
+JFI: 0.7124 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -80  -79  -62]
+ [ 165  200 7952]]
+[[ -78  -77  -62]
+ [ 140  327 2199]]
+[[ -79  -78  -77  -62]
+ [  21   49   60 9201]]
+[[ -77  -76  -62]
+ [ 789  746 8455]]
+Mean PCS: [-62.7659 -64.6800 -62.2187 -64.2301]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [47.1036 11.8210 57.6563 60.7300]
+Aggregate throughput: 177.3109
+Min-Max: 48.9089
+JFI: 0.6952 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -62]
+ [2882]]
+[[-78 -77 -62]
+ [  8  18 791]]
+[[ -79  -78  -62]
+ [   2    1 3419]]
+[[ -76  -62]
+ [   9 3600]]
+Mean PCS: [-62.0000 -62.4871 -62.0146 -62.0349]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 24727
+Node 0, (CST, Tx power, MCS) = (-75.0,  0, 7) - (mean, std): (0.799648357236359963, 0.037476584449793071)    played     4.70 s,        711 time(s)
+Node 0, (CST, Tx power, MCS) = (-74.0,  0, 7) - (mean, std): (0.833687440261644763, 0.025819888974716113)    played     9.14 s,       1499 time(s)
+Node 0, (CST, Tx power, MCS) = (-81.0,  0, 7) - (mean, std): (0.762139574231668226, 0.049751859510499458)    played     3.35 s,        403 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.890658702425256910, 0.011468523392504343)    played    42.80 s,       7602 time(s)
+                                                                                                           played    59.99 s,      10215 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-65.0,  0, 7) - (mean, std): (0.212172043211135308, 0.062378286155180533)    played     2.41 s,        256 time(s)
+Node 1, (CST, Tx power, MCS) = (-66.0,  0, 7) - (mean, std): (0.312868806733517413, 0.025205634593236815)    played    33.28 s,       1573 time(s)
+Node 1, (CST, Tx power, MCS) = (-81.0,  0, 7) - (mean, std): (0.086694616653497023, 0.097590007294853329)    played    21.39 s,        104 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.231502495129491059, 0.052128603514268693)    played     2.90 s,        367 time(s)
+                                                                                                           played    59.99 s,       2300 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-75.0,  0, 7) - (mean, std): (0.068684676599157876, 0.132453235706504385)    played    19.24 s,         56 time(s)
+Node 2, (CST, Tx power, MCS) = (-74.0,  0, 7) - (mean, std): (0.279374265246427056, 0.068199433947047347)    played     4.31 s,        214 time(s)
+Node 2, (CST, Tx power, MCS) = (-72.0,  0, 7) - (mean, std): (0.291551961348674227, 0.061199006136210460)    played     5.16 s,        266 time(s)
+Node 2, (CST, Tx power, MCS) = (-71.0,  0, 7) - (mean, std): (0.283511008692597988, 0.061199006136210460)    played     4.92 s,        266 time(s)
+Node 2, (CST, Tx power, MCS) = (-65.0,  0, 7) - (mean, std): (0.423045916590932713, 0.020076435961970611)    played    18.47 s,       2480 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.401498562751623267, 0.028807560095783870)    played     7.90 s,       1204 time(s)
+                                                                                                           played    60.00 s,       4486 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-64.0,  0, 7) - (mean, std): (0.695674486721030383, 0.024845199749997663)    played     9.95 s,       1619 time(s)
+Node 3, (CST, Tx power, MCS) = (-71.0,  0, 7) - (mean, std): (0.657602978026527230, 0.028891599832849384)    played    11.21 s,       1197 time(s)
+Node 3, (CST, Tx power, MCS) = (-66.0,  0, 7) - (mean, std): (0.726613550399475727, 0.019473541261232866)    played    18.59 s,       2636 time(s)
+Node 3, (CST, Tx power, MCS) = (-73.0,  0, 7) - (mean, std): (0.657105671759645626, 0.027056689037447040)    played    14.59 s,       1365 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.678987297106232290, 0.033149677206589796)    played     5.66 s,        909 time(s)
+                                                                                                           played    59.99 s,       7726 time(s)
+
+Mean throughputs: [54.6064  6.9351 13.5341 36.1822]
+Aggregate throughput: 111.2578
+Min-Max: 47.6713
+JFI: 0.5955 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -81  -75  -74  -62]
+ [ 403  711 1499 7602]]
+[[ -81  -66  -65  -62]
+ [ 104 1573  256  367]]
+[[ -75  -74  -72  -71  -65  -62]
+ [  56  214  266  266 2480 1204]]
+[[ -73  -71  -66  -64  -62]
+ [1365 1197 2636 1619  909]]
+Mean PCS: [-65.4154 -65.9287 -65.5198 -67.1217]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [55.6166  6.8087 18.8373 37.8724]
+Aggregate throughput: 119.1349
+Min-Max: 48.8080
+JFI: 0.6159 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -81  -75  -74  -62]
+ [  35   64  155 3210]]
+[[-81 -66 -65 -62]
+ [  9 597  40  66]]
+[[ -75  -74  -72  -71  -65  -62]
+ [   6   39   64   37 1551  503]]
+[[ -73  -71  -66  -64  -62]
+ [ 166  218 1384  606  303]]
+Mean PCS: [-62.9691 -65.7626 -64.8055 -65.9357]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 32915
+Node 0, (CST, Tx power, MCS) = (-64.0,  0, 7) - (mean, std): (0.114902512524742179, 0.111803398874989482)    played     0.62 s,         79 time(s)
+Node 0, (CST, Tx power, MCS) = (-67.0,  0, 7) - (mean, std): (0.456261287802228632, 0.017342199390482399)    played    36.73 s,       3324 time(s)
+Node 0, (CST, Tx power, MCS) = (-81.0,  0, 7) - (mean, std): (0.065298514614969091, 0.128036879932895975)    played    20.81 s,         60 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.264978141868521810, 0.068518870982753166)    played     1.84 s,        212 time(s)
+                                                                                                           played    60.00 s,       3675 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-80.0,  0, 7) - (mean, std): (0.880350755217499170, 0.024544034683690798)    played    10.16 s,       1659 time(s)
+Node 1, (CST, Tx power, MCS) = (-81.0,  0, 7) - (mean, std): (0.873817561040903024, 0.026234161806670223)    played     9.24 s,       1452 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.931557854205330438, 0.011673770371677328)    played    40.60 s,       7337 time(s)
+                                                                                                           played    60.00 s,      10448 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-67.0,  0, 7) - (mean, std): (0.713205236404667375, 0.012949935201923850)    played    48.51 s,       5962 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.686174479895213629, 0.022479005982349899)    played    11.49 s,       1978 time(s)
+                                                                                                           played    59.99 s,       7940 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.938975755891469199, 0.009598980258503129)    played    60.00 s,      10852 time(s)
+                                                                                                           played    60.00 s,      10852 time(s)
+
+Mean throughputs: [14.7447 58.3929 38.9993 61.0380]
+Aggregate throughput: 173.1749
+Min-Max: 46.2933
+JFI: 0.7001 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -81  -67  -64  -62]
+ [  60 3324   79  212]]
+[[ -81  -80  -62]
+ [1452 1659 7337]]
+[[ -67  -62]
+ [5962 1978]]
+[[  -62]
+ [10852]]
+Mean PCS: [-66.8756 -67.4987 -65.7544 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [24.2091 58.9845 28.3941 61.0530]
+Aggregate throughput: 172.6408
+Min-Max: 36.8439
+JFI: 0.7181 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -81  -67  -64  -62]
+ [   1 1814    5   32]]
+[[ -81  -80  -62]
+ [ 131  144 3248]]
+[[ -67  -62]
+ [1795  289]]
+[[ -62]
+ [3615]]
+Mean PCS: [-66.9131 -63.4422 -66.3066 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 40049
+Node 0, (CST, Tx power, MCS) = (-80.0,  0, 7) - (mean, std): (0.428953733819759708, 0.137360563948689035)    played     2.17 s,         52 time(s)
+Node 0, (CST, Tx power, MCS) = (-79.0,  0, 7) - (mean, std): (0.768260358057611947, 0.048853196874603155)    played     3.29 s,        418 time(s)
+Node 0, (CST, Tx power, MCS) = (-82.0,  0, 7) - (mean, std): (0.216297655003277634, 0.196116135138184045)    played     2.16 s,         25 time(s)
+Node 0, (CST, Tx power, MCS) = (-81.0,  0, 7) - (mean, std): (0.524207879549896894, 0.114707866935280886)    played     2.29 s,         75 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.923184671188768013, 0.010526899013331486)    played    50.09 s,       9023 time(s)
+                                                                                                           played    60.00 s,       9593 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-80.0,  0, 7) - (mean, std): (0.777631696784113591, 0.052704627669472988)    played     2.71 s,        359 time(s)
+Node 1, (CST, Tx power, MCS) = (-81.0,  0, 7) - (mean, std): (0.745667075712292293, 0.062257280636469035)    played     2.26 s,        257 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.933461406332907973, 0.010031649623228890)    played    55.02 s,       9936 time(s)
+                                                                                                           played    60.00 s,      10552 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-80.0,  0, 7) - (mean, std): (0.392624690615439531, 0.123091490979332738)    played     2.50 s,         65 time(s)
+Node 2, (CST, Tx power, MCS) = (-79.0,  0, 7) - (mean, std): (0.562075935508304703, 0.080845208345444328)    played     1.59 s,        152 time(s)
+Node 2, (CST, Tx power, MCS) = (-81.0,  0, 7) - (mean, std): (0.254264963493068430, 0.162221421130762544)    played     5.87 s,         37 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.909445037856768446, 0.010583936671670079)    played    50.04 s,       8926 time(s)
+                                                                                                           played    60.00 s,       9180 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82.0,  0, 7) - (mean, std): (0.656464173506921989, 0.087038827977848926)    played     1.31 s,        131 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.931978303280386444, 0.009715608713370634)    played    58.68 s,      10593 time(s)
+                                                                                                           played    60.00 s,      10724 time(s)
+
+Mean throughputs: [53.0516 59.0383 50.1651 59.9273]
+Aggregate throughput: 222.1823
+Min-Max: 9.7622
+JFI: 0.9316 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -81  -80  -79  -62]
+ [  25   75   52  418 9023]]
+[[ -81  -80  -62]
+ [ 257  359 9936]]
+[[ -81  -80  -79  -62]
+ [  37   65  152 8926]]
+[[  -82   -62]
+ [  131 10593]]
+Mean PCS: [-63.0390 -63.0752 -62.4855 -62.2443]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [57.2903 60.3492 59.0995 60.4811]
+Aggregate throughput: 237.2201
+Min-Max: 3.1908
+JFI: 0.9788 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -80  -79  -62]
+ [   2    4    2 3416]]
+[[ -81  -80  -62]
+ [   6   10 3573]]
+[[ -80  -62]
+ [   1 3542]]
+[[ -82  -62]
+ [   7 3598]]
+Mean PCS: [-62.0426 -62.0819 -62.0051 -62.0388]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 30081
+Node 0, (CST, Tx power, MCS) = (-72.0,  0, 7) - (mean, std): (0.867657572248410669, 0.019634281539316643)    played    15.34 s,       2593 time(s)
+Node 0, (CST, Tx power, MCS) = (-71.0,  0, 7) - (mean, std): (0.880475765022122103, 0.015104775147648125)    played    25.63 s,       4382 time(s)
+Node 0, (CST, Tx power, MCS) = (-76.0,  0, 7) - (mean, std): (0.584493801408436320, 0.088045090632562384)    played     1.53 s,        128 time(s)
+Node 0, (CST, Tx power, MCS) = (-75.0,  0, 7) - (mean, std): (0.596685037305788257, 0.087038827977848926)    played     1.35 s,        131 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.869018699789989801, 0.018851154527185280)    played    16.15 s,       2813 time(s)
+                                                                                                           played    60.00 s,      10047 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-77.0,  0, 7) - (mean, std): (0.652454776378762480, 0.064684622735315084)    played     2.88 s,        238 time(s)
+Node 1, (CST, Tx power, MCS) = (-76.0,  0, 7) - (mean, std): (0.623057737918307541, 0.078326044998795738)    played     1.73 s,        162 time(s)
+Node 1, (CST, Tx power, MCS) = (-75.0,  0, 7) - (mean, std): (0.676165925292877668, 0.064150029909958425)    played     2.40 s,        242 time(s)
+Node 1, (CST, Tx power, MCS) = (-74.0,  0, 7) - (mean, std): (0.861365952895993381, 0.022282825891079321)    played    11.89 s,       2013 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.879681790787372520, 0.011844484241978358)    played    41.09 s,       7127 time(s)
+                                                                                                           played    60.00 s,       9782 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-65.0,  0, 7) - (mean, std): (0.776522672248174617, 0.041239304942116126)    played     3.87 s,        587 time(s)
+Node 2, (CST, Tx power, MCS) = (-75.0,  0, 7) - (mean, std): (0.073982062277951885, 0.229415733870561772)    played     3.45 s,         18 time(s)
+Node 2, (CST, Tx power, MCS) = (-74.0,  0, 7) - (mean, std): (0.469161793775934199, 0.140028008402800969)    played     0.50 s,         50 time(s)
+Node 2, (CST, Tx power, MCS) = (-67.0,  0, 7) - (mean, std): (0.889096928578019363, 0.010654588840823986)    played    50.94 s,       8808 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.692064913836785367, 0.070888120500833596)    played     1.22 s,        198 time(s)
+                                                                                                           played    60.00 s,       9661 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-64.0,  0, 7) - (mean, std): (0.289603005220706144, 0.099014754297667429)    played     7.24 s,        101 time(s)
+Node 3, (CST, Tx power, MCS) = (-77.0,  0, 7) - (mean, std): (0.069692837528914767, 0.176776695296636893)    played    10.26 s,         31 time(s)
+Node 3, (CST, Tx power, MCS) = (-76.0,  0, 7) - (mean, std): (0.300840961304840115, 0.092057461789832332)    played    14.06 s,        117 time(s)
+Node 3, (CST, Tx power, MCS) = (-71.0,  0, 7) - (mean, std): (0.226723847005586981, 0.128036879932895975)    played     8.26 s,         60 time(s)
+Node 3, (CST, Tx power, MCS) = (-70.0,  0, 7) - (mean, std): (0.276662609247745050, 0.107211253483779481)    played     7.63 s,         86 time(s)
+Node 3, (CST, Tx power, MCS) = (-65.0,  0, 7) - (mean, std): (0.295446228181904913, 0.103142124625879336)    played     4.59 s,         93 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.268948727329144210, 0.098058067569092022)    played     7.67 s,        103 time(s)
+                                                                                                           played    59.72 s,        591 time(s)
+
+Mean throughputs: [53.2773 52.0583 51.9797  1.7218]
+Aggregate throughput: 159.0372
+Min-Max: 51.5555
+JFI: 0.6441 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -76  -75  -72  -71  -62]
+ [ 128  131 2593 4382 2813]]
+[[ -77  -76  -75  -74  -62]
+ [ 238  162  242 2013 7127]]
+[[ -75  -74  -67  -65  -62]
+ [  18   50 8808  587  198]]
+[[-77 -76 -71 -70 -65 -64 -62]
+ [ 31 117  60  86  93 101 103]]
+Mean PCS: [-68.8541 -65.3879 -66.8271 -68.4501]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [57.4580 55.5238 58.5912  0.0000]
+Aggregate throughput: 171.5730
+Min-Max: 58.5912
+JFI: 0.6337 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -76  -72  -71  -62]
+ [   2  892 1779  844]]
+[[ -77  -76  -75  -74  -62]
+ [   3    4    1  832 2606]]
+[[ -75  -74  -67  -65  -62]
+ [   1    6 3514   17   12]]
+[[-77 -76 -71 -70 -65 -64 -62]
+ [  5   8   1   1   6   8  11]]
+Mean PCS: [-69.0967 -64.9304 -66.9876 -67.9500]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 33542
+Node 0, (CST, Tx power, MCS) = (-78.0,  0, 7) - (mean, std): (0.605362218836216992, 0.016064386578049976)    played    55.01 s,       3874 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.544379186700550965, 0.036178730264621081)    played     4.99 s,        763 time(s)
+                                                                                                           played    60.00 s,       4637 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-79.0,  0, 7) - (mean, std): (0.761380578680421860, 0.020828813681835669)    played    22.11 s,       2304 time(s)
+Node 1, (CST, Tx power, MCS) = (-78.0,  0, 7) - (mean, std): (0.778541136723749028, 0.014927035850663302)    played    35.54 s,       4487 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.670836864806920952, 0.049629166698546515)    played     2.32 s,        405 time(s)
+                                                                                                           played    59.98 s,       7196 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.939050726847661554, 0.009598095926633500)    played    60.00 s,      10854 time(s)
+                                                                                                           played    60.00 s,      10854 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.939086725686088974, 0.009597653852344219)    played    60.00 s,      10855 time(s)
+                                                                                                           played    60.00 s,      10855 time(s)
+
+Mean throughputs: [24.3776 39.8468 61.0418 61.0455]
+Aggregate throughput: 186.3117
+Min-Max: 36.6679
+JFI: 0.7507 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -78  -62]
+ [3874  763]]
+[[ -79  -78  -62]
+ [2304 4487  405]]
+[[  -62]
+ [10854]]
+[[  -62]
+ [10855]]
+Mean PCS: [-75.3673 -77.4197 -62.0000 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [24.4402 39.7370 61.0497 61.0506]
+Aggregate throughput: 186.2775
+Min-Max: 36.6104
+JFI: 0.7508 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -78  -62]
+ [1383  122]]
+[[ -79  -78  -62]
+ [ 579 1742   48]]
+[[ -62]
+ [3614]]
+[[ -62]
+ [3615]]
+Mean PCS: [-76.7030 -77.9202 -62.0000 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 33129
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.911159736149519950, 0.009752037474421445)    played    60.00 s,      10514 time(s)
+                                                                                                           played    60.00 s,      10514 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-72.0,  0, 7) - (mean, std): (0.419700867792239585, 0.047351372381037836)    played     7.13 s,        445 time(s)
+Node 1, (CST, Tx power, MCS) = (-71.0,  0, 7) - (mean, std): (0.518501136106150895, 0.014917067879033706)    played    50.80 s,       4493 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.363158314746145405, 0.060302268915552723)    played     2.07 s,        274 time(s)
+                                                                                                           played    60.00 s,       5212 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-71.0,  0, 7) - (mean, std): (0.680456253742261152, 0.013134040459920513)    played    54.41 s,       5796 time(s)
+Node 2, (CST, Tx power, MCS) = (-70.0,  0, 7) - (mean, std): (0.575573513631809863, 0.043685202833051898)    played     3.65 s,        523 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.536186105301751814, 0.056254395046301198)    played     1.93 s,        315 time(s)
+                                                                                                           played    59.99 s,       6634 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82.0,  0, 7) - (mean, std): (0.713144413537166733, 0.079305158571814416)    played     1.30 s,        158 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.938793828055302315, 0.009707365442650518)    played    58.70 s,      10611 time(s)
+                                                                                                           played    60.00 s,      10769 time(s)
+
+Mean throughputs: [57.8944 25.0023 35.5525 60.5839]
+Aggregate throughput: 179.0331
+Min-Max: 35.5817
+JFI: 0.7492 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[  -62]
+ [10514]]
+[[ -72  -71  -62]
+ [ 445 4493  274]]
+[[ -71  -70  -62]
+ [5796  523  315]]
+[[  -82   -62]
+ [  158 10611]]
+Mean PCS: [-62.0000 -70.6122 -70.4938 -62.2934]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [60.3667 26.3089 35.6653 60.9707]
+Aggregate throughput: 183.3116
+Min-Max: 34.6618
+JFI: 0.7509 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -62]
+ [3597]]
+[[ -72  -71  -62]
+ [  63 1666   10]]
+[[ -71  -70  -62]
+ [2087   30   17]]
+[[ -82  -62]
+ [   8 3602]]
+Mean PCS: [-62.0000 -70.9845 -70.9142 -62.0443]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 34157
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.938621058255761254, 0.009598095926633500)    played    60.00 s,      10854 time(s)
+                                                                                                           played    60.00 s,      10854 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.938979114077508670, 0.009598095926633500)    played    60.00 s,      10854 time(s)
+                                                                                                           played    60.00 s,      10854 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-76.0,  0, 7) - (mean, std): (0.794107100224516693, 0.022587697572631283)    played    17.18 s,       1959 time(s)
+Node 2, (CST, Tx power, MCS) = (-75.0,  0, 7) - (mean, std): (0.819492915819555856, 0.013556907631619207)    played    39.37 s,       5440 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.734925823840069437, 0.042485928866208736)    played     3.45 s,        553 time(s)
+                                                                                                           played    60.00 s,       7952 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-75.0,  0, 7) - (mean, std): (0.506594624446636055, 0.020161945963637795)    played    44.34 s,       2459 time(s)
+Node 3, (CST, Tx power, MCS) = (-74.0,  0, 7) - (mean, std): (0.442575028555862338, 0.042640143271122088)    played     4.55 s,        549 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.484653397434776978, 0.025906388007541990)    played    11.10 s,       1489 time(s)
+                                                                                                           played    59.99 s,       4497 time(s)
+
+Mean throughputs: [61.0134 61.0387 43.8720 19.9657]
+Aggregate throughput: 185.8898
+Min-Max: 41.0731
+JFI: 0.7341 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[  -62]
+ [10854]]
+[[  -62]
+ [10854]]
+[[ -76  -75  -62]
+ [1959 5440  553]]
+[[ -75  -74  -62]
+ [2459  549 1489]]
+Mean PCS: [-62.0000 -62.0000 -74.3423 -70.5735]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [61.0417 61.0474 43.8959 19.7533]
+Aggregate throughput: 185.7383
+Min-Max: 41.2940
+JFI: 0.7329 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -62]
+ [3614]]
+[[ -62]
+ [3615]]
+[[ -76  -75  -62]
+ [ 483 2061   77]]
+[[-75 -74 -62]
+ [941 114 351]]
+Mean PCS: [-62.0000 -62.0000 -74.8024 -71.6735]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 21906
+Node 0, (CST, Tx power, MCS) = (-77.0,  0, 7) - (mean, std): (0.331459977998665556, 0.162221421130762544)    played     0.64 s,         37 time(s)
+Node 0, (CST, Tx power, MCS) = (-74.0,  0, 7) - (mean, std): (0.434382706106152816, 0.129099444873580549)    played     0.83 s,         59 time(s)
+Node 0, (CST, Tx power, MCS) = (-73.0,  0, 7) - (mean, std): (0.723913176868056008, 0.062622429108514954)    played     1.95 s,        254 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.880461299444300627, 0.010014029468768495)    played    56.57 s,       9971 time(s)
+                                                                                                           played    60.00 s,      10321 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-74.0,  0, 7) - (mean, std): (0.167711167865043975, 0.134839972492648424)    played     4.13 s,         54 time(s)
+Node 1, (CST, Tx power, MCS) = (-73.0,  0, 7) - (mean, std): (0.550245635062751703, 0.015175922164473119)    played    49.76 s,       4341 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.507388791566357300, 0.043852900965351459)    played     6.11 s,        519 time(s)
+                                                                                                           played    60.00 s,       4914 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-74.0,  0, 7) - (mean, std): (0.149818011371424614, 0.121267812518166485)    played    12.00 s,         67 time(s)
+Node 2, (CST, Tx power, MCS) = (-73.0,  0, 7) - (mean, std): (0.443516050681195262, 0.025540472211939846)    played    20.62 s,       1532 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.445677780530201906, 0.021837392736013945)    played    27.37 s,       2096 time(s)
+                                                                                                           played    60.00 s,       3695 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-77.0,  0, 7) - (mean, std): (0.202203901687945636, 0.090166963466743230)    played    20.06 s,        122 time(s)
+Node 3, (CST, Tx power, MCS) = (-76.0,  0, 7) - (mean, std): (0.425217905971404797, 0.025078493128775955)    played    22.53 s,       1589 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.421674769591369236, 0.028104971365967134)    played    17.39 s,       1265 time(s)
+                                                                                                           played    59.98 s,       2976 time(s)
+
+Mean throughputs: [54.7516 23.9711 17.1886 13.7207]
+Aggregate throughput: 109.6320
+Min-Max: 41.0309
+JFI: 0.6283 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -77  -74  -73  -62]
+ [  37   59  254 9971]]
+[[ -74  -73  -62]
+ [  54 4341  519]]
+[[ -74  -73  -62]
+ [  67 1532 2096]]
+[[ -77  -76  -62]
+ [ 122 1589 1265]]
+Mean PCS: [-62.3931 -71.8492 -66.7783 -70.0901]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [56.6888 19.4009 16.7679 18.0086]
+Aggregate throughput: 110.8663
+Min-Max: 39.9209
+JFI: 0.6233 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -73  -62]
+ [  11 3522]]
+[[ -74  -73  -62]
+ [   3 1209  175]]
+[[-74 -73 -62]
+ [  7 551 670]]
+[[-77 -76 -62]
+ [  4 711 588]]
+Mean PCS: [-62.0342 -71.6143 -67.0041 -69.6853]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 27797
+Node 0, (CST, Tx power, MCS) = (-76.0,  0, 7) - (mean, std): (0.709136775935883867, 0.013334518676566626)    played    58.19 s,       5623 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.593776557237149616, 0.064018439966447988)    played     1.77 s,        243 time(s)
+                                                                                                           played    59.96 s,       5866 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-80.0,  0, 7) - (mean, std): (0.708282367251929168, 0.017897136508262645)    played    34.16 s,       3121 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.875923855070118718, 0.014828245646514833)    played    25.84 s,       4547 time(s)
+                                                                                                           played    60.00 s,       7668 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-80.0,  0, 7) - (mean, std): (0.674707185139437282, 0.033022909334191324)    played     9.10 s,        916 time(s)
+Node 2, (CST, Tx power, MCS) = (-82.0,  0, 7) - (mean, std): (0.510924501957306654, 0.076249285166302333)    played     4.39 s,        171 time(s)
+Node 2, (CST, Tx power, MCS) = (-81.0,  0, 7) - (mean, std): (0.497573904787040944, 0.087705801930702917)    played     4.05 s,        129 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.844931035871294256, 0.011656310103003923)    played    42.45 s,       7359 time(s)
+                                                                                                           played    60.00 s,       8575 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-76.0,  0, 7) - (mean, std): (0.654955959762141271, 0.014091497219388540)    played    49.30 s,       5035 time(s)
+Node 3, (CST, Tx power, MCS) = (-81.0,  0, 7) - (mean, std): (0.466901605810292830, 0.057259833431386825)    played     8.43 s,        304 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.510074761065049009, 0.053452248382484878)    played     2.26 s,        349 time(s)
+                                                                                                           played    59.99 s,       5688 time(s)
+
+Mean throughputs: [32.5133 41.6727 44.6107 29.1426]
+Aggregate throughput: 147.9394
+Min-Max: 15.4681
+JFI: 0.8533 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -76  -62]
+ [5623  243]]
+[[ -80  -62]
+ [3121 4547]]
+[[ -82  -81  -80  -62]
+ [ 171  129  916 7359]]
+[[ -81  -76  -62]
+ [ 304 5035  349]]
+Mean PCS: [-75.4200 -69.3263 -64.6075 -75.4082]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [26.8190 57.8023 59.9158 34.0940]
+Aggregate throughput: 178.6310
+Min-Max: 33.0968
+JFI: 0.7555 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -76  -62]
+ [1564   35]]
+[[ -80  -62]
+ [  23 3473]]
+[[ -80  -62]
+ [   3 3591]]
+[[ -81  -76  -62]
+ [   2 2172   20]]
+Mean PCS: [-75.6936 -62.1184 -62.0150 -75.8769]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 42512
+Node 0, (CST, Tx power, MCS) = (-78.0,  0, 7) - (mean, std): (0.498306282460487304, 0.075809804357890337)    played     3.19 s,        173 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.906668338397524032, 0.010040747710110163)    played    56.81 s,       9918 time(s)
+                                                                                                           played    60.00 s,      10091 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-78.0,  0, 7) - (mean, std): (0.719601943458902715, 0.066666666666666666)    played     1.90 s,        224 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.933063062005067501, 0.009761790210957045)    played    58.10 s,      10493 time(s)
+                                                                                                           played    60.00 s,      10717 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.938051303294272443, 0.009598980258503129)    played    60.00 s,      10852 time(s)
+                                                                                                           played    60.00 s,      10852 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.936929002174919923, 0.009598980258503129)    played    60.00 s,      10852 time(s)
+                                                                                                           played    60.00 s,      10852 time(s)
+
+Mean throughputs: [55.3043 59.9096 60.9762 60.9023]
+Aggregate throughput: 237.0924
+Min-Max: 5.6719
+JFI: 0.9622 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -78  -62]
+ [ 173 9918]]
+[[  -78   -62]
+ [  224 10493]]
+[[  -62]
+ [10852]]
+[[  -62]
+ [10852]]
+Mean PCS: [-62.2743 -62.3344 -62.0000 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [60.3086 60.7558 61.0394 60.8016]
+Aggregate throughput: 242.9054
+Min-Max: 0.7308
+JFI: 0.9957 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -62]
+ [3596]]
+[[ -78  -62]
+ [   1 3610]]
+[[ -62]
+ [3614]]
+[[ -62]
+ [3614]]
+Mean PCS: [-62.0000 -62.0044 -62.0000 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 33561
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.939025973137548098, 0.009598538062015112)    played    60.00 s,      10853 time(s)
+                                                                                                           played    60.00 s,      10853 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.939021772610754146, 0.009598538062015112)    played    60.00 s,      10853 time(s)
+                                                                                                           played    60.00 s,      10853 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-78.0,  0, 7) - (mean, std): (0.590601494435621599, 0.016464391042624250)    played    55.13 s,       3688 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.538027479523740415, 0.036735917918532250)    played     4.83 s,        740 time(s)
+                                                                                                           played    59.96 s,       4428 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-79.0,  0, 7) - (mean, std): (0.759758426855123181, 0.024318019154289876)    played    16.36 s,       1690 time(s)
+Node 3, (CST, Tx power, MCS) = (-78.0,  0, 7) - (mean, std): (0.790503175778245026, 0.013868838511914105)    played    40.49 s,       5198 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.705786934960688228, 0.043033148291193521)    played     3.14 s,        539 time(s)
+                                                                                                           played    60.00 s,       7427 time(s)
+
+Mean throughputs: [61.0400 61.0400 23.2499 41.0848]
+Aggregate throughput: 186.4148
+Min-Max: 37.7901
+JFI: 0.7474 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[  -62]
+ [10853]]
+[[  -62]
+ [10853]]
+[[ -78  -62]
+ [3688  740]]
+[[ -79  -78  -62]
+ [1690 5198  539]]
+Mean PCS: [-62.0000 -62.0000 -75.3261 -77.0664]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [61.0467 61.0428 21.9506 42.4455]
+Aggregate throughput: 186.4855
+Min-Max: 39.0961
+JFI: 0.7428 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -62]
+ [3614]]
+[[ -62]
+ [3615]]
+[[ -78  -62]
+ [1230  138]]
+[[ -79  -78  -62]
+ [ 345 2127   55]]
+Mean PCS: [-62.0000 -62.0000 -76.3860 -77.7883]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 34053
+Node 0, (CST, Tx power, MCS) = (-72.0,  0, 7) - (mean, std): (0.706179061705572875, 0.030513909884867671)    played     6.41 s,       1073 time(s)
+Node 0, (CST, Tx power, MCS) = (-73.0,  0, 7) - (mean, std): (0.729779758777606258, 0.017969227094577368)    played    31.08 s,       3096 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.854539776645020122, 0.015907119074394443)    played    22.50 s,       3951 time(s)
+                                                                                                           played    60.00 s,       8120 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-77.0,  0, 7) - (mean, std): (0.538069748285213145, 0.067728546147859642)    played     5.69 s,        217 time(s)
+Node 1, (CST, Tx power, MCS) = (-76.0,  0, 7) - (mean, std): (0.529270205972126262, 0.077849894416152296)    played     3.28 s,        164 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.862954968535881606, 0.010614299876803856)    played    51.03 s,       8875 time(s)
+                                                                                                           played    60.00 s,       9256 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-76.0,  0, 7) - (mean, std): (0.442380320087861767, 0.084818892967997092)    played     6.21 s,        138 time(s)
+Node 2, (CST, Tx power, MCS) = (-75.0,  0, 7) - (mean, std): (0.520619970515612485, 0.061545745489666369)    played     4.85 s,        263 time(s)
+Node 2, (CST, Tx power, MCS) = (-73.0,  0, 7) - (mean, std): (0.633385072985547581, 0.030743773095067282)    played    11.19 s,       1057 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.737774662543663862, 0.012566940154186836)    played    37.74 s,       6331 time(s)
+                                                                                                           played    59.99 s,       7789 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-77.0,  0, 7) - (mean, std): (0.684704441973709832, 0.043396303660274624)    played     6.95 s,        530 time(s)
+Node 3, (CST, Tx power, MCS) = (-76.0,  0, 7) - (mean, std): (0.744419975086004881, 0.024404766228169006)    played    14.46 s,       1678 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.862965678361785948, 0.012234303898769313)    played    38.59 s,       6680 time(s)
+                                                                                                           played    60.00 s,       8888 time(s)
+
+Mean throughputs: [42.4048 48.7082 36.9817 47.3925]
+Aggregate throughput: 175.4872
+Min-Max: 11.7266
+JFI: 0.9047 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -73  -72  -62]
+ [3096 1073 3951]]
+[[ -77  -76  -62]
+ [ 217  164 8875]]
+[[ -76  -75  -73  -62]
+ [ 138  263 1057 6331]]
+[[ -77  -76  -62]
+ [ 530 1678 6680]]
+Mean PCS: [-67.5155 -62.5997 -64.1797 -65.5376]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [54.1605 59.9747 45.9547 57.6530]
+Aggregate throughput: 217.7429
+Min-Max: 14.0200
+JFI: 0.9110 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -73  -72  -62]
+ [ 128   54 3201]]
+[[ -62]
+ [3598]]
+[[ -76  -75  -73  -62]
+ [   2    1    4 3320]]
+[[ -77  -76  -62]
+ [   2    4 3508]]
+Mean PCS: [-62.5758 -62.0000 -62.0255 -62.0245]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 33575
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.939100954200499660, 0.009597653852344219)    played    60.00 s,      10855 time(s)
+                                                                                                           played    60.00 s,      10855 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-77.0,  0, 7) - (mean, std): (0.622080621491569730, 0.018679356335414059)    played    29.71 s,       2865 time(s)
+Node 1, (CST, Tx power, MCS) = (-76.0,  0, 7) - (mean, std): (0.622480552032875889, 0.019145989526687088)    played    28.42 s,       2727 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.487082201751552701, 0.059028133610095526)    played     1.87 s,        286 time(s)
+                                                                                                           played    60.00 s,       5878 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.938933477295485153, 0.009598538062015112)    played    60.00 s,      10853 time(s)
+                                                                                                           played    60.00 s,      10853 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-76.0,  0, 7) - (mean, std): (0.627721855613869395, 0.013441297309091865)    played    57.02 s,       5534 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.521970612897792785, 0.046829290579084699)    played     2.98 s,        455 time(s)
+                                                                                                           played    59.99 s,       5989 time(s)
+
+Mean throughputs: [61.0453 32.3117 61.0358 32.6340]
+Aggregate throughput: 187.0268
+Min-Max: 28.7336
+JFI: 0.7660 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[  -62]
+ [10855]]
+[[ -77  -76  -62]
+ [2865 2727  286]]
+[[  -62]
+ [10853]]
+[[ -76  -62]
+ [5534  455]]
+Mean PCS: [-62.0000 -75.8062 -62.0000 -74.9364]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [61.0425 31.7564 61.0316 33.5362]
+Aggregate throughput: 187.3667
+Min-Max: 29.2861
+JFI: 0.7673 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -62]
+ [3614]]
+[[-77 -76 -62]
+ [948 923  27]]
+[[ -62]
+ [3613]]
+[[ -76  -62]
+ [1965   32]]
+Mean PCS: [-62.0000 -76.3003 -62.0000 -75.7757]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 35732
+Node 0, (CST, Tx power, MCS) = (-80.0,  0, 7) - (mean, std): (0.216372156233788998, 0.166666666666666657)    played     8.78 s,         35 time(s)
+Node 0, (CST, Tx power, MCS) = (-76.0,  0, 7) - (mean, std): (0.508014146518064313, 0.080845208345444328)    played     2.52 s,        152 time(s)
+Node 0, (CST, Tx power, MCS) = (-81.0,  0, 7) - (mean, std): (0.202818407325919714, 0.174077655955697852)    played     8.58 s,         32 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.827711459286235685, 0.012131242087447317)    played    40.11 s,       6794 time(s)
+                                                                                                           played    59.99 s,       7013 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.938527689071287141, 0.009598538062015112)    played    60.00 s,      10853 time(s)
+                                                                                                           played    60.00 s,      10853 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-77.0,  0, 7) - (mean, std): (0.752833346767377787, 0.024346831983299171)    played    17.13 s,       1686 time(s)
+Node 2, (CST, Tx power, MCS) = (-76.0,  0, 7) - (mean, std): (0.760469692616135506, 0.022054054569561544)    played    17.06 s,       2055 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.798265167017217281, 0.015210994830072745)    played    25.80 s,       4321 time(s)
+                                                                                                           played    59.99 s,       8062 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-81.0,  0, 7) - (mean, std): (0.810707949838818664, 0.025245764589341441)    played    12.96 s,       1568 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.882420227656612322, 0.011018322176109430)    played    47.04 s,       8236 time(s)
+                                                                                                           played    60.00 s,       9804 time(s)
+
+Mean throughputs: [35.6349 61.0073 41.8073 52.8513]
+Aggregate throughput: 191.3008
+Min-Max: 25.3724
+JFI: 0.8300 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -81  -80  -76  -62]
+ [  32   35  152 6794]]
+[[  -62]
+ [10853]]
+[[ -77  -76  -62]
+ [1686 2055 4321]]
+[[ -81  -62]
+ [1568 8236]]
+Mean PCS: [-62.4800 -62.0000 -68.7055 -65.0388]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [56.3096 61.0047 34.2752 55.1912]
+Aggregate throughput: 206.7807
+Min-Max: 26.7296
+JFI: 0.8340 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -76  -62]
+ [   2 3509]]
+[[ -62]
+ [3614]]
+[[ -77  -76  -62]
+ [ 216  328 1809]]
+[[ -81  -62]
+ [  38 3368]]
+Mean PCS: [-62.0080 -62.0000 -65.3285 -62.2120]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 31512
+Node 0, (CST, Tx power, MCS) = (-82.0,  0, 7) - (mean, std): (0.628434015375550437, 0.103142124625879336)    played     1.17 s,         93 time(s)
+Node 0, (CST, Tx power, MCS) = (-81.0,  0, 7) - (mean, std): (0.528153691381762824, 0.125000000000000000)    played     0.96 s,         63 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.936902282854561785, 0.009779980332479328)    played    57.87 s,      10454 time(s)
+                                                                                                           played    60.00 s,      10610 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82.0,  0, 7) - (mean, std): (0.544571494337289352, 0.072932495748947279)    played     3.16 s,        187 time(s)
+Node 1, (CST, Tx power, MCS) = (-81.0,  0, 7) - (mean, std): (0.586431921789114741, 0.063887656499993992)    played     3.04 s,        244 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.892827564995870904, 0.010347288589592779)    played    53.80 s,       9339 time(s)
+                                                                                                           played    60.00 s,       9770 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82.0,  0, 7) - (mean, std): (0.168369090818905498, 0.124034734589208454)    played    16.62 s,         64 time(s)
+Node 2, (CST, Tx power, MCS) = (-81.0,  0, 7) - (mean, std): (0.143609118620106613, 0.129099444873580549)    played    17.08 s,         59 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.518611558464901812, 0.020121090914638342)    played    26.29 s,       2469 time(s)
+                                                                                                           played    59.99 s,       2592 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-62.0,  0, 7) - (mean, std): (0.811218558799043366, 0.010820457886019924)    played    60.00 s,       8540 time(s)
+                                                                                                           played    60.00 s,       8540 time(s)
+
+Mean throughputs: [59.5822 53.0290 12.6278 46.2678]
+Aggregate throughput: 171.5067
+Min-Max: 46.9543
+JFI: 0.7033 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[  -82   -81   -62]
+ [   93    63 10454]]
+[[ -82  -81  -62]
+ [ 187  244 9339]]
+[[ -82  -81  -62]
+ [  64   59 2469]]
+[[ -62]
+ [8540]]
+Mean PCS: [-62.2881 -62.8573 -62.9263 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [60.7309 60.2241 22.5540 34.5203]
+Aggregate throughput: 178.0294
+Min-Max: 38.1768
+JFI: 0.7293 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -81  -62]
+ [   1    3 3597]]
+[[ -62]
+ [3595]]
+[[ -82  -81  -62]
+ [   4    5 1550]]
+[[ -62]
+ [2230]]
+Mean PCS: [-62.0214 -62.0000 -62.1123 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]

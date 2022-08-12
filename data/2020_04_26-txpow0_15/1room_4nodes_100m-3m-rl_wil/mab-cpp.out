@@ -1,0 +1,1900 @@
+Waf: Entering directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Waf: Leaving directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Build commands will be stored in build/optimized/compile_commands.json
+'build' finished successfully (0.810s)
+Standard                        802.11ac
+Channel number                        36
+Simulation time (s)                  100
+Nb of nodes                            8
+Nb of STAs per AP                      1
+Seed                                   1
+CST (dBm)                            -82
+AP Tx power (dBm)                      0
+STA Tx power (dBm)                     0
+
+Node     CST (dBm)     Tx power (dBm)     IP address           x           y           z
+   0           -82                  0       10.1.1.1      65.109      70.744       1.500
+   1           -82                  0       10.1.1.2      62.509      72.240       1.500
+   2           -82                  0       10.1.2.1      30.583      51.042       1.500
+   3           -82                  0       10.1.2.2      33.042      49.323       1.500
+   4           -82                  0       10.1.3.1      63.822      34.018       1.500
+   5           -82                  0       10.1.3.2      61.430      32.208       1.500
+   6           -82                  0       10.1.4.1      45.935      64.026       1.500
+   7           -82                  0       10.1.4.2      44.911      66.846       1.500
+
+Ns3Env parameters:
+OpenGym port: 50000
+Environment step time: 0.01
+Wilhelmi: 1
+
+MabGym pre-start
+MabGym start
+
+Flow 5 (10.1.1.1 -> 10.1.1.2)
+  Rx / Tx Packets               :   496826  /     534988      Lost packets (per reason code):   32713 ()
+  Rx / Tx Bytes                 :745239000  /  802482000
+  Throughput / TxOffered (Mbps) :  59.6191  /    64.1987
+Flow 6 (10.1.2.1 -> 10.1.2.2)
+  Rx / Tx Packets               :   495718  /     534996      Lost packets (per reason code):   33722 ()
+  Rx / Tx Bytes                 :743577000  /  802494000
+  Throughput / TxOffered (Mbps) :  59.4862  /    64.1997
+Flow 7 (10.1.3.1 -> 10.1.3.2)
+  Rx / Tx Packets               :   495863  /     535005      Lost packets (per reason code):   33433 ()
+  Rx / Tx Bytes                 :743794500  /  802507500
+  Throughput / TxOffered (Mbps) :  59.5036  /    64.2008
+Flow 8 (10.1.4.1 -> 10.1.4.2)
+  Rx / Tx Packets               :     2024  /     535013      Lost packets (per reason code):  532989 (0 / 0 / 0 / 0 / 479351)
+  Rx / Tx Bytes                 :  3036000  /  802519500
+  Throughput / TxOffered (Mbps) :  0.24288  /    64.2018
+
+Aggregate throughput: 178.852
+
+Node           IDLE       CCA_BUSY             TX             RX      (RX ok)          RX_ME        RX_SBSS        RX_OBSS
+                                                                     (RX err)
+   0     2.53626211     0.70480613    96.13882800     0.64536000                  0.22066400     0.00000000     0.09347600
+                                                                                  0.00027600     0.00000000     0.33094400
+
+   1     0.04867367     3.78277457     0.57922000    95.60926400                 94.48796400     0.00000000     0.33430000
+                                                                                  0.25555200     0.00000000     0.53144800
+
+   2     2.64697575     0.71479894    95.99992000     0.69903600                  0.22158800     0.00000000     0.09859600
+                                                                                  0.00054000     0.00000000     0.37831200
+
+   3     0.08878832     3.90357838     0.58035600    95.48800800                 94.26756000     0.00000000     0.32157200
+                                                                                  0.19698800     0.00000000     0.70188800
+
+   4     2.56581324     0.92945039    96.07908400     0.43052400                  0.22033200     0.00000000     0.00154000
+                                                                                  0.00000000     0.00000000     0.20865200
+
+   5     0.04346289     4.10753674     0.57783200    95.27071600                 94.30984400     0.00000000     0.23167200
+                                                                                  0.22399200     0.00000000     0.50520800
+
+   6     0.19241956    85.22881652     0.85792800     3.66865200                  0.00489600     0.00000000     0.17328400
+                                                                                  0.00007200     0.00000000     3.49040000
+
+   7     0.08794513    85.45116295     0.00820800     4.40050000                  0.41392400     0.00000000     0.22391600
+                                                                                  0.31430800     0.00000000     3.44835200
+
+
+Node      Mac Tx                         Tx                       TxOk                        ACK                Mac Rx                   Mac Rx drop
+         packets          bytes     packets          bytes     packets          bytes    received    missed     packets          bytes        packets          bytes
+
+   0      534988      806761904      500792      755194336      496182      748242456       17725       161           0              0              0              0
+   1           0              0           0              0           0              0           0         0      496826      749213608              0              0
+   2      534996      806773968      499989      753983412      494458      745642664       17662       198           0              0              0              0
+   3           0              0           0              0           0              0           0         0      495718      747542744              0              0
+   4      535005      806787540      500418      754630344      495863      747761404       17713       159           0              0              0              0
+   5           0              0           0              0           0              0           0         0      495863      747761404              0              0
+   6       45421       68494868        4122        6215976        1892        2853136          72        77           0              0              0              0
+   7           0              0           0              0           0              0           0         0        2024        3052192              0              0
+
+Node 0 Tx throughput:   59.8594 Mbps          Last 20 seconds:   60.8026 Mbps
+Node 2 Tx throughput:   59.6514 Mbps          Last 20 seconds:   60.7688 Mbps
+Node 4 Tx throughput:   59.8209 Mbps          Last 20 seconds:   60.6843 Mbps
+Node 6 Tx throughput:  0.228251 Mbps          Last 20 seconds:         0 Mbps
+Aggregate throughput:    179.56 Mbps          Last 20 seconds:   182.256 Mbps
+Waf: Entering directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Waf: Leaving directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Build commands will be stored in build/optimized/compile_commands.json
+'build' finished successfully (1.096s)
+Standard                        802.11ac
+Channel number                        36
+Simulation time (s)                  100
+Nb of nodes                            8
+Nb of STAs per AP                      1
+Seed                                   2
+CST (dBm)                            -82
+AP Tx power (dBm)                      0
+STA Tx power (dBm)                     0
+
+Node     CST (dBm)     Tx power (dBm)     IP address           x           y           z
+   0           -82                  0       10.1.1.1      14.577      20.528       1.500
+   1           -82                  0       10.1.1.2      15.435      17.654       1.500
+   2           -82                  0       10.1.2.1      84.935      19.497       1.500
+   3           -82                  0       10.1.2.2      82.420      17.862       1.500
+   4           -82                  0       10.1.3.1      69.810      78.522       1.500
+   5           -82                  0       10.1.3.2      71.550      76.078       1.500
+   6           -82                  0       10.1.4.1      49.254      69.295       1.500
+   7           -82                  0       10.1.4.2      51.431      67.231       1.500
+
+Ns3Env parameters:
+OpenGym port: 50000
+Environment step time: 0.01
+Wilhelmi: 1
+
+MabGym pre-start
+MabGym start
+
+Flow 5 (10.1.1.1 -> 10.1.1.2)
+  Rx / Tx Packets               :   491839  /     534988      Lost packets (per reason code):   36978 ()
+  Rx / Tx Bytes                 :737758500  /  802482000
+  Throughput / TxOffered (Mbps) :  59.0207  /    64.1987
+Flow 6 (10.1.2.1 -> 10.1.2.2)
+  Rx / Tx Packets               :   491342  /     534996      Lost packets (per reason code):   37629 ()
+  Rx / Tx Bytes                 :737013000  /  802494000
+  Throughput / TxOffered (Mbps) :   58.961  /    64.1997
+Flow 7 (10.1.3.1 -> 10.1.3.2)
+  Rx / Tx Packets               :   450830  /     535005      Lost packets (per reason code):   75782 ()
+  Rx / Tx Bytes                 :676245000  /  802507500
+  Throughput / TxOffered (Mbps) :  54.0996  /    64.2008
+Flow 8 (10.1.4.1 -> 10.1.4.2)
+  Rx / Tx Packets               :   440791  /     535013      Lost packets (per reason code):   85849 ()
+  Rx / Tx Bytes                 :661186500  /  802519500
+  Throughput / TxOffered (Mbps) :  52.8949  /    64.2018
+
+Aggregate throughput: 224.976
+
+Node           IDLE       CCA_BUSY             TX             RX      (RX ok)          RX_ME        RX_SBSS        RX_OBSS
+                                                                     (RX err)
+   0     2.65119890     1.85299830    95.19820000     0.32686000                  0.32686000     0.00000000     0.00000000
+                                                                                  0.00000000     0.00000000     0.00000000
+
+   1     0.73436471     4.15832449     0.72840000    94.40284400                 94.17274400     0.00000000     0.23010000
+                                                                                  0.00000000     0.00000000     0.00000000
+
+   2     2.48366815     1.55225431    95.78124400     0.23888800                  0.23888800     0.00000000     0.00000000
+                                                                                  0.00000000     0.00000000     0.00000000
+
+   3     0.35347157     4.56576690     0.60417200    94.52732000                 94.29792800     0.00000000     0.22939200
+                                                                                  0.00000000     0.00000000     0.00000000
+
+   4     5.61905642     0.95382125    92.44840800     1.04927600                  0.31681200     0.00000000     0.09411600
+                                                                                  0.02608800     0.00000000     0.61226000
+
+   5     0.34740289     6.25999878     0.72756000    92.73027600                 85.92946800     0.00000000     0.46494000
+                                                                                  0.71380000     0.00000000     5.62206800
+
+   6     6.68940349     0.74786059    91.57082000     1.02162400                  0.32967200     0.00000000     0.07173200
+                                                                                  0.02925600     0.00000000     0.59096400
+
+   7     0.28860692     6.61655715     0.74492800    92.37429200                 84.00393200     0.00000000     0.48062800
+                                                                                  0.66550000     0.00000000     7.22423200
+
+
+Node      Mac Tx                         Tx                       TxOk                        ACK                Mac Rx                   Mac Rx drop
+         packets          bytes     packets          bytes     packets          bytes    received    missed     packets          bytes        packets          bytes
+
+   0      534988      806761904      495297      746907876      491811      741650988       17683        17           0              0              0              0
+   1           0              0           0              0           0              0           0         0      491839      741693212              0              0
+   2      534996      806773968      498880      752311040      491286      740859288       17712       110           0              0              0              0
+   3           0              0           0              0           0              0           0         0      491342      740943736              0              0
+   4      535005      806787540      477208      719629664      390240      588481920       13945      3100           0              0              0              0
+   5           0              0           0              0           0              0           0         0      450830      679851640              0              0
+   6      535013      806799604      471140      710479120      372647      561951676       13325      3509           0              0              0              0
+   7           0              0           0              0           0              0           0         0      440791      664712828              0              0
+
+Node 0 Tx throughput:   59.3321 Mbps          Last 20 seconds:   59.9358 Mbps
+Node 2 Tx throughput:   59.2687 Mbps          Last 20 seconds:   60.3839 Mbps
+Node 4 Tx throughput:   47.0786 Mbps          Last 20 seconds:    48.642 Mbps
+Node 6 Tx throughput:   44.9561 Mbps          Last 20 seconds:   47.6287 Mbps
+Aggregate throughput:   210.636 Mbps          Last 20 seconds:    216.59 Mbps
+Waf: Entering directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Waf: Leaving directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Build commands will be stored in build/optimized/compile_commands.json
+'build' finished successfully (1.152s)
+Standard                        802.11ac
+Channel number                        36
+Simulation time (s)                  100
+Nb of nodes                            8
+Nb of STAs per AP                      1
+Seed                                   3
+CST (dBm)                            -82
+AP Tx power (dBm)                      0
+STA Tx power (dBm)                     0
+
+Node     CST (dBm)     Tx power (dBm)     IP address           x           y           z
+   0           -82                  0       10.1.1.1      72.491      23.473       1.500
+   1           -82                  0       10.1.1.2      74.643      25.564       1.500
+   2           -82                  0       10.1.2.1      18.091      54.356       1.500
+   3           -82                  0       10.1.2.2      17.530      57.304       1.500
+   4           -82                  0       10.1.3.1      77.320      21.200       1.500
+   5           -82                  0       10.1.3.2      78.847      23.783       1.500
+   6           -82                  0       10.1.4.1      69.960      51.327       1.500
+   7           -82                  0       10.1.4.2      68.042      49.020       1.500
+
+Ns3Env parameters:
+OpenGym port: 50000
+Environment step time: 0.01
+Wilhelmi: 1
+
+MabGym pre-start
+MabGym start
+
+Flow 5 (10.1.1.1 -> 10.1.1.2)
+  Rx / Tx Packets               :   129709  /     534988      Lost packets (per reason code):  364261 ()
+  Rx / Tx Bytes                 :194563500  /  802482000
+  Throughput / TxOffered (Mbps) :  15.5651  /    64.1987
+Flow 6 (10.1.2.1 -> 10.1.2.2)
+  Rx / Tx Packets               :   493512  /     534996      Lost packets (per reason code):   35753 ()
+  Rx / Tx Bytes                 :740268000  /  802494000
+  Throughput / TxOffered (Mbps) :  59.2214  /    64.1997
+Flow 7 (10.1.3.1 -> 10.1.3.2)
+  Rx / Tx Packets               :   327743  /     535005      Lost packets (per reason code):  184766 ()
+  Rx / Tx Bytes                 :491614500  /  802507500
+  Throughput / TxOffered (Mbps) :  39.3292  /    64.2008
+Flow 8 (10.1.4.1 -> 10.1.4.2)
+  Rx / Tx Packets               :   477835  /     535013      Lost packets (per reason code):   50092 ()
+  Rx / Tx Bytes                 :716752500  /  802519500
+  Throughput / TxOffered (Mbps) :  57.3402  /    64.2018
+
+Aggregate throughput: 171.456
+
+Node           IDLE       CCA_BUSY             TX             RX      (RX ok)          RX_ME        RX_SBSS        RX_OBSS
+                                                                     (RX err)
+   0     2.66167851     1.97940190    31.39222800    63.98608000                  0.11308800     0.00000000    63.03622400
+                                                                                  0.00000000     0.00000000     0.83676800
+
+   1     0.17591481     5.75450960     0.23374400    93.85522000                 24.76972800     0.00000000    62.72024000
+                                                                                  4.42443600     0.00000000     1.94081600
+
+   2     2.57971741     1.33478581    95.81674000     0.33710000                  0.24517200     0.00000000     0.00027200
+                                                                                  0.00000000     0.00000000     0.09165600
+
+   3     0.32544441     3.99045482     0.61378000    95.13334000                 94.56558400     0.00000000     0.23058800
+                                                                                  0.02148800     0.00000000     0.31568000
+
+   4     2.84735501     0.91179741    69.38494000    26.88062000                  0.19881600     0.00000000    25.56758400
+                                                                                  0.00000000     0.00000000     1.11422000
+
+   5     0.18778524     7.29049917     0.46051600    92.08058800                 62.44253200     0.00000000    24.66138800
+                                                                                  2.19348800     0.00000000     2.78318000
+
+   6     3.97430026     0.50781410    94.80859200     0.73394000                  0.22974400     0.00000000     0.00364400
+                                                                                  0.00009600     0.00000000     0.50045600
+
+   7     0.09571247     4.54368590     0.58196000    94.79796400                 90.95498400     0.00000000     0.22935600
+                                                                                  0.20155200     0.00000000     3.41207200
+
+
+Node      Mac Tx                         Tx                       TxOk                        ACK                Mac Rx                   Mac Rx drop
+         packets          bytes     packets          bytes     packets          bytes    received    missed     packets          bytes        packets          bytes
+
+   0      534988      806761904      161932      244193456      129709      195601172        4644      1141           0              0              0              0
+   1           0              0           0              0           0              0           0         0      129709      195601172              0              0
+   2      534996      806773968      498950      752416600      493491      744184428       17755        66           0              0              0              0
+   3           0              0           0              0           0              0           0         0      493512      744216096              0              0
+   4      535005      806787540      360336      543386688      327743      494236444       11720      1150           0              0              0              0
+   5           0              0           0              0           0              0           0         0      327743      494236444              0              0
+   6      535013      806799604      491913      741804804      477611      720237388       17082       495           0              0              0              0
+   7           0              0           0              0           0              0           0         0      477835      720575180              0              0
+
+Node 0 Tx throughput:   15.6481 Mbps          Last 20 seconds:   16.4812 Mbps
+Node 2 Tx throughput:   59.5348 Mbps          Last 20 seconds:   60.6101 Mbps
+Node 4 Tx throughput:   39.5389 Mbps          Last 20 seconds:   38.7731 Mbps
+Node 6 Tx throughput:    57.619 Mbps          Last 20 seconds:   58.3198 Mbps
+Aggregate throughput:   172.341 Mbps          Last 20 seconds:   174.184 Mbps
+Waf: Entering directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Waf: Leaving directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Build commands will be stored in build/optimized/compile_commands.json
+'build' finished successfully (1.053s)
+Standard                        802.11ac
+Channel number                        36
+Simulation time (s)                  100
+Nb of nodes                            8
+Nb of STAs per AP                      1
+Seed                                   4
+CST (dBm)                            -82
+AP Tx power (dBm)                      0
+STA Tx power (dBm)                     0
+
+Node     CST (dBm)     Tx power (dBm)     IP address           x           y           z
+   0           -82                  0       10.1.1.1      67.108      59.425       1.500
+   1           -82                  0       10.1.1.2      66.001      56.636       1.500
+   2           -82                  0       10.1.2.1      47.448      43.732       1.500
+   3           -82                  0       10.1.2.2      50.373      43.064       1.500
+   4           -82                  0       10.1.3.1      82.555      89.815       1.500
+   5           -82                  0       10.1.3.2      79.743      90.863       1.500
+   6           -82                  0       10.1.4.1      38.160      30.796       1.500
+   7           -82                  0       10.1.4.2      36.498      33.294       1.500
+
+Ns3Env parameters:
+OpenGym port: 50000
+Environment step time: 0.01
+Wilhelmi: 1
+
+MabGym pre-start
+MabGym start
+
+Flow 5 (10.1.1.1 -> 10.1.1.2)
+  Rx / Tx Packets               :   490696  /     534988      Lost packets (per reason code):   38002 ()
+  Rx / Tx Bytes                 :736044000  /  802482000
+  Throughput / TxOffered (Mbps) :  58.8835  /    64.1987
+Flow 6 (10.1.2.1 -> 10.1.2.2)
+  Rx / Tx Packets               :   229721  /     534996      Lost packets (per reason code):  273282 ()
+  Rx / Tx Bytes                 :344581500  /  802494000
+  Throughput / TxOffered (Mbps) :  27.5665  /    64.1997
+Flow 7 (10.1.3.1 -> 10.1.3.2)
+  Rx / Tx Packets               :   477127  /     535005      Lost packets (per reason code):   51227 ()
+  Rx / Tx Bytes                 :715690500  /  802507500
+  Throughput / TxOffered (Mbps) :  57.2552  /    64.2008
+Flow 8 (10.1.4.1 -> 10.1.4.2)
+  Rx / Tx Packets               :   233978  /     535013      Lost packets (per reason code):  269375 ()
+  Rx / Tx Bytes                 :350967000  /  802519500
+  Throughput / TxOffered (Mbps) :  28.0774  /    64.2018
+
+Aggregate throughput: 171.783
+
+Node           IDLE       CCA_BUSY             TX             RX      (RX ok)          RX_ME        RX_SBSS        RX_OBSS
+                                                                     (RX err)
+   0     3.05999586     0.60780045    95.95188400     0.47718400                  0.23884800     0.00000000     0.00103200
+                                                                                  0.00456000     0.00000000     0.23274400
+
+   1     0.12736451     4.15935180     0.60774800    95.19707600                 93.34387600     0.00000000     0.23573200
+                                                                                  0.32096400     0.00000000     1.29650400
+
+   2     2.85644283     1.29166577    51.00634400    44.89780400                  0.16114000     0.00000000     0.39766000
+                                                                                  0.00021600     0.00000000    44.33878800
+
+   3     0.15893647     6.85535212     0.35232800    92.68564000                 43.94147600     0.00000000     0.62280000
+                                                                                  3.18185200     0.00000000    44.93951200
+
+   4     4.05534364     0.76202693    94.62289200     0.58250800                  0.22782400     0.00000000     0.00330000
+                                                                                  0.00000000     0.00000000     0.35138400
+
+   5     0.25414014     4.14146643     0.57865600    95.04318400                 90.79594400     0.00000000     0.22732400
+                                                                                  0.61967600     0.00000000     3.40024000
+
+   6     2.92268765     1.42566494    51.71086000    43.99836800                  0.16108800     0.00000000     0.65140400
+                                                                                  0.00012000     0.00000000    43.18575600
+
+   7     0.18042167     6.70237093     0.35387600    92.81558800                 44.55452000     0.00000000     1.35059600
+                                                                                  3.48570000     0.00000000    43.42477200
+
+
+Node      Mac Tx                         Tx                       TxOk                        ACK                Mac Rx                   Mac Rx drop
+         packets          bytes     packets          bytes     packets          bytes    received    missed     packets          bytes        packets          bytes
+
+   0      534988      806761904      499248      752865984      480056      723924448       17148       683           0              0              0              0
+   1           0              0           0              0           0              0           0         0      490696      739969568              0              0
+   2      534996      806773968      264413      398734804      229221      345665268        8229      1218           0              0              0              0
+   3           0              0           0              0           0              0           0         0      229721      346419268              0              0
+   4      535005      806787540      490762      740069096      477099      719465292       17058       477           0              0              0              0
+   5           0              0           0              0           0              0           0         0      477127      719507516              0              0
+   6      535013      806799604      268093      404284244      233705      352427140        8352      1224           0              0              0              0
+   7           0              0           0              0           0              0           0         0      233978      352838824              0              0
+
+Node 0 Tx throughput:    57.914 Mbps          Last 20 seconds:   58.5562 Mbps
+Node 2 Tx throughput:   27.6532 Mbps          Last 20 seconds:   26.9896 Mbps
+Node 4 Tx throughput:   57.5572 Mbps          Last 20 seconds:   59.7892 Mbps
+Node 6 Tx throughput:   28.1942 Mbps          Last 20 seconds:   28.5392 Mbps
+Aggregate throughput:   171.319 Mbps          Last 20 seconds:   173.874 Mbps
+Waf: Entering directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Waf: Leaving directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Build commands will be stored in build/optimized/compile_commands.json
+'build' finished successfully (1.226s)
+Standard                        802.11ac
+Channel number                        36
+Simulation time (s)                  100
+Nb of nodes                            8
+Nb of STAs per AP                      1
+Seed                                   5
+CST (dBm)                            -82
+AP Tx power (dBm)                      0
+STA Tx power (dBm)                     0
+
+Node     CST (dBm)     Tx power (dBm)     IP address           x           y           z
+   0           -82                  0       10.1.1.1      74.226      18.117       1.500
+   1           -82                  0       10.1.1.2      72.591      15.601       1.500
+   2           -82                  0       10.1.2.1      45.755       7.264       1.500
+   3           -82                  0       10.1.2.2      48.009       5.283       1.500
+   4           -82                  0       10.1.3.1       6.755      80.024       1.500
+   5           -82                  0       10.1.3.2       5.011      77.583       1.500
+   6           -82                  0       10.1.4.1      65.707      90.015       1.500
+   7           -82                  0       10.1.4.2      68.705      90.137       1.500
+
+Ns3Env parameters:
+OpenGym port: 50000
+Environment step time: 0.01
+Wilhelmi: 1
+
+MabGym pre-start
+MabGym start
+
+Flow 5 (10.1.1.1 -> 10.1.1.2)
+  Rx / Tx Packets               :   469844  /     534988      Lost packets (per reason code):   59133 ()
+  Rx / Tx Bytes                 :704766000  /  802482000
+  Throughput / TxOffered (Mbps) :  56.3813  /    64.1987
+Flow 6 (10.1.2.1 -> 10.1.2.2)
+  Rx / Tx Packets               :   474126  /     534996      Lost packets (per reason code):   54160 ()
+  Rx / Tx Bytes                 :711189000  /  802494000
+  Throughput / TxOffered (Mbps) :  56.8951  /    64.1997
+Flow 7 (10.1.3.1 -> 10.1.3.2)
+  Rx / Tx Packets               :   498653  /     535005      Lost packets (per reason code):   30389 ()
+  Rx / Tx Bytes                 :747979500  /  802507500
+  Throughput / TxOffered (Mbps) :  59.8384  /    64.2008
+Flow 8 (10.1.4.1 -> 10.1.4.2)
+  Rx / Tx Packets               :   498220  /     535013      Lost packets (per reason code):   30901 ()
+  Rx / Tx Bytes                 :747330000  /  802519500
+  Throughput / TxOffered (Mbps) :  59.7864  /    64.2018
+
+Aggregate throughput: 232.901
+
+Node           IDLE       CCA_BUSY             TX             RX      (RX ok)          RX_ME        RX_SBSS        RX_OBSS
+                                                                     (RX err)
+   0     3.91593299     0.94979822    93.60613600     1.54985600                  0.22910400     0.00000000     0.00572400
+                                                                                  0.00000000     0.00000000     1.31502800
+
+   1     0.33927683     4.61761036     0.57662400    94.48821200                 89.48356800     0.00000000     0.23148000
+                                                                                  0.69402400     0.00000000     4.07914000
+
+   2     3.80226239     0.91798925    93.96567600     1.40089600                  0.22680800     0.00000000     0.00813200
+                                                                                  0.00000000     0.00000000     1.16595600
+
+   3     0.40219296     4.44647068     0.57566800    94.65716800                 90.25437600     0.00000000     0.23466800
+                                                                                  0.57176000     0.00000000     3.59636400
+
+   4     2.39835220     1.70557770    95.72531600     0.21635600                  0.21635600     0.00000000     0.00000000
+                                                                                  0.00000000     0.00000000     0.00000000
+
+   5     1.87296569     2.53567220     0.57383600    95.05780400                 94.82746800     0.00000000     0.23033600
+                                                                                  0.00000000     0.00000000     0.00000000
+
+   6     2.41178677     1.63002165    95.73876400     0.23394800                  0.23394800     0.00000000     0.00000000
+                                                                                  0.00000000     0.00000000     0.00000000
+
+   7     1.80290661     2.54357781     0.59872800    95.06398400                 94.83364800     0.00000000     0.23033600
+                                                                                  0.00000000     0.00000000     0.00000000
+
+
+Node      Mac Tx                         Tx                       TxOk                        ACK                Mac Rx                   Mac Rx drop
+         packets          bytes     packets          bytes     packets          bytes    received    missed     packets          bytes        packets          bytes
+
+   0      534988      806761904      485749      732509492      469844      708524752       16804       547           0              0              0              0
+   1           0              0           0              0           0              0           0         0      469844      708524752              0              0
+   2      534996      806773968      487773      735561684      474126      714982008       16957       471           0              0              0              0
+   3           0              0           0              0           0              0           0         0      474126      714982008              0              0
+   4      535005      806787540      498735      752092380      498653      751968724       17822         0           0              0              0              0
+   5           0              0           0              0           0              0           0         0      498653      751968724              0              0
+   6      535013      806799604      498698      752036584      498220      751315760       17820         0           0              0              0              0
+   7           0              0           0              0           0              0           0         0      498220      751315760              0              0
+
+Node 0 Tx throughput:    56.682 Mbps          Last 20 seconds:   59.6203 Mbps
+Node 2 Tx throughput:   57.1986 Mbps          Last 20 seconds:   59.2487 Mbps
+Node 4 Tx throughput:   60.1575 Mbps          Last 20 seconds:   60.5571 Mbps
+Node 6 Tx throughput:   60.1053 Mbps          Last 20 seconds:   60.5088 Mbps
+Aggregate throughput:   234.143 Mbps          Last 20 seconds:   239.935 Mbps
+Waf: Entering directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Waf: Leaving directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Build commands will be stored in build/optimized/compile_commands.json
+'build' finished successfully (0.994s)
+Standard                        802.11ac
+Channel number                        36
+Simulation time (s)                  100
+Nb of nodes                            8
+Nb of STAs per AP                      1
+Seed                                   6
+CST (dBm)                            -82
+AP Tx power (dBm)                      0
+STA Tx power (dBm)                     0
+
+Node     CST (dBm)     Tx power (dBm)     IP address           x           y           z
+   0           -82                  0       10.1.1.1      90.052       5.147       1.500
+   1           -82                  0       10.1.1.2      90.537       8.108       1.500
+   2           -82                  0       10.1.2.1      87.953      62.176       1.500
+   3           -82                  0       10.1.2.2      86.710      59.445       1.500
+   4           -82                  0       10.1.3.1      34.954      62.068       1.500
+   5           -82                  0       10.1.3.2      33.972      59.234       1.500
+   6           -82                  0       10.1.4.1      13.515      94.826       1.500
+   7           -82                  0       10.1.4.2      10.596      94.136       1.500
+
+Ns3Env parameters:
+OpenGym port: 50000
+Environment step time: 0.01
+Wilhelmi: 1
+
+MabGym pre-start
+MabGym start
+
+Flow 5 (10.1.1.1 -> 10.1.1.2)
+  Rx / Tx Packets               :   487939  /     534988      Lost packets (per reason code):   41035 ()
+  Rx / Tx Bytes                 :731908500  /  802482000
+  Throughput / TxOffered (Mbps) :  58.5527  /    64.1987
+Flow 6 (10.1.2.1 -> 10.1.2.2)
+  Rx / Tx Packets               :   487076  /     534996      Lost packets (per reason code):   42276 ()
+  Rx / Tx Bytes                 :730614000  /  802494000
+  Throughput / TxOffered (Mbps) :  58.4491  /    64.1997
+Flow 7 (10.1.3.1 -> 10.1.3.2)
+  Rx / Tx Packets               :   491576  /     535005      Lost packets (per reason code):   37712 ()
+  Rx / Tx Bytes                 :737364000  /  802507500
+  Throughput / TxOffered (Mbps) :  58.9891  /    64.2008
+Flow 8 (10.1.4.1 -> 10.1.4.2)
+  Rx / Tx Packets               :   479059  /     535013      Lost packets (per reason code):   48301 ()
+  Rx / Tx Bytes                 :718588500  /  802519500
+  Throughput / TxOffered (Mbps) :  57.4871  /    64.2018
+
+Aggregate throughput: 233.478
+
+Node           IDLE       CCA_BUSY             TX             RX      (RX ok)          RX_ME        RX_SBSS        RX_OBSS
+                                                                     (RX err)
+   0     3.03180718     1.45709392    95.24279200     0.33995200                  0.33995200     0.00000000     0.00000000
+                                                                                  0.00000000     0.00000000     0.00000000
+
+   1     0.34016970     4.49628740     0.74521200    94.48465200                 93.62809200     0.00000000     0.22987600
+                                                                                  0.00000000     0.00000000     0.62668400
+
+   2     3.03334484     0.97785039    95.63849600     0.35431200                  0.23175200     0.00000000     0.00007200
+                                                                                  0.00000000     0.00000000     0.12248800
+
+   3     0.09756400     4.44987923     0.59023600    94.86123600                 92.94675200     0.00000000     0.22691600
+                                                                                  0.40994800     0.00000000     1.27762000
+
+   4     2.92968070     0.71274494    95.99977200     0.46218000                  0.22520400     0.00000000     0.00081600
+                                                                                  0.00000000     0.00000000     0.23616000
+
+   5     0.16571689     4.23054475     0.58254400    95.12024800                 93.53750800     0.00000000     0.22916800
+                                                                                  0.45957600     0.00000000     0.89399600
+
+   6     3.82969722     0.87202229    94.79011600     0.56817600                  0.22850000     0.00000000     0.00426400
+                                                                                  0.00000000     0.00000000     0.33541200
+
+   7     0.28863457     4.12644494     0.58081200    95.05879600                 91.21005600     0.00000000     0.22972400
+                                                                                  0.77198000     0.00000000     2.84703600
+
+
+Node      Mac Tx                         Tx                       TxOk                        ACK                Mac Rx                   Mac Rx drop
+         packets          bytes     packets          bytes     packets          bytes    received    missed     packets          bytes        packets          bytes
+
+   0      534988      806761904      495156      746695248      487939      735812012       17574       116           0              0              0              0
+   1           0              0           0              0           0              0           0         0      487939      735812012              0              0
+   2      534996      806773968      497478      750196824      487020      734426160       17457       315           0              0              0              0
+   3           0              0           0              0           0              0           0         0      487076      734510608              0              0
+   4      535005      806787540      499697      753543076      491576      741296608       17567       279           0              0              0              0
+   5           0              0           0              0           0              0           0         0      491576      741296608              0              0
+   6      535013      806799604      492006      741945048      479031      722378748       17138       443           0              0              0              0
+   7           0              0           0              0           0              0           0         0      479059      722420972              0              0
+
+Node 0 Tx throughput:    58.865 Mbps          Last 20 seconds:   60.4605 Mbps
+Node 2 Tx throughput:   58.7541 Mbps          Last 20 seconds:   60.7181 Mbps
+Node 4 Tx throughput:   59.3037 Mbps          Last 20 seconds:   60.6843 Mbps
+Node 6 Tx throughput:   57.7903 Mbps          Last 20 seconds:   59.3669 Mbps
+Aggregate throughput:   234.713 Mbps          Last 20 seconds:    241.23 Mbps
+Waf: Entering directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Waf: Leaving directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Build commands will be stored in build/optimized/compile_commands.json
+'build' finished successfully (1.235s)
+Standard                        802.11ac
+Channel number                        36
+Simulation time (s)                  100
+Nb of nodes                            8
+Nb of STAs per AP                      1
+Seed                                   7
+CST (dBm)                            -82
+AP Tx power (dBm)                      0
+STA Tx power (dBm)                     0
+
+Node     CST (dBm)     Tx power (dBm)     IP address           x           y           z
+   0           -82                  0       10.1.1.1       9.496      96.227       1.500
+   1           -82                  0       10.1.1.2       7.472      98.441       1.500
+   2           -82                  0       10.1.2.1      33.925      22.312       1.500
+   3           -82                  0       10.1.2.2      33.539      25.287       1.500
+   4           -82                  0       10.1.3.1      86.927      53.672       1.500
+   5           -82                  0       10.1.3.2      85.831      50.879       1.500
+   6           -82                  0       10.1.4.1      24.294      23.297       1.500
+   7           -82                  0       10.1.4.2      22.997      26.003       1.500
+
+Ns3Env parameters:
+OpenGym port: 50000
+Environment step time: 0.01
+Wilhelmi: 1
+
+MabGym pre-start
+MabGym start
+
+Flow 5 (10.1.1.1 -> 10.1.1.2)
+  Rx / Tx Packets               :   505946  /     534988      Lost packets (per reason code):   23581 ()
+  Rx / Tx Bytes                 :758919000  /  802482000
+  Throughput / TxOffered (Mbps) :  60.7135  /    64.1987
+Flow 6 (10.1.2.1 -> 10.1.2.2)
+  Rx / Tx Packets               :   222798  /     534996      Lost packets (per reason code):  280510 ()
+  Rx / Tx Bytes                 :334197000  /  802494000
+  Throughput / TxOffered (Mbps) :  26.7358  /    64.1997
+Flow 7 (10.1.3.1 -> 10.1.3.2)
+  Rx / Tx Packets               :   502934  /     535005      Lost packets (per reason code):   26369 ()
+  Rx / Tx Bytes                 :754401000  /  802507500
+  Throughput / TxOffered (Mbps) :  60.3521  /    64.2008
+Flow 8 (10.1.4.1 -> 10.1.4.2)
+  Rx / Tx Packets               :   234602  /     535013      Lost packets (per reason code):  270175 ()
+  Rx / Tx Bytes                 :351903000  /  802519500
+  Throughput / TxOffered (Mbps) :  28.1522  /    64.2018
+
+Aggregate throughput: 175.954
+
+Node           IDLE       CCA_BUSY             TX             RX      (RX ok)          RX_ME        RX_SBSS        RX_OBSS
+                                                                     (RX err)
+   0     2.39567842     0.28929600    97.10817600     0.21696800                  0.21696800     0.00000000     0.00000000
+                                                                                  0.00000000     0.00000000     0.00000000
+
+   1     2.39958642     0.59424000     0.57858800    96.43238000                 96.20204400     0.00000000     0.23033600
+                                                                                  0.00000000     0.00000000     0.00000000
+
+   2     2.92756425     1.51283811    51.54394000    44.06727600                  0.17456400     0.00000000    42.21349600
+                                                                                  0.00164400     0.00000000     1.67757200
+
+   3     1.76169742     3.98463764     0.37803200    93.92182000                 42.54799200     0.00000000    42.53747200
+                                                                                  5.66160800     0.00000000     3.17474800
+
+   4     2.37241221     0.82077168    96.58733600     0.22399600                  0.22399600     0.00000000     0.00000000
+                                                                                  0.00000000     0.00000000     0.00000000
+
+   5     2.30649483     1.19397306     0.58707600    95.91164800                 95.68131200     0.00000000     0.23033600
+                                                                                  0.00000000     0.00000000     0.00000000
+
+   6     2.73330432     1.84729003    53.70821200    41.76281200                  0.18048800     0.00000000    40.36852000
+                                                                                  0.00474000     0.00000000     1.20906400
+
+   7     2.32450106     3.25332930     0.40563600    94.06282800                 44.89141600     0.00000000    40.66452800
+                                                                                  6.46078400     0.00000000     2.04610000
+
+
+Node      Mac Tx                         Tx                       TxOk                        ACK                Mac Rx                   Mac Rx drop
+         packets          bytes     packets          bytes     packets          bytes    received    missed     packets          bytes        packets          bytes
+
+   0      534988      806761904      505974      763008792      505946      762966568       18081         0           0              0              0              0
+   1           0              0           0              0           0              0           0         0      505946      762966568              0              0
+   2      534996      806773968      267108      402798864      222650      335756200        7971      1569           0              0              0              0
+   3           0              0           0              0           0              0           0         0      222798      335979384              0              0
+   4      535005      806787540      503203      758830124      502934      758424472       17983         0           0              0              0              0
+   5           0              0           0              0           0              0           0         0      502934      758424472              0              0
+   6      535013      806799604      278475      419940300      234343      353389244        8405      1544           0              0              0              0
+   7           0              0           0              0           0              0           0         0      234602      353779816              0              0
+
+Node 0 Tx throughput:   61.0373 Mbps          Last 20 seconds:    61.039 Mbps
+Node 2 Tx throughput:   26.8605 Mbps          Last 20 seconds:   27.6772 Mbps
+Node 4 Tx throughput:    60.674 Mbps          Last 20 seconds:   60.6023 Mbps
+Node 6 Tx throughput:   28.2711 Mbps          Last 20 seconds:   28.7407 Mbps
+Aggregate throughput:   176.843 Mbps          Last 20 seconds:   178.059 Mbps
+Waf: Entering directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Waf: Leaving directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Build commands will be stored in build/optimized/compile_commands.json
+'build' finished successfully (1.158s)
+Standard                        802.11ac
+Channel number                        36
+Simulation time (s)                  100
+Nb of nodes                            8
+Nb of STAs per AP                      1
+Seed                                   8
+CST (dBm)                            -82
+AP Tx power (dBm)                      0
+STA Tx power (dBm)                     0
+
+Node     CST (dBm)     Tx power (dBm)     IP address           x           y           z
+   0           -82                  0       10.1.1.1      75.179      26.434       1.500
+   1           -82                  0       10.1.1.2      75.269      23.436       1.500
+   2           -82                  0       10.1.2.1      16.368       4.595       1.500
+   3           -82                  0       10.1.2.2      16.896       7.548       1.500
+   4           -82                  0       10.1.3.1      79.718      56.544       1.500
+   5           -82                  0       10.1.3.2      82.550      57.533       1.500
+   6           -82                  0       10.1.4.1       9.325      36.712       1.500
+   7           -82                  0       10.1.4.2      11.358      38.918       1.500
+
+Ns3Env parameters:
+OpenGym port: 50000
+Environment step time: 0.01
+Wilhelmi: 1
+
+MabGym pre-start
+MabGym start
+
+Flow 5 (10.1.1.1 -> 10.1.1.2)
+  Rx / Tx Packets               :   449668  /     534988      Lost packets (per reason code):   78161 ()
+  Rx / Tx Bytes                 :674502000  /  802482000
+  Throughput / TxOffered (Mbps) :  53.9602  /    64.1987
+Flow 6 (10.1.2.1 -> 10.1.2.2)
+  Rx / Tx Packets               :   477143  /     534996      Lost packets (per reason code):   52037 ()
+  Rx / Tx Bytes                 :715714500  /  802494000
+  Throughput / TxOffered (Mbps) :  57.2572  /    64.1997
+Flow 7 (10.1.3.1 -> 10.1.3.2)
+  Rx / Tx Packets               :   471087  /     535005      Lost packets (per reason code):   57404 ()
+  Rx / Tx Bytes                 :706630500  /  802507500
+  Throughput / TxOffered (Mbps) :  56.5304  /    64.2008
+Flow 8 (10.1.4.1 -> 10.1.4.2)
+  Rx / Tx Packets               :   476302  /     535013      Lost packets (per reason code):   52710 ()
+  Rx / Tx Bytes                 :714453000  /  802519500
+  Throughput / TxOffered (Mbps) :  57.1562  /    64.2018
+
+Aggregate throughput: 224.904
+
+Node           IDLE       CCA_BUSY             TX             RX      (RX ok)          RX_ME        RX_SBSS        RX_OBSS
+                                                                     (RX err)
+   0     5.42137838     0.92968636    91.68960400     2.04299200                  0.23449200     0.00000000     0.00669200
+                                                                                  0.00000000     0.00000000     1.80180800
+
+   1     0.21647471     5.39571802     0.57348000    93.89266400                 85.64642000     0.00000000     0.22842800
+                                                                                  0.78890800     0.00000000     7.22890800
+
+   2     4.14363343     0.69764298    94.52629600     0.69310000                  0.22730400     0.00000000     0.00144800
+                                                                                  0.00000000     0.00000000     0.46434800
+
+   3     0.30992091     4.29110351     0.57782400    94.87650000                 90.81248800     0.00000000     0.22894400
+                                                                                  0.38979600     0.00000000     3.44527200
+
+   4     3.98532473     1.07964182    93.87167200     1.06556400                  0.23083600     0.00000000     0.00950800
+                                                                                  0.00000000     0.00000000     0.82522000
+
+   5     0.44262658     4.49365997     0.57987600    94.48071600                 89.70860000     0.00000000     0.24119600
+                                                                                  0.69212000     0.00000000     3.83880000
+
+   6     4.16648182     0.60903250    94.59212400     0.63951600                  0.22860800     0.00000000     0.00096000
+                                                                                  0.00000000     0.00000000     0.40994800
+
+   7     0.27184462     4.17632170     0.57932800    94.97433600                 90.64790000     0.00000000     0.22714400
+                                                                                  0.38332800     0.00000000     3.71596400
+
+
+Node      Mac Tx                         Tx                       TxOk                        ACK                Mac Rx                   Mac Rx drop
+         packets          bytes     packets          bytes     packets          bytes    received    missed     packets          bytes        packets          bytes
+
+   0      534988      806761904      473569      714142052      449584      677972672       16077       837           0              0              0              0
+   1           0              0           0              0           0              0           0         0      449668      678099344              0              0
+   2      534996      806773968      490342      739435736      477143      719531644       17054       459           0              0              0              0
+   3           0              0           0              0           0              0           0         0      477143      719531644              0              0
+   4      535005      806787540      486999      734394492      471087      710399196       16857       546           0              0              0              0
+   5           0              0           0              0           0              0           0         0      471087      710399196              0              0
+   6      535013      806799604      490567      739775036      476302      718263416       17031       497           0              0              0              0
+   7           0              0           0              0           0              0           0         0      476302      718263416              0              0
+
+Node 0 Tx throughput:   54.2378 Mbps          Last 20 seconds:   59.7554 Mbps
+Node 2 Tx throughput:   57.5625 Mbps          Last 20 seconds:   60.6337 Mbps
+Node 4 Tx throughput:   56.8319 Mbps          Last 20 seconds:   60.0256 Mbps
+Node 6 Tx throughput:   57.4611 Mbps          Last 20 seconds:    60.431 Mbps
+Aggregate throughput:   226.093 Mbps          Last 20 seconds:   240.846 Mbps
+Waf: Entering directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Waf: Leaving directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Build commands will be stored in build/optimized/compile_commands.json
+'build' finished successfully (1.030s)
+Standard                        802.11ac
+Channel number                        36
+Simulation time (s)                  100
+Nb of nodes                            8
+Nb of STAs per AP                      1
+Seed                                   9
+CST (dBm)                            -82
+AP Tx power (dBm)                      0
+STA Tx power (dBm)                     0
+
+Node     CST (dBm)     Tx power (dBm)     IP address           x           y           z
+   0           -82                  0       10.1.1.1      52.716      13.854       1.500
+   1           -82                  0       10.1.1.2      51.069      11.346       1.500
+   2           -82                  0       10.1.2.1      69.108      34.363       1.500
+   3           -82                  0       10.1.2.2      67.801      37.063       1.500
+   4           -82                  0       10.1.3.1      59.189      62.550       1.500
+   5           -82                  0       10.1.3.2      56.613      64.087       1.500
+   6           -82                  0       10.1.4.1      59.404      73.324       1.500
+   7           -82                  0       10.1.4.2      59.444      70.324       1.500
+
+Ns3Env parameters:
+OpenGym port: 50000
+Environment step time: 0.01
+Wilhelmi: 1
+
+MabGym pre-start
+MabGym start
+
+Flow 5 (10.1.1.1 -> 10.1.1.2)
+  Rx / Tx Packets               :   485388  /     534988      Lost packets (per reason code):   43116 ()
+  Rx / Tx Bytes                 :728082000  /  802482000
+  Throughput / TxOffered (Mbps) :  58.2466  /    64.1987
+Flow 6 (10.1.2.1 -> 10.1.2.2)
+  Rx / Tx Packets               :   489583  /     534996      Lost packets (per reason code):   38971 ()
+  Rx / Tx Bytes                 :734374500  /  802494000
+  Throughput / TxOffered (Mbps) :    58.75  /    64.1997
+Flow 7 (10.1.3.1 -> 10.1.3.2)
+  Rx / Tx Packets               :   143055  /     535005      Lost packets (per reason code):  352025 ()
+  Rx / Tx Bytes                 :214582500  /  802507500
+  Throughput / TxOffered (Mbps) :  17.1666  /    64.2008
+Flow 8 (10.1.4.1 -> 10.1.4.2)
+  Rx / Tx Packets               :   316521  /     535013      Lost packets (per reason code):  195587 ()
+  Rx / Tx Bytes                 :474781500  /  802519500
+  Throughput / TxOffered (Mbps) :  37.9825  /    64.2018
+
+Aggregate throughput: 172.146
+
+Node           IDLE       CCA_BUSY             TX             RX      (RX ok)          RX_ME        RX_SBSS        RX_OBSS
+                                                                     (RX err)
+   0     3.71359266     0.51937909    95.22829600     0.62649600                  0.22418800     0.00000000     0.05041600
+                                                                                  0.00003600     0.00000000     0.35185600
+
+   1     0.22093955     3.80240020     0.57784400    95.48125600                 92.32396000     0.00000000     0.23129200
+                                                                                  0.28749600     0.00000000     2.63850800
+
+   2     3.16617458     0.59211388    95.66374800     0.64722000                  0.24236400     0.00000000     0.00650000
+                                                                                  0.00622800     0.00000000     0.39212800
+
+   3     0.10566483     4.06047962     0.61452400    95.28326400                 93.13915600     0.00000000     0.25795200
+                                                                                  0.28940000     0.00000000     1.59675600
+
+   4     2.76671325     2.23746985    33.88015200    61.14177600                  0.11862000     0.00000000     1.15076000
+                                                                                  0.00102000     0.00000000    59.87137600
+
+   5     0.05266336     6.03359973     0.25343200    93.68641600                 27.29834400     0.00000000     3.28411600
+                                                                                  4.66504800     0.00000000    58.43890800
+
+   6     3.09918529     1.15499774    67.89167200    27.88558000                  0.19949600     0.00000000     1.87841600
+                                                                                  0.00000000     0.00000000    25.80766800
+
+   7     0.15347211     9.19445894     0.45318800    90.22499200                 60.28544000     0.00000000    27.20470400
+                                                                                  0.97458000     0.00000000     1.76026800
+
+
+Node      Mac Tx                         Tx                       TxOk                        ACK                Mac Rx                   Mac Rx drop
+         packets          bytes     packets          bytes     packets          bytes    received    missed     packets          bytes        packets          bytes
+
+   0      534988      806761904      494637      745912596      485304      731838432       17343       329           0              0              0              0
+   1           0              0           0              0           0              0           0         0      485388      731965104              0              0
+   2      534996      806773968      497507      750240556      475023      716334684       16969       800           0              0              0              0
+   3           0              0           0              0           0              0           0         0      489583      738291164              0              0
+   4      535005      806787540      174930      263794440      142916      215517328        5113      1136           0              0              0              0
+   5           0              0           0              0           0              0           0         0      143055      215726940              0              0
+   6      535013      806799604      352449      531493092      316517      477307636       11317      1275           0              0              0              0
+   7           0              0           0              0           0              0           0         0      316521      477313668              0              0
+
+Node 0 Tx throughput:   58.5471 Mbps          Last 20 seconds:   59.9243 Mbps
+Node 2 Tx throughput:   57.3068 Mbps          Last 20 seconds:   58.4718 Mbps
+Node 4 Tx throughput:   17.2414 Mbps          Last 20 seconds:   16.6477 Mbps
+Node 6 Tx throughput:   38.1846 Mbps          Last 20 seconds:   39.4511 Mbps
+Aggregate throughput:    171.28 Mbps          Last 20 seconds:   174.495 Mbps
+Waf: Entering directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Waf: Leaving directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Build commands will be stored in build/optimized/compile_commands.json
+'build' finished successfully (0.913s)
+Standard                        802.11ac
+Channel number                        36
+Simulation time (s)                  100
+Nb of nodes                            8
+Nb of STAs per AP                      1
+Seed                                  10
+CST (dBm)                            -82
+AP Tx power (dBm)                      0
+STA Tx power (dBm)                     0
+
+Node     CST (dBm)     Tx power (dBm)     IP address           x           y           z
+   0           -82                  0       10.1.1.1      84.341       7.853       1.500
+   1           -82                  0       10.1.1.2      86.276       5.560       1.500
+   2           -82                  0       10.1.2.1      55.352      37.208       1.500
+   3           -82                  0       10.1.2.2      56.626      39.923       1.500
+   4           -82                  0       10.1.3.1      45.329      31.536       1.500
+   5           -82                  0       10.1.3.2      44.312      28.714       1.500
+   6           -82                  0       10.1.4.1      63.621      91.059       1.500
+   7           -82                  0       10.1.4.2      62.809      88.171       1.500
+
+Ns3Env parameters:
+OpenGym port: 50000
+Environment step time: 0.01
+Wilhelmi: 1
+
+MabGym pre-start
+MabGym start
+
+Flow 5 (10.1.1.1 -> 10.1.1.2)
+  Rx / Tx Packets               :   481028  /     534988      Lost packets (per reason code):   46789 ()
+  Rx / Tx Bytes                 :721542000  /  802482000
+  Throughput / TxOffered (Mbps) :  57.7234  /    64.1987
+Flow 6 (10.1.2.1 -> 10.1.2.2)
+  Rx / Tx Packets               :   237176  /     534996      Lost packets (per reason code):  265983 ()
+  Rx / Tx Bytes                 :355764000  /  802494000
+  Throughput / TxOffered (Mbps) :  28.4611  /    64.1997
+Flow 7 (10.1.3.1 -> 10.1.3.2)
+  Rx / Tx Packets               :   227253  /     535005      Lost packets (per reason code):  276256 ()
+  Rx / Tx Bytes                 :340879500  /  802507500
+  Throughput / TxOffered (Mbps) :  27.2704  /    64.2008
+Flow 8 (10.1.4.1 -> 10.1.4.2)
+  Rx / Tx Packets               :   479500  /     535013      Lost packets (per reason code):   48630 ()
+  Rx / Tx Bytes                 :719250000  /  802519500
+  Throughput / TxOffered (Mbps) :    57.54  /    64.2018
+
+Aggregate throughput: 170.995
+
+Node           IDLE       CCA_BUSY             TX             RX      (RX ok)          RX_ME        RX_SBSS        RX_OBSS
+                                                                     (RX err)
+   0     3.92974728     0.58621591    94.99955200     0.58729200                  0.22813600     0.00000000     0.00244800
+                                                                                  0.00000000     0.00000000     0.35670800
+
+   1     0.27682116     4.26381403     0.58149600    94.97535200                 91.65454400     0.00000000     0.23208400
+                                                                                  0.19660800     0.00000000     2.89211600
+
+   2     2.76905725     1.28246983    52.37359600    43.65562400                  0.16396800     0.00000000     2.56288800
+                                                                                  0.00055200     0.00000000    40.92821600
+
+   3     0.12560724     7.10813183     0.36483200    92.47685200                 45.18108400     0.00000000     1.03907200
+                                                                                  3.46611600     0.00000000    42.79058000
+
+   4     2.73253984     1.43217923    50.72257200    45.18813200                  0.16179600     0.00000000     3.01353600
+                                                                                  0.00044400     0.00000000    42.01235600
+
+   5     0.23628250     7.31434458     0.35747200    92.16732400                 43.32179200     0.00000000     2.12792000
+                                                                                  3.51422000     0.00000000    43.20339200
+
+   6     3.03988670     1.75585124    95.00428800     0.26950000                  0.26950000     0.00000000     0.00000000
+                                                                                  0.00000000     0.00000000     0.00000000
+
+   7     1.39985671     3.74928523     0.64119200    94.27386800                 92.04905600     0.00000000     0.23016000
+                                                                                  0.08518400     0.00000000     1.90946800
+
+
+Node      Mac Tx                         Tx                       TxOk                        ACK                Mac Rx                   Mac Rx drop
+         packets          bytes     packets          bytes     packets          bytes    received    missed     packets          bytes        packets          bytes
+
+   0      534988      806761904      493068      743546544      481028      725390224       17220       397           0              0              0              0
+   1           0              0           0              0           0              0           0         0      481028      725390224              0              0
+   2      534996      806773968      271713      409743204      236817      357120036        8464      1240           0              0              0              0
+   3           0              0           0              0           0              0           0         0      237176      357661408              0              0
+   4      535005      806787540      263048      396676384      227003      342320524        8119      1279           0              0              0              0
+   5           0              0           0              0           0              0           0         0      227253      342697524              0              0
+   6      535013      806799604      494052      745030416      479500      723086000       17291       364           0              0              0              0
+   7           0              0           0              0           0              0           0         0      479500      723086000              0              0
+
+Node 0 Tx throughput:   58.0312 Mbps          Last 20 seconds:   59.2825 Mbps
+Node 2 Tx throughput:   28.5696 Mbps          Last 20 seconds:   28.1966 Mbps
+Node 4 Tx throughput:   27.3856 Mbps          Last 20 seconds:   27.9969 Mbps
+Node 6 Tx throughput:   57.8469 Mbps          Last 20 seconds:   59.5563 Mbps
+Aggregate throughput:   171.833 Mbps          Last 20 seconds:   175.032 Mbps
+Waf: Entering directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Waf: Leaving directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Build commands will be stored in build/optimized/compile_commands.json
+'build' finished successfully (1.156s)
+Standard                        802.11ac
+Channel number                        36
+Simulation time (s)                  100
+Nb of nodes                            8
+Nb of STAs per AP                      1
+Seed                                  11
+CST (dBm)                            -82
+AP Tx power (dBm)                      0
+STA Tx power (dBm)                     0
+
+Node     CST (dBm)     Tx power (dBm)     IP address           x           y           z
+   0           -82                  0       10.1.1.1      13.162      57.903       1.500
+   1           -82                  0       10.1.1.2      10.592      56.357       1.500
+   2           -82                  0       10.1.2.1      29.226      22.902       1.500
+   3           -82                  0       10.1.2.2      28.182      25.715       1.500
+   4           -82                  0       10.1.3.1      90.574      80.760       1.500
+   5           -82                  0       10.1.3.2      88.495      82.923       1.500
+   6           -82                  0       10.1.4.1      10.897      30.274       1.500
+   7           -82                  0       10.1.4.2       8.094      29.205       1.500
+
+Ns3Env parameters:
+OpenGym port: 50000
+Environment step time: 0.01
+Wilhelmi: 1
+
+MabGym pre-start
+MabGym start
+
+Flow 5 (10.1.1.1 -> 10.1.1.2)
+  Rx / Tx Packets               :   486919  /     534988      Lost packets (per reason code):   41638 ()
+  Rx / Tx Bytes                 :730378500  /  802482000
+  Throughput / TxOffered (Mbps) :  58.4303  /    64.1987
+Flow 6 (10.1.2.1 -> 10.1.2.2)
+  Rx / Tx Packets               :   238678  /     534996      Lost packets (per reason code):  265388 ()
+  Rx / Tx Bytes                 :358017000  /  802494000
+  Throughput / TxOffered (Mbps) :  28.6414  /    64.1997
+Flow 7 (10.1.3.1 -> 10.1.3.2)
+  Rx / Tx Packets               :   505982  /     535005      Lost packets (per reason code):   23589 ()
+  Rx / Tx Bytes                 :758973000  /  802507500
+  Throughput / TxOffered (Mbps) :  60.7178  /    64.2008
+Flow 8 (10.1.4.1 -> 10.1.4.2)
+  Rx / Tx Packets               :   253243  /     535013      Lost packets (per reason code):  252656 ()
+  Rx / Tx Bytes                 :379864500  /  802519500
+  Throughput / TxOffered (Mbps) :  30.3892  /    64.2018
+
+Aggregate throughput: 178.179
+
+Node           IDLE       CCA_BUSY             TX             RX      (RX ok)          RX_ME        RX_SBSS        RX_OBSS
+                                                                     (RX err)
+   0     3.39929349     0.55229687    95.34411200     0.71662400                  0.22398400     0.00000000     0.00909600
+                                                                                  0.00001200     0.00000000     0.48353200
+
+   1     0.14900626     3.59998810     0.57831600    95.67969200                 92.61784000     0.00000000     0.74111200
+                                                                                  0.54304800     0.00000000     1.77769200
+
+   2     2.70146931     1.31409375    50.38353600    45.62020400                  0.16162800     0.00000000     1.64460800
+                                                                                  0.00016800     0.00000000    43.81380000
+
+   3     0.14493527     6.67243578     0.35927600    92.84265600                 46.20771200     0.00000000     1.88434800
+                                                                                  0.45805600     0.00000000    44.29254000
+
+   4     2.39864462     0.28931200    97.11505600     0.21698000                  0.21698000     0.00000000     0.00000000
+                                                                                  0.00000000     0.00000000     0.00000000
+
+   5     2.40255262     0.59427200     0.57862000    96.43922400                 96.20888800     0.00000000     0.23033600
+                                                                                  0.00000000     0.00000000     0.00000000
+
+   6     2.64098714     1.27003579    52.53657600    43.57702800                  0.14251600     0.00000000     0.76993600
+                                                                                  0.00009600     0.00000000    42.66448000
+
+   7     0.21264068     6.77948732     0.33790000    92.74808800                 48.20544800     0.00000000     0.92954000
+                                                                                  0.56434400     0.00000000    43.04875600
+
+
+Node      Mac Tx                         Tx                       TxOk                        ACK                Mac Rx                   Mac Rx drop
+         packets          bytes     packets          bytes     packets          bytes    received    missed     packets          bytes        packets          bytes
+
+   0      534988      806761904      495520      747244160      486891      734231628       17398       303           0              0              0              0
+   1           0              0           0              0           0              0           0         0      486919      734273852              0              0
+   2      534996      806773968      261218      393916744      238296      359350368        8657       674           0              0              0              0
+   3           0              0           0              0           0              0           0         0      238678      359926424              0              0
+   4      535005      806787540      506010      763063080      505982      763020856       18082         0           0              0              0              0
+   5           0              0           0              0           0              0           0         0      505982      763020856              0              0
+   6      535013      806799604      272704      411237632      253019      381552652        9045       697           0              0              0              0
+   7           0              0           0              0           0              0           0         0      253243      381890444              0              0
+
+Node 0 Tx throughput:   58.7385 Mbps          Last 20 seconds:   60.1945 Mbps
+Node 2 Tx throughput:    28.748 Mbps          Last 20 seconds:    28.687 Mbps
+Node 4 Tx throughput:   61.0417 Mbps          Last 20 seconds:   61.0559 Mbps
+Node 6 Tx throughput:   30.5242 Mbps          Last 20 seconds:   31.1094 Mbps
+Aggregate throughput:   179.052 Mbps          Last 20 seconds:   181.047 Mbps
+Waf: Entering directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Waf: Leaving directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Build commands will be stored in build/optimized/compile_commands.json
+'build' finished successfully (1.017s)
+Standard                        802.11ac
+Channel number                        36
+Simulation time (s)                  100
+Nb of nodes                            8
+Nb of STAs per AP                      1
+Seed                                  12
+CST (dBm)                            -82
+AP Tx power (dBm)                      0
+STA Tx power (dBm)                     0
+
+Node     CST (dBm)     Tx power (dBm)     IP address           x           y           z
+   0           -82                  0       10.1.1.1      38.077       4.440       1.500
+   1           -82                  0       10.1.1.2      39.400       1.747       1.500
+   2           -82                  0       10.1.2.1      70.679      58.167       1.500
+   3           -82                  0       10.1.2.2      70.711      55.167       1.500
+   4           -82                  0       10.1.3.1      17.952      22.356       1.500
+   5           -82                  0       10.1.3.2      18.629      25.279       1.500
+   6           -82                  0       10.1.4.1      88.721      25.011       1.500
+   7           -82                  0       10.1.4.2      89.396      27.935       1.500
+
+Ns3Env parameters:
+OpenGym port: 50000
+Environment step time: 0.01
+Wilhelmi: 1
+
+MabGym pre-start
+MabGym start
+
+Flow 5 (10.1.1.1 -> 10.1.1.2)
+  Rx / Tx Packets               :   483825  /     534988      Lost packets (per reason code):   45383 ()
+  Rx / Tx Bytes                 :725737500  /  802482000
+  Throughput / TxOffered (Mbps) :   58.059  /    64.1987
+Flow 6 (10.1.2.1 -> 10.1.2.2)
+  Rx / Tx Packets               :   485782  /     534996      Lost packets (per reason code):   42172 ()
+  Rx / Tx Bytes                 :728673000  /  802494000
+  Throughput / TxOffered (Mbps) :  58.2938  /    64.1997
+Flow 7 (10.1.3.1 -> 10.1.3.2)
+  Rx / Tx Packets               :   487213  /     535005      Lost packets (per reason code):   42064 ()
+  Rx / Tx Bytes                 :730819500  /  802507500
+  Throughput / TxOffered (Mbps) :  58.4656  /    64.2008
+Flow 8 (10.1.4.1 -> 10.1.4.2)
+  Rx / Tx Packets               :   483535  /     535013      Lost packets (per reason code):   44994 ()
+  Rx / Tx Bytes                 :725302500  /  802519500
+  Throughput / TxOffered (Mbps) :  58.0242  /    64.2018
+
+Aggregate throughput: 232.843
+
+Node           IDLE       CCA_BUSY             TX             RX      (RX ok)          RX_ME        RX_SBSS        RX_OBSS
+                                                                     (RX err)
+   0     3.45588725     0.61898877    95.05720400     0.89486400                  0.22511600     0.00000000     0.00215600
+                                                                                  0.00000000     0.00000000     0.66759200
+
+   1     0.11322039     4.27039563     0.57841600    95.05958800                 92.10028400     0.00000000     0.23020800
+                                                                                  0.30879200     0.00000000     2.42030400
+
+   2     3.42968921     0.60022040    95.25181600     0.77980000                  0.22404000     0.00000000     0.00206400
+                                                                                  0.00000000     0.00000000     0.55369600
+
+   3     0.15068694     4.01907067     0.57779200    95.30865200                 92.43112400     0.00000000     0.22889600
+                                                                                  0.34188000     0.00000000     2.30675200
+
+   4     3.04432893     0.80390504    95.45871600     0.69718000                  0.22524800     0.00000000     0.00340800
+                                                                                  0.00001200     0.00000000     0.46851200
+
+   5     0.09064382     4.12065815     0.58060400    95.20690000                 92.74651200     0.00000000     0.22906400
+                                                                                  0.60161200     0.00000000     1.62971200
+
+   6     3.55979242     0.84906590    95.04212000     0.62677600                  0.22493600     0.00000000     0.00254000
+                                                                                  0.00000000     0.00000000     0.39930000
+
+   7     0.16275120     4.19733112     0.57793600    95.13441200                 91.99762000     0.00000000     0.23046000
+                                                                                  0.32742800     0.00000000     2.57890400
+
+
+Node      Mac Tx                         Tx                       TxOk                        ACK                Mac Rx                   Mac Rx drop
+         packets          bytes     packets          bytes     packets          bytes    received    missed     packets          bytes        packets          bytes
+
+   0      534988      806761904      493995      744944460      483825      729608100       17300       346           0              0              0              0
+   1           0              0           0              0           0              0           0         0      483825      729608100              0              0
+   2      534996      806773968      494965      746407220      485754      732517032       17358       321           0              0              0              0
+   3           0              0           0              0           0              0           0         0      485782      732559256              0              0
+   4      535005      806787540      496494      748712952      487129      734590532       17427       316           0              0              0              0
+   5           0              0           0              0           0              0           0         0      487213      734717204              0              0
+   6      535013      806799604      493831      744697148      483535      729170780       17285       359           0              0              0              0
+   7           0              0           0              0           0              0           0         0      483535      729170780              0              0
+
+Node 0 Tx throughput:   58.3686 Mbps          Last 20 seconds:    60.431 Mbps
+Node 2 Tx throughput:   58.6014 Mbps          Last 20 seconds:   59.8399 Mbps
+Node 4 Tx throughput:   58.7672 Mbps          Last 20 seconds:   60.3128 Mbps
+Node 6 Tx throughput:   58.3337 Mbps          Last 20 seconds:    60.279 Mbps
+Aggregate throughput:   234.071 Mbps          Last 20 seconds:   240.863 Mbps
+Waf: Entering directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Waf: Leaving directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Build commands will be stored in build/optimized/compile_commands.json
+'build' finished successfully (1.071s)
+Standard                        802.11ac
+Channel number                        36
+Simulation time (s)                  100
+Nb of nodes                            8
+Nb of STAs per AP                      1
+Seed                                  13
+CST (dBm)                            -82
+AP Tx power (dBm)                      0
+STA Tx power (dBm)                     0
+
+Node     CST (dBm)     Tx power (dBm)     IP address           x           y           z
+   0           -82                  0       10.1.1.1      57.421      89.831       1.500
+   1           -82                  0       10.1.1.2      54.512      90.566       1.500
+   2           -82                  0       10.1.2.1      24.343      78.207       1.500
+   3           -82                  0       10.1.2.2      22.881      75.587       1.500
+   4           -82                  0       10.1.3.1      54.496      33.140       1.500
+   5           -82                  0       10.1.3.2      56.371      35.482       1.500
+   6           -82                  0       10.1.4.1      59.535      60.604       1.500
+   7           -82                  0       10.1.4.2      62.521      60.308       1.500
+
+Ns3Env parameters:
+OpenGym port: 50000
+Environment step time: 0.01
+Wilhelmi: 1
+
+MabGym pre-start
+MabGym start
+
+Flow 5 (10.1.1.1 -> 10.1.1.2)
+  Rx / Tx Packets               :   495862  /     534988      Lost packets (per reason code):   33426 ()
+  Rx / Tx Bytes                 :743793000  /  802482000
+  Throughput / TxOffered (Mbps) :  59.5034  /    64.1987
+Flow 6 (10.1.2.1 -> 10.1.2.2)
+  Rx / Tx Packets               :   494529  /     534996      Lost packets (per reason code):   34839 ()
+  Rx / Tx Bytes                 :741793500  /  802494000
+  Throughput / TxOffered (Mbps) :  59.3435  /    64.1997
+Flow 7 (10.1.3.1 -> 10.1.3.2)
+  Rx / Tx Packets               :   472559  /     535005      Lost packets (per reason code):   53914 ()
+  Rx / Tx Bytes                 :708838500  /  802507500
+  Throughput / TxOffered (Mbps) :  56.7071  /    64.2008
+Flow 8 (10.1.4.1 -> 10.1.4.2)
+  Rx / Tx Packets               :   489968  /     535013      Lost packets (per reason code):   38636 ()
+  Rx / Tx Bytes                 :734952000  /  802519500
+  Throughput / TxOffered (Mbps) :  58.7962  /    64.2018
+
+Aggregate throughput: 234.35
+
+Node           IDLE       CCA_BUSY             TX             RX      (RX ok)          RX_ME        RX_SBSS        RX_OBSS
+                                                                     (RX err)
+   0     2.70477615     0.80057964    96.21049600     0.31381200                  0.22149200     0.00000000     0.00103200
+                                                                                  0.00007200     0.00000000     0.09121600
+
+   1     0.07076466     4.09363912     0.57965200    95.28028400                 94.31417200     0.00000000     0.23025600
+                                                                                  0.22246800     0.00000000     0.51338800
+
+   2     2.68524397     0.78181956    96.03754800     0.57208400                  0.22154000     0.00000000     0.00175600
+                                                                                  0.00000000     0.00000000     0.34878800
+
+   3     0.11021501     4.14298851     0.57887200    95.23929600                 94.05810000     0.00000000     0.22985600
+                                                                                  0.25022800     0.00000000     0.70111200
+
+   4     4.66457714     0.49636005    94.28187200     0.60571600                  0.22955200     0.00000000     0.00301200
+                                                                                  0.00000000     0.00000000     0.37315200
+
+   5     0.07127698     4.54575619     0.57861200    94.84739600                 89.93526800     0.00000000     0.26148400
+                                                                                  0.21828400     0.00000000     4.43236000
+
+   6     3.09329033     0.96770816    95.52764000     0.50085600                  0.28650000     0.00000000     0.00083200
+                                                                                  0.02158800     0.00000000     0.19193600
+
+   7     0.11290159     4.71123690     0.69898800    94.56104400                 93.25419600     0.00000000     0.22894800
+                                                                                  0.32476800     0.00000000     0.75313200
+
+
+Node      Mac Tx                         Tx                       TxOk                        ACK                Mac Rx                   Mac Rx drop
+         packets          bytes     packets          bytes     packets          bytes    received    missed     packets          bytes        packets          bytes
+
+   0      534988      806761904      501044      755574352      495694      747506552       17710       187           0              0              0              0
+   1           0              0           0              0           0              0           0         0      495862      747759896              0              0
+   2      534996      806773968      500108      754162864      494529      745749732       17666       197           0              0              0              0
+   3           0              0           0              0           0              0           0         0      494529      745749732              0              0
+   4      535005      806787540      488254      736287032      472559      712618972       16894       548           0              0              0              0
+   5           0              0           0              0           0              0           0         0      472559      712618972              0              0
+   6      535013      806799604      496888      749307104      439596      662910768       15703      2043           0              0              0              0
+   7           0              0           0              0           0              0           0         0      489968      738871744              0              0
+
+Node 0 Tx throughput:   59.8005 Mbps          Last 20 seconds:   60.4985 Mbps
+Node 2 Tx throughput:     59.66 Mbps          Last 20 seconds:   60.7857 Mbps
+Node 4 Tx throughput:   57.0095 Mbps          Last 20 seconds:   57.1713 Mbps
+Node 6 Tx throughput:   53.0329 Mbps          Last 20 seconds:    53.388 Mbps
+Aggregate throughput:   229.503 Mbps          Last 20 seconds:   231.844 Mbps
+Waf: Entering directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Waf: Leaving directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Build commands will be stored in build/optimized/compile_commands.json
+'build' finished successfully (1.054s)
+Standard                        802.11ac
+Channel number                        36
+Simulation time (s)                  100
+Nb of nodes                            8
+Nb of STAs per AP                      1
+Seed                                  14
+CST (dBm)                            -82
+AP Tx power (dBm)                      0
+STA Tx power (dBm)                     0
+
+Node     CST (dBm)     Tx power (dBm)     IP address           x           y           z
+   0           -82                  0       10.1.1.1      88.614      79.271       1.500
+   1           -82                  0       10.1.1.2      86.132      77.584       1.500
+   2           -82                  0       10.1.2.1      30.269       7.893       1.500
+   3           -82                  0       10.1.2.2      28.178       5.742       1.500
+   4           -82                  0       10.1.3.1      44.824      48.927       1.500
+   5           -82                  0       10.1.3.2      44.715      51.925       1.500
+   6           -82                  0       10.1.4.1      88.442      51.954       1.500
+   7           -82                  0       10.1.4.2      91.130      50.621       1.500
+
+Ns3Env parameters:
+OpenGym port: 50000
+Environment step time: 0.01
+Wilhelmi: 1
+
+MabGym pre-start
+MabGym start
+
+Flow 5 (10.1.1.1 -> 10.1.1.2)
+  Rx / Tx Packets               :   482119  /     534988      Lost packets (per reason code):   47330 ()
+  Rx / Tx Bytes                 :723178500  /  802482000
+  Throughput / TxOffered (Mbps) :  57.8543  /    64.1987
+Flow 6 (10.1.2.1 -> 10.1.2.2)
+  Rx / Tx Packets               :   478146  /     534996      Lost packets (per reason code):   49943 ()
+  Rx / Tx Bytes                 :717219000  /  802494000
+  Throughput / TxOffered (Mbps) :  57.3775  /    64.1997
+Flow 7 (10.1.3.1 -> 10.1.3.2)
+  Rx / Tx Packets               :   496247  /     535005      Lost packets (per reason code):   33084 ()
+  Rx / Tx Bytes                 :744370500  /  802507500
+  Throughput / TxOffered (Mbps) :  59.5496  /    64.2008
+Flow 8 (10.1.4.1 -> 10.1.4.2)
+  Rx / Tx Packets               :   483396  /     535013      Lost packets (per reason code):   46179 ()
+  Rx / Tx Bytes                 :725094000  /  802519500
+  Throughput / TxOffered (Mbps) :  58.0075  /    64.2018
+
+Aggregate throughput: 232.789
+
+Node           IDLE       CCA_BUSY             TX             RX      (RX ok)          RX_ME        RX_SBSS        RX_OBSS
+                                                                     (RX err)
+   0     3.51995741     0.66093857    94.77619200     1.07483200                  0.22448000     0.00000000     0.00516000
+                                                                                  0.00000000     0.00000000     0.84519200
+
+   1     0.09027286     4.19532311     0.57657200    95.16442800                 91.76136800     0.00000000     0.30390800
+                                                                                  0.30346800     0.00000000     2.79568400
+
+   2     3.67686129     1.00838351    94.52885200     0.82210400                  0.22646000     0.00000000     0.00468000
+                                                                                  0.00000000     0.00000000     0.59096400
+
+   3     0.25029963     4.10201317     0.57804000    95.10052400                 91.27174800     0.00000000     0.22786000
+                                                                                  0.61758400     0.00000000     2.98333200
+
+   4     2.69754044     0.71299909    96.30547200     0.36653200                  0.22200400     0.00000000     0.00030800
+                                                                                  0.00000000     0.00000000     0.14422000
+
+   5     0.10578146     4.07191407     0.58062400    95.31890000                 94.43217600     0.00000000     0.22942400
+                                                                                  0.20231200     0.00000000     0.45498800
+
+   6     3.53945096     0.63718904    94.91983600     1.00003200                  0.22430400     0.00000000     0.00347600
+                                                                                  0.00000000     0.00000000     0.77225200
+
+   7     0.15829290     4.19815510     0.57690400    95.15783200                 91.99016800     0.00000000     0.23238000
+                                                                                  0.34625200     0.00000000     2.58903200
+
+
+Node      Mac Tx                         Tx                       TxOk                        ACK                Mac Rx                   Mac Rx drop
+         packets          bytes     packets          bytes     packets          bytes    received    missed     packets          bytes        packets          bytes
+
+   0      534988      806761904      492350      742463800      482119      727035452       17235       351           0              0              0              0
+   1           0              0           0              0           0              0           0         0      482119      727035452              0              0
+   2      534996      806773968      490745      740043460      478146      721044168       17148       386           0              0              0              0
+   3           0              0           0              0           0              0           0         0      478146      721044168              0              0
+   4      535005      806787540      501588      756394704      496247      748340476       17741       178           0              0              0              0
+   5           0              0           0              0           0              0           0         0      496247      748340476              0              0
+   6      535013      806799604      493252      743824016      483396      728961168       17276       341           0              0              0              0
+   7           0              0           0              0           0              0           0         0      483396      728961168              0              0
+
+Node 0 Tx throughput:   58.1628 Mbps          Last 20 seconds:    60.583 Mbps
+Node 2 Tx throughput:   57.6835 Mbps          Last 20 seconds:   59.7216 Mbps
+Node 4 Tx throughput:   59.8672 Mbps          Last 20 seconds:   60.7857 Mbps
+Node 6 Tx throughput:   58.3169 Mbps          Last 20 seconds:   60.6843 Mbps
+Aggregate throughput:   234.031 Mbps          Last 20 seconds:   241.775 Mbps
+Waf: Entering directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Waf: Leaving directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Build commands will be stored in build/optimized/compile_commands.json
+'build' finished successfully (1.120s)
+Standard                        802.11ac
+Channel number                        36
+Simulation time (s)                  100
+Nb of nodes                            8
+Nb of STAs per AP                      1
+Seed                                  15
+CST (dBm)                            -82
+AP Tx power (dBm)                      0
+STA Tx power (dBm)                     0
+
+Node     CST (dBm)     Tx power (dBm)     IP address           x           y           z
+   0           -82                  0       10.1.1.1      20.245      85.951       1.500
+   1           -82                  0       10.1.1.2      22.568      84.053       1.500
+   2           -82                  0       10.1.2.1      48.489      36.239       1.500
+   3           -82                  0       10.1.2.2      51.407      36.935       1.500
+   4           -82                  0       10.1.3.1       5.141      85.960       1.500
+   5           -82                  0       10.1.3.2       8.035      86.751       1.500
+   6           -82                  0       10.1.4.1      78.168      29.691       1.500
+   7           -82                  0       10.1.4.2      76.710      32.313       1.500
+
+Ns3Env parameters:
+OpenGym port: 50000
+Environment step time: 0.01
+Wilhelmi: 1
+
+MabGym pre-start
+MabGym start
+
+Flow 5 (10.1.1.1 -> 10.1.1.2)
+  Rx / Tx Packets               :   247784  /     534988      Lost packets (per reason code):  256547 ()
+  Rx / Tx Bytes                 :371676000  /  802482000
+  Throughput / TxOffered (Mbps) :  29.7341  /    64.1987
+Flow 6 (10.1.2.1 -> 10.1.2.2)
+  Rx / Tx Packets               :   466925  /     534996      Lost packets (per reason code):   62367 ()
+  Rx / Tx Bytes                 :700387500  /  802494000
+  Throughput / TxOffered (Mbps) :   56.031  /    64.1997
+Flow 7 (10.1.3.1 -> 10.1.3.2)
+  Rx / Tx Packets               :   230462  /     535005      Lost packets (per reason code):  273889 ()
+  Rx / Tx Bytes                 :345693000  /  802507500
+  Throughput / TxOffered (Mbps) :  27.6554  /    64.2008
+Flow 8 (10.1.4.1 -> 10.1.4.2)
+  Rx / Tx Packets               :   477221  /     535013      Lost packets (per reason code):   52346 ()
+  Rx / Tx Bytes                 :715831500  /  802519500
+  Throughput / TxOffered (Mbps) :  57.2665  /    64.2018
+
+Aggregate throughput: 170.687
+
+Node           IDLE       CCA_BUSY             TX             RX      (RX ok)          RX_ME        RX_SBSS        RX_OBSS
+                                                                     (RX err)
+   0     2.62197703     1.38732726    52.71970000    43.36304400                  0.17283200     0.00000000     4.22367200
+                                                                                  0.00021600     0.00000000    38.96632400
+
+   1     0.27117224     7.01964006     0.38089600    92.41501600                 48.18556400     0.00000000     0.89400800
+                                                                                  0.77730400     0.00000000    42.55814000
+
+   2     4.49569714     1.02857869    93.26416000     1.30929200                  0.22848000     0.00000000     0.00536400
+                                                                                  0.00000000     0.00000000     1.07544800
+
+   3     0.39163109     4.50830474     0.57424000    94.61822800                 88.90826400     0.00000000     0.22984800
+                                                                                  0.76665600     0.00000000     4.71346000
+
+   4     2.77094682     1.63944558    51.78640800    43.88992400                  0.16654800     0.00000000     4.19231200
+                                                                                  0.00015600     0.00000000    39.53090800
+
+   5     2.32658858     2.40477579     0.35995200    94.99540800                 43.95824400     0.00000000    43.14887600
+                                                                                  6.22934400     0.00000000     1.65894400
+
+   6     3.70617293     0.89188597    94.23841200     1.24454800                  0.22570400     0.00000000     0.00728400
+                                                                                  0.00000000     0.00000000     1.01156000
+
+   7     0.42349092     4.18167998     0.57599600    94.89452800                 90.89854000     0.00000000     0.23374400
+                                                                                  0.66550000     0.00000000     3.09674400
+
+
+Node      Mac Tx                         Tx                       TxOk                        ACK                Mac Rx                   Mac Rx drop
+         packets          bytes     packets          bytes     packets          bytes    received    missed     packets          bytes        packets          bytes
+
+   0      534988      806761904      273603      412593324      247451      373156108        9027       747           0              0              0              0
+   1           0              0           0              0           0              0           0         0      247784      373658272              0              0
+   2      534996      806773968      483184      728641472      466925      704122900       16704       560           0              0              0              0
+   3           0              0           0              0           0              0           0         0      466925      704122900              0              0
+   4      535005      806787540      268579      405017132      230286      347271288        8235      1359           0              0              0              0
+   5           0              0           0              0           0              0           0         0      230462      347536696              0              0
+   6      535013      806799604      489368      737966944      477193      719607044       17081       407           0              0              0              0
+   7           0              0           0              0           0              0           0         0      477221      719649268              0              0
+
+Node 0 Tx throughput:   29.8525 Mbps          Last 20 seconds:   29.8017 Mbps
+Node 2 Tx throughput:   56.3298 Mbps          Last 20 seconds:   60.8701 Mbps
+Node 4 Tx throughput:   27.7817 Mbps          Last 20 seconds:   28.5078 Mbps
+Node 6 Tx throughput:   57.5686 Mbps          Last 20 seconds:   61.0221 Mbps
+Aggregate throughput:   171.533 Mbps          Last 20 seconds:   180.202 Mbps
+Waf: Entering directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Waf: Leaving directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Build commands will be stored in build/optimized/compile_commands.json
+'build' finished successfully (1.061s)
+Standard                        802.11ac
+Channel number                        36
+Simulation time (s)                  100
+Nb of nodes                            8
+Nb of STAs per AP                      1
+Seed                                  16
+CST (dBm)                            -82
+AP Tx power (dBm)                      0
+STA Tx power (dBm)                     0
+
+Node     CST (dBm)     Tx power (dBm)     IP address           x           y           z
+   0           -82                  0       10.1.1.1      35.576       8.343       1.500
+   1           -82                  0       10.1.1.2      38.575       8.265       1.500
+   2           -82                  0       10.1.2.1      63.609      51.360       1.500
+   3           -82                  0       10.1.2.2      60.929      52.709       1.500
+   4           -82                  0       10.1.3.1      46.999      53.385       1.500
+   5           -82                  0       10.1.3.2      48.780      50.971       1.500
+   6           -82                  0       10.1.4.1      37.181      52.852       1.500
+   7           -82                  0       10.1.4.2      39.132      55.132       1.500
+
+Ns3Env parameters:
+OpenGym port: 50000
+Environment step time: 0.01
+Wilhelmi: 1
+
+MabGym pre-start
+MabGym start
+
+Flow 5 (10.1.1.1 -> 10.1.1.2)
+  Rx / Tx Packets               :   497723  /     534988      Lost packets (per reason code):   31586 ()
+  Rx / Tx Bytes                 :746584500  /  802482000
+  Throughput / TxOffered (Mbps) :  59.7268  /    64.1987
+Flow 6 (10.1.2.1 -> 10.1.2.2)
+  Rx / Tx Packets               :   485729  /     534996      Lost packets (per reason code):   43041 ()
+  Rx / Tx Bytes                 :728593500  /  802494000
+  Throughput / TxOffered (Mbps) :  58.2875  /    64.1997
+Flow 7 (10.1.3.1 -> 10.1.3.2)
+  Rx / Tx Packets               :     4403  /     535005      Lost packets (per reason code):  537035 (0 / 0 / 0 / 0 / 415291)
+  Rx / Tx Bytes                 :  6604500  /  802507500
+  Throughput / TxOffered (Mbps) :  0.52836  /    64.2008
+Flow 8 (10.1.4.1 -> 10.1.4.2)
+  Rx / Tx Packets               :   485316  /     535013      Lost packets (per reason code):   43280 ()
+  Rx / Tx Bytes                 :727974000  /  802519500
+  Throughput / TxOffered (Mbps) :  58.2379  /    64.2018
+
+Aggregate throughput: 176.781
+
+Node           IDLE       CCA_BUSY             TX             RX      (RX ok)          RX_ME        RX_SBSS        RX_OBSS
+                                                                     (RX err)
+   0     2.67933057     0.61102220    96.32954400     0.46256400                  0.22044800     0.00000000     0.00215600
+                                                                                  0.00000000     0.00000000     0.23996000
+
+   1     0.12526948     3.66096328     0.57940800    95.71149600                 94.76678400     0.00000000     0.23264800
+                                                                                  0.10648000     0.00000000     0.60558400
+
+   2     2.99733257     0.63088448    94.94383200     1.48248800                  0.22316400     0.00000000     0.31099600
+                                                                                  0.00034800     0.00000000     0.94798000
+
+   3     0.09003626     4.11139279     0.57701200    95.27077200                 92.42008400     0.00000000     0.59089600
+                                                                                  0.22418400     0.00000000     2.03560800
+
+   4     0.17532115     4.51757281     1.43503600    93.91889200                  0.00705600     0.00000000     1.38452000
+                                                                                  0.00016800     0.00000000    92.52714800
+
+   5     0.07898521    91.48077772     0.01410800     4.86295600                  0.91478400     0.00000000     0.37913200
+                                                                                  0.29289200     0.00000000     3.27614800
+
+   6     2.96893614     0.71363085    94.76961200     1.63434000                  0.22183200     0.00000000     0.83001200
+                                                                                  0.00009600     0.00000000     0.58240000
+
+   7     0.12647586     4.06882313     0.57477200    95.31112400                 92.32338400     0.00000000     1.15612400
+                                                                                  0.28258800     0.00000000     1.54902800
+
+
+Node      Mac Tx                         Tx                       TxOk                        ACK                Mac Rx                   Mac Rx drop
+         packets          bytes     packets          bytes     packets          bytes    received    missed     packets          bytes        packets          bytes
+
+   0      534988      806761904      501759      756652572      497723      750566284       17807       120           0              0              0              0
+   1           0              0           0              0           0              0           0         0      497723      750566284              0              0
+   2      534996      806773968      493923      744835884      484969      731333252       17329       313           0              0              0              0
+   3           0              0           0              0           0              0           0         0      485729      732479332              0              0
+   4      109473      165085284        7199       10856092        4457        6721156         168        91           0              0              0              0
+   5           0              0           0              0           0              0           0         0        4486        6764888              0              0
+   6      535013      806799604      493058      743531464      485064      731476512       17330       281           0              0              0              0
+   7           0              0           0              0           0              0           0         0      485316      731856528              0              0
+
+Node 0 Tx throughput:   60.0453 Mbps          Last 20 seconds:   60.8194 Mbps
+Node 2 Tx throughput:   58.5067 Mbps          Last 20 seconds:   60.5323 Mbps
+Node 4 Tx throughput:  0.537692 Mbps          Last 20 seconds:         0 Mbps
+Node 6 Tx throughput:   58.5181 Mbps          Last 20 seconds:   60.3634 Mbps
+Aggregate throughput:   177.608 Mbps          Last 20 seconds:   181.715 Mbps
+Waf: Entering directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Waf: Leaving directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Build commands will be stored in build/optimized/compile_commands.json
+'build' finished successfully (1.079s)
+Standard                        802.11ac
+Channel number                        36
+Simulation time (s)                  100
+Nb of nodes                            8
+Nb of STAs per AP                      1
+Seed                                  17
+CST (dBm)                            -82
+AP Tx power (dBm)                      0
+STA Tx power (dBm)                     0
+
+Node     CST (dBm)     Tx power (dBm)     IP address           x           y           z
+   0           -82                  0       10.1.1.1      46.642      40.805       1.500
+   1           -82                  0       10.1.1.2      47.102      43.769       1.500
+   2           -82                  0       10.1.2.1      26.814      54.329       1.500
+   3           -82                  0       10.1.2.2      26.894      57.327       1.500
+   4           -82                  0       10.1.3.1      86.789      60.459       1.500
+   5           -82                  0       10.1.3.2      89.200      58.673       1.500
+   6           -82                  0       10.1.4.1      48.242      26.136       1.500
+   7           -82                  0       10.1.4.2      49.509      28.855       1.500
+
+Ns3Env parameters:
+OpenGym port: 50000
+Environment step time: 0.01
+Wilhelmi: 1
+
+MabGym pre-start
+MabGym start
+
+Flow 5 (10.1.1.1 -> 10.1.1.2)
+  Rx / Tx Packets               :   219820  /     534988      Lost packets (per reason code):  283027 ()
+  Rx / Tx Bytes                 :329730000  /  802482000
+  Throughput / TxOffered (Mbps) :  26.3784  /    64.1987
+Flow 6 (10.1.2.1 -> 10.1.2.2)
+  Rx / Tx Packets               :   486386  /     534996      Lost packets (per reason code):   42167 ()
+  Rx / Tx Bytes                 :729579000  /  802494000
+  Throughput / TxOffered (Mbps) :  58.3663  /    64.1997
+Flow 7 (10.1.3.1 -> 10.1.3.2)
+  Rx / Tx Packets               :   490110  /     535005      Lost packets (per reason code):   38655 ()
+  Rx / Tx Bytes                 :735165000  /  802507500
+  Throughput / TxOffered (Mbps) :  58.8132  /    64.2008
+Flow 8 (10.1.4.1 -> 10.1.4.2)
+  Rx / Tx Packets               :   235934  /     535013      Lost packets (per reason code):  268138 ()
+  Rx / Tx Bytes                 :353901000  /  802519500
+  Throughput / TxOffered (Mbps) :  28.3121  /    64.2018
+
+Aggregate throughput: 171.87
+
+Node           IDLE       CCA_BUSY             TX             RX      (RX ok)          RX_ME        RX_SBSS        RX_OBSS
+                                                                     (RX err)
+   0     2.96820507     1.95223039    49.52000800    45.59234000                  0.16620400     0.00000000     0.55627600
+                                                                                  0.00224400     0.00000000    44.86761600
+
+   1     0.07405707    49.92345230     0.35735600    49.67780000                 42.14313200     0.00000000     0.41222400
+                                                                                  3.10921600     0.00000000     4.01322800
+
+   2     3.47252427     0.46905470    95.52313200     0.58437200                  0.23431200     0.00000000     0.10724000
+                                                                                  0.00285600     0.00000000     0.23996400
+
+   3     0.21594935     4.01713362     0.59662800    95.21913600                 92.53131600     0.00000000     0.30619200
+                                                                                  0.35366800     0.00000000     2.02796000
+
+   4     2.80531813     0.78285094    96.05511600     0.40198800                  0.22875600     0.00000000     0.00286400
+                                                                                  0.00000000     0.00000000     0.17036800
+
+   5     0.22234688     3.99671420     0.58787600    95.23301200                 93.64647200     0.00000000     0.23389200
+                                                                                  0.22912400     0.00000000     1.12352400
+
+   6     3.26507846     1.51089691    52.56578400    42.69634800                  0.16766400     0.00000000     0.61186800
+                                                                                  0.00002400     0.00000000    41.91679200
+
+   7     0.07412127     7.67728211     0.36413600    91.91724400                 44.95061200     0.00000000     0.78143600
+                                                                                  3.26912800     0.00000000    42.91606800
+
+
+Node      Mac Tx                         Tx                       TxOk                        ACK                Mac Rx                   Mac Rx drop
+         packets          bytes     packets          bytes     packets          bytes    received    missed     packets          bytes        packets          bytes
+
+   0      534988      806761904      256265      386447620      214592      323604736        7723      1434           0              0              0              0
+   1           0              0           0              0           0              0           0         0      219820      331488560              0              0
+   2      534996      806773968      496396      748565168      479722      723420776       17138       592           0              0              0              0
+   3           0              0           0              0           0              0           0         0      486386      733470088              0              0
+   4      535005      806787540      499972      753957776      490110      739085880       17587       270           0              0              0              0
+   5           0              0           0              0           0              0           0         0      490110      739085880              0              0
+   6      535013      806799604      272207      410488156      235879      355705532        8432      1290           0              0              0              0
+   7           0              0           0              0           0              0           0         0      235934      355788472              0              0
+
+Node 0 Tx throughput:   25.8884 Mbps          Last 20 seconds:   26.0468 Mbps
+Node 2 Tx throughput:   57.8737 Mbps          Last 20 seconds:   58.9785 Mbps
+Node 4 Tx throughput:   59.1269 Mbps          Last 20 seconds:   59.9973 Mbps
+Node 6 Tx throughput:   28.4564 Mbps          Last 20 seconds:   29.0242 Mbps
+Aggregate throughput:   171.345 Mbps          Last 20 seconds:   174.047 Mbps
+Waf: Entering directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Waf: Leaving directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Build commands will be stored in build/optimized/compile_commands.json
+'build' finished successfully (1.137s)
+Standard                        802.11ac
+Channel number                        36
+Simulation time (s)                  100
+Nb of nodes                            8
+Nb of STAs per AP                      1
+Seed                                  18
+CST (dBm)                            -82
+AP Tx power (dBm)                      0
+STA Tx power (dBm)                     0
+
+Node     CST (dBm)     Tx power (dBm)     IP address           x           y           z
+   0           -82                  0       10.1.1.1      40.053       9.418       1.500
+   1           -82                  0       10.1.1.2      37.054       9.490       1.500
+   2           -82                  0       10.1.2.1      32.906      13.122       1.500
+   3           -82                  0       10.1.2.2      32.362      16.072       1.500
+   4           -82                  0       10.1.3.1      18.242      59.668       1.500
+   5           -82                  0       10.1.3.2      20.253      57.443       1.500
+   6           -82                  0       10.1.4.1      80.719      64.049       1.500
+   7           -82                  0       10.1.4.2      78.464      62.070       1.500
+
+Ns3Env parameters:
+OpenGym port: 50000
+Environment step time: 0.01
+Wilhelmi: 1
+
+MabGym pre-start
+MabGym start
+
+Flow 5 (10.1.1.1 -> 10.1.1.2)
+  Rx / Tx Packets               :   212710  /     534988      Lost packets (per reason code):  289161 ()
+  Rx / Tx Bytes                 :319065000  /  802482000
+  Throughput / TxOffered (Mbps) :  25.5252  /    64.1987
+Flow 6 (10.1.2.1 -> 10.1.2.2)
+  Rx / Tx Packets               :   253236  /     534996      Lost packets (per reason code):  252498 ()
+  Rx / Tx Bytes                 :379854000  /  802494000
+  Throughput / TxOffered (Mbps) :  30.3883  /    64.1997
+Flow 7 (10.1.3.1 -> 10.1.3.2)
+  Rx / Tx Packets               :   491662  /     535005      Lost packets (per reason code):   37650 ()
+  Rx / Tx Bytes                 :737493000  /  802507500
+  Throughput / TxOffered (Mbps) :  58.9994  /    64.2008
+Flow 8 (10.1.4.1 -> 10.1.4.2)
+  Rx / Tx Packets               :   491960  /     535013      Lost packets (per reason code):   37033 ()
+  Rx / Tx Bytes                 :737940000  /  802519500
+  Throughput / TxOffered (Mbps) :  59.0352  /    64.2018
+
+Aggregate throughput: 173.948
+
+Node           IDLE       CCA_BUSY             TX             RX      (RX ok)          RX_ME        RX_SBSS        RX_OBSS
+                                                                     (RX err)
+   0     2.66394844     1.61014714    47.37328400    48.39717600                  0.18375600     0.00000000    47.59663600
+                                                                                  0.00000000     0.00000000     0.61678400
+
+   1     0.19738548     5.67590210     0.38175600    93.78951200                 40.87748000     0.00000000    47.58686800
+                                                                                  3.90800800     0.00000000     1.41715600
+
+   2     2.44949905     1.15369653    54.64041600    41.80626800                  0.16568400     0.00000000    33.30846400
+                                                                                  0.00006000     0.00000000     8.33206000
+
+   3     0.19728105     4.78661853     0.37407600    94.68658000                 48.44242000     0.00000000    15.70955200
+                                                                                  4.01562800     0.00000000    26.51898000
+
+   4     2.69980004     0.89875118    96.15940400     0.34084400                  0.22849600     0.00000000     0.00054400
+                                                                                  0.00000000     0.00000000     0.11180400
+
+   5     0.45318827     3.87513094     0.58915600    95.17600000                 94.14321200     0.00000000     0.22892800
+                                                                                  0.17569200     0.00000000     0.62816800
+
+   6     2.51376383     1.97020389    95.28052000     0.26823200                  0.26823200     0.00000000     0.00000000
+                                                                                  0.00000000     0.00000000     0.00000000
+
+   7     0.71730910     4.08059061     0.64587200    94.58362400                 94.35328800     0.00000000     0.23033600
+                                                                                  0.00000000     0.00000000     0.00000000
+
+
+Node      Mac Tx                         Tx                       TxOk                        ACK                Mac Rx                   Mac Rx drop
+         packets          bytes     packets          bytes     packets          bytes    received    missed     packets          bytes        packets          bytes
+
+   0      534988      806761904      245379      370031532      212710      320766680        7665      1101           0              0              0              0
+   1           0              0           0              0           0              0           0         0      212710      320766680              0              0
+   2      534996      806773968      283525      427555700      252909      381386772        9079      1048           0              0              0              0
+   3           0              0           0              0           0              0           0         0      253236      381879888              0              0
+   4      535005      806787540      500710      755070680      491634      741384072       17690       202           0              0              0              0
+   5           0              0           0              0           0              0           0         0      491662      741426296              0              0
+   6      535013      806799604      496088      748100704      491960      741875680       17725         2           0              0              0              0
+   7           0              0           0              0           0              0           0         0      491960      741875680              0              0
+
+Node 0 Tx throughput:   25.6613 Mbps          Last 20 seconds:   26.3405 Mbps
+Node 2 Tx throughput:   30.5109 Mbps          Last 20 seconds:   30.3211 Mbps
+Node 4 Tx throughput:   59.3107 Mbps          Last 20 seconds:   60.6059 Mbps
+Node 6 Tx throughput:   59.3501 Mbps          Last 20 seconds:   60.2645 Mbps
+Aggregate throughput:   174.833 Mbps          Last 20 seconds:   177.532 Mbps
+Waf: Entering directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Waf: Leaving directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Build commands will be stored in build/optimized/compile_commands.json
+'build' finished successfully (1.080s)
+Standard                        802.11ac
+Channel number                        36
+Simulation time (s)                  100
+Nb of nodes                            8
+Nb of STAs per AP                      1
+Seed                                  19
+CST (dBm)                            -82
+AP Tx power (dBm)                      0
+STA Tx power (dBm)                     0
+
+Node     CST (dBm)     Tx power (dBm)     IP address           x           y           z
+   0           -82                  0       10.1.1.1      17.623      91.976       1.500
+   1           -82                  0       10.1.1.2      17.791      94.971       1.500
+   2           -82                  0       10.1.2.1      77.603      78.197       1.500
+   3           -82                  0       10.1.2.2      78.533      81.049       1.500
+   4           -82                  0       10.1.3.1      67.446      56.621       1.500
+   5           -82                  0       10.1.3.2      65.364      58.781       1.500
+   6           -82                  0       10.1.4.1       9.686      24.369       1.500
+   7           -82                  0       10.1.4.2       6.762      25.041       1.500
+
+Ns3Env parameters:
+OpenGym port: 50000
+Environment step time: 0.01
+Wilhelmi: 1
+
+MabGym pre-start
+MabGym start
+
+Flow 5 (10.1.1.1 -> 10.1.1.2)
+  Rx / Tx Packets               :   487491  /     534988      Lost packets (per reason code):   41472 ()
+  Rx / Tx Bytes                 :731236500  /  802482000
+  Throughput / TxOffered (Mbps) :  58.4989  /    64.1987
+Flow 6 (10.1.2.1 -> 10.1.2.2)
+  Rx / Tx Packets               :   473335  /     534996      Lost packets (per reason code):   55544 ()
+  Rx / Tx Bytes                 :710002500  /  802494000
+  Throughput / TxOffered (Mbps) :  56.8002  /    64.1997
+Flow 7 (10.1.3.1 -> 10.1.3.2)
+  Rx / Tx Packets               :   466408  /     535005      Lost packets (per reason code):   62572 ()
+  Rx / Tx Bytes                 :699612000  /  802507500
+  Throughput / TxOffered (Mbps) :   55.969  /    64.2008
+Flow 8 (10.1.4.1 -> 10.1.4.2)
+  Rx / Tx Packets               :   494143  /     535013      Lost packets (per reason code):   34976 ()
+  Rx / Tx Bytes                 :741214500  /  802519500
+  Throughput / TxOffered (Mbps) :  59.2972  /    64.2018
+
+Aggregate throughput: 230.565
+
+Node           IDLE       CCA_BUSY             TX             RX      (RX ok)          RX_ME        RX_SBSS        RX_OBSS
+                                                                     (RX err)
+   0     2.59116710     1.74485767    95.45198400     0.27837200                  0.27837200     0.00000000     0.00000000
+                                                                                  0.00000000     0.00000000     0.00000000
+
+   1     0.39984213     4.72810664     0.65945200    94.27365600                 94.04450000     0.00000000     0.22915600
+                                                                                  0.00000000     0.00000000     0.00000000
+
+   2     3.95389986     0.77280740    94.39505200     0.90389200                  0.23833200     0.00000000     0.20003200
+                                                                                  0.00214800     0.00000000     0.46338000
+
+   3     0.30892011     4.55570715     0.59472000    94.56098000                 90.18455600     0.00000000     0.22995200
+                                                                                  0.72938800     0.00000000     3.41708400
+
+   4     4.55013977     0.97264738    93.66137600     0.91695200                  0.24054800     0.00000000     0.06072800
+                                                                                  0.00246000     0.00000000     0.61321600
+
+   5     0.31523332     5.24451383     0.59466000    93.94138400                 88.88599200     0.00000000     0.62514000
+                                                                                  0.53772400     0.00000000     3.89252800
+
+   6     2.35314808     2.51866027    94.91830000     0.22504400                  0.22504400     0.00000000     0.00000000
+                                                                                  0.00000000     0.00000000     0.00000000
+
+   7     1.33587346     3.83821088     0.58386400    94.25188000                 94.02154400     0.00000000     0.23033600
+                                                                                  0.00000000     0.00000000     0.00000000
+
+
+Node      Mac Tx                         Tx                       TxOk                        ACK                Mac Rx                   Mac Rx drop
+         packets          bytes     packets          bytes     packets          bytes    received    missed     packets          bytes        packets          bytes
+
+   0      534988      806761904      496913      749344804      487463      735094204       17666        92           0              0              0              0
+   1           0              0           0              0           0              0           0         0      487491      735136428              0              0
+   2      534996      806773968      489720      738497760      468323      706231084       16757       734           0              0              0              0
+   3           0              0           0              0           0              0           0         0      473335      713789180              0              0
+   4      535005      806787540      485137      731586596      460640      694645120       16486       842           0              0              0              0
+   5           0              0           0              0           0              0           0         0      466408      703343264              0              0
+   6      535013      806799604      494455      745638140      494143      745167644       17670         0           0              0              0              0
+   7           0              0           0              0           0              0           0         0      494143      745167644              0              0
+
+Node 0 Tx throughput:   58.8075 Mbps          Last 20 seconds:   60.2633 Mbps
+Node 2 Tx throughput:   56.4985 Mbps          Last 20 seconds:   59.6541 Mbps
+Node 4 Tx throughput:   55.5716 Mbps          Last 20 seconds:   58.9278 Mbps
+Node 6 Tx throughput:   59.6134 Mbps          Last 20 seconds:   60.3749 Mbps
+Aggregate throughput:   230.491 Mbps          Last 20 seconds:    239.22 Mbps
+Waf: Entering directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Waf: Leaving directory `/home/zhaowen/ns3/ns-3-allinone/ns-3-dev/build/optimized'
+Build commands will be stored in build/optimized/compile_commands.json
+'build' finished successfully (1.147s)
+Standard                        802.11ac
+Channel number                        36
+Simulation time (s)                  100
+Nb of nodes                            8
+Nb of STAs per AP                      1
+Seed                                  20
+CST (dBm)                            -82
+AP Tx power (dBm)                      0
+STA Tx power (dBm)                     0
+
+Node     CST (dBm)     Tx power (dBm)     IP address           x           y           z
+   0           -82                  0       10.1.1.1      70.929      96.123       1.500
+   1           -82                  0       10.1.1.2      73.884      96.640       1.500
+   2           -82                  0       10.1.2.1      59.930      76.830       1.500
+   3           -82                  0       10.1.2.2      56.953      76.466       1.500
+   4           -82                  0       10.1.3.1      44.008      50.776       1.500
+   5           -82                  0       10.1.3.2      46.357      48.910       1.500
+   6           -82                  0       10.1.4.1      89.391      80.100       1.500
+   7           -82                  0       10.1.4.2      88.124      77.381       1.500
+
+Ns3Env parameters:
+OpenGym port: 50000
+Environment step time: 0.01
+Wilhelmi: 1
+
+MabGym pre-start
+MabGym start
+
+Flow 5 (10.1.1.1 -> 10.1.1.2)
+  Rx / Tx Packets               :   331671  /     534988      Lost packets (per reason code):  181406 ()
+  Rx / Tx Bytes                 :497506500  /  802482000
+  Throughput / TxOffered (Mbps) :  39.8005  /    64.1987
+Flow 6 (10.1.2.1 -> 10.1.2.2)
+  Rx / Tx Packets               :   196263  /     534996      Lost packets (per reason code):  305562 ()
+  Rx / Tx Bytes                 :294394500  /  802494000
+  Throughput / TxOffered (Mbps) :  23.5516  /    64.1997
+Flow 7 (10.1.3.1 -> 10.1.3.2)
+  Rx / Tx Packets               :   429134  /     535005      Lost packets (per reason code):   93214 ()
+  Rx / Tx Bytes                 :643701000  /  802507500
+  Throughput / TxOffered (Mbps) :  51.4961  /    64.2008
+Flow 8 (10.1.4.1 -> 10.1.4.2)
+  Rx / Tx Packets               :   378266  /     535013      Lost packets (per reason code):  139610 ()
+  Rx / Tx Bytes                 :567399000  /  802519500
+  Throughput / TxOffered (Mbps) :  45.3919  /    64.2018
+
+Aggregate throughput: 160.24
+
+Node           IDLE       CCA_BUSY             TX             RX      (RX ok)          RX_ME        RX_SBSS        RX_OBSS
+                                                                     (RX err)
+   0     3.63461644    22.71938185    72.68604000     1.04798400                  0.28248000     0.00000000     0.13146400
+                                                                                  0.02000400     0.00000000     0.61403600
+
+   1     0.54012142    27.50661771     0.60660000    71.43464800                 63.27878000     0.00000000     0.41330000
+                                                                                  0.54324000     0.00000000     7.19932800
+
+   2     2.37328060    50.95555861    43.82027200     2.89265600                  0.27234400     0.00000000     0.04863600
+                                                                                  0.04572000     0.00000000     2.52595600
+
+   3     0.18577218    53.20347502     0.55698000    46.09021600                 37.51069600     0.00000000     0.31338000
+                                                                                  2.00714800     0.00000000     6.25899200
+
+   4     5.88283517     0.69430046    92.60432800     0.83632800                  0.26808000     0.00000000     0.00368800
+                                                                                  0.00000000     0.00000000     0.56456000
+
+   5     0.16714836     8.42978327     0.60988000    90.80565600                 81.72517600     0.00000000     0.23188400
+                                                                                  0.29111200     0.00000000     8.55748400
+
+   6     5.25105599    10.39547379    83.53744000     0.91370400                  0.26923200     0.00000000     0.02568400
+                                                                                  0.00549600     0.00000000     0.61329200
+
+   7     0.24558407    16.83236972     0.59203600    82.42236000                 72.04816800     0.00000000     0.29910800
+                                                                                  0.42611600     0.00000000     9.64896800
+
+
+Node      Mac Tx                         Tx                       TxOk                        ACK                Mac Rx                   Mac Rx drop
+         packets          bytes     packets          bytes     packets          bytes    received    missed     packets          bytes        packets          bytes
+
+   0      534988      806761904      376211      567326188      285059      429868972       10192      3246           0              0              0              0
+   1           0              0           0              0           0              0           0         0      331671      500159868              0              0
+   2      534996      806773968      225807      340516956       89366      134763928        3200      4872           0              0              0              0
+   3           0              0           0              0           0              0           0         0      196263      295964604              0              0
+   4      535005      806787540      477744      720437952      429134      647134072       15340      1725           0              0              0              0
+   5           0              0           0              0           0              0           0         0      429134      647134072              0              0
+   6      535013      806799604      431113      650118404      365470      551128760       13060      2339           0              0              0              0
+   7           0              0           0              0           0              0           0         0      378266      570425128              0              0
+
+Node 0 Tx throughput:   34.3895 Mbps          Last 20 seconds:   34.2063 Mbps
+Node 2 Tx throughput:   10.7811 Mbps          Last 20 seconds:   10.9107 Mbps
+Node 4 Tx throughput:   51.7707 Mbps          Last 20 seconds:   51.5471 Mbps
+Node 6 Tx throughput:   44.0903 Mbps          Last 20 seconds:   44.4028 Mbps
+Aggregate throughput:   141.032 Mbps          Last 20 seconds:   141.067 Mbps

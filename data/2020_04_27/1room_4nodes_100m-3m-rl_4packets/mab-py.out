@@ -1,0 +1,1720 @@
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:29726): Gdk-CRITICAL **: 04:23:14.934: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50003
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.245388865979381560    0.101534616513361903          0.96                96
+   0    -68         0    0.563030733299680564    0.010047841139260626         99.04              9904
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.432725134575569326    0.078811040623910061          1.60               160
+   1    -68         0    0.655372085492678225    0.010080460776296539         98.40              9840
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.719197068149075691    0.014348812093082912         48.56              4856
+   2    -68         0    0.719481531584074907    0.013941429613550474         51.44              5144
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.015223370786516852    0.105999788000636003          0.88                88
+   3    -68         0    0.326948811997714750    0.010043785911110688         99.12              9912
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [43.3653 54.1279 61.0333 10.3423]
+Aggregate throughput: 168.8689
+Min-Max: 50.6910
+JFI: 0.6846 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 9904, -82: 96}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 9840, -82: 160}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 5144, -82: 4856}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 9912, -82: 88}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.245388865979381560    1.000000000000000000          0.00               0.0
+   0    -68         0    0.552222677630191061    0.022355091700494795         20.00            2000.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.444077037037036937    0.333333333333333315          0.08               8.0
+   1    -68         0    0.655379250010622583    0.022399913984495447         19.92            1992.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.719341220077234000    0.032058528181875073          9.72             972.0
+   2    -68         0    0.719254369686680883    0.031173984319427483         10.28            1028.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.015810370370370367    0.333333333333333315          0.08               8.0
+   3    -68         0    0.329956614905522749    0.022399913984495447         19.92            1992.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [46.5616 54.2210 61.0390  8.9937]
+Aggregate throughput: 170.8154
+Min-Max: 52.0453
+JFI: 0.6797 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 2000}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 1992, -82: 8}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 1028, -82: 972}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 1992, -82: 8}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:29833): Gdk-CRITICAL **: 04:25:22.522: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50003
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.719860503362162563    0.013860842640098179         52.04              5204
+   0    -68         0    0.718937069001472695    0.014438269394140332         47.96              4796
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.719332497535986048    0.014040014904887734         50.72              5072
+   1    -68         0    0.719426155406789558    0.014243626957572005         49.28              4928
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.718508468702633074    0.014717026189611598         46.16              4616
+   2    -68         0    0.720128178272995134    0.013627216199782605         53.84              5384
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.719470179087246975    0.013876848237393777         51.92              5192
+   3    -68         0    0.719316481597019441    0.014420244082001089         48.08              4808
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [61.0430 61.0379 61.0382 61.0402]
+Aggregate throughput: 244.1593
+Min-Max: 0.0051
+JFI: 1.0000 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 4796, -82: 5204}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 4928, -82: 5072}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 5384, -82: 4616}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 4808, -82: 5192}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.719523572629065522    0.030993786368687180         10.40            1040.0
+   0    -68         0    0.719175856137622249    0.032258064516129031          9.60             960.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.719363808579235653    0.030993786368687180         10.40            1040.0
+   1    -68         0    0.719317026958947836    0.032258064516129031          9.60             960.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.718478485596723560    0.032058528181875073          9.72             972.0
+   2    -68         0    0.720066100527900654    0.031173984319427483         10.28            1028.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.719537236623083887    0.031798150037444670          9.88             988.0
+   3    -68         0    0.719100848037941054    0.031419211180334743         10.12            1012.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [61.0559 61.0390 61.0390 61.0559]
+Aggregate throughput: 244.1898
+Min-Max: 0.0169
+JFI: 0.9999 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 960, -82: 1040}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 960, -82: 1040}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 1028, -82: 972}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 1012, -82: 988}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:29882): Gdk-CRITICAL **: 04:27:21.711: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50003
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.312375336985831420    0.016152159344809919         38.32              3832
+   0    -68         0    0.319414414005513791    0.012731882292662630         61.68              6168
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.720331747705537984    0.013974060271677285         51.20              5120
+   1    -68         0    0.718310247900033616    0.014313491886669591         48.80              4880
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.323124327367790565    0.014180474733371392         49.72              4972
+   2    -68         0    0.330505309206607034    0.014101300975535015         50.28              5028
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.719266888132892634    0.014146380174561475         49.96              4996
+   3    -68         0    0.719549570429584118    0.014135069854804391         50.04              5004
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [28.3093 61.0336 28.9706 61.0418]
+Aggregate throughput: 179.3552
+Min-Max: 32.7325
+JFI: 0.7346 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 6168, -82: 3832}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 4880, -82: 5120}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 5028, -82: 4972}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 5004, -82: 4996}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.315751035904118849    0.036249971679720688          7.60             760.0
+   0    -68         0    0.320163862852509362    0.028386647790182976         12.40            1240.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.720587693057262779    0.031357362279453245         10.16            1016.0
+   1    -68         0    0.717941226584568049    0.031862649393858307          9.84             984.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.324090698833942092    0.034731435582359395          8.28             828.0
+   2    -68         0    0.327110244576966414    0.029197858123689188         11.72            1172.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.718977278402012088    0.031734040798768841          9.92             992.0
+   3    -68         0    0.719713945459110049    0.031481427501027934         10.08            1008.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [27.8576 61.0390 29.2817 61.0559]
+Aggregate throughput: 179.2342
+Min-Max: 33.1983
+JFI: 0.7339 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 1240, -82: 760}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 984, -82: 1016}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 1172, -82: 828}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 1008, -82: 992}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:29931): Gdk-CRITICAL **: 04:29:15.010: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50003
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.718698728515233642    0.014390351338241200         48.28              4828
+   0    -68         0    0.719959543785052003    0.013903647892017406         51.72              5172
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.206536619581100311    0.022070162219599010         20.52              2052
+   1    -68         0    0.246105415356228208    0.011216148522171289         79.48              7948
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.719851690499522578    0.013995941765246817         51.04              5104
+   2    -68         0    0.718851411068016755    0.014290089472673803         48.96              4896
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.064221373385252328    0.013617105112358358         53.92              5392
+   3    -68         0    0.062044695161639310    0.014729793076583796         46.08              4608
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [61.0343 19.4239 61.0358  5.9494]
+Aggregate throughput: 147.4433
+Min-Max: 55.0864
+JFI: 0.5994 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 5172, -82: 4828}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 7948, -82: 2052}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 4896, -82: 5104}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 4608, -82: 5392}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.718423969111984584    0.032530002431617772          9.44             944.0
+   0    -68         0    0.720149234879783107    0.030758312596043252         10.56            1056.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.207093024723829067    0.080845208345444328          1.52             152.0
+   1    -68         0    0.241653717969730952    0.023255813953488372         18.48            1848.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.719749875153014251    0.031295877196220290         10.20            1020.0
+   2    -68         0    0.718871136073542805    0.031927542840705050          9.80             980.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.073704228214145975    0.029761377531286878         11.28            1128.0
+   3    -68         0    0.070937186691641174    0.033844872171120637          8.72             872.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [61.0360 20.7977 61.0390  2.3857]
+Aggregate throughput: 145.2584
+Min-Max: 58.6534
+JFI: 0.5869 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 1056, -82: 944}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 1848, -82: 152}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 980, -82: 1020}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 872, -82: 1128}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:29995): Gdk-CRITICAL **: 04:31:15.237: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50003
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.719314438544752077    0.014023438730389042         50.84              5084
+   0    -68         0    0.719479031930052471    0.014260997240803912         49.16              4916
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.718352803422665054    0.015005815880699064         44.40              4440
+   1    -68         0    0.720264643049824738    0.013409838653121495         55.60              5560
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.719265268839540339    0.014408264645597369         48.16              4816
+   2    -68         0    0.719448192864044045    0.013887549490757718         51.84              5184
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.718740751556812052    0.014653685993835359         46.56              4656
+   3    -68         0    0.719864995322744172    0.013678111675535445         53.44              5344
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [61.0401 61.0428 61.0355 61.0331]
+Aggregate throughput: 244.1515
+Min-Max: 0.0097
+JFI: 0.9999 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 4916, -82: 5084}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 5560, -82: 4440}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 5184, -82: 4816}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 5344, -82: 4656}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.719056590853524247    0.031670317760976820          9.96             996.0
+   0    -68         0    0.719613677485320902    0.031544014893825585         10.04            1004.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.718267674482773844    0.034985571427065980          8.16             816.0
+   1    -68         0    0.720254640164510462    0.029049644688706338         11.84            1184.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.719009194337210000    0.032738530223582557          9.32             932.0
+   2    -68         0    0.719608258440627591    0.030585187510330805         10.68            1068.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.718990843110521971    0.031734040798768841          9.92             992.0
+   3    -68         0    0.719550583352562723    0.031481427501027934         10.08            1008.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [61.0559 61.0559 61.0390 61.0390]
+Aggregate throughput: 244.1898
+Min-Max: 0.0169
+JFI: 0.9999 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 1004, -82: 996}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 1184, -82: 816}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 1068, -82: 932}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 1008, -82: 992}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:30045): Gdk-CRITICAL **: 04:33:13.743: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50003
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.719801797473611837    0.014390351338241200         48.28              4828
+   0    -68         0    0.718915476512674068    0.013903647892017406         51.72              5172
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.718923736130738344    0.014203341871359236         49.56              4956
+   1    -68         0    0.719796202180391642    0.014078922384205956         50.44              5044
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.718958534916495084    0.014186181162066500         49.68              4968
+   2    -68         0    0.719902213391629631    0.014095696324687421         50.32              5032
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.719984556816013810    0.013866171683985996         52.00              5200
+   3    -68         0    0.718590826911072567    0.014432253448298278         48.00              4800
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [61.0333 61.0360 61.0450 61.0297]
+Aggregate throughput: 244.1441
+Min-Max: 0.0153
+JFI: 0.9999 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 5172, -82: 4828}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 5044, -82: 4956}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 5032, -82: 4968}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 4800, -82: 5200}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.719252839124855492    0.032530002431617772          9.44             944.0
+   0    -68         0    0.719400884138950203    0.030758312596043252         10.56            1056.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.718587321022023606    0.031544014893825585         10.04            1004.0
+   1    -68         0    0.720039357866156249    0.031670317760976820          9.96             996.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.719156210947278884    0.032124628310161774          9.68             968.0
+   2    -68         0    0.719596900774820858    0.031113569564352753         10.32            1032.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.720183791676824447    0.030247530200945179         10.92            1092.0
+   3    -68         0    0.718355283842809111    0.033167906340332967          9.08             908.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [61.0221 61.0390 61.0559 61.0221]
+Aggregate throughput: 244.1392
+Min-Max: 0.0338
+JFI: 0.9998 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 1056, -82: 944}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 996, -82: 1004}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 1032, -82: 968}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 908, -82: 1092}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:30094): Gdk-CRITICAL **: 04:35:11.791: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50003
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.718626379956614825    0.014045553372521257         50.68              5068
+   0    -68         0    0.720142258260705659    0.014237850952891042         49.32              4932
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.314782708050316329    0.010222726050963733         95.68              9568
+   1    -68         0    0.182930623556581573    0.048056933133221270          4.32               432
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.719299979478773999    0.014325236292244803         48.72              4872
+   2    -68         0    0.719547482940157912    0.013963157940958376         51.28              5128
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.315625423529832971    0.010178149998272806         96.52              9652
+   3    -68         0    0.150830028653294951    0.053528772757218922          3.48               348
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [61.0373 27.3264 61.0442 27.4760]
+Aggregate throughput: 176.8839
+Min-Max: 33.7178
+JFI: 0.7244 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 4932, -82: 5068}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 432, -82: 9568}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 5128, -82: 4872}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 348, -82: 9652}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.718950836399330218    0.031734040798768841          9.92             992.0
+   0    -68         0    0.719733645859888527    0.031481427501027934         10.08            1008.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.314311674813942066    0.022355091700494795         20.00            2000.0
+   1    -68         0    0.182930623556581573    1.000000000000000000          0.00               0.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.719447878632055282    0.031862649393858307          9.84             984.0
+   2    -68         0    0.719293323608087953    0.031357362279453245         10.16            1016.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.313406308824177915    0.022377469175267228         19.96            1996.0
+   3    -68         0    0.150589371980676151    0.447213595499957928          0.04               4.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [61.0390 28.3052 61.0559 29.0767]
+Aggregate throughput: 179.4767
+Min-Max: 32.7507
+JFI: 0.7350 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 1008, -82: 992}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-82: 2000}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 1016, -82: 984}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 4, -82: 1996}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:30167): Gdk-CRITICAL **: 04:37:02.893: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50003
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.718558148223364390    0.014249409997581928         49.24              4924
+   0    -68         0    0.720225771124690217    0.014034482983906684         50.76              5076
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.719588849245258011    0.014001428218521149         51.00              5100
+   1    -68         0    0.719209108345249648    0.014284256782850143         49.00              4900
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.719354754098374571    0.014226319992543998         49.40              4940
+   2    -68         0    0.719422153724574520    0.014056649999472367         50.60              5060
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.718353626140475821    0.014566368083458433         47.12              4712
+   3    -68         0    0.720232391756490897    0.013750333019910537         52.88              5288
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [61.0413 61.0411 61.0393 61.0338]
+Aggregate throughput: 244.1555
+Min-Max: 0.0075
+JFI: 1.0000 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 5076, -82: 4924}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 4900, -82: 5100}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 5060, -82: 4940}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 5288, -82: 4712}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.718504882129294864    0.031927542840705050          9.80             980.0
+   0    -68         0    0.720153256100579120    0.031295877196220290         10.20            1020.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.719613491410611705    0.032124628310161774          9.68             968.0
+   1    -68         0    0.719111460325680629    0.031113569564352753         10.32            1032.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.719354624586424074    0.031419211180334743         10.12            1012.0
+   2    -68         0    0.719288347655306470    0.031798150037444670          9.88             988.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.717852642762300319    0.032461373658059775          9.48             948.0
+   3    -68         0    0.720588340807190031    0.030816677568068284         10.52            1052.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [61.0559 61.0390 61.0559 61.0390]
+Aggregate throughput: 244.1898
+Min-Max: 0.0169
+JFI: 0.9999 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 1020, -82: 980}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 1032, -82: 968}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 988, -82: 1012}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 1052, -82: 948}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:30240): Gdk-CRITICAL **: 04:39:00.350: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50003
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.718537700231249743    0.014498845575379761         47.56              4756
+   0    -68         0    0.720113052430899625    0.013807887937845495         52.44              5244
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.718665713655430527    0.014852759212012272         45.32              4532
+   1    -68         0    0.719915275187433035    0.013522159001268474         54.68              5468
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.308818805361945670    0.010355607461569955         93.24              9324
+   2    -68         0    0.208569807976365568    0.038433122101204392          6.76               676
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.305061530043303497    0.010192943828752511         96.24              9624
+   3    -68         0    0.163240884173297796    0.051502620262460476          3.76               376
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [61.0360 61.0341 26.9937 26.7119]
+Aggregate throughput: 175.7756
+Min-Max: 34.3241
+JFI: 0.7200 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 5244, -82: 4756}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 5468, -82: 4532}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 676, -82: 9324}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 376, -82: 9624}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.718418729238083476    0.032191138998982523          9.64             964.0
+   0    -68         0    0.720136089332398366    0.031053504702226845         10.36            1036.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.718083358865265198    0.031481427501027934         10.08            1008.0
+   1    -68         0    0.720322215769502727    0.031734040798768841          9.92             992.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.306369123189400794    0.022445006962161677         19.84            1984.0
+   2    -68         0    0.206125910237013876    0.242535625036332969          0.16              16.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.300513832568312156    0.022355091700494795         20.00            2000.0
+   3    -68         0    0.163240884173297796    1.000000000000000000          0.00               0.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [61.0390 61.0221 28.3486 28.6303]
+Aggregate throughput: 179.0400
+Min-Max: 32.6904
+JFI: 0.7334 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 1036, -82: 964}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 992, -82: 1008}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 16, -82: 1984}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-82: 2000}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:30347): Gdk-CRITICAL **: 04:40:56.998: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50003
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.719180808210405420    0.014622321047783765         46.76              4676
+   0    -68         0    0.719573333333345611    0.013703774196550634         53.24              5324
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.315210794104647085    0.010105135067022170         97.92              9792
+   1    -68         0    0.124454736842105410    0.069171446386607466          2.08               208
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.321719550903392382    0.010180259459434994         96.48              9648
+   2    -68         0    0.188000151085929879    0.053224629541234948          3.52               352
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.719015501758756392    0.014384395066736768         48.32              4832
+   3    -68         0    0.719642793577106366    0.013909026479410865         51.68              5168
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [61.0394 27.4131 28.0428 61.0329]
+Aggregate throughput: 177.5282
+Min-Max: 33.6262
+JFI: 0.7271 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 5324, -82: 4676}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 208, -82: 9792}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 352, -82: 9648}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 5168, -82: 4832}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.718904464431741053    0.031481427501027934         10.08            1008.0
+   0    -68         0    0.719735610431586070    0.031734040798768841          9.92             992.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.311954844946327192    0.022355091700494795         20.00            2000.0
+   1    -68         0    0.124454736842105410    1.000000000000000000          0.00               0.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.321532631578957284    0.022399913984495447         19.92            1992.0
+   2    -68         0    0.189346937198067417    0.333333333333333315          0.08               8.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.719030382283170177    0.030993786368687180         10.40            1040.0
+   3    -68         0    0.719589299120944714    0.032258064516129031          9.60             960.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [61.0390 28.7817 28.3510 61.0221]
+Aggregate throughput: 179.1938
+Min-Max: 32.6880
+JFI: 0.7340 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 992, -82: 1008}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-82: 2000}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 8, -82: 1992}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 960, -82: 1040}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:30398): Gdk-CRITICAL **: 04:42:52.503: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50003
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.718838407337934138    0.014438269394140332         47.96              4796
+   0    -68         0    0.719926470701259924    0.013860842640098179         52.04              5204
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.171751619047618931    0.097590007294853329          1.04               104
+   1    -68         0    0.485986708430164116    0.010051901283335517         98.96              9896
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.719287488620633408    0.014067772968571469         50.52              5052
+   2    -68         0    0.719529860577908575    0.014214817002999845         49.48              4948
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.492505098039215217    0.080845208345444328          1.52               152
+   3    -68         0    0.718539937049484934    0.010076365940837119         98.48              9848
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [61.0413 33.4556 61.0417 60.6613]
+Aggregate throughput: 216.1999
+Min-Max: 27.5860
+JFI: 0.8197 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 5204, -82: 4796}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 9896, -82: 104}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 4948, -82: 5052}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 9848, -82: 152}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.718956969853147609    0.033022909334191324          9.16             916.0
+   0    -68         0    0.719764950254806135    0.030358837035945815         10.84            1084.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.172217557755775463    0.447213595499957928          0.04               4.0
+   1    -68         0    0.483914353457367108    0.022377469175267228         19.96            1996.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.719207135298579492    0.030358837035945815         10.84            1084.0
+   2    -68         0    0.719478859409884763    0.033022909334191324          9.16             916.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.497694854586129332    0.447213595499957928          0.04               4.0
+   3    -68         0    0.718454236597508622    0.022377469175267228         19.96            1996.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [61.0390 34.1061 61.0559 60.8991]
+Aggregate throughput: 217.1001
+Min-Max: 26.9498
+JFI: 0.8234 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 1084, -82: 916}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 1996, -82: 4}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 916, -82: 1084}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 1996, -82: 4}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:30447): Gdk-CRITICAL **: 04:44:54.817: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50003
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.719560975984643303    0.013860842640098179         52.04              5204
+   0    -68         0    0.719221446737556946    0.014438269394140332         47.96              4796
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.720441187370025049    0.013750333019910537         52.88              5288
+   1    -68         0    0.718221701676228119    0.014566368083458433         47.12              4712
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.719403906831097339    0.013990461756514725         51.08              5108
+   2    -68         0    0.719392111179248506    0.014295929313323246         48.92              4892
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.719487029722735372    0.014123786620234526         50.12              5012
+   3    -68         0    0.719213950691534265    0.014157717688041934         49.88              4988
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [61.0405 61.0401 61.0405 61.0343]
+Aggregate throughput: 244.1553
+Min-Max: 0.0062
+JFI: 1.0000 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 4796, -82: 5204}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 4712, -82: 5288}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 4892, -82: 5108}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 4988, -82: 5012}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.719515587014905145    0.030028540676910211         11.08            1108.0
+   0    -68         0    0.719140384122933018    0.033463724070512735          8.92             892.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.720119409697835500    0.031295877196220290         10.20            1020.0
+   1    -68         0    0.718425116528276786    0.031927542840705050          9.80             980.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.719133900221199829    0.030993786368687180         10.40            1040.0
+   2    -68         0    0.719604007119261646    0.032258064516129031          9.60             960.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.719543025830274185    0.032461373658059775          9.48             948.0
+   3    -68         0    0.719126888493792804    0.030816677568068284         10.52            1052.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [61.0559 61.0559 61.0390 61.0221]
+Aggregate throughput: 244.1729
+Min-Max: 0.0338
+JFI: 0.9998 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 892, -82: 1108}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 980, -82: 1020}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 960, -82: 1040}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 1052, -82: 948}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:30495): Gdk-CRITICAL **: 04:46:55.988: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50003
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.719553510324497991    0.014023438730389042         50.84              5084
+   0    -68         0    0.719178946512114670    0.014260997240803912         49.16              4916
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.719808012458646007    0.013952281087941852         51.36              5136
+   1    -68         0    0.718948176772881808    0.014337009654653080         48.64              4864
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.719621380012227418    0.014266801472725469         49.12              4912
+   2    -68         0    0.719106024759298412    0.014017926372184563         50.88              5088
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.718975456616289033    0.014390351338241200         48.28              4828
+   3    -68         0    0.719803471873201595    0.013903647892017406         51.72              5172
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [61.0367 61.0394 61.0354 61.0412]
+Aggregate throughput: 244.1527
+Min-Max: 0.0058
+JFI: 1.0000 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 4916, -82: 5084}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 4864, -82: 5136}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 5088, -82: 4912}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 5172, -82: 4828}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.719641552534009188    0.030993786368687180         10.40            1040.0
+   0    -68         0    0.718943846348260585    0.032258064516129031          9.60             960.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.719690985428516061    0.030303030303030304         10.88            1088.0
+   1    -68         0    0.719075618517597825    0.033095169616074761          9.12             912.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.719566709610941380    0.031113569564352753         10.32            1032.0
+   2    -68         0    0.719080378548911381    0.032124628310161774          9.68             968.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.718771682704824721    0.031862649393858307          9.84             984.0
+   3    -68         0    0.719927101274974723    0.031357362279453245         10.16            1016.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [61.0559 61.0221 61.0390 61.0390]
+Aggregate throughput: 244.1561
+Min-Max: 0.0338
+JFI: 0.9998 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 960, -82: 1040}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 912, -82: 1088}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 968, -82: 1032}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 1016, -82: 984}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:30568): Gdk-CRITICAL **: 04:48:55.456: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50003
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.719107138619748176    0.014062208184742754         50.56              5056
+   0    -68         0    0.719658192113260320    0.014220565008492751         49.44              4944
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.718890094131798385    0.014152045525279001         49.92              4992
+   1    -68         0    0.719999041724908473    0.014129424858630862         50.08              5008
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.719590606000411692    0.014095696324687421         50.32              5032
+   2    -68         0    0.719205055343141275    0.014186181162066500         49.68              4968
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.719333538346160095    0.013693491865936448         53.32              5332
+   3    -68         0    0.719372542300291462    0.014634842840742351         46.68              4668
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [61.0380 61.0466 61.0406 61.0344]
+Aggregate throughput: 244.1597
+Min-Max: 0.0122
+JFI: 0.9999 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 4944, -82: 5056}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 5008, -82: 4992}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 4968, -82: 5032}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 4668, -82: 5332}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.719073450582130458    0.031295877196220290         10.20            1020.0
+   0    -68         0    0.719549417402284841    0.031927542840705050          9.80             980.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.719043663824619150    0.033538923545276884          8.88             888.0
+   1    -68         0    0.719758172953569808    0.029974532466509034         11.12            1112.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.719407629719868935    0.032808935746239332          9.28             928.0
+   2    -68         0    0.719322391583285370    0.030528125543633176         10.72            1072.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.719859718958780204    0.031734040798768841          9.92             992.0
+   3    -68         0    0.718722534826565451    0.031481427501027934         10.08            1008.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [61.0559 61.0559 61.0390 61.0221]
+Aggregate throughput: 244.1729
+Min-Max: 0.0338
+JFI: 0.9998 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 980, -82: 1020}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 1112, -82: 888}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 1072, -82: 928}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 1008, -82: 992}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:30693): Gdk-CRITICAL **: 04:50:50.660: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50003
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.378803402386786725    0.010307087683607920         94.12              9412
+   0    -68         0    0.273570843237124606    0.041204282171516456          5.88               588
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.719809834275701110    0.013963157940958376         51.28              5128
+   1    -68         0    0.718896252821684234    0.014325236292244803         48.72              4872
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.292658062104075301    0.010190826474382190         96.28              9628
+   2    -68         0    0.148196890080428662    0.051778037307849772          3.72               372
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.720265017800274743    0.013688359372553031         53.36              5336
+   3    -68         0    0.718460090032166820    0.014641115812672398         46.64              4664
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [31.3687 61.0361 25.8217 61.0437]
+Aggregate throughput: 179.2702
+Min-Max: 35.2221
+JFI: 0.7328 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 588, -82: 9412}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 4872, -82: 5128}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 372, -82: 9628}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 4664, -82: 5336}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.375797171173606726    0.022467655814505692         19.80            1980.0
+   0    -68         0    0.273292185120093289    0.218217890235992362          0.20              20.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.719595397796831904    0.030934411244487300         10.44            1044.0
+   1    -68         0    0.718973009956616949    0.032325409191761800          9.56             956.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.291016297848201322    0.022399913984495447         19.92            1992.0
+   2    -68         0    0.149539214611871862    0.333333333333333315          0.08               8.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.720867200749604864    0.030585187510330805         10.68            1068.0
+   3    -68         0    0.717644532547563219    0.032738530223582557          9.32             932.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [32.4896 61.0559 26.5336 61.0559]
+Aggregate throughput: 181.1349
+Min-Max: 34.5223
+JFI: 0.7400 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 20, -82: 1980}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 956, -82: 1044}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 8, -82: 1992}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 932, -82: 1068}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:30767): Gdk-CRITICAL **: 04:52:40.056: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50003
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.719691994387664735    0.014157717688041934         49.88              4988
+   0    -68         0    0.719040893676456072    0.014123786620234526         50.12              5012
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.161904689967421467    0.012870321985377381         60.36              6036
+   1    -68         0    0.160419241698192244    0.015881020420107101         39.64              3964
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.005965690636316610    0.022744902159317754         19.32              1932
+   2    -68         0    0.036507073160655566    0.011132434338973788         80.68              8068
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.151547299841706423    0.015809412247806517         40.00              4000
+   3    -68         0    0.155010849302893050    0.012908868793110690         60.00              6000
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [61.0362 12.6531  2.6166 12.4180]
+Aggregate throughput: 88.7238
+Min-Max: 58.4197
+JFI: 0.4932 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 5012, -82: 4988}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 3964, -82: 6036}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 8068, -82: 1932}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 6000, -82: 4000}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.719772100672828041    0.031992834407549200          9.76             976.0
+   0    -68         0    0.718873943344213506    0.031234752377721213         10.24            1024.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.171929425427045701    0.030137438733945608         11.00            1100.0
+   1    -68         0    0.163705961935835004    0.033314830232638482          9.00             900.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.006823538994094890    0.058025885318565944          2.96             296.0
+   2    -68         0    0.038422439382036717    0.024217973984824139         17.04            1704.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.156878207907505229    0.035967500063280325          7.72             772.0
+   3    -68         0    0.164877636706472763    0.028524895269256476         12.28            1228.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [61.0390  9.9389  2.1154  9.7851]
+Aggregate throughput: 82.8785
+Min-Max: 58.9236
+JFI: 0.4686 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 1024, -82: 976}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 900, -82: 1100}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 1704, -82: 296}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 1228, -82: 772}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:30840): Gdk-CRITICAL **: 04:54:45.537: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50003
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.151406698810671481    0.031053504702226845         10.36              1036
+   0    -68         0    0.201220902026397197    0.010561481753095559         89.64              8964
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.719479031930049695    0.014260997240803912         49.16              4916
+   1    -68         0    0.719246914454288344    0.014023438730389042         50.84              5084
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.719679876471735813    0.013892909409710949         51.80              5180
+   2    -68         0    0.718981788010802259    0.014402286112292014         48.20              4820
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.028700944544441578    0.016035445438589729         38.88              3888
+   3    -68         0    0.035719216969299965    0.012790066487414938         61.12              6112
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [15.2441 61.0356 61.0333  3.0004]
+Aggregate throughput: 140.3135
+Min-Max: 58.0352
+JFI: 0.5714 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 8964, -82: 1036}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 5084, -82: 4916}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 4820, -82: 5180}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 6112, -82: 3888}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.151416662950575653    0.084215192106651890          1.40             140.0
+   0    -68         0    0.199211935256860234    0.023180714250535188         18.60            1860.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.719522885445786353    0.031927542840705050          9.80             980.0
+   1    -68         0    0.719120688806901054    0.031295877196220290         10.20            1020.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.719045592530539124    0.031544014893825585         10.04            1004.0
+   2    -68         0    0.719570572549035559    0.031670317760976820          9.96             996.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.031039598735143385    0.034647946433761852          8.32             832.0
+   3    -68         0    0.038447681833501599    0.029247769028706173         11.68            1168.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [16.1893 61.0390 61.0390  2.0014]
+Aggregate throughput: 140.2687
+Min-Max: 59.0376
+JFI: 0.5700 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 1860, -82: 140}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 1020, -82: 980}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 996, -82: 1004}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 1168, -82: 832}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:30913): Gdk-CRITICAL **: 04:56:45.635: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50003
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.325879499970097797    0.013395393580361774         55.72              5572
+   0    -68         0    0.320211226010392314    0.015026130622691205         44.28              4428
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.313830251625678625    0.016814442410177276         35.36              3536
+   1    -68         0    0.322180108275333332    0.012437002894184188         64.64              6464
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.719252975320843313    0.014051098399729978         50.64              5064
+   2    -68         0    0.719434279927094633    0.014232081969285940         49.36              4936
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.719383829132204999    0.013871506879136856         51.96              5196
+   3    -68         0    0.719374984391271899    0.014426245016127676         48.04              4804
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [28.7561 28.6249 61.0332 61.0380]
+Aggregate throughput: 179.4522
+Min-Max: 32.4132
+JFI: 0.7350 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 4428, -82: 5572}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 6464, -82: 3536}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 4936, -82: 5064}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 4804, -82: 5196}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.326314369093526568    0.029297936765452382         11.64            1164.0
+   0    -68         0    0.320853125521855465    0.034565056491014177          8.36             836.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.312408888888895175    0.036935842757655893          7.32             732.0
+   1    -68         0    0.321134223590537948    0.028071730702217298         12.68            1268.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.719191891223747382    0.031295877196220290         10.20            1020.0
+   2    -68         0    0.719466828405374015    0.031927542840705050          9.80             980.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.719267524704764516    0.030875376054721921         10.48            1048.0
+   3    -68         0    0.719421707760201423    0.032393177419586847          9.52             952.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [28.5543 28.9252 61.0221 61.0390]
+Aggregate throughput: 179.5407
+Min-Max: 32.4847
+JFI: 0.7354 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 836, -82: 1164}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 1268, -82: 732}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 980, -82: 1020}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 952, -82: 1048}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:30986): Gdk-CRITICAL **: 04:58:37.223: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50003
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.719587887727939357    0.014313491886669591         48.80              4880
+   0    -68         0    0.719246272212470505    0.013974060271677285         51.20              5120
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.719701642815147258    0.014001428218521149         51.00              5100
+   1    -68         0    0.719050055090810991    0.014284256782850143         49.00              4900
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.719481476161990319    0.014123786620234526         50.12              5012
+   2    -68         0    0.719292074564055306    0.014157717688041934         49.88              4988
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.719293623729529430    0.014402286112292014         48.20              4820
+   3    -68         0    0.719479266550873020    0.013892909409710949         51.80              5180
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [61.0424 61.0384 61.0390 61.0394]
+Aggregate throughput: 244.1592
+Min-Max: 0.0040
+JFI: 1.0000 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 5120, -82: 4880}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 4900, -82: 5100}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 4988, -82: 5012}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 5180, -82: 4820}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.719341442134992515    0.031862649393858307          9.84             984.0
+   0    -68         0    0.719423454324009670    0.031357362279453245         10.16            1016.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.719364959409608873    0.031053504702226845         10.36            1036.0
+   1    -68         0    0.719324886969788913    0.032191138998982523          9.64             964.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.719698303904514725    0.031734040798768841          9.92             992.0
+   2    -68         0    0.719000291384091272    0.031481427501027934         10.08            1008.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.719239526440426324    0.031295877196220290         10.20            1020.0
+   3    -68         0    0.719458567007869587    0.031927542840705050          9.80             980.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [61.0390 61.0390 61.0390 61.0390]
+Aggregate throughput: 244.1561
+Min-Max: 0.0000
+JFI: 1.0000 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 1016, -82: 984}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 964, -82: 1036}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 1008, -82: 992}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 980, -82: 1020}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:31107): Gdk-CRITICAL **: 05:00:30.678: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50003
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.519847038917088944    0.071247049987909636          1.96               196
+   0    -68         0    0.710728654088085499    0.010098949511412771         98.04              9804
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.625585659050963860    0.041922180815031851          5.68               568
+   1    -68         0    0.718458551892328767    0.010296155258296006         94.32              9432
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.719260923686834142    0.014078922384205956         50.44              5044
+   2    -68         0    0.719464773048229866    0.014203341871359236         49.56              4956
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.719504451015190005    0.014040014904887734         50.72              5072
+   3    -68         0    0.719290598498695699    0.014243626957572005         49.28              4928
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [59.5804 60.2768 61.0358 61.0406]
+Aggregate throughput: 241.9335
+Min-Max: 1.4602
+JFI: 0.9901 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 9804, -82: 196}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 9432, -82: 568}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 4956, -82: 5044}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 4928, -82: 5072}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.512431599229286272    0.200000000000000011          0.24              24.0
+   0    -68         0    0.710999180823458254    0.022490373369161064         19.76            1976.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.625150619136958019    0.164398987305357291          0.36              36.0
+   1    -68         0    0.718321381711099161    0.022558941739747075         19.64            1964.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.719136993788836221    0.031295877196220290         10.20            1020.0
+   2    -68         0    0.719570007543391510    0.031927542840705050          9.80             980.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.719368488683393092    0.032191138998982523          9.64             964.0
+   3    -68         0    0.719296871307489871    0.031053504702226845         10.36            1036.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [59.6293 60.7640 61.0221 61.0559]
+Aggregate throughput: 242.4713
+Min-Max: 1.4266
+JFI: 0.9905 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 1976, -82: 24}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 1964, -82: 36}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 980, -82: 1020}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 1036, -82: 964}
+  Tx pow counts:    {0: 2000}

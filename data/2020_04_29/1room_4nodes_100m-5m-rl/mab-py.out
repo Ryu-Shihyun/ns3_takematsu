@@ -1,0 +1,1640 @@
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50000
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 54337
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.920472482643529544    0.009519061969314169         62.51             11035
+   0    -68         0    0.911331961936777790    0.012169809587780887         37.49              6751
+                                                                             100.00             17786    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.915054476781064330    0.009732158451573788         59.73             10557
+   1    -68         0    0.907009986349819441    0.011758197954385796         40.27              7232
+                                                                             100.00             17789    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.938584271233373735    0.010450170900879817         50.66              9156
+   2    -68         0    0.938459751486752203    0.010588682299829932         49.33              8918
+                                                                             100.00             18074    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.060888696304991212    0.063119440309780311         89.19               250
+   3    -68         0    0.104622307074338020    0.047727395990334764         10.64               438
+                                                                              99.83               688    Tot
+
+Mean throughputs: [58.8829 58.6414 61.0043  0.3308]
+Aggregate throughput: 178.8593
+Min-Max: 60.6735
+JFI: 0.6355 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 6751, -82: 11036}
+  Tx pow counts:    {0: 17787}
+Node 1:
+  CST counts:       {-68: 7233, -82: 10557}
+  Tx pow counts:    {0: 17790}
+Node 2:
+  CST counts:       {-68: 8919, -82: 9156}
+  Tx pow counts:    {0: 18075}
+Node 3:
+  CST counts:       {-68: 439, -82: 250}
+  Tx pow counts:    {0: 689}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.919647019349527417    0.019810721293758184         14.43            2547.0
+   0    -68         0    0.911060202538283459    0.031575448897533630          5.57            1002.0
+                                                                              20.00            3549.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.913955332305422363    0.020252710247134553         13.80            2437.0
+   1    -68         0    0.907682997011943438    0.030001500112509374          6.20            1110.0
+                                                                              20.00            3547.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.938606878625258489    0.023401818860045449         10.11            1825.0
+   2    -68         0    0.938309551592029001    0.023642577957022473          9.90            1788.0
+                                                                              20.00            3613.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.059347444374283631    0.149071198499985985         12.00              44.0
+   3    -68         0    0.094142110454090058    0.105999788000636003          7.98              88.0
+                                                                              19.97             132.0    Tot
+
+Mean throughputs: [58.9909 58.7158 61.0229  0.4114]
+Aggregate throughput: 179.1410
+Min-Max: 60.6116
+JFI: 0.6360 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 1002, -82: 2548}
+  Tx pow counts:    {0: 3550}
+Node 1:
+  CST counts:       {-68: 1111, -82: 2437}
+  Tx pow counts:    {0: 3548}
+Node 2:
+  CST counts:       {-68: 1789, -82: 1825}
+  Tx pow counts:    {0: 3614}
+Node 3:
+  CST counts:       {-68: 89, -82: 44}
+  Tx pow counts:    {0: 133}
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50000
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 69408
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.939164500636138322    0.010531568296778367         49.85              9015
+   0    -68         0    0.939053346497511376    0.010500749517746199         50.15              9068
+                                                                             100.00             18083    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.939037474259875382    0.010590463556853186         49.30              8915
+   1    -68         0    0.939030541258873641    0.010444469459623478         50.70              9166
+                                                                             100.00             18081    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.082366409570192048    0.012041203246045852         39.97              6896
+   2    -68         0    0.086847926597197922    0.009812885910826265         60.03             10384
+                                                                             100.00             17280    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.000539967429428431    0.011268723396380222         49.12              7874
+   3    -68         0    0.000838625383588979    0.011117289099417836         50.88              8090
+                                                                             100.00             15964    Tot
+
+Mean throughputs: [61.0437 61.0389  5.4831  0.0422]
+Aggregate throughput: 127.6080
+Min-Max: 61.0015
+JFI: 0.5221 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 9069, -82: 9015}
+  Tx pow counts:    {0: 18084}
+Node 1:
+  CST counts:       {-68: 9166, -82: 8916}
+  Tx pow counts:    {0: 18082}
+Node 2:
+  CST counts:       {-68: 10385, -82: 6896}
+  Tx pow counts:    {0: 17281}
+Node 3:
+  CST counts:       {-68: 8091, -82: 7874}
+  Tx pow counts:    {0: 15965}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.939121130292661088    0.023557142371577276          9.97            1801.0
+   0    -68         0    0.938891950652579799    0.023472626340651011         10.03            1814.0
+                                                                              20.00            3615.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.938946746481753247    0.023843339369540383          9.73            1758.0
+   1    -68         0    0.939024652671154425    0.023205666587415449         10.27            1856.0
+                                                                              20.00            3614.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.083524126033262480    0.027650063180466550          7.60            1307.0
+   2    -68         0    0.088002579979019280    0.021611836153683839         12.40            2140.0
+                                                                              20.00            3447.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.000571549698491531    0.024730968341474896         10.17            1634.0
+   3    -68         0    0.000849302969741496    0.025221663615265916          9.83            1571.0
+                                                                              20.00            3205.0    Tot
+
+Mean throughputs: [61.0594 61.0440  5.2095  0.0374]
+Aggregate throughput: 127.3503
+Min-Max: 61.0220
+JFI: 0.5210 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 1815, -82: 1801}
+  Tx pow counts:    {0: 3616}
+Node 1:
+  CST counts:       {-68: 1856, -82: 1759}
+  Tx pow counts:    {0: 3615}
+Node 2:
+  CST counts:       {-68: 2141, -82: 1307}
+  Tx pow counts:    {0: 3448}
+Node 3:
+  CST counts:       {-68: 1572, -82: 1634}
+  Tx pow counts:    {0: 3206}
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50000
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 53762
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.199648409880618549    0.017777953363369448         43.33              3163
+   0    -68         0    0.204146728189666726    0.015530496895325855         56.67              4145
+                                                                             100.00              7308    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.939076284572813336    0.010463319730212714         50.52              9133
+   1    -68         0    0.938895374557769946    0.010571509691895813         49.47              8947
+                                                                             100.00             18080    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.608003110131712154    0.013664058598604921         48.90              5355
+   2    -68         0    0.607666062579693356    0.013303802104754786         51.10              5649
+                                                                              99.99             11004    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.546636965641283723    0.010135713568457438         56.03              9733
+   3    -68         0    0.544779152600129102    0.011442216819293473         43.97              7637
+                                                                             100.00             17370    Tot
+
+Mean throughputs: [10.9748 61.0350 34.4145 35.4606]
+Aggregate throughput: 141.8848
+Min-Max: 50.0602
+JFI: 0.6670 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 4146, -82: 3163}
+  Tx pow counts:    {0: 7309}
+Node 1:
+  CST counts:       {-68: 8947, -82: 9134}
+  Tx pow counts:    {0: 18081}
+Node 2:
+  CST counts:       {-68: 5650, -82: 5355}
+  Tx pow counts:    {0: 11005}
+Node 3:
+  CST counts:       {-68: 7638, -82: 9733}
+  Tx pow counts:    {0: 17371}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.198080313653165446    0.040588747923409947          8.19             606.0
+   0    -68         0    0.203380930977090563    0.033806170189140665         11.81             874.0
+                                                                              20.00            1480.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.939024511759810609    0.023440361546924773         10.07            1819.0
+   1    -68         0    0.938797584208165836    0.023596458909150436          9.93            1795.0
+                                                                              20.00            3614.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.609720809998155810    0.030513909884867671         10.05            1073.0
+   2    -68         0    0.608847287152062822    0.030275242098833630          9.95            1090.0
+                                                                              20.00            2163.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.547929276167680279    0.022983951313055567         10.91            1892.0
+   3    -68         0    0.546046571788382451    0.025157730271331381          9.09            1579.0
+                                                                              20.00            3471.0    Tot
+
+Mean throughputs: [11.2866 61.0460 34.0374 35.1086]
+Aggregate throughput: 141.4785
+Min-Max: 49.7594
+JFI: 0.6675 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 875, -82: 606}
+  Tx pow counts:    {0: 1481}
+Node 1:
+  CST counts:       {-68: 1795, -82: 1820}
+  Tx pow counts:    {0: 3615}
+Node 2:
+  CST counts:       {-68: 1091, -82: 1073}
+  Tx pow counts:    {0: 2164}
+Node 3:
+  CST counts:       {-68: 1580, -82: 1892}
+  Tx pow counts:    {0: 3472}
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50000
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 55865
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.597299120919675408    0.011473806513691903         43.52              7595
+   0    -68         0    0.600906531053270077    0.010058509527832106         56.47              9883
+                                                                             100.00             17478    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.002237948563340194    0.018233123937236820         80.94              3007
+   1    -68         0    0.003117749266671506    0.018230093920774314         19.06              3008
+                                                                             100.00              6015    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.938814167096585606    0.010537998718474054         49.81              9004
+   2    -68         0    0.939212405966974528    0.010495542964487809         50.19              9077
+                                                                             100.00             18081    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.694750323644131695    0.008517504423354133         97.04             13783
+   3    -68         0    0.607392285025160517    0.044324220717793621          2.95               508
+                                                                             100.00             14291    Tot
+
+Mean throughputs: [38.4659  0.0666 61.0379 39.1166]
+Aggregate throughput: 138.6870
+Min-Max: 60.9713
+JFI: 0.6124 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 9884, -82: 7595}
+  Tx pow counts:    {0: 17479}
+Node 1:
+  CST counts:       {-68: 3009, -82: 3007}
+  Tx pow counts:    {0: 6016}
+Node 2:
+  CST counts:       {-68: 9078, -82: 9004}
+  Tx pow counts:    {0: 18082}
+Node 3:
+  CST counts:       {-68: 508, -82: 13784}
+  Tx pow counts:    {0: 14292}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.602075361824116917    0.027896417632583534          7.39            1284.0
+   0    -68         0    0.604840065753267653    0.021276595744680851         12.61            2208.0
+                                                                              20.00            3492.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.002454025991787227    0.041134503489486357         15.74             590.0
+   1    -68         0    0.003160270559053823    0.038461538461538464          4.26             675.0
+                                                                              20.00            1265.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.938756867347846025    0.023796037813647447          9.77            1765.0
+   2    -68         0    0.939131069704292054    0.023249527748763855         10.23            1849.0
+                                                                              20.00            3614.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.699381925967578755    0.018979740450028083         19.59            2775.0
+   3    -68         0    0.591876286971957044    0.115470053837925163          0.41              74.0
+                                                                              20.00            2849.0    Tot
+
+Mean throughputs: [37.3648  0.0652 61.0496 38.0651]
+Aggregate throughput: 136.5447
+Min-Max: 60.9845
+JFI: 0.6096 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 2209, -82: 1284}
+  Tx pow counts:    {0: 3493}
+Node 1:
+  CST counts:       {-68: 676, -82: 590}
+  Tx pow counts:    {0: 1266}
+Node 2:
+  CST counts:       {-68: 1850, -82: 1765}
+  Tx pow counts:    {0: 3615}
+Node 3:
+  CST counts:       {-68: 74, -82: 2776}
+  Tx pow counts:    {0: 2850}
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50000
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 71150
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.844580768767835277    0.010755797592937955         49.58              8643
+   0    -68         0    0.844581697726539460    0.010667918442539085         50.42              8786
+                                                                              99.99             17429    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.882547653580608715    0.010678252924463540         49.92              8769
+   1    -68         0    0.882262440479476884    0.010664278135849733         50.08              8792
+                                                                             100.00             17561    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.939197955962669084    0.010449600336554045         50.65              9157
+   2    -68         0    0.938794708557276647    0.010585715534396722         49.35              8923
+                                                                             100.00             18080    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.939197522861255685    0.010359496474407552         51.54              9317
+   3    -68         0    0.938754998208790936    0.010681907565922822         48.45              8763
+                                                                             100.00             18080    Tot
+
+Mean throughputs: [54.8756 57.3266 61.0360 61.0350]
+Aggregate throughput: 234.2732
+Min-Max: 6.1604
+JFI: 0.9573 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 8787, -82: 8643}
+  Tx pow counts:    {0: 17430}
+Node 1:
+  CST counts:       {-68: 8793, -82: 8769}
+  Tx pow counts:    {0: 17562}
+Node 2:
+  CST counts:       {-68: 8923, -82: 9158}
+  Tx pow counts:    {0: 18081}
+Node 3:
+  CST counts:       {-68: 8763, -82: 9318}
+  Tx pow counts:    {0: 18081}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.845121956265356022    0.024063224962571104          9.93            1726.0
+   0    -68         0    0.845521831087219344    0.023911404992940519         10.06            1748.0
+                                                                              20.00            3474.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.883351356361359086    0.023722272266019126         10.14            1776.0
+   1    -68         0    0.883309217137118630    0.024077170617153840          9.86            1724.0
+                                                                              20.00            3500.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.939127336771083954    0.023421066418221826         10.08            1822.0
+   2    -68         0    0.938765317625337548    0.023616191143045320          9.92            1792.0
+                                                                              20.00            3614.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.939159682241284766    0.023262105259961773         10.22            1847.0
+   3    -68         0    0.938630027700548597    0.023782574707724706          9.78            1767.0
+                                                                              20.00            3614.0    Tot
+
+Mean throughputs: [54.6805 57.0779 61.0416 61.0483]
+Aggregate throughput: 233.8484
+Min-Max: 6.3678
+JFI: 0.9556 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 1749, -82: 1726}
+  Tx pow counts:    {0: 3475}
+Node 1:
+  CST counts:       {-68: 1725, -82: 1776}
+  Tx pow counts:    {0: 3501}
+Node 2:
+  CST counts:       {-68: 1792, -82: 1823}
+  Tx pow counts:    {0: 3615}
+Node 3:
+  CST counts:       {-68: 1767, -82: 1848}
+  Tx pow counts:    {0: 3615}
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50000
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 72324
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.939018142048041349    0.010450741558676877         50.64              9155
+   0    -68         0    0.938957882659547716    0.010584529526266352         49.36              8925
+                                                                             100.00             18080    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.938971056543010496    0.010556772586992273         49.61              8972
+   1    -68         0    0.939067815621849711    0.010476518317947690         50.39              9110
+                                                                             100.00             18082    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.939177427132964704    0.010556772586992273         49.62              8972
+   2    -68         0    0.939136593565927491    0.010475943427376403         50.38              9111
+                                                                             100.00             18083    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.938907717827551225    0.010525732662542539         49.90              9025
+   3    -68         0    0.938977204223219619    0.010508864024297328         50.09              9054
+                                                                             100.00             18079    Tot
+
+Mean throughputs: [61.0362 61.0383 61.0457 61.0323]
+Aggregate throughput: 244.1525
+Min-Max: 0.0133
+JFI: 0.9999 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 8926, -82: 9155}
+  Tx pow counts:    {0: 18081}
+Node 1:
+  CST counts:       {-68: 9111, -82: 8972}
+  Tx pow counts:    {0: 18083}
+Node 2:
+  CST counts:       {-68: 9112, -82: 8972}
+  Tx pow counts:    {0: 18084}
+Node 3:
+  CST counts:       {-68: 9055, -82: 9025}
+  Tx pow counts:    {0: 18080}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.939044306190616407    0.023344359662783538         10.15            1834.0
+   0    -68         0    0.938846656786637257    0.023702273156998861          9.84            1779.0
+                                                                              20.00            3613.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.938874542057774208    0.023421066418221826         10.08            1822.0
+   1    -68         0    0.938988526704681803    0.023616191143045320          9.92            1792.0
+                                                                              20.00            3614.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.939097369697637352    0.023708933905523488          9.84            1778.0
+   2    -68         0    0.939129435880495134    0.023325300446383042         10.17            1837.0
+                                                                              20.00            3615.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.938840669981565901    0.023629373500277863          9.91            1790.0
+   3    -68         0    0.938941317948447596    0.023414645289542350         10.09            1823.0
+                                                                              20.00            3613.0    Tot
+
+Mean throughputs: [61.0364 61.0505 61.0590 61.0352]
+Aggregate throughput: 244.1811
+Min-Max: 0.0238
+JFI: 0.9998 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 1780, -82: 1834}
+  Tx pow counts:    {0: 3614}
+Node 1:
+  CST counts:       {-68: 1793, -82: 1822}
+  Tx pow counts:    {0: 3615}
+Node 2:
+  CST counts:       {-68: 1838, -82: 1778}
+  Tx pow counts:    {0: 3616}
+Node 3:
+  CST counts:       {-68: 1824, -82: 1790}
+  Tx pow counts:    {0: 3614}
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50000
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 55476
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.939189830368028833    0.010540925533894598         49.76              8999
+   0    -68         0    0.938932647634995621    0.010492653779263776         50.24              9082
+                                                                             100.00             18081    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.525213742583303667    0.010295609549788491         98.76              9433
+   1    -68         0    0.308477895548058267    0.074329414624716636          1.23               180
+                                                                             100.00              9613    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.939176888029350287    0.010411019858279314         51.05              9225
+   2    -68         0    0.939074302483228873    0.010623879571783379         48.95              8859
+                                                                             100.00             18084    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.527624550433461237    0.010278192561973624         98.52              9465
+   3    -68         0    0.341045183226225568    0.065372045046061353          1.48               233
+                                                                              99.99              9698    Tot
+
+Mean throughputs: [61.0403 27.9887 61.0451 28.2891]
+Aggregate throughput: 178.3633
+Min-Max: 33.0564
+JFI: 0.7305 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 9082, -82: 9000}
+  Tx pow counts:    {0: 18082}
+Node 1:
+  CST counts:       {-68: 180, -82: 9434}
+  Tx pow counts:    {0: 9614}
+Node 2:
+  CST counts:       {-68: 8860, -82: 9225}
+  Tx pow counts:    {0: 18085}
+Node 3:
+  CST counts:       {-68: 233, -82: 9466}
+  Tx pow counts:    {0: 9699}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.939141546250353731    0.023472626340651011         10.04            1814.0
+   0    -68         0    0.938842060469035733    0.023563681481313655          9.96            1800.0
+                                                                              20.00            3614.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.522655457724948480    0.022839623660917720         19.97            1916.0
+   1    -68         0    0.305106613719724362    0.353553390593273786          0.04               7.0
+                                                                              20.01            1923.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.939185840585726295    0.023262105259961773         10.22            1847.0
+   2    -68         0    0.938944384206222837    0.023775851718273702          9.78            1768.0
+                                                                              20.00            3615.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.526875447908775829    0.022917462425705283         19.97            1903.0
+   3    -68         0    0.342844999451585086    0.447213595499957928          0.02               4.0
+                                                                              20.00            1907.0    Tot
+
+Mean throughputs: [61.0537 28.7276 61.0606 28.4826]
+Aggregate throughput: 179.3245
+Min-Max: 32.5780
+JFI: 0.7342 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 1800, -82: 1815}
+  Tx pow counts:    {0: 3615}
+Node 1:
+  CST counts:       {-68: 7, -82: 1917}
+  Tx pow counts:    {0: 1924}
+Node 2:
+  CST counts:       {-68: 1769, -82: 1847}
+  Tx pow counts:    {0: 3616}
+Node 3:
+  CST counts:       {-68: 4, -82: 1904}
+  Tx pow counts:    {0: 1908}
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50000
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 72211
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.939162816063363493    0.010556184384033912         49.62              8973
+   0    -68         0    0.939008253042452057    0.010477093303174541         50.37              9109
+                                                                             100.00             18082    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.927716819783674929    0.010617889224776644         49.35              8869
+   1    -68         0    0.927789616843809894    0.010484000518496742         50.64              9097
+                                                                             100.00             17966    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.939246383935828599    0.010459312659567009         50.53              9140
+   2    -68         0    0.938846936961517997    0.010574464525978700         49.47              8942
+                                                                             100.00             18082    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.939068494257594866    0.010527482334142803         49.88              9022
+   3    -68         0    0.938879655443351835    0.010505963827188339         50.12              9059
+                                                                             100.00             18081    Tot
+
+Mean throughputs: [61.0422 60.2906 61.0395 61.0344]
+Aggregate throughput: 243.4067
+Min-Max: 0.7516
+JFI: 0.9947 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 9110, -82: 8973}
+  Tx pow counts:    {0: 18083}
+Node 1:
+  CST counts:       {-68: 9097, -82: 8870}
+  Tx pow counts:    {0: 17967}
+Node 2:
+  CST counts:       {-68: 8942, -82: 9141}
+  Tx pow counts:    {0: 18083}
+Node 3:
+  CST counts:       {-68: 9060, -82: 9022}
+  Tx pow counts:    {0: 18082}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.938981158871368127    0.023629373500277863          9.90            1790.0
+   0    -68         0    0.939070343299314936    0.023401818860045449         10.10            1825.0
+                                                                              20.00            3615.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.927691935724552219    0.023931938620591269          9.72            1745.0
+   1    -68         0    0.927916548086490600    0.023281009858985940         10.28            1844.0
+                                                                              20.00            3589.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.939188026065363113    0.023306287835877168         10.18            1840.0
+   2    -68         0    0.938737468940790798    0.023728949893812475          9.82            1775.0
+                                                                              20.00            3615.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.939012059505516916    0.023205666587415449         10.27            1856.0
+   3    -68         0    0.938849057930997155    0.023843339369540383          9.73            1758.0
+                                                                              20.00            3614.0    Tot
+
+Mean throughputs: [61.0602 60.2695 61.0573 61.0419]
+Aggregate throughput: 243.4288
+Min-Max: 0.7907
+JFI: 0.9945 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 1826, -82: 1790}
+  Tx pow counts:    {0: 3616}
+Node 1:
+  CST counts:       {-68: 1844, -82: 1746}
+  Tx pow counts:    {0: 3590}
+Node 2:
+  CST counts:       {-68: 1775, -82: 1841}
+  Tx pow counts:    {0: 3616}
+Node 3:
+  CST counts:       {-68: 1759, -82: 1856}
+  Tx pow counts:    {0: 3615}
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50000
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 54623
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.938931231348206441    0.010563838700626150         49.56              8960
+   0    -68         0    0.938872447717981728    0.010471347707292388         50.44              9119
+                                                                             100.00             18079    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.352744032579317413    0.010975764828230913         48.12              8300
+   1    -68         0    0.354488324722963599    0.010570919022265968         51.88              8948
+                                                                              99.99             17248    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.532871009829310016    0.010222726050963733         98.55              9568
+   2    -68         0    0.331593563927293278    0.068842839082151427          1.44               210
+                                                                              99.99              9778    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.516453254738322598    0.010333468243382736         98.53              9364
+   3    -68         0    0.283872175344471123    0.080321932890249886          1.47               154
+                                                                             100.00              9518    Tot
+
+Mean throughputs: [61.0302 22.9350 28.5159 27.5231]
+Aggregate throughput: 140.0042
+Min-Max: 38.0952
+JFI: 0.6976 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 9119, -82: 8961}
+  Tx pow counts:    {0: 18080}
+Node 1:
+  CST counts:       {-68: 8948, -82: 8301}
+  Tx pow counts:    {0: 17249}
+Node 2:
+  CST counts:       {-68: 210, -82: 9569}
+  Tx pow counts:    {0: 9779}
+Node 3:
+  CST counts:       {-68: 154, -82: 9365}
+  Tx pow counts:    {0: 9519}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.938962136816629767    0.023563681481313655          9.96            1800.0
+   0    -68         0    0.938809940355472383    0.023479095302146476         10.03            1813.0
+                                                                              20.00            3613.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.350120067549328062    0.025863030005593583          8.67            1494.0
+   1    -68         0    0.353466550597365925    0.022616563651595031         11.33            1954.0
+                                                                              19.99            3448.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.533375324121600825    0.022833668863877152         19.98            1917.0
+   2    -68         0    0.335081749206833479    0.408248290463863017          0.03               5.0
+                                                                              20.01            1922.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.514532831047060712    0.022851547244951503         19.97            1914.0
+   3    -68         0    0.287082075639177592    0.408248290463863017          0.03               5.0
+                                                                              20.00            1919.0    Tot
+
+Mean throughputs: [61.0227 23.4128 28.5140 28.2940]
+Aggregate throughput: 141.2434
+Min-Max: 37.6099
+JFI: 0.7021 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 1813, -82: 1801}
+  Tx pow counts:    {0: 3614}
+Node 1:
+  CST counts:       {-68: 1954, -82: 1495}
+  Tx pow counts:    {0: 3449}
+Node 2:
+  CST counts:       {-68: 5, -82: 1918}
+  Tx pow counts:    {0: 1923}
+Node 3:
+  CST counts:       {-68: 5, -82: 1915}
+  Tx pow counts:    {0: 1920}
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50000
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 55334
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.939211389529775453    0.010372305576357571         51.40              9294
+   0    -68         0    0.938856744912994423    0.010666704592794866         48.60              8788
+                                                                             100.00             18082    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.471431349729049820    0.011803159420437522         98.84              7177
+   1    -68         0    0.276551677512899718    0.080582296402538028          1.15               153
+                                                                             100.00              7330    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.671867381205551562    0.009308872791678188         98.12             11539
+   2    -68         0    0.522560416116562232    0.057448498962142609          1.87               302
+                                                                              99.99             11841    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.938861980427167619    0.010675210253672475         48.52              8774
+   3    -68         0    0.939092068910068134    0.010365059815378028         51.47              9307
+                                                                             100.00             18081    Tot
+
+Mean throughputs: [61.0394 20.6885 35.8805 61.0359]
+Aggregate throughput: 178.6443
+Min-Max: 40.3509
+JFI: 0.7216 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 8789, -82: 9294}
+  Tx pow counts:    {0: 18083}
+Node 1:
+  CST counts:       {-68: 153, -82: 7178}
+  Tx pow counts:    {0: 7331}
+Node 2:
+  CST counts:       {-68: 302, -82: 11540}
+  Tx pow counts:    {0: 11842}
+Node 3:
+  CST counts:       {-68: 9307, -82: 8775}
+  Tx pow counts:    {0: 18082}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.939208516254219306    0.023057148795535824         10.40            1880.0
+   0    -68         0    0.938798494334091793    0.024007683688367181          9.60            1734.0
+                                                                              20.00            3614.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.470468984445931826    0.026252235637134264         19.92            1450.0
+   1    -68         0    0.270614108930033015    0.258198889747161098          0.08              14.0
+                                                                              20.00            1464.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.671738042977949590    0.020716769761626043         19.92            2329.0
+   2    -68         0    0.518193015825811898    0.277350098112614574          0.07              12.0
+                                                                              19.99            2341.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.938827772816418604    0.023884108859621587          9.70            1752.0
+   3    -68         0    0.939102940367462669    0.023174488732966077         10.30            1861.0
+                                                                              20.00            3613.0    Tot
+
+Mean throughputs: [61.0393 21.2789 36.1216 61.0372]
+Aggregate throughput: 179.4770
+Min-Max: 39.7604
+JFI: 0.7252 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 1735, -82: 1880}
+  Tx pow counts:    {0: 3615}
+Node 1:
+  CST counts:       {-68: 14, -82: 1451}
+  Tx pow counts:    {0: 1465}
+Node 2:
+  CST counts:       {-68: 12, -82: 2330}
+  Tx pow counts:    {0: 2342}
+Node 3:
+  CST counts:       {-68: 1861, -82: 1753}
+  Tx pow counts:    {0: 3614}
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50000
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 55168
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.695981832559025793    0.024042351841717251          9.73              1729
+   0    -68         0    0.770730993642090301    0.007919813905567133         90.26             15942
+                                                                             100.00             17671    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.704883380644530710    0.008958976699617769         98.38             12458
+   1    -68         0    0.497617425712761186    0.061898446059017287          1.62               260
+                                                                              99.99             12718    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.939076273578473453    0.010626278551055638         48.96              8855
+   2    -68         0    0.939129806194890837    0.010409891598199245         51.04              9227
+                                                                             100.00             18082    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.433991985564441907    0.012958630811567069         95.82              5954
+   3    -68         0    0.338586106041444845    0.036661778755338326          4.18               743
+                                                                             100.00              6697    Tot
+
+Mean throughputs: [49.5318 37.9977 61.0428 17.6496]
+Aggregate throughput: 166.2219
+Min-Max: 43.3933
+JFI: 0.7217 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 15943, -82: 1729}
+  Tx pow counts:    {0: 17672}
+Node 1:
+  CST counts:       {-68: 260, -82: 12459}
+  Tx pow counts:    {0: 12719}
+Node 2:
+  CST counts:       {-68: 9228, -82: 8855}
+  Tx pow counts:    {0: 18083}
+Node 3:
+  CST counts:       {-68: 743, -82: 5955}
+  Tx pow counts:    {0: 6698}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.695635582244259143    0.301511344577763629          0.06              10.0
+   0    -68         0    0.766312363267302898    0.016845428013230229         19.94            3523.0
+                                                                              20.00            3533.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.699826769853352904    0.019791312333191979         19.98            2552.0
+   1    -68         0    0.503403674848956095    0.500000000000000000          0.02               3.0
+                                                                              20.00            2555.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.938926869263216224    0.024014605321403707          9.59            1733.0
+   2    -68         0    0.939061017076354698    0.023044900641260895         10.41            1882.0
+                                                                              20.00            3615.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.433098721163437061    0.028444006199428714         19.92            1235.0
+   3    -68         0    0.340030321066397412    0.258198889747161098          0.08              14.0
+                                                                              20.00            1249.0    Tot
+
+Mean throughputs: [50.9963 39.6656 61.0616 17.6119]
+Aggregate throughput: 169.3354
+Min-Max: 43.4497
+JFI: 0.7238 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 3524, -82: 10}
+  Tx pow counts:    {0: 3534}
+Node 1:
+  CST counts:       {-68: 3, -82: 2553}
+  Tx pow counts:    {0: 2556}
+Node 2:
+  CST counts:       {-68: 1883, -82: 1733}
+  Tx pow counts:    {0: 3616}
+Node 3:
+  CST counts:       {-68: 14, -82: 1236}
+  Tx pow counts:    {0: 1250}
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50000
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 72303
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.939066484810503588    0.010508864024297328         50.08              9054
+   0    -68         0    0.938836121364315046    0.010525149632511209         49.92              9026
+                                                                             100.00             18080    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.939036847193480906    0.010496121087981845         50.21              9076
+   1    -68         0    0.938990160460530521    0.010537998718474054         49.79              9004
+                                                                             100.00             18080    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.937302243167674853    0.010661853334059442         48.67              8796
+   2    -68         0    0.937397397373119889    0.010386842802239036         51.33              9268
+                                                                              99.99             18064    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.938899352141014276    0.010558537785999175         49.60              8969
+   3    -68         0    0.939094664617077468    0.010476518317947690         50.39              9110
+                                                                             100.00             18079    Tot
+
+Mean throughputs: [61.0328 61.0371 60.9265 61.0357]
+Aggregate throughput: 244.0322
+Min-Max: 0.1106
+JFI: 0.9992 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 9026, -82: 9055}
+  Tx pow counts:    {0: 18081}
+Node 1:
+  CST counts:       {-68: 9005, -82: 9076}
+  Tx pow counts:    {0: 18081}
+Node 2:
+  CST counts:       {-68: 9269, -82: 8796}
+  Tx pow counts:    {0: 18065}
+Node 3:
+  CST counts:       {-68: 9111, -82: 8969}
+  Tx pow counts:    {0: 18080}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.938957555469859040    0.023262105259961773         10.22            1847.0
+   0    -68         0    0.938824266951776343    0.023782574707724706          9.78            1767.0
+                                                                              20.00            3614.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.938990029473019794    0.023485569615051043         10.03            1812.0
+   1    -68         0    0.938884828907870062    0.023550608702786628          9.97            1802.0
+                                                                              20.00            3614.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.937260546733135302    0.023695618019100723          9.86            1780.0
+   2    -68         0    0.937399791564097029    0.023369844779174951         10.14            1830.0
+                                                                              20.00            3610.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.938938363658749831    0.023688968483956716          9.86            1781.0
+   3    -68         0    0.939055516194949536    0.023357091793352585         10.14            1832.0
+                                                                              20.00            3613.0    Tot
+
+Mean throughputs: [61.0474 61.0464 60.9324 61.0305]
+Aggregate throughput: 244.0567
+Min-Max: 0.1150
+JFI: 0.9992 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 1767, -82: 1848}
+  Tx pow counts:    {0: 3615}
+Node 1:
+  CST counts:       {-68: 1803, -82: 1812}
+  Tx pow counts:    {0: 3615}
+Node 2:
+  CST counts:       {-68: 1831, -82: 1780}
+  Tx pow counts:    {0: 3611}
+Node 3:
+  CST counts:       {-68: 1833, -82: 1781}
+  Tx pow counts:    {0: 3614}
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50000
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 69842
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.659554346867087693    0.010582751261275851         51.44              8928
+   0    -68         0    0.658450813197484441    0.010896634440402259         48.56              8421
+                                                                             100.00             17349    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.939107586972130814    0.010553244843339221         49.63              8978
+   1    -68         0    0.939045356625811012    0.010480545203757963         50.36              9103
+                                                                             100.00             18081    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.002447573030615810    0.010780144012905809         50.25              8604
+   2    -68         0    0.002327645112107676    0.010832513403280236         49.75              8521
+                                                                             100.00             17125    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.042526212998849677    0.010998311888677689         47.82              8266
+   3    -68         0    0.043174826273261323    0.010528065751934497         52.18              9021
+                                                                             100.00             17287    Tot
+
+Mean throughputs: [42.8424 61.0411  0.1537  2.7812]
+Aggregate throughput: 106.8184
+Min-Max: 60.8874
+JFI: 0.5061 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 8421, -82: 8929}
+  Tx pow counts:    {0: 17350}
+Node 1:
+  CST counts:       {-68: 9103, -82: 8979}
+  Tx pow counts:    {0: 18082}
+Node 2:
+  CST counts:       {-68: 8522, -82: 8604}
+  Tx pow counts:    {0: 17126}
+Node 3:
+  CST counts:       {-68: 9022, -82: 8266}
+  Tx pow counts:    {0: 17288}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.659465099662363885    0.023044900641260895         10.89            1882.0
+   0    -68         0    0.657884456385701144    0.025189636092993916          9.11            1575.0
+                                                                              20.00            3457.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.939055063190095796    0.023433924539650597         10.07            1820.0
+   1    -68         0    0.939035926570876867    0.023603030823749149          9.93            1794.0
+                                                                              20.00            3614.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.002444125609121620    0.024182541670333721          9.98            1709.0
+   2    -68         0    0.002329396251120307    0.024133196686197626         10.02            1716.0
+                                                                              20.00            3425.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.042260318425718625    0.024558833620630074          9.61            1657.0
+   3    -68         0    0.043240753787952557    0.023616191143045320         10.39            1792.0
+                                                                              20.00            3449.0    Tot
+
+Mean throughputs: [42.9209 61.0512  0.1538  2.8039]
+Aggregate throughput: 106.9298
+Min-Max: 60.8973
+JFI: 0.5063 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 1575, -82: 1883}
+  Tx pow counts:    {0: 3458}
+Node 1:
+  CST counts:       {-68: 1794, -82: 1821}
+  Tx pow counts:    {0: 3615}
+Node 2:
+  CST counts:       {-68: 1717, -82: 1709}
+  Tx pow counts:    {0: 3426}
+Node 3:
+  CST counts:       {-68: 1793, -82: 1657}
+  Tx pow counts:    {0: 3450}
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50000
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 71565
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.161823087410473521    0.010322451749586237         54.10              9384
+   0    -68         0    0.159027766548648974    0.011205580872588199         45.89              7963
+                                                                              99.99             17347    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.939198864305169523    0.010375096456423242         51.38              9289
+   1    -68         0    0.939143240202268359    0.010662459379439158         48.62              8795
+                                                                             100.00             18084    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.939124455360632937    0.010475943427376403         50.37              9111
+   2    -68         0    0.939038232082501811    0.010557360888287666         49.63              8971
+                                                                             100.00             18082    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.936292029143662163    0.010496699307020321         50.27              9075
+   3    -68         0    0.936413108667785044    0.010553832555023098         49.73              8977
+                                                                             100.00             18052    Tot
+
+Mean throughputs: [10.4395 61.0472 61.0423 60.8601]
+Aggregate throughput: 193.3892
+Min-Max: 50.6077
+JFI: 0.6884 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 7963, -82: 9385}
+  Tx pow counts:    {0: 17348}
+Node 1:
+  CST counts:       {-68: 8796, -82: 9289}
+  Tx pow counts:    {0: 18085}
+Node 2:
+  CST counts:       {-68: 8971, -82: 9112}
+  Tx pow counts:    {0: 18083}
+Node 3:
+  CST counts:       {-68: 8978, -82: 9075}
+  Tx pow counts:    {0: 18053}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.161887139138211344    0.022349507813383709         11.58            2001.0
+   0    -68         0    0.159263245409695886    0.026207120918047958          8.42            1455.0
+                                                                              20.00            3456.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.939148941665566284    0.023369844779174951         10.13            1830.0
+   1    -68         0    0.939117591614516134    0.023662426214015049          9.88            1785.0
+                                                                              20.00            3615.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.939105288779635505    0.023211917272131483         10.27            1855.0
+   2    -68         0    0.938950403773382125    0.023836564731139806          9.73            1759.0
+                                                                              20.00            3614.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.936385520766618518    0.023249527748763855         10.25            1849.0
+   3    -68         0    0.936417128366574203    0.023843339369540383          9.75            1758.0
+                                                                              20.00            3607.0    Tot
+
+Mean throughputs: [10.4018 61.0590 61.0478 60.8375]
+Aggregate throughput: 193.3462
+Min-Max: 50.6573
+JFI: 0.6882 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 1455, -82: 2002}
+  Tx pow counts:    {0: 3457}
+Node 1:
+  CST counts:       {-68: 1786, -82: 1830}
+  Tx pow counts:    {0: 3616}
+Node 2:
+  CST counts:       {-68: 1759, -82: 1856}
+  Tx pow counts:    {0: 3615}
+Node 3:
+  CST counts:       {-68: 1759, -82: 1849}
+  Tx pow counts:    {0: 3608}
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50000
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 53994
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.556791799615301564    0.010115987193006465         97.81              9771
+   0    -68         0    0.383164481020933534    0.059549133417541367          2.19               281
+                                                                             100.00             10052    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.675032767511630105    0.010802764997472515         49.33              8568
+   1    -68         0    0.674636066095364528    0.010668525522832224         50.67              8785
+                                                                             100.00             17353    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.514445993708168459    0.010589869704633197         97.68              8916
+   2    -68         0    0.352494046062917121    0.056254395046301198          2.31               315
+                                                                              99.99              9231    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.817852108698962299    0.010778891454484929         49.61              8606
+   3    -68         0    0.817918186158961058    0.010688617499098876         50.39              8752
+                                                                             100.00             17358    Tot
+
+Mean throughputs: [29.4922 43.8704 26.7147 53.1648]
+Aggregate throughput: 153.2422
+Min-Max: 26.4501
+JFI: 0.7806 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 281, -82: 9772}
+  Tx pow counts:    {0: 10053}
+Node 1:
+  CST counts:       {-68: 8786, -82: 8568}
+  Tx pow counts:    {0: 17354}
+Node 2:
+  CST counts:       {-68: 315, -82: 8917}
+  Tx pow counts:    {0: 9232}
+Node 3:
+  CST counts:       {-68: 8752, -82: 8607}
+  Tx pow counts:    {0: 17359}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.558585811930474851    0.022450662753346864         20.00            1983.0
+   0    -68         0    0.384528055686488457    0.707106781186547573          0.01               1.0
+                                                                              20.00            1984.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.674977110447449791    0.024014605321403707         10.02            1733.0
+   1    -68         0    0.675685970789242973    0.024070194759954793          9.98            1725.0
+                                                                              20.00            3458.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.513971641443586647    0.023205666587415449         19.97            1856.0
+   2    -68         0    0.355095684237209552    0.408248290463863017          0.03               5.0
+                                                                              20.00            1861.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.818313978737302605    0.024239308278185979          9.83            1701.0
+   3    -68         0    0.818515668383780315    0.023850119787527449         10.16            1757.0
+                                                                              20.00            3458.0    Tot
+
+Mean throughputs: [29.4685 43.7370 27.4036 53.0157]
+Aggregate throughput: 153.6248
+Min-Max: 25.6121
+JFI: 0.7850 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 1, -82: 1984}
+  Tx pow counts:    {0: 1985}
+Node 1:
+  CST counts:       {-68: 1726, -82: 1733}
+  Tx pow counts:    {0: 3459}
+Node 2:
+  CST counts:       {-68: 5, -82: 1857}
+  Tx pow counts:    {0: 1862}
+Node 3:
+  CST counts:       {-68: 1757, -82: 1702}
+  Tx pow counts:    {0: 3459}
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50000
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 52317
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.938954221963854141    0.010509444351990528         50.10              9053
+   0    -68         0    0.939089145682950543    0.010523983863040667         49.90              9028
+                                                                             100.00             18081    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.003668575171855003    0.011029039087750310         49.98              8220
+   1    -68         0    0.003778290885862093    0.010903109355965860         50.01              8411
+                                                                             100.00             16631    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.096272785185984644    0.042953677958755779         83.40               541
+   2    -68         0    0.088027660663351062    0.048507125007266595         16.51               424
+                                                                              99.91               965    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.009989129894501157    0.010918045574004427         50.93              8388
+   3    -68         0    0.009914095475235094    0.011007636444730441         49.06              8252
+                                                                             100.00             16640    Tot
+
+Mean throughputs: [61.0375  0.2333  0.6017  0.6242]
+Aggregate throughput: 62.4967
+Min-Max: 60.8042
+JFI: 0.3734 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 9029, -82: 9053}
+  Tx pow counts:    {0: 18082}
+Node 1:
+  CST counts:       {-68: 8411, -82: 8221}
+  Tx pow counts:    {0: 16632}
+Node 2:
+  CST counts:       {-68: 424, -82: 542}
+  Tx pow counts:    {0: 966}
+Node 3:
+  CST counts:       {-68: 8253, -82: 8388}
+  Tx pow counts:    {0: 16641}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.938818871501015728    0.023742322084163121          9.81            1773.0
+   0    -68         0    0.939116822551673169    0.023299960623099820         10.19            1841.0
+                                                                              20.00            3614.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.003577307519321362    0.024112141108520606         10.05            1719.0
+   1    -68         0    0.003766374519694328    0.024225079155575462          9.95            1703.0
+                                                                              20.00            3422.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.099961397645217748    0.218217890235992362         10.00              20.0
+   2    -68         0    0.092374705634380744    0.218217890235992362         10.00              20.0
+                                                                              20.00              40.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.010147008148214180    0.024105134820094760         10.04            1720.0
+   3    -68         0    0.009919240301729648    0.024189615691742994          9.96            1708.0
+                                                                              20.00            3428.0    Tot
+
+Mean throughputs: [61.0454  0.2522  0.0000  0.6214]
+Aggregate throughput: 61.9190
+Min-Max: 61.0454
+JFI: 0.3704 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 1842, -82: 1773}
+  Tx pow counts:    {0: 3615}
+Node 1:
+  CST counts:       {-68: 1703, -82: 1720}
+  Tx pow counts:    {0: 3423}
+Node 2:
+  CST counts:       {-68: 20, -82: 21}
+  Tx pow counts:    {0: 41}
+Node 3:
+  CST counts:       {-68: 1709, -82: 1720}
+  Tx pow counts:    {0: 3429}
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50000
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 56797
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.000391226941319724    0.016457700466915831         77.16              3691
+   0    -68         0    0.000482033701861524    0.016513705870960113         22.84              3666
+                                                                             100.00              7357    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.858705223125532546    0.010461029411759051         51.50              9137
+   1    -68         0    0.857264993504719408    0.010782023669543775         48.49              8601
+                                                                             100.00             17738    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.939015783421245365    0.010464465453701525         50.51              9131
+   2    -68         0    0.938947019659795545    0.010569737979971655         49.48              8950
+                                                                             100.00             18081    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.622591890352963029    0.008638361934889070         98.61             13400
+   3    -68         0    0.461855942414784115    0.067115605521402430          1.39               221
+                                                                             100.00             13621    Tot
+
+Mean throughputs: [ 0.0189 55.7001 61.0349 34.5207]
+Aggregate throughput: 151.2747
+Min-Max: 61.0160
+JFI: 0.6121 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 3666, -82: 3692}
+  Tx pow counts:    {0: 7358}
+Node 1:
+  CST counts:       {-68: 8601, -82: 9138}
+  Tx pow counts:    {0: 17739}
+Node 2:
+  CST counts:       {-68: 8950, -82: 9132}
+  Tx pow counts:    {0: 18082}
+Node 3:
+  CST counts:       {-68: 221, -82: 13401}
+  Tx pow counts:    {0: 13622}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.000389593855213616    0.037062465833055058         15.22             727.0
+   0    -68         0    0.000487577775450959    0.036084391824351608          4.79             767.0
+                                                                              20.02            1494.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.859348362799927767    0.022798037629377661         10.86            1923.0
+   1    -68         0    0.858353369708778957    0.024852871573478333          9.14            1618.0
+                                                                              20.00            3541.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.938926888276744420    0.023505024736113423         10.01            1809.0
+   2    -68         0    0.938901626239467935    0.023531040266750583          9.99            1805.0
+                                                                              20.00            3614.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.624623186742814918    0.019202384316064212         19.87            2711.0
+   3    -68         0    0.458652187093713082    0.204124145231931509          0.13              23.0
+                                                                              20.00            2734.0    Tot
+
+Mean throughputs: [ 0.0175 55.4697 61.0468 34.1830]
+Aggregate throughput: 150.7169
+Min-Max: 61.0293
+JFI: 0.6114 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 767, -82: 728}
+  Tx pow counts:    {0: 1495}
+Node 1:
+  CST counts:       {-68: 1618, -82: 1924}
+  Tx pow counts:    {0: 3542}
+Node 2:
+  CST counts:       {-68: 1805, -82: 1810}
+  Tx pow counts:    {0: 3615}
+Node 3:
+  CST counts:       {-68: 23, -82: 2712}
+  Tx pow counts:    {0: 2735}
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50000
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 55300
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.525652304336186704    0.014028957596690995         53.14              5080
+   0    -68         0    0.517350617677865388    0.015012578303701500         46.86              4436
+                                                                             100.00              9516    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.534803997522130148    0.014013796366780263         52.71              5091
+   1    -68         0    0.531346597726118808    0.014852759212012272         47.28              4532
+                                                                              99.99              9623    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.938866152289661637    0.010546199952805545         49.72              8990
+   2    -68         0    0.939055453195381418    0.010488036041652406         50.28              9090
+                                                                             100.00             18080    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.939123830516653602    0.010537998718474054         49.80              9004
+   3    -68         0    0.938991826291824427    0.010495542964487809         50.20              9077
+                                                                             100.00             18081    Tot
+
+Mean throughputs: [28.2836 28.7773 61.0342 61.0398]
+Aggregate throughput: 179.1348
+Min-Max: 32.7562
+JFI: 0.7337 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 4436, -82: 5081}
+  Tx pow counts:    {0: 9517}
+Node 1:
+  CST counts:       {-68: 4532, -82: 5092}
+  Tx pow counts:    {0: 9624}
+Node 2:
+  CST counts:       {-68: 9090, -82: 8991}
+  Tx pow counts:    {0: 18081}
+Node 3:
+  CST counts:       {-68: 9077, -82: 9005}
+  Tx pow counts:    {0: 18082}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.525725672228300911    0.029814239699997195         11.66            1124.0
+   0    -68         0    0.519020074044042379    0.035897907930886902          8.34             775.0
+                                                                              20.01            1899.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.533335531700249832    0.031158847642487792         10.41            1029.0
+   1    -68         0    0.532750380499713794    0.033040930022754489          9.58             915.0
+                                                                              20.00            1944.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.938797758021263085    0.023589892481053584          9.94            1796.0
+   2    -68         0    0.939097363134999474    0.023453251491009727         10.06            1817.0
+                                                                              20.00            3613.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.939100292032243433    0.023479095302146476         10.03            1813.0
+   3    -68         0    0.938943162200655990    0.023557142371577276          9.97            1801.0
+                                                                              20.00            3614.0    Tot
+
+Mean throughputs: [27.9899 28.8361 61.0270 61.0476]
+Aggregate throughput: 178.9007
+Min-Max: 33.0578
+JFI: 0.7327 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 775, -82: 1125}
+  Tx pow counts:    {0: 1900}
+Node 1:
+  CST counts:       {-68: 915, -82: 1030}
+  Tx pow counts:    {0: 1945}
+Node 2:
+  CST counts:       {-68: 1817, -82: 1797}
+  Tx pow counts:    {0: 3614}
+Node 3:
+  CST counts:       {-68: 1801, -82: 1814}
+  Tx pow counts:    {0: 3615}
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50000
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 71334
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.939065698495276879    0.010499013139145200         50.17              9071
+   0    -68         0    0.939163371993439688    0.010533905269690029         49.83              9011
+                                                                             100.00             18082    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.936304948300725193    0.010485729457933805         50.37              9094
+   1    -68         0    0.936249475372075368    0.010564428184106456         49.63              8959
+                                                                             100.00             18053    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.001233652055637688    0.010778891454484929         50.29              8606
+   2    -68         0    0.001184121485067573    0.010838874619051499         49.71              8511
+                                                                             100.00             17117    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.939206146308488310    0.010451883154786970         50.61              9153
+   3    -68         0    0.938909231833349622    0.010582158705422128         49.39              8929
+                                                                             100.00             18082    Tot
+
+Mean throughputs: [61.0436 60.8545  0.0778 61.0400]
+Aggregate throughput: 183.0159
+Min-Max: 60.9658
+JFI: 0.6344 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 9012, -82: 9071}
+  Tx pow counts:    {0: 18083}
+Node 1:
+  CST counts:       {-68: 8960, -82: 9094}
+  Tx pow counts:    {0: 18054}
+Node 2:
+  CST counts:       {-68: 8512, -82: 8606}
+  Tx pow counts:    {0: 17118}
+Node 3:
+  CST counts:       {-68: 8929, -82: 9154}
+  Tx pow counts:    {0: 18083}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.938984657113195009    0.023583331531828910          9.94            1797.0
+   0    -68         0    0.939147207926784078    0.023453251491009727         10.06            1817.0
+                                                                              20.00            3614.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.936363682407107656    0.023518021709589932         10.02            1807.0
+   1    -68         0    0.936283304234370672    0.023563681481313655          9.98            1800.0
+                                                                              20.00            3607.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.001174907424018451    0.024463116021507716          9.76            1670.0
+   2    -68         0    0.001114932011893643    0.023870495801314430         10.24            1754.0
+                                                                              20.00            3424.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.939141434016661281    0.023268401675088573         10.21            1846.0
+   3    -68         0    0.938870417583527517    0.023775851718273702          9.79            1768.0
+                                                                              20.00            3614.0    Tot
+
+Mean throughputs: [61.0450 60.8374  0.0941 61.0420]
+Aggregate throughput: 183.0186
+Min-Max: 60.9509
+JFI: 0.6345 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 1818, -82: 1797}
+  Tx pow counts:    {0: 3615}
+Node 1:
+  CST counts:       {-68: 1801, -82: 1807}
+  Tx pow counts:    {0: 3608}
+Node 2:
+  CST counts:       {-68: 1755, -82: 1670}
+  Tx pow counts:    {0: 3425}
+Node 3:
+  CST counts:       {-68: 1768, -82: 1847}
+  Tx pow counts:    {0: 3615}
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50000
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 60679
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.000572138141365193    0.012291469545938391         58.20              6618
+   0    -68         0    0.001185465535906262    0.011887085930788813         41.79              7076
+                                                                             100.00             13694    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.126336773934786206    0.010634687794343029         83.90              8841
+   1    -68         0    0.100675450801813629    0.019072719867469376         16.10              2748
+                                                                              99.99             11589    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.938563860091828017    0.010504804420483137         50.14              9061
+   2    -68         0    0.938590819190243231    0.010530984296539651         49.86              9016
+                                                                             100.00             18077    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.409085280511550298    0.014696350614431102         26.68              4629
+   3    -68         0    0.451692046498781585    0.008876710942874287         73.31             12690
+                                                                             100.00             17319    Tot
+
+Mean throughputs: [ 0.0507  7.1828 61.0087 28.5361]
+Aggregate throughput: 96.7783
+Min-Max: 60.9580
+JFI: 0.5052 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 7077, -82: 6618}
+  Tx pow counts:    {0: 13695}
+Node 1:
+  CST counts:       {-68: 2748, -82: 8842}
+  Tx pow counts:    {0: 11590}
+Node 2:
+  CST counts:       {-68: 9017, -82: 9061}
+  Tx pow counts:    {0: 18078}
+Node 3:
+  CST counts:       {-68: 12691, -82: 4629}
+  Tx pow counts:    {0: 17320}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.000566192301575281    0.027842302319485226         11.50            1289.0
+   0    -68         0    0.001282503478014888    0.026379807127383251          8.49            1436.0
+                                                                              20.00            2725.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.126068504357379318    0.022839623660917720         18.23            1916.0
+   1    -68         0    0.100046554357166986    0.057639041770423498          1.77             300.0
+                                                                              20.00            2216.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.938446618170150626    0.023829795864119575          9.74            1760.0
+   2    -68         0    0.938720494916458259    0.023224433809720588         10.26            1853.0
+                                                                              20.00            3613.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.408954356628618898    0.179605302026774910          0.17              30.0
+   3    -68         0    0.446624849797486900    0.017084659225524691         19.82            3425.0
+                                                                              20.00            3455.0    Tot
+
+Mean throughputs: [ 0.0440  7.2827 61.0079 30.1233]
+Aggregate throughput: 98.4579
+Min-Max: 60.9638
+JFI: 0.5088 [0.2500, 1]
+Node 0:
+  CST counts:       {-68: 1437, -82: 1289}
+  Tx pow counts:    {0: 2726}
+Node 1:
+  CST counts:       {-68: 300, -82: 1917}
+  Tx pow counts:    {0: 2217}
+Node 2:
+  CST counts:       {-68: 1854, -82: 1760}
+  Tx pow counts:    {0: 3614}
+Node 3:
+  CST counts:       {-68: 3426, -82: 30}
+  Tx pow counts:    {0: 3456}

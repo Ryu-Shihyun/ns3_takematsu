@@ -1,0 +1,3000 @@
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:32617): Gdk-CRITICAL **: 05:37:15.515: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50001
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.270467096774193005    0.027076518053694116         13.63              1363
+   0    -68         0    0.347547710118086883    0.010759532461130710         86.37              8637
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.146829230769231073    0.049029033784546011          4.15               415
+   1    -68         0    0.274922662215719815    0.010213657437345557         95.85              9585
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.430918866396784339    0.015907119074394443         39.51              3951
+   2    -68         0    0.437123279338854254    0.012856486930664501         60.49              6049
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.065360575539568061    0.029988007195203358         11.11              1111
+   3    -68         0    0.103445381327329167    0.010605938867332434         88.89              8889
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.441652861015740528    0.013443726386062827         55.32              5532
+   4    -68         0    0.442117556500365216    0.014958733419877617         44.68              4468
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.039171330203442940    0.013986355971611485         51.11              5111
+   5    -68         0    0.038361128834355926    0.014300313895335042         48.89              4889
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.936207156081871439    0.014672602119602789         46.44              4644
+   6    -68         0    0.941255658017585706    0.013662783192936524         53.56              5356
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.941240198114728810    0.012640013105172382         62.58              6258
+   7    -68         0    0.934991611007275458    0.016345194259088890         37.42              3742
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [21.9117 17.5272 28.2593  6.4500 28.7267  2.5209 61.0414 61.0408]
+Aggregate throughput: 227.4781
+Min-Max: 58.5205
+JFI: 0.5782 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 8637, -82: 1363}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 9585, -82: 415}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 6049, -82: 3951}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 8889, -82: 1111}
+  Tx pow counts:    {0: 10000}
+Node 4:
+  CST counts:       {-68: 4468, -82: 5532}
+  Tx pow counts:    {0: 10000}
+Node 5:
+  CST counts:       {-68: 4889, -82: 5111}
+  Tx pow counts:    {0: 10000}
+Node 6:
+  CST counts:       {-68: 5356, -82: 4644}
+  Tx pow counts:    {0: 10000}
+Node 7:
+  CST counts:       {-68: 3742, -82: 6258}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.270510623145400031    0.242535625036332969          0.16              16.0
+   0    -68         0    0.340171830477912440    0.022445006962161677         19.84            1984.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.149720396039604270    0.277350098112614574          0.12              12.0
+   1    -68         0    0.271181679389307373    0.022422426466543747         19.88            1988.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.432879827426824570    0.037582301400141439          7.07             707.0
+   2    -68         0    0.439154492327125223    0.027799236087488331         12.93            1293.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.078390458715596259    0.064415662640083082          2.40             240.0
+   3    -68         0    0.121639584852730326    0.023829795864119575         17.60            1760.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.440673019291189849    0.030485538042484620         10.75            1075.0
+   4    -68         0    0.440056343115143245    0.032862038995038749          9.25             925.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.047307135874877775    0.031295877196220290         10.20            1020.0
+   5    -68         0    0.046267089514066530    0.031927542840705050          9.80             980.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.935504612202753938    0.035851736969103737          7.77             777.0
+   6    -68         0    0.942025505563691801    0.028583097523751475         12.23            1223.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.941559968329422903    0.028771766882421800         12.07            1207.0
+   7    -68         0    0.934241193220377353    0.035488672049383808          7.93             793.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [24.1437 18.7058 27.7496  1.8416 29.1008  0.4337 61.0390 61.0390]
+Aggregate throughput: 224.0532
+Min-Max: 60.6053
+JFI: 0.5647 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 1984, -82: 16}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 1988, -82: 12}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 1293, -82: 707}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 1760, -82: 240}
+  Tx pow counts:    {0: 2000}
+Node 4:
+  CST counts:       {-68: 925, -82: 1075}
+  Tx pow counts:    {0: 2000}
+Node 5:
+  CST counts:       {-68: 980, -82: 1020}
+  Tx pow counts:    {0: 2000}
+Node 6:
+  CST counts:       {-68: 1223, -82: 777}
+  Tx pow counts:    {0: 2000}
+Node 7:
+  CST counts:       {-68: 793, -82: 1207}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:306): Gdk-CRITICAL **: 05:41:09.174: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50001
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.280123366243535510    0.015332086374349156         42.53              4253
+   0    -68         0    0.286230201809326290    0.013189903563691626         57.47              5747
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.376013802497159710    0.023823032760289849         17.61              1761
+   1    -68         0    0.409468737864069454    0.011016316230980793         82.39              8239
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.940881752234125623    0.013237197960578956         57.06              5706
+   2    -68         0    0.936175906868525365    0.015258730968857690         42.94              4294
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.933422279104176300    0.015688325405349039         40.62              4062
+   3    -68         0    0.939150375484110622    0.012976074710847597         59.38              5938
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.192247313854852220    0.015350138996137918         42.43              4243
+   4    -68         0    0.199763362278569667    0.013178445040493487         57.57              5757
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.168879433671897727    0.017543859649122806         32.48              3248
+   5    -68         0    0.184830445727825532    0.012168908487517701         67.52              6752
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.482364673539541489    0.014655259544013729         46.55              4655
+   6    -68         0    0.479244474373377083    0.013676832331036970         53.45              5345
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.167287825834541104    0.017037481092399637         34.44              3444
+   7    -68         0    0.178226384017081407    0.012349444086849907         65.56              6556
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [18.4398 26.2376 61.0382 60.9057 12.7799 11.6795 31.2516 11.3421]
+Aggregate throughput: 233.6744
+Min-Max: 49.6961
+JFI: 0.5996 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 5747, -82: 4253}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 8239, -82: 1761}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 4294, -82: 5706}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 5938, -82: 4062}
+  Tx pow counts:    {0: 10000}
+Node 4:
+  CST counts:       {-68: 5757, -82: 4243}
+  Tx pow counts:    {0: 10000}
+Node 5:
+  CST counts:       {-68: 6752, -82: 3248}
+  Tx pow counts:    {0: 10000}
+Node 6:
+  CST counts:       {-68: 5345, -82: 4655}
+  Tx pow counts:    {0: 10000}
+Node 7:
+  CST counts:       {-68: 6556, -82: 3444}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.289899071532843444    0.034710506725031169          8.29             829.0
+   0    -68         0    0.293865990823683587    0.029210311891849298         11.71            1171.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.377519356568361941    0.060745673923078697          2.70             270.0
+   1    -68         0    0.409275084485411722    0.024035406196088641         17.30            1730.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.941561802766691658    0.028559773898876994         12.25            1225.0
+   2    -68         0    0.935308000000056872    0.035897907930886902          7.75             775.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.932638602830521135    0.036686441912352652          7.42             742.0
+   3    -68         0    0.939918684041932462    0.028182994438777080         12.58            1258.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.193703225806450025    0.039253433598942983          6.48             648.0
+   4    -68         0    0.204855052201541016    0.027186362391351842         13.52            1352.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.170684509090907599    0.044721359549995794          4.99             499.0
+   5    -68         0    0.185243076923076150    0.025802692909555395         15.01            1501.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.480238069348149887    0.030831320798910371         10.51            1051.0
+   6    -68         0    0.480398817375510045    0.032444284226152510          9.49             949.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.178132110354709799    0.039073233258228174          6.54             654.0
+   7    -68         0    0.188891007484167178    0.027246843806239894         13.46            1346.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [16.2164 26.2899 61.0390 60.8743 11.9271 11.5235 31.3417  8.5624]
+Aggregate throughput: 227.7744
+Min-Max: 52.4766
+JFI: 0.5862 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 1171, -82: 829}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 1730, -82: 270}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 775, -82: 1225}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 1258, -82: 742}
+  Tx pow counts:    {0: 2000}
+Node 4:
+  CST counts:       {-68: 1352, -82: 648}
+  Tx pow counts:    {0: 2000}
+Node 5:
+  CST counts:       {-68: 1501, -82: 499}
+  Tx pow counts:    {0: 2000}
+Node 6:
+  CST counts:       {-68: 949, -82: 1051}
+  Tx pow counts:    {0: 2000}
+Node 7:
+  CST counts:       {-68: 1346, -82: 654}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:417): Gdk-CRITICAL **: 05:45:13.237: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50001
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.438138858009119170    0.015895057564452583         39.57              3957
+   0    -68         0    0.447918146922578864    0.012862866793895970         60.43              6043
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.659419534883718739    0.053916386601719206          3.43               343
+   1    -68         0    0.799717307931268273    0.010175515014927262         96.57              9657
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.438174050857503994    0.014040014904887734         50.72              5072
+   2    -68         0    0.436406638263364843    0.014243626957572005         49.28              4928
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.537253719806763841    0.069504804685691590          2.06               206
+   3    -68         0    0.742542113323134023    0.010104103351764284         97.94              9794
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.013670091386350362    0.013944140108300213         51.42              5142
+   4    -68         0    0.013185659600740907    0.014345858751054494         48.58              4858
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.372122236024844733    0.078811040623910061          1.60               160
+   5    -68         0    0.673304973071860546    0.010080460776296539         98.40              9840
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.931116755847231969    0.012971707132564722         59.42              5942
+   6    -68         0    0.924698615422570147    0.015696053644933705         40.58              4058
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.938068389380600443    0.014874102932718240         45.19              4519
+   7    -68         0    0.939470499817619320    0.013506116279031572         54.81              5481
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [28.8689 51.6783 28.4304 47.9987  0.8734 43.4584 60.3654 61.0366]
+Aggregate throughput: 322.7101
+Min-Max: 60.1632
+JFI: 0.6810 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 6043, -82: 3957}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 9657, -82: 343}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 4928, -82: 5072}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 9794, -82: 206}
+  Tx pow counts:    {0: 10000}
+Node 4:
+  CST counts:       {-68: 4858, -82: 5142}
+  Tx pow counts:    {0: 10000}
+Node 5:
+  CST counts:       {-68: 9840, -82: 160}
+  Tx pow counts:    {0: 10000}
+Node 6:
+  CST counts:       {-68: 4058, -82: 5942}
+  Tx pow counts:    {0: 10000}
+Node 7:
+  CST counts:       {-68: 5481, -82: 4519}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.440069178505264669    0.037241946136192930          7.20             720.0
+   0    -68         0    0.447871032745619069    0.027939937811355630         12.80            1280.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.660478066465255087    0.267261241912424397          0.13              13.0
+   1    -68         0    0.800893880849958828    0.022428065200812832         19.87            1987.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.436042473305213729    0.030904851360770650         10.46            1046.0
+   2    -68         0    0.434495436478010255    0.032359240084528680          9.54             954.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.539977142857143377    0.447213595499957928          0.04               4.0
+   3    -68         0    0.741517097063722819    0.022377469175267228         19.96            1996.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.016359796363636388    0.031326574483831929         10.18            1018.0
+   4    -68         0    0.015228104204281674    0.031895046605474840          9.82             982.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.372122236024844733    1.000000000000000000          0.00               0.0
+   5    -68         0    0.665125448284656917    0.022355091700494795         20.00            2000.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.931225449190029697    0.028976379389987234         11.90            1190.0
+   6    -68         0    0.924646746691327515    0.035114749361031178          8.10             810.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.937358510998366978    0.032025630761017429          9.74             974.0
+   7    -68         0    0.939912387791813186    0.031204323970714831         10.26            1026.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [28.6900 51.6176 28.9524 48.4804  0.2552 45.8492 60.3423 61.0390]
+Aggregate throughput: 325.2261
+Min-Max: 60.7839
+JFI: 0.6802 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 1280, -82: 720}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 1987, -82: 13}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 954, -82: 1046}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 1996, -82: 4}
+  Tx pow counts:    {0: 2000}
+Node 4:
+  CST counts:       {-68: 982, -82: 1018}
+  Tx pow counts:    {0: 2000}
+Node 5:
+  CST counts:       {-68: 2000}
+  Tx pow counts:    {0: 2000}
+Node 6:
+  CST counts:       {-68: 810, -82: 1190}
+  Tx pow counts:    {0: 2000}
+Node 7:
+  CST counts:       {-68: 1026, -82: 974}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:536): Gdk-CRITICAL **: 05:49:17.897: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50001
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.788846169154225341    0.040723148118768406          6.02               602
+   0    -68         0    0.895350671348020821    0.010314761134687829         93.98              9398
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.208935384615384467    0.051502620262460476          3.76               376
+   1    -68         0    0.334218838441536215    0.010192943828752511         96.24              9624
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.938698436149360549    0.014016549298025123         50.89              5089
+   2    -68         0    0.938953876221550132    0.014268253638383740         49.11              4911
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.011430966321813795    0.014836403344027176         45.42              4542
+   3    -68         0    0.012559193991573521    0.013534538532380198         54.58              5458
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.012535834896810509    0.015314097295792221         42.63              4263
+   4    -68         0    0.016134067619379487    0.013201392028167044         57.37              5737
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.172807876923075865    0.014322297480788657         48.74              4874
+   5    -68         0    0.174012217671151381    0.013965881131221413         51.26              5126
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.038746652150245038    0.023331648330687904         18.36              1836
+   6    -68         0    0.080018263319043090    0.011066796025971808         81.64              8164
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.473803204747773821    0.054473471070284329          3.36               336
+   7    -68         0    0.607321990688051372    0.010171829473963249         96.64              9664
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [57.7920 21.4216 61.0358  0.7832  0.9492 11.2749  4.7094 39.1914]
+Aggregate throughput: 197.1574
+Min-Max: 60.2526
+JFI: 0.5138 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 9398, -82: 602}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 9624, -82: 376}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 4911, -82: 5089}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 5458, -82: 4542}
+  Tx pow counts:    {0: 10000}
+Node 4:
+  CST counts:       {-68: 5737, -82: 4263}
+  Tx pow counts:    {0: 10000}
+Node 5:
+  CST counts:       {-68: 5126, -82: 4874}
+  Tx pow counts:    {0: 10000}
+Node 6:
+  CST counts:       {-68: 8164, -82: 1836}
+  Tx pow counts:    {0: 10000}
+Node 7:
+  CST counts:       {-68: 9664, -82: 336}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.791956142131976182    0.277350098112614574          0.12              12.0
+   0    -68         0    0.895072341114553693    0.022422426466543747         19.88            1988.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.207358192090395382    0.204124145231931509          0.23              23.0
+   1    -68         0    0.328881841004171560    0.022484687520664393         19.77            1977.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.939514031901912294    0.031372790256907930         10.15            1015.0
+   2    -68         0    0.937986574993699751    0.031846487764924103          9.85             985.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.013603811634349053    0.032720999550184426          9.33             933.0
+   3    -68         0    0.015166630236794168    0.030599503068105230         10.67            1067.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.015456632261869656    0.033825504574586919          8.73             873.0
+   4    -68         0    0.019139622641509375    0.029774566708770683         11.27            1127.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.201337928205126943    0.032009219983223994          9.75             975.0
+   5    -68         0    0.203313895660651889    0.031219527052723132         10.25            1025.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.038554328878559072    0.092450032704204863          1.16             116.0
+   6    -68         0    0.079576627925488141    0.023032671985243936         18.84            1884.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.470828679245282600    0.223606797749978964          0.19              19.0
+   7    -68         0    0.609960728787094841    0.022461987174119138         19.81            1981.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [58.1636 22.9753 61.0390  0.1550  0.1743  3.7501  5.1465 38.7653]
+Aggregate throughput: 190.1691
+Min-Max: 60.8840
+JFI: 0.4962 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 1988, -82: 12}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 1977, -82: 23}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 985, -82: 1015}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 1067, -82: 933}
+  Tx pow counts:    {0: 2000}
+Node 4:
+  CST counts:       {-68: 1127, -82: 873}
+  Tx pow counts:    {0: 2000}
+Node 5:
+  CST counts:       {-68: 1025, -82: 975}
+  Tx pow counts:    {0: 2000}
+Node 6:
+  CST counts:       {-68: 1884, -82: 116}
+  Tx pow counts:    {0: 2000}
+Node 7:
+  CST counts:       {-68: 1981, -82: 19}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:650): Gdk-CRITICAL **: 05:53:19.389: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50001
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.937753516758448313    0.015815342630852661         39.97              3997
+   0    -68         0    0.939647914723538036    0.012905643322991683         60.03              6003
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.262689400807211371    0.012459185151084207         64.41              6441
+   1    -68         0    0.250320179775278318    0.016760038078849772         35.59              3559
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.939072164459427761    0.014059428268103009         50.58              5058
+   2    -68         0    0.938562265830518161    0.014223441627316247         49.42              4942
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.935163863471349832    0.013474201390907388         55.07              5507
+   3    -68         0    0.930139314641813542    0.014917067879033706         44.93              4493
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.834221277906087466    0.019619160796573762         25.97              2597
+   4    -68         0    0.861292793084819319    0.011621623319448382         74.03              7403
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.219074435885816127    0.015051640454801170         44.13              4413
+   5    -68         0    0.224576664280603300    0.013377402713694172         55.87              5587
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.933773981940047904    0.017067232246187301         34.32              3432
+   6    -68         0    0.941496897549099376    0.012338159182799287         65.68              6568
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.817751729800286431    0.013660233452652507         53.58              5358
+   7    -68         0    0.815780555675161390    0.014675761934890763         46.42              4642
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [61.0401 16.7920 61.0355 60.6510 55.5381 14.4425 61.0372 53.1050]
+Aggregate throughput: 383.6415
+Min-Max: 46.5976
+JFI: 0.7175 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 6003, -82: 3997}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 3559, -82: 6441}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 4942, -82: 5058}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 4493, -82: 5507}
+  Tx pow counts:    {0: 10000}
+Node 4:
+  CST counts:       {-68: 7403, -82: 2597}
+  Tx pow counts:    {0: 10000}
+Node 5:
+  CST counts:       {-68: 5587, -82: 4413}
+  Tx pow counts:    {0: 10000}
+Node 6:
+  CST counts:       {-68: 6568, -82: 3432}
+  Tx pow counts:    {0: 10000}
+Node 7:
+  CST counts:       {-68: 4642, -82: 5358}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.935780323206249820    0.033241124765726680          9.04             904.0
+   0    -68         0    0.940675859820753524    0.030192333931958422         10.96            1096.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.263606481409007165    0.027389551783238836         13.32            1332.0
+   1    -68         0    0.251792199170122355    0.038662233651352955          6.68             668.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.939757591440726237    0.030993786368687180         10.40            1040.0
+   2    -68         0    0.937752970123090890    0.032258064516129031          9.60             960.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.935844014869962715    0.028807560095783870         12.04            1204.0
+   3    -68         0    0.929826890210983747    0.035421817348790727          7.96             796.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.837658597402606175    0.058823529411764705          2.88             288.0
+   4    -68         0    0.860832494729434017    0.024161356785259634         17.12            1712.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.221060372118854154    0.035049981861639080          8.13             813.0
+   5    -68         0    0.227169170643033852    0.029012942659282972         11.87            1187.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.933492175193256779    0.037345684348663553          7.16             716.0
+   6    -68         0    0.941517017975440296    0.027896417632583534         12.84            1284.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.818680130414484952    0.030628194591584442         10.65            1065.0
+   7    -68         0    0.815628910463829460    0.032686022523030676          9.35             935.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [61.0559 16.5156 61.0390 60.5981 55.5577 13.8489 61.0390 52.9827]
+Aggregate throughput: 382.6369
+Min-Max: 47.2070
+JFI: 0.7150 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 1096, -82: 904}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 668, -82: 1332}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 960, -82: 1040}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 796, -82: 1204}
+  Tx pow counts:    {0: 2000}
+Node 4:
+  CST counts:       {-68: 1712, -82: 288}
+  Tx pow counts:    {0: 2000}
+Node 5:
+  CST counts:       {-68: 1187, -82: 813}
+  Tx pow counts:    {0: 2000}
+Node 6:
+  CST counts:       {-68: 1284, -82: 716}
+  Tx pow counts:    {0: 2000}
+Node 7:
+  CST counts:       {-68: 935, -82: 1065}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:749): Gdk-CRITICAL **: 05:57:26.631: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50001
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.941489748362658418    0.013128379967281657         58.01              5801
+   0    -68         0    0.935052800000071960    0.015430334996209190         41.99              4199
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.437846470028554036    0.012592820612808005         63.05              6305
+   1    -68         0    0.426759480519499967    0.016448792373994225         36.95              3695
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.940576865875068169    0.013952281087941852         51.36              5136
+   2    -68         0    0.937266647482069115    0.014337009654653080         48.64              4864
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.210242061191629831    0.011584134114281931         74.51              7451
+   3    -68         0    0.193773678431370611    0.019802950859533486         25.49              2549
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.939854027914337475    0.014020681738574256         50.86              5086
+   4    -68         0    0.937882303153664054    0.014263898471073131         49.14              4914
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.440654976518228492    0.012725695259515555         61.74              6174
+   5    -68         0    0.436933535406346440    0.016164816125656171         38.26              3826
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.207821538461536809    0.018208926018230744         30.15              3015
+   6    -68         0    0.224250283423996527    0.011964256337799520         69.85              6985
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.938667776332966608    0.016126934718260072         38.44              3844
+   7    -68         0    0.939032905635879378    0.012744283479653827         61.56              6156
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [61.0333 28.1994 61.0450 13.3955 61.0397 28.5557 14.2571 61.0402]
+Aggregate throughput: 328.5661
+Min-Max: 47.6495
+JFI: 0.6657 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 4199, -82: 5801}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 3695, -82: 6305}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 4864, -82: 5136}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 2549, -82: 7451}
+  Tx pow counts:    {0: 10000}
+Node 4:
+  CST counts:       {-68: 4914, -82: 5086}
+  Tx pow counts:    {0: 10000}
+Node 5:
+  CST counts:       {-68: 3826, -82: 6174}
+  Tx pow counts:    {0: 10000}
+Node 6:
+  CST counts:       {-68: 6985, -82: 3015}
+  Tx pow counts:    {0: 10000}
+Node 7:
+  CST counts:       {-68: 6156, -82: 3844}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.941998507592255563    0.028952080535072162         11.92            1192.0
+   0    -68         0    0.934412830188732890    0.035158127696731496          8.08             808.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.435604786324812643    0.026793191107712166         13.92            1392.0
+   1    -68         0    0.426807875647679580    0.040522044923655388          6.08             608.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.940233772930163525    0.030096463271442300         11.03            1103.0
+   2    -68         0    0.937499838709744737    0.033370432213299994          8.97             897.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.220208941176472744    0.025794107751137895         15.02            1502.0
+   3    -68         0    0.203418323586742528    0.044766148103584522          4.98             498.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.938502803461133017    0.030964056111131625         10.42            1042.0
+   4    -68         0    0.939055324741033370    0.032291684186031330          9.58             958.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.442174746101583194    0.029185420270888950         11.73            1173.0
+   5    -68         0    0.437508693333345022    0.034752402342845795          8.27             827.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.204701577287064590    0.045596075258755323          4.80             480.0
+   6    -68         0    0.224893143066229512    0.025641025641025640         15.20            1520.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.936599424263232727    0.032826608214930636          9.27             927.0
+   7    -68         0    0.940142124311613148    0.030513909884867671         10.73            1073.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [61.0221 28.5941 61.0559 10.8286 61.0559 28.2394 14.4629 61.0390]
+Aggregate throughput: 326.2980
+Min-Max: 50.2273
+JFI: 0.6598 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 808, -82: 1192}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 608, -82: 1392}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 897, -82: 1103}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 498, -82: 1502}
+  Tx pow counts:    {0: 2000}
+Node 4:
+  CST counts:       {-68: 958, -82: 1042}
+  Tx pow counts:    {0: 2000}
+Node 5:
+  CST counts:       {-68: 827, -82: 1173}
+  Tx pow counts:    {0: 2000}
+Node 6:
+  CST counts:       {-68: 1520, -82: 480}
+  Tx pow counts:    {0: 2000}
+Node 7:
+  CST counts:       {-68: 1073, -82: 927}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:862): Gdk-CRITICAL **: 06:01:14.929: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50001
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.937423469079980420    0.013730875909527243         53.03              5303
+   0    -68         0    0.940456296296359073    0.014589603651080285         46.97              4697
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.248675990888394233    0.011931848997583691         70.23              7023
+   1    -68         0    0.230797152451307747    0.018324732907511420         29.77              2977
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.935146224754078714    0.016091401282536867         38.61              3861
+   2    -68         0    0.941348690553761358    0.012761914022253898         61.39              6139
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.282822338049154187    0.013643694863595453         53.71              5371
+   3    -68         0    0.273425278617715817    0.014696350614431102         46.29              4629
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.936662146298796627    0.014798988967609419         45.65              4565
+   4    -68         0    0.940684032376782442    0.013563140979519325         54.35              5435
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.265920174863385594    0.016529490122682157         36.59              3659
+   5    -68         0    0.276998196152638654    0.012557028534887762         63.41              6341
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.204301393034828832    0.012468866701345411         64.31              6431
+   6    -68         0    0.194843607843136257    0.016736548175114458         35.69              3569
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.937866231199031453    0.014658408165715977         46.53              4653
+   7    -68         0    0.939837726252841565    0.013674274718610487         53.47              5347
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [61.0373 15.8211 61.0442 18.1043 61.0373 17.7449 13.0628 61.0420]
+Aggregate throughput: 308.8940
+Min-Max: 47.9814
+JFI: 0.6321 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 4697, -82: 5303}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 2977, -82: 7023}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 6139, -82: 3861}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 4629, -82: 5371}
+  Tx pow counts:    {0: 10000}
+Node 4:
+  CST counts:       {-68: 5435, -82: 4565}
+  Tx pow counts:    {0: 10000}
+Node 5:
+  CST counts:       {-68: 6341, -82: 3659}
+  Tx pow counts:    {0: 10000}
+Node 6:
+  CST counts:       {-68: 3569, -82: 6431}
+  Tx pow counts:    {0: 10000}
+Node 7:
+  CST counts:       {-68: 5347, -82: 4653}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.938596656798070250    0.033077060082781128          9.13             913.0
+   0    -68         0    0.939035258931105288    0.030316953129541621         10.87            1087.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.237797461706787672    0.025474090105633382         15.40            1540.0
+   1    -68         0    0.222977982525812385    0.046574643283262232          4.60             460.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.935379057591666618    0.035201667190438143          8.06             806.0
+   2    -68         0    0.941013764658360952    0.028927842707018585         11.94            1194.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.270579062500000911    0.027983662310423863         12.76            1276.0
+   3    -68         0    0.264634429083459799    0.037139067635410368          7.24             724.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.936759273515919144    0.033748365353141352          8.77             877.0
+   4    -68         0    0.940535423139421289    0.029827499313594678         11.23            1123.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.264341424351819232    0.040356715613563084          6.13             613.0
+   5    -68         0    0.275006385469223846    0.026841406354750946         13.87            1387.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.211236205067766969    0.027297554521630706         13.41            1341.0
+   6    -68         0    0.200474778426656147    0.038924947208076148          6.59             659.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.938221306425980561    0.033538923545276884          8.88             888.0
+   7    -68         0    0.939475127478826222    0.029974532466509034         11.12            1112.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [61.0390 18.4754 61.0559 20.9081 61.0390 18.2613 11.3969 61.0390]
+Aggregate throughput: 313.2146
+Min-Max: 49.6590
+JFI: 0.6399 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 1087, -82: 913}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 460, -82: 1540}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 1194, -82: 806}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 724, -82: 1276}
+  Tx pow counts:    {0: 2000}
+Node 4:
+  CST counts:       {-68: 1123, -82: 877}
+  Tx pow counts:    {0: 2000}
+Node 5:
+  CST counts:       {-68: 1387, -82: 613}
+  Tx pow counts:    {0: 2000}
+Node 6:
+  CST counts:       {-68: 659, -82: 1341}
+  Tx pow counts:    {0: 2000}
+Node 7:
+  CST counts:       {-68: 1112, -82: 888}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:962): Gdk-CRITICAL **: 06:05:11.112: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50001
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.580876083916083141    0.059131239598908258          2.85               285
+   0    -68         0    0.757559752984792611    0.010145098007699966         97.15              9715
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.940139673819766264    0.013102435641608368         58.24              5824
+   1    -68         0    0.937184467321116710    0.015472759044344290         41.76              4176
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.007015522254529179    0.014955387321318838         44.70              4470
+   2    -68         0    0.010724599529922328    0.013446156780439741         55.30              5530
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.937683165244420302    0.013926550093883818         51.55              5155
+   3    -68         0    0.939976293850654288    0.014365088141937361         48.45              4845
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.932106507203102508    0.016486752034923349         36.78              3678
+   4    -68         0    0.942884984975496443    0.012575880707974748         63.22              6322
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.457106285714283300    0.040996003084539392          5.94               594
+   5    -68         0    0.546274051238441749    0.010310374207903679         94.06              9406
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.236377358490566070    0.137360563948689035          0.52                52
+   6    -68         0    0.823818498341539751    0.010025597953892766         99.48              9948
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.600646593939389684    0.014213381090374028         49.49              4949
+   7    -68         0    0.595396864608072729    0.014069165197083816         50.51              5051
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [48.9228 61.0411  0.5894 61.0338 61.0420 35.1701 53.3565 38.8774]
+Aggregate throughput: 360.0332
+Min-Max: 60.4526
+JFI: 0.7004 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 9715, -82: 285}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 4176, -82: 5824}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 5530, -82: 4470}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 4845, -82: 5155}
+  Tx pow counts:    {0: 10000}
+Node 4:
+  CST counts:       {-68: 6322, -82: 3678}
+  Tx pow counts:    {0: 10000}
+Node 5:
+  CST counts:       {-68: 9406, -82: 594}
+  Tx pow counts:    {0: 10000}
+Node 6:
+  CST counts:       {-68: 9948, -82: 52}
+  Tx pow counts:    {0: 10000}
+Node 7:
+  CST counts:       {-68: 5051, -82: 4949}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.584340645161289474    0.353553390593273786          0.07               7.0
+   0    -68         0    0.756353044153831311    0.022394296451119466         19.93            1993.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.939842784971404166    0.029947637411773993         11.14            1114.0
+   1    -68         0    0.937468927377749117    0.033576713893653728          8.86             886.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.008048187395426632    0.033595657034169786          8.85             885.0
+   2    -68         0    0.011642028985507325    0.029934217004462485         11.15            1115.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.939010618458683610    0.032393177419586847          9.52             952.0
+   3    -68         0    0.938413733544035455    0.030875376054721921         10.48            1048.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.932968442728485226    0.041812100500354540          5.71             571.0
+   4    -68         0    0.942642451982070972    0.026444294267397254         14.29            1429.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.456959999999997535    0.149071198499985985          0.44              44.0
+   5    -68         0    0.546848691450795621    0.022605003945421222         19.56            1956.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.236377358490566070    1.000000000000000000          0.00               0.0
+   6    -68         0    0.817718716819710756    0.022355091700494795         20.00            2000.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.597131473109898003    0.030123761656438895         11.01            1101.0
+   7    -68         0    0.597709761618108848    0.033333333333333333          8.99             899.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [49.4727 61.0390  0.3384 61.0390 61.0390 35.2438 55.1240 39.0162]
+Aggregate throughput: 362.3121
+Min-Max: 60.7006
+JFI: 0.6998 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 1993, -82: 7}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 886, -82: 1114}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 1115, -82: 885}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 1048, -82: 952}
+  Tx pow counts:    {0: 2000}
+Node 4:
+  CST counts:       {-68: 1429, -82: 571}
+  Tx pow counts:    {0: 2000}
+Node 5:
+  CST counts:       {-68: 1956, -82: 44}
+  Tx pow counts:    {0: 2000}
+Node 6:
+  CST counts:       {-68: 2000}
+  Tx pow counts:    {0: 2000}
+Node 7:
+  CST counts:       {-68: 899, -82: 1101}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:1105): Gdk-CRITICAL **: 06:09:10.144: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50001
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.155301254077563067    0.019038123938628339         27.58              2758
+   0    -68         0    0.171073334253764503    0.011750078211718395         72.42              7242
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.719898391752574862    0.045407660918649978          4.84               484
+   1    -68         0    0.830195801197863847    0.010250616016466166         95.16              9516
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.291265909417696256    0.013406223004292967         55.63              5563
+   2    -68         0    0.279324236142410809    0.015010886840871084         44.37              4437
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.261499538047343327    0.011903918403013953         70.56              7056
+   3    -68         0    0.235897915110354656    0.018427115179918692         29.44              2944
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.941867791842502244    0.013259288069595501         56.87              5687
+   4    -68         0    0.935085841446526289    0.015225092140633311         43.13              4313
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.014522460136674414    0.015092727811824552         43.89              4389
+   5    -68         0    0.018011004989308427    0.013348767498451920         56.11              5611
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.933650768153235555    0.015280091778618889         42.82              4282
+   6    -68         0    0.942827878999851654    0.013223303067357670         57.18              5718
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.062885925925926012    0.035737084494593160          7.82               782
+   7    -68         0    0.135281240915500922    0.010414971659468615         92.18              9218
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [10.8391 53.6258 18.5916 16.5108 61.0435  1.0714 61.0406  8.4266]
+Aggregate throughput: 231.1494
+Min-Max: 59.9721
+JFI: 0.5504 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 7242, -82: 2758}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 9516, -82: 484}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 4437, -82: 5563}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 2944, -82: 7056}
+  Tx pow counts:    {0: 10000}
+Node 4:
+  CST counts:       {-68: 4313, -82: 5687}
+  Tx pow counts:    {0: 10000}
+Node 5:
+  CST counts:       {-68: 5611, -82: 4389}
+  Tx pow counts:    {0: 10000}
+Node 6:
+  CST counts:       {-68: 5718, -82: 4282}
+  Tx pow counts:    {0: 10000}
+Node 7:
+  CST counts:       {-68: 9218, -82: 782}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.156195864465680706    0.046726931351599776          4.57             457.0
+   0    -68         0    0.173822540350876575    0.025449329927964379         15.43            1543.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.720932532188838793    0.223606797749978964          0.19              19.0
+   1    -68         0    0.828515838641189939    0.022461987174119138         19.81            1981.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.279253383635938046    0.027482485496465637         13.23            1323.0
+   2    -68         0    0.271826769476200991    0.038404768632128425          6.77             677.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.248357154441583794    0.024753688574416857         16.31            1631.0
+   3    -68         0    0.229326956521737207    0.051987524491003634          3.69             369.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.940173586908517267    0.029272820655593355         11.66            1166.0
+   4    -68         0    0.937125333333389543    0.034606427010299139          8.34             834.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.017003694050991645    0.034079908829549851          8.60             860.0
+   5    -68         0    0.021170518783541911    0.029604462320866849         11.40            1140.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.933920222284025381    0.038208035995043507          6.84             684.0
+   6    -68         0    0.942892682262168047    0.027555424922739644         13.16            1316.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.060388510067114175    0.160128153805087131          0.38              38.0
+   7    -68         0    0.132229450186026692    0.022570430888309446         19.62            1962.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [10.3093 54.2904 21.2417 19.5582 61.0559  0.3293 61.0390  9.4841]
+Aggregate throughput: 237.3079
+Min-Max: 60.7266
+JFI: 0.5587 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 1543, -82: 457}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 1981, -82: 19}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 677, -82: 1323}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 369, -82: 1631}
+  Tx pow counts:    {0: 2000}
+Node 4:
+  CST counts:       {-68: 834, -82: 1166}
+  Tx pow counts:    {0: 2000}
+Node 5:
+  CST counts:       {-68: 1140, -82: 860}
+  Tx pow counts:    {0: 2000}
+Node 6:
+  CST counts:       {-68: 1316, -82: 684}
+  Tx pow counts:    {0: 2000}
+Node 7:
+  CST counts:       {-68: 1962, -82: 38}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:1237): Gdk-CRITICAL **: 06:13:07.738: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50001
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.939202427543323171    0.013946852184589263         51.40              5140
+   0    -68         0    0.938538078584709168    0.014342907231889208         48.60              4860
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.019149719260065350    0.014752215303662525         45.94              4594
+   1    -68         0    0.021944531163306635    0.013599464735601802         54.06              5406
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.002784659872007580    0.015395551020673125         42.18              4218
+   2    -68         0    0.005606833823275146    0.013149928875514541         57.82              5782
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.938756139978820681    0.013294393474083767         56.57              5657
+   3    -68         0    0.938809576427331760    0.015172428225860112         43.43              4343
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.278570275229356235    0.033864273073929821          8.71               871
+   4    -68         0    0.339263789704266239    0.010465611553639653         91.29              9129
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.937296660682297667    0.014980537942799495         44.55              4455
+   5    -68         0    0.940074374323869755    0.013427960881291646         55.45              5545
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.939211389503369798    0.014180474733371392         49.72              4972
+   6    -68         0    0.938496050904800594    0.014101300975535015         50.28              5028
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.720402962962961135    0.055555555555555552          3.23               323
+   7    -68         0    0.833155676792732391    0.010164995509360101         96.77              9677
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [61.0394  1.3432  0.2871 61.0329 21.7125 61.0366 61.0376 53.9285]
+Aggregate throughput: 321.4178
+Min-Max: 60.7523
+JFI: 0.6080 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 4860, -82: 5140}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 5406, -82: 4594}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 5782, -82: 4218}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 4343, -82: 5657}
+  Tx pow counts:    {0: 10000}
+Node 4:
+  CST counts:       {-68: 9129, -82: 871}
+  Tx pow counts:    {0: 10000}
+Node 5:
+  CST counts:       {-68: 5545, -82: 4455}
+  Tx pow counts:    {0: 10000}
+Node 6:
+  CST counts:       {-68: 5028, -82: 4972}
+  Tx pow counts:    {0: 10000}
+Node 7:
+  CST counts:       {-68: 9677, -82: 323}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.938082473430022490    0.031591201180328168         10.01            1001.0
+   0    -68         0    0.939639647850921689    0.031622776601683791          9.99             999.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.020516066106746236    0.033241124765726680          9.04             904.0
+   1    -68         0    0.023084834145209811    0.030192333931958422         10.96            1096.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.002901563342318051    0.033690856026460457          8.80             880.0
+   2    -68         0    0.006117675316319997    0.029867384554474945         11.20            1120.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.940353181324711129    0.030802055181684870         10.53            1053.0
+   3    -68         0    0.936632558139588123    0.032478490123081544          9.47             947.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.278980756192958201    0.097128586235726413          1.05             105.0
+   4    -68         0    0.340465050449205164    0.022965760608731265         18.95            1895.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.936062447629607108    0.034731435582359395          8.28             828.0
+   5    -68         0    0.941035281207208252    0.029197858123689188         11.72            1172.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.938840437547765805    0.030964056111131625         10.42            1042.0
+   6    -68         0    0.938759420289924984    0.032291684186031330          9.58             958.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.702544842105261691    0.158113883008418971          0.39              39.0
+   7    -68         0    0.832532766619152653    0.022576182049286547         19.61            1961.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [61.0390  1.0206  0.1936 61.0221 21.5523 61.0390 61.0390 54.3338]
+Aggregate throughput: 321.2396
+Min-Max: 60.8454
+JFI: 0.6067 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 999, -82: 1001}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 1096, -82: 904}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 1120, -82: 880}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 947, -82: 1053}
+  Tx pow counts:    {0: 2000}
+Node 4:
+  CST counts:       {-68: 1895, -82: 105}
+  Tx pow counts:    {0: 2000}
+Node 5:
+  CST counts:       {-68: 1172, -82: 828}
+  Tx pow counts:    {0: 2000}
+Node 6:
+  CST counts:       {-68: 958, -82: 1042}
+  Tx pow counts:    {0: 2000}
+Node 7:
+  CST counts:       {-68: 1961, -82: 39}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:1343): Gdk-CRITICAL **: 06:17:08.061: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50001
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.940982931596106464    0.012761914022253898         61.39              6139
+   0    -68         0    0.935612387364127107    0.016091401282536867         38.61              3861
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.196523885714285640    0.075592894601845442          1.74               174
+   1    -68         0    0.411236112750570093    0.010087638766670938         98.26              9826
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.255123934426229992    0.064018439966447988          2.43               243
+   2    -68         0    0.490082525107607525    0.010123241397734356         97.57              9757
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.725657731958761487    0.071795815861773804          1.93               193
+   3    -68         0    0.935327112561198049    0.010097404896525242         98.07              9807
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.214829758454106512    0.069504804685691590          2.06               206
+   4    -68         0    0.483641956100063053    0.010104103351764284         97.94              9794
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.267264741362099767    0.014132246511151978         50.06              5006
+   5    -68         0    0.260300748748753974    0.014149211999266963         49.94              4994
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.279358240579337225    0.011580249818791891         74.56              7456
+   6    -68         0    0.245677516699408877    0.019822394114938212         25.44              2544
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.006792308771929835    0.013245323570650438         56.99              5699
+   7    -68         0    0.003999330543933081    0.015246311791544941         43.01              4301
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [61.0413 26.4915 31.4891 60.5440 31.0813 17.1496 17.6048  0.3635]
+Aggregate throughput: 245.7650
+Min-Max: 60.6778
+JFI: 0.6093 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 3861, -82: 6139}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 9826, -82: 174}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 9757, -82: 243}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 9807, -82: 193}
+  Tx pow counts:    {0: 10000}
+Node 4:
+  CST counts:       {-68: 9794, -82: 206}
+  Tx pow counts:    {0: 10000}
+Node 5:
+  CST counts:       {-68: 4994, -82: 5006}
+  Tx pow counts:    {0: 10000}
+Node 6:
+  CST counts:       {-68: 2544, -82: 7456}
+  Tx pow counts:    {0: 10000}
+Node 7:
+  CST counts:       {-68: 4301, -82: 5699}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.940699341813093115    0.029012942659282972         11.87            1187.0
+   0    -68         0    0.935901239750783431    0.035049981861639080          8.13             813.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.196582248520709990    0.377964473009227198          0.06               6.0
+   1    -68         0    0.409293849099951146    0.022388683141982248         19.94            1994.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.256021069958848213    0.707106781186547573          0.01               1.0
+   2    -68         0    0.490104559865957079    0.022360679774997897         19.99            1999.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.725607619047617836    0.408248290463863017          0.05               5.0
+   3    -68         0    0.934649102777410312    0.022383074051792261         19.95            1995.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.214829758454106512    1.000000000000000000          0.00               0.0
+   4    -68         0    0.481179012187301358    0.022355091700494795         20.00            2000.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.252624113177885745    0.028976379389987234         11.90            1190.0
+   5    -68         0    0.250069945041814679    0.035114749361031178          8.10             810.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.266863499911716651    0.023603030823749149         17.94            1794.0
+   6    -68         0    0.240486498503632296    0.069504804685691590          2.06             206.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.008338844056706676    0.029934217004462485         11.15            1115.0
+   7    -68         0    0.004839613696224789    0.033595657034169786          8.85             885.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [61.0390 27.1826 31.8351 60.9347 32.0607 20.3966 20.6270  0.0374]
+Aggregate throughput: 254.1131
+Min-Max: 61.0016
+JFI: 0.6217 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 813, -82: 1187}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 1994, -82: 6}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 1999, -82: 1}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 1995, -82: 5}
+  Tx pow counts:    {0: 2000}
+Node 4:
+  CST counts:       {-68: 2000}
+  Tx pow counts:    {0: 2000}
+Node 5:
+  CST counts:       {-68: 810, -82: 1190}
+  Tx pow counts:    {0: 2000}
+Node 6:
+  CST counts:       {-68: 206, -82: 1794}
+  Tx pow counts:    {0: 2000}
+Node 7:
+  CST counts:       {-68: 885, -82: 1115}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:1475): Gdk-CRITICAL **: 06:21:07.734: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50001
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.940323209876586685    0.013888888888888888         51.83              5183
+   0    -68         0    0.937360896637664420    0.014406769314303260         48.17              4817
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.011547669172932377    0.019389168358237032         26.59              2659
+   1    -68         0    0.023909081994007212    0.011670589941057977         73.41              7341
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.940351977908206349    0.013137440271995211         57.93              5793
+   2    -68         0    0.936891863117943591    0.015415660399455185         42.07              4207
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.223054917293233318    0.019389168358237032         26.59              2659
+   3    -68         0    0.242149605012251107    0.011670589941057977         73.41              7341
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.163657187653110936    0.022134947570948589         20.40              2040
+   4    -68         0    0.193892666750409198    0.011207692012910116         79.60              7960
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.158582278481012334    0.042524325556256230          5.52               552
+   5    -68         0    0.262305107418776939    0.010287434320567466         94.48              9448
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.110819645569620095    0.035578403348241000          7.89               789
+   6    -68         0    0.188130542770299031    0.010418927964135325         92.11              9211
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.815660815347715951    0.048970210687439175          4.16               416
+   7    -68         0    0.936854969222758904    0.010214190217264926         95.84              9584
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [61.0405  1.3407 61.0405 15.4127 12.2044 16.6804 11.8339 60.5793]
+Aggregate throughput: 240.1324
+Min-Max: 59.6998
+JFI: 0.5527 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 4817, -82: 5183}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 7341, -82: 2659}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 4207, -82: 5793}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 7341, -82: 2659}
+  Tx pow counts:    {0: 10000}
+Node 4:
+  CST counts:       {-68: 7960, -82: 2040}
+  Tx pow counts:    {0: 10000}
+Node 5:
+  CST counts:       {-68: 9448, -82: 552}
+  Tx pow counts:    {0: 10000}
+Node 6:
+  CST counts:       {-68: 9211, -82: 789}
+  Tx pow counts:    {0: 10000}
+Node 7:
+  CST counts:       {-68: 9584, -82: 416}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.938921391474838440    0.030110103182983888         11.02            1102.0
+   0    -68         0    0.938653061224556384    0.033351867298253506          8.98             898.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.014480386473429998    0.041134503489486357          5.90             590.0
+   1    -68         0    0.028841213755900260    0.026621743403250103         14.10            1410.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.941424679749901405    0.029386354969211666         11.57            1157.0
+   2    -68         0    0.935313687964391849    0.034421419541075714          8.43             843.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.225160767123286948    0.046077567758409141          4.70             470.0
+   3    -68         0    0.241382188575357592    0.025557148983035731         15.30            1530.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.163875203520351787    0.066815310478106099          2.23             223.0
+   4    -68         0    0.196431668822769606    0.023715600272562448         17.77            1777.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.157109372693726657    0.288675134594812866          0.11              11.0
+   5    -68         0    0.255834423592500304    0.022416791983111018         19.89            1989.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.113096898395721790    0.152498570332604666          0.42              42.0
+   6    -68         0    0.185684433416045347    0.022593461946228410         19.58            1958.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.819896140350871439    0.229415733870561772          0.18              18.0
+   7    -68         0    0.936375557016956850    0.022456322822201027         19.82            1982.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [61.0559  0.1689 61.0390 15.4431 11.8607 18.6075 12.6443 60.8882]
+Aggregate throughput: 241.7077
+Min-Max: 60.8870
+JFI: 0.5537 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 898, -82: 1102}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 1410, -82: 590}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 843, -82: 1157}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 1530, -82: 470}
+  Tx pow counts:    {0: 2000}
+Node 4:
+  CST counts:       {-68: 1777, -82: 223}
+  Tx pow counts:    {0: 2000}
+Node 5:
+  CST counts:       {-68: 1989, -82: 11}
+  Tx pow counts:    {0: 2000}
+Node 6:
+  CST counts:       {-68: 1958, -82: 42}
+  Tx pow counts:    {0: 2000}
+Node 7:
+  CST counts:       {-68: 1982, -82: 18}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:1552): Gdk-CRITICAL **: 06:24:59.356: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50001
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.334276517647056515    0.034299717028501764          8.49               849
+   0    -68         0    0.412187342657346578    0.010453025125088635         91.51              9151
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.937273946510174261    0.014745798506793627         45.98              4598
+   1    -68         0    0.940246233573976964    0.013604497846335037         54.02              5402
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.420141554344725665    0.016934564257464441         34.86              3486
+   2    -68         0    0.433133138910215265    0.012389186481487078         65.14              6514
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.102447804878049012    0.039043440472151518          6.55               655
+   3    -68         0    0.182283586561090533    0.010343966649781256         93.45              9345
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.013537463708572993    0.016549850824454444         36.50              3650
+   4    -68         0    0.021616803652967975    0.012548128100076701         63.50              6350
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.449235157292667497    0.012604819491769116         62.93              6293
+   5    -68         0    0.439318403452017947    0.016422154636071551         37.07              3707
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.413102172701948323    0.037319668543103798          7.17               717
+   6    -68         0    0.476252718655750973    0.010378448488105044         92.83              9283
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.002159944250871083    0.015240998561973751         43.04              4304
+   7    -68         0    0.004984518167456570    0.013248810558619404         56.96              5696
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [26.3671 61.0394 27.8648 11.5104  1.2136 28.9671 30.6679  0.2450]
+Aggregate throughput: 187.8753
+Min-Max: 60.7944
+JFI: 0.5611 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 9151, -82: 849}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 5402, -82: 4598}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 6514, -82: 3486}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 9345, -82: 655}
+  Tx pow counts:    {0: 10000}
+Node 4:
+  CST counts:       {-68: 6350, -82: 3650}
+  Tx pow counts:    {0: 10000}
+Node 5:
+  CST counts:       {-68: 3707, -82: 6293}
+  Tx pow counts:    {0: 10000}
+Node 6:
+  CST counts:       {-68: 9283, -82: 717}
+  Tx pow counts:    {0: 10000}
+Node 7:
+  CST counts:       {-68: 5696, -82: 4304}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.332283137254899719    0.169030850945703304          0.34              34.0
+   0    -68         0    0.404962360144732025    0.022547470118491800         19.66            1966.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.937034024096446427    0.034001020045902296          8.64             864.0
+   1    -68         0    0.940531370986716464    0.029656491293029667         11.36            1136.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.418566336633670155    0.042295493443781355          5.58             558.0
+   2    -68         0    0.429737354622535983    0.026324906324632819         14.42            1442.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.100793663366336911    0.140028008402800969          0.50              50.0
+   3    -68         0    0.181251097890747837    0.022639736366332933         19.50            1950.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.014483383356070936    0.037267799624996496          7.19             719.0
+   4    -68         0    0.022315928994082801    0.027929038673897282         12.81            1281.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.454281003702205588    0.026416599065942358         14.32            1432.0
+   5    -68         0    0.440043414012752487    0.041922180815031851          5.68             568.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.415793410981695921    0.092057461789832332          1.17             117.0
+   6    -68         0    0.480596416700442675    0.023038783879204570         18.83            1883.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.002676397881106539    0.033186165579998601          9.07             907.0
+   7    -68         0    0.006123509991311928    0.030233702757845024         10.93            1093.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [28.4463 61.0221 28.6279 11.9995  1.0110 28.1459 29.6189  0.0133]
+Aggregate throughput: 188.8848
+Min-Max: 61.0089
+JFI: 0.5621 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 1966, -82: 34}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 1136, -82: 864}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 1442, -82: 558}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 1950, -82: 50}
+  Tx pow counts:    {0: 2000}
+Node 4:
+  CST counts:       {-68: 1281, -82: 719}
+  Tx pow counts:    {0: 2000}
+Node 5:
+  CST counts:       {-68: 568, -82: 1432}
+  Tx pow counts:    {0: 2000}
+Node 6:
+  CST counts:       {-68: 1883, -82: 117}
+  Tx pow counts:    {0: 2000}
+Node 7:
+  CST counts:       {-68: 1093, -82: 907}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:1616): Gdk-CRITICAL **: 06:28:29.142: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50001
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.666800745672436634    0.036490518258441337          7.50               750
+   0    -68         0    0.756074733542325905    0.010396942916474607         92.50              9250
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.934386708727718562    0.016213610878138038         38.03              3803
+   1    -68         0    0.941816689254612815    0.012702061584875491         61.97              6197
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.828425247148282362    0.043602072019694731          5.25               525
+   2    -68         0    0.933815179400601547    0.010272767854485401         94.75              9475
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.313238711382803736    0.012853300556887446         60.52              6052
+   3    -68         0    0.299328761711827873    0.015913160135087340         39.48              3948
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.937958594491969722    0.013781637176578716         52.64              5264
+   4    -68         0    0.939170479206307252    0.014529420990137017         47.36              4736
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.295808097474309528    0.011265862588160374         78.78              7878
+   5    -68         0    0.260749203956663345    0.021703261485649127         21.22              2122
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.036852531328321392    0.025031308716087945         15.95              1595
+   6    -68         0    0.072416236021888652    0.010906999850061475         84.05              8405
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.363615681063122975    0.057639041770423498          3.00               300
+   7    -68         0    0.520864273786206700    0.010152938317487875         97.00              9700
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [48.7189 61.0466 60.3498 20.0075 61.0168 18.7476  4.3391 33.5553]
+Aggregate throughput: 307.7816
+Min-Max: 56.7076
+JFI: 0.6471 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 9250, -82: 750}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 6197, -82: 3803}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 9475, -82: 525}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 3948, -82: 6052}
+  Tx pow counts:    {0: 10000}
+Node 4:
+  CST counts:       {-68: 4736, -82: 5264}
+  Tx pow counts:    {0: 10000}
+Node 5:
+  CST counts:       {-68: 2122, -82: 7878}
+  Tx pow counts:    {0: 10000}
+Node 6:
+  CST counts:       {-68: 8405, -82: 1595}
+  Tx pow counts:    {0: 10000}
+Node 7:
+  CST counts:       {-68: 9700, -82: 300}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.666491117166212788    0.235702260395515839          0.17              17.0
+   0    -68         0    0.752121783159049095    0.022450662753346864         19.83            1983.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.932787208121872435    0.039133024009741620          6.52             652.0
+   1    -68         0    0.942886268041291165    0.027226638505866506         13.48            1348.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.828926719999993455    0.192450089729875262          0.26              26.0
+   2    -68         0    0.933643209810710473    0.022501758018520480         19.74            1974.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.301490893544258509    0.026958193300859603         13.75            1375.0
+   3    -68         0    0.292950950661850062    0.039968038348871575          6.25             625.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.938125622792633007    0.031326574483831929         10.18            1018.0
+   4    -68         0    0.938849320905522755    0.031895046605474840          9.82             982.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.288165387381512372    0.023823032760289849         17.61            1761.0
+   5    -68         0    0.255268959660295280    0.064549722436790274          2.39             239.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.037066628324946616    0.069673301429161769          2.05             205.0
+   6    -68         0    0.072597646346995795    0.023596458909150436         17.95            1795.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.366688888888889009    0.267261241912424397          0.13              13.0
+   7    -68         0    0.515984360902258410    0.022428065200812832         19.87            1987.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [50.0366 61.0559 60.6427 22.5530 61.0221 20.8104  4.4215 34.9844]
+Aggregate throughput: 315.5267
+Min-Max: 56.6344
+JFI: 0.6576 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 1983, -82: 17}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 1348, -82: 652}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 1974, -82: 26}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 625, -82: 1375}
+  Tx pow counts:    {0: 2000}
+Node 4:
+  CST counts:       {-68: 982, -82: 1018}
+  Tx pow counts:    {0: 2000}
+Node 5:
+  CST counts:       {-68: 239, -82: 1761}
+  Tx pow counts:    {0: 2000}
+Node 6:
+  CST counts:       {-68: 1795, -82: 205}
+  Tx pow counts:    {0: 2000}
+Node 7:
+  CST counts:       {-68: 1987, -82: 13}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:1685): Gdk-CRITICAL **: 06:32:10.357: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50001
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.018169263157894758    0.018427115179918692         29.44              2944
+   0    -68         0    0.034300626328468121    0.011903918403013953         70.56              7056
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.937176958984890729    0.015053345733281100         44.12              4412
+   1    -68         0    0.940134235104698845    0.013376205898418800         55.88              5588
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.082659396648044184    0.014948701855038717         44.74              4474
+   2    -68         0    0.084874977383751687    0.013451021526177935         55.26              5526
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.939550554134758964    0.014598929061844594         46.91              4691
+   3    -68         0    0.938412474576310829    0.013723116159876972         53.09              5309
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.274303035921205252    0.017020197939244940         34.51              3451
+   4    -68         0    0.284463877862598524    0.012356041264304309         65.49              6549
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.080176894409937235    0.017622684421256033         32.19              3219
+   5    -68         0    0.089576219404304450    0.012142863338197162         67.81              6781
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.053688720705224562    0.014663134905721362         46.50              4650
+   6    -68         0    0.055714685105587407    0.013670440988881778         53.50              5350
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.656317246738836291    0.016659726559488115         36.02              3602
+   7    -68         0    0.667359474917948003    0.012500976676955822         63.98              6398
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [ 1.9212 61.0361  5.4535 61.0437 18.2659  5.6269  3.5609 43.1284]
+Aggregate throughput: 200.0367
+Min-Max: 59.1225
+JFI: 0.5072 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 7056, -82: 2944}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 5588, -82: 4412}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 5526, -82: 4474}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 5309, -82: 4691}
+  Tx pow counts:    {0: 10000}
+Node 4:
+  CST counts:       {-68: 6549, -82: 3451}
+  Tx pow counts:    {0: 10000}
+Node 5:
+  CST counts:       {-68: 6781, -82: 3219}
+  Tx pow counts:    {0: 10000}
+Node 6:
+  CST counts:       {-68: 5350, -82: 4650}
+  Tx pow counts:    {0: 10000}
+Node 7:
+  CST counts:       {-68: 6398, -82: 3602}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.017298862054850664    0.044587796206770981          5.02             502.0
+   0    -68         0    0.034098449361395972    0.025828499910081307         14.98            1498.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.937664315088384770    0.032258064516129031          9.60             960.0
+   1    -68         0    0.939497489558210663    0.030993786368687180         10.40            1040.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.087027503486749855    0.033501260508640406          8.90             890.0
+   2    -68         0    0.088955218474076655    0.030001500112509374         11.10            1110.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.938633175252172935    0.031250000000000000         10.23            1023.0
+   3    -68         0    0.939038338333793132    0.031976473969553970          9.77             977.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.284233521227255481    0.039223227027636809          6.49             649.0
+   4    -68         0    0.294918007309099894    0.027196414661021059         13.51            1351.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.083993211366289941    0.039163022499397869          6.51             651.0
+   5    -68         0    0.094959013436405892    0.027216552697590869         13.49            1349.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.054698249140438970    0.033883707378584857          8.70             870.0
+   6    -68         0    0.058080796019900335    0.029735051672502628         11.30            1130.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.656740779220787108    0.043685202833051898          5.23             523.0
+   7    -68         0    0.672549240146275817    0.026011343419135434         14.77            1477.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [ 2.0720 61.0559  4.3581 61.0559 15.6048  4.3545  3.1155 42.3181]
+Aggregate throughput: 193.9348
+Min-Max: 58.9839
+JFI: 0.4964 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 1498, -82: 502}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 1040, -82: 960}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 1110, -82: 890}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 977, -82: 1023}
+  Tx pow counts:    {0: 2000}
+Node 4:
+  CST counts:       {-68: 1351, -82: 649}
+  Tx pow counts:    {0: 2000}
+Node 5:
+  CST counts:       {-68: 1349, -82: 651}
+  Tx pow counts:    {0: 2000}
+Node 6:
+  CST counts:       {-68: 1130, -82: 870}
+  Tx pow counts:    {0: 2000}
+Node 7:
+  CST counts:       {-68: 1477, -82: 523}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:1769): Gdk-CRITICAL **: 06:36:04.372: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50001
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.436776421052650188    0.013471755760359807         55.09              5509
+   0    -68         0    0.441052039180794442    0.014920388317111344         44.91              4491
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.334119629893236236    0.026678526425610409         14.04              1404
+   1    -68         0    0.392316128882164605    0.010785158616741572         85.96              8596
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.005023079777365495    0.015228622596829318         43.11              4311
+   2    -68         0    0.007932850615114286    0.013256957585691466         56.89              5689
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.316414457831322549    0.031686212526223896          9.95               995
+   3    -68         0    0.393463344437035567    0.010537413647895446         90.05              9005
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.051890748155953355    0.016230686829029888         37.95              3795
+   4    -68         0    0.057815327102802676    0.012693871989191835         62.05              6205
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.938475562644013772    0.013312051063847863         56.42              5642
+   5    -68         0    0.938946951135657404    0.015146300381045252         43.58              4358
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.309702913256954426    0.028606478384531155         12.21              1221
+   6    -68         0    0.361926341685629482    0.010672170182343944         87.79              8779
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.430524966139978094    0.015837144604852662         39.86              3986
+   7    -68         0    0.438704093100594272    0.012893837251531997         60.14              6014
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [28.5210 24.9742  0.4342 25.0814  3.6126 61.0265 23.1151 28.3095]
+Aggregate throughput: 195.0744
+Min-Max: 60.5923
+JFI: 0.5856 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 4491, -82: 5509}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 8596, -82: 1404}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 5689, -82: 4311}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 9005, -82: 995}
+  Tx pow counts:    {0: 10000}
+Node 4:
+  CST counts:       {-68: 6205, -82: 3795}
+  Tx pow counts:    {0: 10000}
+Node 5:
+  CST counts:       {-68: 4358, -82: 5642}
+  Tx pow counts:    {0: 10000}
+Node 6:
+  CST counts:       {-68: 8779, -82: 1221}
+  Tx pow counts:    {0: 10000}
+Node 7:
+  CST counts:       {-68: 6014, -82: 3986}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.438989901075299893    0.034079908829549851          8.60             860.0
+   0    -68         0    0.442217470167080851    0.029604462320866849         11.40            1140.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.337312121673001675    0.104828483672191830          0.90              90.0
+   1    -68         0    0.385496778824584718    0.022875450543583878         19.10            1910.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.006025196480938418    0.033277916281986092          9.02             902.0
+   2    -68         0    0.009417421602787497    0.030164848870338084         10.98            1098.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.317167223942205756    0.188982236504613599          0.27              27.0
+   3    -68         0    0.387743813450875496    0.022507456830317185         19.73            1973.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.058897473684210208    0.036345618209240697          7.56             756.0
+   4    -68         0    0.067024715840386079    0.028341010063256789         12.44            1244.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.939403238624286985    0.032224549634855451          9.62             962.0
+   5    -68         0    0.937483986751030396    0.031023602427884885         10.38            1038.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.313754737777776460    0.101015254455221068          0.97              97.0
+   6    -68         0    0.366452720663071940    0.022917462425705283         19.03            1903.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.428638899850538657    0.039436150336254951          6.42             642.0
+   7    -68         0    0.439306471977698010    0.027126281959038649         13.58            1358.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [28.0874 26.6759  0.0977 26.7911  1.4350 61.0336 22.2008 28.4590]
+Aggregate throughput: 194.7805
+Min-Max: 60.9359
+JFI: 0.5791 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 1140, -82: 860}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 1910, -82: 90}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 1098, -82: 902}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 1973, -82: 27}
+  Tx pow counts:    {0: 2000}
+Node 4:
+  CST counts:       {-68: 1244, -82: 756}
+  Tx pow counts:    {0: 2000}
+Node 5:
+  CST counts:       {-68: 1038, -82: 962}
+  Tx pow counts:    {0: 2000}
+Node 6:
+  CST counts:       {-68: 1903, -82: 97}
+  Tx pow counts:    {0: 2000}
+Node 7:
+  CST counts:       {-68: 1358, -82: 642}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:1999): Gdk-CRITICAL **: 06:39:44.098: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50001
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.267256047134438679    0.023143436208321693         18.66              1866
+   0    -68         0    0.308059496004911393    0.011087183140629260         81.34              8134
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.787393939393934872    0.058025885318565944          2.96               296
+   1    -68         0    0.936978794435876838    0.010150845791019344         97.04              9704
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.431275349256449447    0.015010886840871084         44.37              4437
+   2    -68         0    0.434405406182620413    0.013406223004292967         55.63              5563
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.105740373917007358    0.012328778690921818         65.78              6578
+   3    -68         0    0.097441355536078508    0.017092144290166606         34.22              3422
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.692680875912407346    0.060412209333017691          2.73               273
+   4    -68         0    0.852157368421065708    0.010138838820672659         97.27              9727
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.939332356020975090    0.013436443102610305         55.38              5538
+   5    -68         0    0.938334214653891441    0.014968785207384346         44.62              4462
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.446407775902813497    0.012990299867646122         59.25              5925
+   6    -68         0    0.443627713444578964    0.015663287241915964         40.75              4075
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.009403256212510721    0.014636410327796678         46.67              4667
+   7    -68         0    0.011611308586426753    0.013692208201357491         53.33              5333
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [19.5327 60.6270 28.1517  6.6898 55.1173 61.0399 28.9487  0.6879]
+Aggregate throughput: 260.7950
+Min-Max: 60.3520
+JFI: 0.5933 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 8134, -82: 1866}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 9704, -82: 296}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 5563, -82: 4437}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 3422, -82: 6578}
+  Tx pow counts:    {0: 10000}
+Node 4:
+  CST counts:       {-68: 9727, -82: 273}
+  Tx pow counts:    {0: 10000}
+Node 5:
+  CST counts:       {-68: 4462, -82: 5538}
+  Tx pow counts:    {0: 10000}
+Node 6:
+  CST counts:       {-68: 4075, -82: 5925}
+  Tx pow counts:    {0: 10000}
+Node 7:
+  CST counts:       {-68: 5333, -82: 4667}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.274237210923879593    0.082478609884232251          1.46             146.0
+   0    -68         0    0.305756866740970024    0.023218173010628604         18.54            1854.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.795352544802863215    0.229415733870561772          0.18              18.0
+   1    -68         0    0.936488141913751404    0.022456322822201027         19.82            1982.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.430310693512322873    0.034040395878489879          8.62             862.0
+   2    -68         0    0.434671342069617217    0.029630442547297988         11.38            1138.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.121167272727271222    0.027735009811261455         12.99            1299.0
+   3    -68         0    0.113153269654664726    0.037742567804819861          7.01             701.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.693933886792451493    0.316227766016837941          0.09               9.0
+   4    -68         0    0.852526984619361050    0.022405535747411040         19.91            1991.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.940162440009041478    0.030414953233623677         10.80            1080.0
+   5    -68         0    0.937329765735311127    0.032951120315946839          9.20             920.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.447382679229849090    0.030934411244487300         10.44            1044.0
+   6    -68         0    0.446153846153860389    0.032325409191761800          9.56             956.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.011687770324657919    0.032581760622553732          9.41             941.0
+   7    -68         0    0.013779985964912363    0.030714755841697559         10.59            1059.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [19.9098 60.8671 28.2225  2.6468 55.2398 61.0221 28.5193  0.1092]
+Aggregate throughput: 256.5367
+Min-Max: 60.9129
+JFI: 0.5813 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 1854, -82: 146}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 1982, -82: 18}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 1138, -82: 862}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 701, -82: 1299}
+  Tx pow counts:    {0: 2000}
+Node 4:
+  CST counts:       {-68: 1991, -82: 9}
+  Tx pow counts:    {0: 2000}
+Node 5:
+  CST counts:       {-68: 920, -82: 1080}
+  Tx pow counts:    {0: 2000}
+Node 6:
+  CST counts:       {-68: 956, -82: 1044}
+  Tx pow counts:    {0: 2000}
+Node 7:
+  CST counts:       {-68: 1059, -82: 941}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:2063): Gdk-CRITICAL **: 06:43:18.932: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50001
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.128477671957671347    0.018184824186332698         30.23              3023
+   0    -68         0    0.141471458870735894    0.011971112645719175         69.77              6977
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.170727545076282794    0.013167016328743083         57.67              5767
+   1    -68         0    0.166496438356163290    0.015368255536133623         42.33              4233
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.940562489930463097    0.013530821103553187         54.61              5461
+   2    -68         0    0.936646343612403065    0.014841304429888121         45.39              4539
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.936761190261570453    0.015014270338455106         44.35              4435
+   3    -68         0    0.940531167804558810    0.013403814195899739         55.65              5565
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.451793753771012219    0.011985721524847667         69.60              6960
+   4    -68         0    0.441204340677421591    0.018133923944705341         30.40              3040
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.427085800992137055    0.017082166388387977         34.26              3426
+   5    -68         0    0.434783878327003714    0.012332528319564148         65.74              6574
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.938185963060753303    0.014828245646514833         45.47              4547
+   6    -68         0    0.939488551521853621    0.013540741061706458         54.53              5453
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.050822441390460403    0.014216253350904587         49.47              4947
+   7    -68         0    0.052617269489512716    0.014066381153285495         50.53              5053
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [ 8.9421 10.9831 61.0332 61.0380 29.1632 28.0951 61.0405  3.3631]
+Aggregate throughput: 263.6582
+Min-Max: 57.6774
+JFI: 0.5859 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 6977, -82: 3023}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 4233, -82: 5767}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 4539, -82: 5461}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 5565, -82: 4435}
+  Tx pow counts:    {0: 10000}
+Node 4:
+  CST counts:       {-68: 3040, -82: 6960}
+  Tx pow counts:    {0: 10000}
+Node 5:
+  CST counts:       {-68: 6574, -82: 3426}
+  Tx pow counts:    {0: 10000}
+Node 6:
+  CST counts:       {-68: 5453, -82: 4547}
+  Tx pow counts:    {0: 10000}
+Node 7:
+  CST counts:       {-68: 5053, -82: 4947}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.130156999201914314    0.043895128130614712          5.18             518.0
+   0    -68         0    0.146423406113536353    0.025967457200228868         14.82            1482.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.173853468419917140    0.029748205865436479         11.29            1129.0
+   1    -68         0    0.171510294380016498    0.033864273073929821          8.71             871.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.940178533670497307    0.029988007195203358         11.11            1111.0
+   2    -68         0    0.937114784990473404    0.033520076157699544          8.89             889.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.936650229949582025    0.033883707378584857          8.70             870.0
+   3    -68         0    0.940543480613237448    0.029735051672502628         11.30            1130.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.453939779123633702    0.027236735535142165         13.47            1347.0
+   4    -68         0    0.442167906197652283    0.039103094350288754          6.53             653.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.426451151515153060    0.035623524993954818          7.87             787.0
+   5    -68         0    0.431182513987338978    0.028700578896514572         12.13            1213.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.937715560463892484    0.032844309272143102          9.26             926.0
+   6    -68         0    0.939797041095965069    0.030499714066520935         10.74            1074.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.051990941903584449    0.033259505261886965          9.03             903.0
+   7    -68         0    0.054798200657063013    0.030178582014172842         10.97            1097.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [ 7.9556  9.9582 61.0221 61.0390 28.6755 28.7461 61.0390  2.9334]
+Aggregate throughput: 261.3690
+Min-Max: 58.1057
+JFI: 0.5806 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 1482, -82: 518}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 871, -82: 1129}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 889, -82: 1111}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 1130, -82: 870}
+  Tx pow counts:    {0: 2000}
+Node 4:
+  CST counts:       {-68: 653, -82: 1347}
+  Tx pow counts:    {0: 2000}
+Node 5:
+  CST counts:       {-68: 1213, -82: 787}
+  Tx pow counts:    {0: 2000}
+Node 6:
+  CST counts:       {-68: 1074, -82: 926}
+  Tx pow counts:    {0: 2000}
+Node 7:
+  CST counts:       {-68: 1097, -82: 903}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:2100): Gdk-CRITICAL **: 06:46:39.106: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50001
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.941368589988577198    0.013822389948556304         52.33              5233
+   0    -68         0    0.936244563758446446    0.014482111159087306         47.67              4767
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.422263084577114034    0.070534561585859828          2.00               200
+   1    -68         0    0.593278041016220059    0.010101010101010100         98.00              9800
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.317320277136257267    0.048056933133221270          4.32               432
+   2    -68         0    0.436896076915033016    0.010222726050963733         95.68              9568
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.942284015073678871    0.013087839325038072         58.37              5837
+   3    -68         0    0.934106436119185757    0.015496893184343590         41.63              4163
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.001052285714285712    0.014940357616679920         44.79              4479
+   4    -68         0    0.002682158638174576    0.013457109890010357         55.21              5521
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.450010746268656669    0.061084722178152612          2.67               267
+   5    -68         0    0.617126673515511315    0.010135713568457438         97.33              9733
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.942039863525602761    0.012746353869315713         61.54              6154
+   6    -68         0    0.933837691707888329    0.016122742092498785         38.46              3846
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.930149052631628281    0.017342199390482399         33.24              3324
+   7    -68         0    0.943004774599373596    0.012237967961115244         66.76              6676
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [61.0424 38.3474 28.0674 61.0394  0.1269 39.8301 61.0397 61.0297]
+Aggregate throughput: 350.5230
+Min-Max: 60.9155
+JFI: 0.6804 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 4767, -82: 5233}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 9800, -82: 200}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 9568, -82: 432}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 4163, -82: 5837}
+  Tx pow counts:    {0: 10000}
+Node 4:
+  CST counts:       {-68: 5521, -82: 4479}
+  Tx pow counts:    {0: 10000}
+Node 5:
+  CST counts:       {-68: 9733, -82: 267}
+  Tx pow counts:    {0: 10000}
+Node 6:
+  CST counts:       {-68: 3846, -82: 6154}
+  Tx pow counts:    {0: 10000}
+Node 7:
+  CST counts:       {-68: 6676, -82: 3324}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.940449505048088330    0.029185420270888950         11.73            1173.0
+   0    -68         0    0.937287064196971276    0.034752402342845795          8.27             827.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.423399999999999610    0.316227766016837941          0.09               9.0
+   1    -68         0    0.594842058898847559    0.022405535747411040         19.91            1991.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.316772240963854146    0.229415733870561772          0.18              18.0
+   2    -68         0    0.436036462369840672    0.022456322822201027         19.82            1982.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.941439439457041671    0.028038607704602213         12.71            1271.0
+   3    -68         0    0.935369967976764083    0.037011660509880265          7.29             729.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.001267816349384096    0.033167906340332967          9.08             908.0
+   4    -68         0    0.003221814898419863    0.030247530200945179         10.92            1092.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.452705736434108441    0.301511344577763629          0.10              10.0
+   5    -68         0    0.617345289256203578    0.022411161745176399         19.90            1990.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.941824052936364731    0.027524094128159014         13.19            1319.0
+   6    -68         0    0.934284371446666762    0.038291979053374177          6.81             681.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.931585454545483804    0.040893041005476534          5.97             597.0
+   7    -68         0    0.942301827834700179    0.026688025634181191         14.03            1403.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [61.0390 38.1090 28.5476 61.0390  0.0235 39.9813 61.0390 61.0390]
+Aggregate throughput: 350.8175
+Min-Max: 61.0155
+JFI: 0.6807 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 827, -82: 1173}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 1991, -82: 9}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 1982, -82: 18}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 729, -82: 1271}
+  Tx pow counts:    {0: 2000}
+Node 4:
+  CST counts:       {-68: 1092, -82: 908}
+  Tx pow counts:    {0: 2000}
+Node 5:
+  CST counts:       {-68: 1990, -82: 10}
+  Tx pow counts:    {0: 2000}
+Node 6:
+  CST counts:       {-68: 681, -82: 1319}
+  Tx pow counts:    {0: 2000}
+Node 7:
+  CST counts:       {-68: 1403, -82: 597}
+  Tx pow counts:    {0: 2000}
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:2193): Gdk-CRITICAL **: 06:50:12.748: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 100 s
+Waiting for simulation script to connect on port: tcp://localhost:50001
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 9999
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.580888510638298050    0.084215192106651890          1.40               140
+   0    -68         0    0.824356864415381030    0.010070233033427314         98.60              9860
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.159012063492063621    0.062994078834871209          2.51               251
+   1    -68         0    0.305973497435888864    0.010127393670836666         97.49              9749
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.278636530950029493    0.012864995526520208         60.41              6041
+   2    -68         0    0.281577696969696922    0.015891043154093204         39.59              3959
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.939148098159550027    0.013846219390542782         52.15              5215
+   3    -68         0    0.938230104471433735    0.014454852115694089         47.85              4785
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.939252720768256610    0.013721824146866540         53.10              5310
+   4    -68         0    0.938567844809270579    0.014600485036169486         46.90              4690
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.049443584147041288    0.011983139600818532         69.63              6963
+   5    -68         0    0.041738617511520686    0.018142875285741499         30.37              3037
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.936881834279302161    0.015067008859064805         44.04              4404
+   6    -68         0    0.940554611398992990    0.013366642926044730         55.96              5596
+                                                                             100.00             10000    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.348149464708669309    0.010882430135158827         84.43              8443
+   7    -68         0    0.310195019255452620    0.025334729596906996         15.57              1557
+                                                                             100.00             10000    Tot
+
+Mean throughputs: [53.3708 19.6515 18.1907 61.0283 61.0428  3.0623 61.0431 22.2499]
+Aggregate throughput: 299.6394
+Min-Max: 57.9808
+JFI: 0.6255 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 9860, -82: 140}
+  Tx pow counts:    {0: 10000}
+Node 1:
+  CST counts:       {-68: 9749, -82: 251}
+  Tx pow counts:    {0: 10000}
+Node 2:
+  CST counts:       {-68: 3959, -82: 6041}
+  Tx pow counts:    {0: 10000}
+Node 3:
+  CST counts:       {-68: 4785, -82: 5215}
+  Tx pow counts:    {0: 10000}
+Node 4:
+  CST counts:       {-68: 4690, -82: 5310}
+  Tx pow counts:    {0: 10000}
+Node 5:
+  CST counts:       {-68: 3037, -82: 6963}
+  Tx pow counts:    {0: 10000}
+Node 6:
+  CST counts:       {-68: 5596, -82: 4404}
+  Tx pow counts:    {0: 10000}
+Node 7:
+  CST counts:       {-68: 1557, -82: 8443}
+  Tx pow counts:    {0: 10000}
+
+
+Last 20 seconds of simulation:
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   0    -82         0    0.582570359712230368    0.577350269189625731          0.02               2.0
+   0    -68         0    0.825154042986133707    0.022366272042129220         19.98            1998.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   1    -82         0    0.156785388127853975    0.171498585142508847          0.33              33.0
+   1    -68         0    0.307862777849157720    0.022541740866685808         19.67            1967.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   2    -82         0    0.281616675878413825    0.031992834407549200          9.76             976.0
+   2    -68         0    0.275068555858308195    0.031234752377721213         10.24            1024.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   3    -82         0    0.937635163183918929    0.032308533487561922          9.57             957.0
+   3    -68         0    0.939771691156890521    0.030949223029508643         10.43            1043.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   4    -82         0    0.939558114888703111    0.030904851360770650         10.46            1046.0
+   4    -68         0    0.938146663098805011    0.032359240084528680          9.54             954.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   5    -82         0    0.052628100105744882    0.027831516999568835         12.90            1290.0
+   5    -68         0    0.043019656357388303    0.037502930030867465          7.10             710.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   6    -82         0    0.937852708571485283    0.033222774709254770          9.05             905.0
+   6    -68         0    0.939609275877456906    0.030206104666508846         10.95            1095.0
+                                                                              20.00            2000.0    Tot
+
+Node    CST    Tx pow                    Mean                     Std    Played (s)    Played (count)
+   7    -82         0    0.360142918754757513    0.023186944788008413         18.59            1859.0
+   7    -68         0    0.317930049400138082    0.083918135829668908          1.41             141.0
+                                                                              20.00            2000.0    Tot
+
+Mean throughputs: [53.3561 19.2686 18.3397 61.0354 61.0390  2.3519 61.0559 19.5328]
+Aggregate throughput: 295.9794
+Min-Max: 58.7040
+JFI: 0.6184 [0.1250, 1]
+Node 0:
+  CST counts:       {-68: 1998, -82: 2}
+  Tx pow counts:    {0: 2000}
+Node 1:
+  CST counts:       {-68: 1967, -82: 33}
+  Tx pow counts:    {0: 2000}
+Node 2:
+  CST counts:       {-68: 1024, -82: 976}
+  Tx pow counts:    {0: 2000}
+Node 3:
+  CST counts:       {-68: 1043, -82: 957}
+  Tx pow counts:    {0: 2000}
+Node 4:
+  CST counts:       {-68: 954, -82: 1046}
+  Tx pow counts:    {0: 2000}
+Node 5:
+  CST counts:       {-68: 710, -82: 1290}
+  Tx pow counts:    {0: 2000}
+Node 6:
+  CST counts:       {-68: 1095, -82: 905}
+  Tx pow counts:    {0: 2000}
+Node 7:
+  CST counts:       {-68: 141, -82: 1859}
+  Tx pow counts:    {0: 2000}

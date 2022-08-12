@@ -1,0 +1,9 @@
+version: '3'
+services:
+  ns3:
+    build: .
+    # image: ns3
+    container_name: ns3
+    volumes:
+      - ./:/ns3
+    working_dir: /ns3

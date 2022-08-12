@@ -1,0 +1,1732 @@
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 15198
+Node 0, (CST, Tx power, MCS) = (-67.0, 15, 7) - (mean, std): (0.353119109216953442, 0.042144975196108964)    played     9.95 s,        562 time(s)
+Node 0, (CST, Tx power, MCS) = (-67.0, 23, 7) - (mean, std): (0.385462891724561496, 0.028915746598312010)    played    20.41 s,       1195 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.393995918690331959, 0.026958193300859603)    played    18.23 s,       1375 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.378103022795952481, 0.034879005320757786)    played    11.41 s,        821 time(s)
+                                                                                                           played    60.00 s,       3953 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-67.0, 15, 7) - (mean, std): (0.386981688246871847, 0.037715714320235710)    played    11.78 s,        702 time(s)
+Node 1, (CST, Tx power, MCS) = (-67.0, 23, 7) - (mean, std): (0.363079091543400734, 0.049875466805381644)    played     7.13 s,        401 time(s)
+Node 1, (CST, Tx power, MCS) = (-66.0, 15, 7) - (mean, std): (0.367936208023076139, 0.045786854649563009)    played     6.51 s,        476 time(s)
+Node 1, (CST, Tx power, MCS) = (-66.0, 23, 7) - (mean, std): (0.383745577152666884, 0.040893041005476534)    played     8.58 s,        597 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.402249122800786951, 0.032703497008386428)    played    12.54 s,        934 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.399980577432139328, 0.031911282313630135)    played    13.45 s,        981 time(s)
+                                                                                                           played    59.99 s,       4091 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-67.0, 15, 7) - (mean, std): (0.407457864961601912, 0.043852900965351459)    played    10.41 s,        519 time(s)
+Node 2, (CST, Tx power, MCS) = (-67.0, 23, 7) - (mean, std): (0.421760650151891237, 0.034879005320757786)    played    15.96 s,        821 time(s)
+Node 2, (CST, Tx power, MCS) = (-66.0, 15, 7) - (mean, std): (0.418440988805462710, 0.037555788309433985)    played    11.13 s,        708 time(s)
+Node 2, (CST, Tx power, MCS) = (-66.0, 23, 7) - (mean, std): (0.408784685522735225, 0.037769478730024897)    played    10.74 s,        700 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.407492625471374048, 0.043153185200210310)    played     6.08 s,        536 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.412979770794256962, 0.043979949713354248)    played     5.67 s,        516 time(s)
+                                                                                                           played    59.98 s,       3800 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-66.0, 15, 7) - (mean, std): (0.371146958305229480, 0.045834924851410566)    played     9.51 s,        475 time(s)
+Node 3, (CST, Tx power, MCS) = (-66.0, 23, 7) - (mean, std): (0.418779962446391374, 0.025133880308373671)    played    30.20 s,       1582 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.370955837872787186, 0.045129368240652418)    played     7.81 s,        490 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.407438605725516767, 0.035179877236514591)    played    12.48 s,        807 time(s)
+                                                                                                           played    59.99 s,       3354 time(s)
+
+Mean throughputs: [16.7274 16.8846 18.0800 17.2958]
+Aggregate throughput: 68.9879
+Min-Max: 1.3526
+JFI: 0.9705 [0.2500, 1]
+Mean TX power: [19.0799 18.8700 19.2884 20.6983]
+TX power counts:
+[[ -67  -62]
+ [1757 2196]]
+[[ -67  -66  -62]
+ [1103 1073 1915]]
+[[ -67  -66  -62]
+ [1340 1408 1052]]
+[[ -66  -62]
+ [2057 1297]]
+Mean PCS: [-64.2224 -64.3972 -65.2453 -64.4532]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 10 seconds of simulation:
+Mean throughputs: [17.1067 16.5803 17.5015 17.3180]
+Aggregate throughput: 68.5064
+Min-Max: 0.9212
+JFI: 0.9803 [0.2500, 1]
+Mean TX power: [18.9236 18.7489 19.1216 21.4373]
+TX power counts:
+[[-67 -62]
+ [269 412]]
+[[-67 -66 -62]
+ [154 168 363]]
+[[-67 -66 -62]
+ [214 201 210]]
+[[-66 -62]
+ [339 219]]
+Mean PCS: [-63.9750 -64.1051 -64.9984 -64.4301]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 29170
+Node 0, (CST, Tx power, MCS) = (-78.0, 15, 7) - (mean, std): (0.315041911191028645, 0.154303349962091912)    played     2.31 s,         41 time(s)
+Node 0, (CST, Tx power, MCS) = (-78.0, 23, 7) - (mean, std): (0.340839193110527405, 0.150755672288881815)    played     1.13 s,         43 time(s)
+Node 0, (CST, Tx power, MCS) = (-76.0, 15, 7) - (mean, std): (0.403951686160314349, 0.124034734589208454)    played     1.80 s,         64 time(s)
+Node 0, (CST, Tx power, MCS) = (-76.0, 23, 7) - (mean, std): (0.370533603034279957, 0.142857142857142849)    played     1.19 s,         48 time(s)
+Node 0, (CST, Tx power, MCS) = (-74.0, 15, 7) - (mean, std): (0.487037806873774959, 0.107211253483779481)    played     1.12 s,         86 time(s)
+Node 0, (CST, Tx power, MCS) = (-74.0, 23, 7) - (mean, std): (0.404895609652833000, 0.134839972492648424)    played     0.67 s,         54 time(s)
+Node 0, (CST, Tx power, MCS) = (-70.0, 15, 7) - (mean, std): (0.530906970504735454, 0.111111111111111105)    played     0.74 s,         80 time(s)
+Node 0, (CST, Tx power, MCS) = (-70.0, 23, 7) - (mean, std): (0.530219005397670862, 0.098058067569092022)    played     1.16 s,        103 time(s)
+Node 0, (CST, Tx power, MCS) = (-68.0, 15, 7) - (mean, std): (0.579451684886991059, 0.082478609884232251)    played     1.30 s,        146 time(s)
+Node 0, (CST, Tx power, MCS) = (-68.0, 23, 7) - (mean, std): (0.519517196199365650, 0.128036879932895975)    played     0.54 s,         60 time(s)
+Node 0, (CST, Tx power, MCS) = (-66.0, 15, 7) - (mean, std): (0.924102036887609946, 0.020606514749131090)    played    13.13 s,       2354 time(s)
+Node 0, (CST, Tx power, MCS) = (-66.0, 23, 7) - (mean, std): (0.712425049517182440, 0.047298376984040214)    played     3.07 s,        446 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.899043911967767340, 0.017474081133220760)    played    18.61 s,       3274 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.911197650037528617, 0.020610891199164323)    played    13.23 s,       2353 time(s)
+                                                                                                           played    59.99 s,       9152 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-68.0, 15, 7) - (mean, std): (0.543837067961615794, 0.092847669088525930)    played     1.05 s,        115 time(s)
+Node 1, (CST, Tx power, MCS) = (-68.0, 23, 7) - (mean, std): (0.475779024721370958, 0.096225044864937631)    played     1.08 s,        107 time(s)
+Node 1, (CST, Tx power, MCS) = (-76.0, 15, 7) - (mean, std): (0.321915965045964980, 0.134839972492648424)    played     1.60 s,         54 time(s)
+Node 1, (CST, Tx power, MCS) = (-76.0, 23, 7) - (mean, std): (0.323359330443670379, 0.130188910980823858)    played     1.73 s,         58 time(s)
+Node 1, (CST, Tx power, MCS) = (-66.0, 15, 7) - (mean, std): (0.661509061413725452, 0.072357460529242162)    played     1.42 s,        190 time(s)
+Node 1, (CST, Tx power, MCS) = (-66.0, 23, 7) - (mean, std): (0.586832107255659152, 0.068680281974344518)    played     1.67 s,        211 time(s)
+Node 1, (CST, Tx power, MCS) = (-74.0, 15, 7) - (mean, std): (0.355927614028138661, 0.134839972492648424)    played     1.00 s,         54 time(s)
+Node 1, (CST, Tx power, MCS) = (-74.0, 23, 7) - (mean, std): (0.347385307051359171, 0.138675049056307287)    played     0.81 s,         51 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.914825806338603553, 0.011441467860574340)    played    43.02 s,       7638 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.756907466197752399, 0.030890103160760775)    played     6.61 s,       1047 time(s)
+                                                                                                           played    60.00 s,       9525 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-70.0, 15, 7) - (mean, std): (0.457748196842742983, 0.088045090632562384)    played     1.95 s,        128 time(s)
+Node 2, (CST, Tx power, MCS) = (-70.0, 23, 7) - (mean, std): (0.429497732686928591, 0.097590007294853329)    played     1.50 s,        104 time(s)
+Node 2, (CST, Tx power, MCS) = (-78.0, 15, 7) - (mean, std): (0.241563726179098937, 0.138675049056307287)    played     4.53 s,         51 time(s)
+Node 2, (CST, Tx power, MCS) = (-78.0, 23, 7) - (mean, std): (0.285584124114148574, 0.117851130197757920)    played     5.46 s,         71 time(s)
+Node 2, (CST, Tx power, MCS) = (-66.0, 15, 7) - (mean, std): (0.587364385164802383, 0.054717565516458282)    played     3.22 s,        333 time(s)
+Node 2, (CST, Tx power, MCS) = (-66.0, 23, 7) - (mean, std): (0.635324822242811615, 0.041415768328129113)    played     5.83 s,        582 time(s)
+Node 2, (CST, Tx power, MCS) = (-74.0, 15, 7) - (mean, std): (0.243156237852730855, 0.132453235706504385)    played     4.67 s,         56 time(s)
+Node 2, (CST, Tx power, MCS) = (-74.0, 23, 7) - (mean, std): (0.242609003973333320, 0.137360563948689035)    played     3.42 s,         52 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.660871683983681901, 0.020281847857870919)    played    22.53 s,       2430 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.656163528937511509, 0.036442025853950177)    played     6.88 s,        752 time(s)
+                                                                                                           played    60.00 s,       4559 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-66.0, 15, 7) - (mean, std): (0.407621602830225360, 0.082199493652678646)    played     2.47 s,        147 time(s)
+Node 3, (CST, Tx power, MCS) = (-66.0, 23, 7) - (mean, std): (0.344245803169231313, 0.116247638743819284)    played     1.11 s,         73 time(s)
+Node 3, (CST, Tx power, MCS) = (-74.0, 15, 7) - (mean, std): (0.315772606272909373, 0.106600358177805221)    played     3.55 s,         87 time(s)
+Node 3, (CST, Tx power, MCS) = (-74.0, 23, 7) - (mean, std): (0.324887210492349476, 0.100503781525921210)    played     3.75 s,         98 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.732266809726166534, 0.014006921128979034)    played    45.23 s,       5096 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.584552091174434629, 0.048001536073731935)    played     3.88 s,        433 time(s)
+                                                                                                           played    59.99 s,       5934 time(s)
+
+Mean throughputs: [49.2349 50.9585 22.9771 30.9617]
+Aggregate throughput: 154.1321
+Min-Max: 27.9814
+JFI: 0.7638 [0.2500, 1]
+Mean TX power: [17.7159 16.2380 17.7392 15.8143]
+TX power counts:
+[[ -78  -76  -74  -70  -68  -66  -62]
+ [  84  112  140  183  206 2800 5627]]
+[[ -76  -74  -68  -66  -62]
+ [ 112  105  222  401 8685]]
+[[ -78  -74  -70  -66  -62]
+ [ 122  108  232  915 3182]]
+[[ -74  -66  -62]
+ [ 185  220 5529]]
+Mean PCS: [-64.0205 -62.6051 -63.9224 -62.5224]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 10 seconds of simulation:
+Mean throughputs: [60.8275 60.9975 28.2769 31.9335]
+Aggregate throughput: 182.0353
+Min-Max: 32.7206
+JFI: 0.7465 [0.2500, 1]
+Mean TX power: [17.3522 15.0000 18.9776 15.0000]
+TX power counts:
+[[ -68  -66  -62]
+ [   2 1045  759]]
+[[ -62]
+ [1807]]
+[[-78 -74 -70 -66 -62]
+ [  2   2  12 214 663]]
+[[ -62]
+ [1005]]
+Mean PCS: [-64.3212 -62.0000 -63.1288 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 19083
+Node 0, (CST, Tx power, MCS) = (-75.0, 15, 7) - (mean, std): (0.248815247363939118, 0.079555728417573010)    played     8.58 s,        157 time(s)
+Node 0, (CST, Tx power, MCS) = (-75.0, 23, 7) - (mean, std): (0.302093047835475470, 0.060633906259083242)    played     9.92 s,        271 time(s)
+Node 0, (CST, Tx power, MCS) = (-66.0, 15, 7) - (mean, std): (0.316519377318026929, 0.059868434008924970)    played     6.93 s,        278 time(s)
+Node 0, (CST, Tx power, MCS) = (-66.0, 23, 7) - (mean, std): (0.308983211251885326, 0.060192926542884599)    played     6.86 s,        275 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.387411061477397234, 0.040258484111423729)    played     8.73 s,        616 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.420866691930714298, 0.027628948199776883)    played    18.95 s,       1309 time(s)
+                                                                                                           played    59.98 s,       2906 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-64.0, 15, 7) - (mean, std): (0.556598202462799008, 0.063887656499993992)    played     1.99 s,        244 time(s)
+Node 1, (CST, Tx power, MCS) = (-64.0, 23, 7) - (mean, std): (0.548212548298268154, 0.057353933467640443)    played     2.60 s,        303 time(s)
+Node 1, (CST, Tx power, MCS) = (-76.0, 15, 7) - (mean, std): (0.399424515724626672, 0.103142124625879336)    played     1.82 s,         93 time(s)
+Node 1, (CST, Tx power, MCS) = (-76.0, 23, 7) - (mean, std): (0.420448849488171350, 0.098532927816429305)    played     2.04 s,        102 time(s)
+Node 1, (CST, Tx power, MCS) = (-75.0, 15, 7) - (mean, std): (0.444526265562130818, 0.087705801930702917)    played     2.07 s,        129 time(s)
+Node 1, (CST, Tx power, MCS) = (-75.0, 23, 7) - (mean, std): (0.357893594265103365, 0.114707866935280886)    played     1.29 s,         75 time(s)
+Node 1, (CST, Tx power, MCS) = (-71.0, 15, 7) - (mean, std): (0.495522720367436775, 0.070014004201400484)    played     2.23 s,        203 time(s)
+Node 1, (CST, Tx power, MCS) = (-71.0, 23, 7) - (mean, std): (0.441139801047855995, 0.091287092917527679)    played     1.39 s,        119 time(s)
+Node 1, (CST, Tx power, MCS) = (-68.0, 15, 7) - (mean, std): (0.469245728656484007, 0.086066296582387042)    played     1.52 s,        134 time(s)
+Node 1, (CST, Tx power, MCS) = (-68.0, 23, 7) - (mean, std): (0.447294942929050088, 0.087038827977848926)    played     1.67 s,        131 time(s)
+Node 1, (CST, Tx power, MCS) = (-66.0, 15, 7) - (mean, std): (0.526738616573856455, 0.057259833431386825)    played     3.03 s,        304 time(s)
+Node 1, (CST, Tx power, MCS) = (-66.0, 23, 7) - (mean, std): (0.509355926717405594, 0.066226617853252193)    played     2.04 s,        227 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.707201763838066877, 0.038547167224584983)    played     4.36 s,        672 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.773587203460769479, 0.014024817836330359)    played    31.97 s,       5083 time(s)
+                                                                                                           played    60.00 s,       7819 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-63.0, 15, 7) - (mean, std): (0.367394347775528984, 0.046126560401444257)    played     6.22 s,        469 time(s)
+Node 2, (CST, Tx power, MCS) = (-63.0, 23, 7) - (mean, std): (0.427279078244691246, 0.036910673526278109)    played    10.36 s,        733 time(s)
+Node 2, (CST, Tx power, MCS) = (-68.0, 15, 7) - (mean, std): (0.286896774724528236, 0.074535599249992993)    played     3.80 s,        179 time(s)
+Node 2, (CST, Tx power, MCS) = (-68.0, 23, 7) - (mean, std): (0.317489002205788351, 0.066081860045508978)    played     5.79 s,        228 time(s)
+Node 2, (CST, Tx power, MCS) = (-76.0, 15, 7) - (mean, std): (0.163034699544911343, 0.113960576459637947)    played     3.31 s,         76 time(s)
+Node 2, (CST, Tx power, MCS) = (-76.0, 23, 7) - (mean, std): (0.280154250080620060, 0.074329414624716636)    played     8.44 s,        180 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.344731352476348896, 0.059761430466719681)    played     3.34 s,        279 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.460193217639559227, 0.025607375986579195)    played    18.74 s,       1524 time(s)
+                                                                                                           played    60.00 s,       3668 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-72.0, 15, 7) - (mean, std): (0.200870583824088733, 0.113960576459637947)    played     2.87 s,         76 time(s)
+Node 3, (CST, Tx power, MCS) = (-72.0, 23, 7) - (mean, std): (0.320465422674601486, 0.074329414624716636)    played     5.47 s,        180 time(s)
+Node 3, (CST, Tx power, MCS) = (-63.0, 15, 7) - (mean, std): (0.360254407522148046, 0.074329414624716636)    played     2.28 s,        180 time(s)
+Node 3, (CST, Tx power, MCS) = (-63.0, 23, 7) - (mean, std): (0.450825857850621015, 0.045548751867427698)    played     6.04 s,        481 time(s)
+Node 3, (CST, Tx power, MCS) = (-64.0, 15, 7) - (mean, std): (0.303289605810753371, 0.078811040623910061)    played     3.51 s,        160 time(s)
+Node 3, (CST, Tx power, MCS) = (-64.0, 23, 7) - (mean, std): (0.342481516080633763, 0.069504804685691590)    played     4.63 s,        206 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.362703082463435911, 0.066081860045508978)    played     2.76 s,        228 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.611418825361538576, 0.017733172553297715)    played    32.44 s,       3179 time(s)
+                                                                                                           played    59.99 s,       4690 time(s)
+
+Mean throughputs: [13.0624 36.6514 15.4830 21.7061]
+Aggregate throughput: 86.9029
+Min-Max: 23.5890
+JFI: 0.7031 [0.2500, 1]
+Mean TX power: [20.1067 21.1798 20.8124 21.9015]
+TX power counts:
+[[ -75  -66  -62]
+ [ 428  553 1925]]
+[[ -76  -75  -71  -68  -66  -64  -62]
+ [ 195  204  322  265  531  547 5755]]
+[[ -76  -68  -63  -62]
+ [ 256  407 1202 1803]]
+[[ -72  -64  -63  -62]
+ [ 256  366  661 3407]]
+Mean PCS: [-64.6758 -63.6739 -63.9706 -62.8429]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 10 seconds of simulation:
+Mean throughputs: [ 7.5834 50.5968 13.4119 34.7522]
+Aggregate throughput: 106.3442
+Min-Max: 43.0134
+JFI: 0.6077 [0.2500, 1]
+Mean TX power: [21.0356 22.4404 22.4699 22.9785]
+TX power counts:
+[[-75 -66 -62]
+ [ 23  22 236]]
+[[ -76  -68  -66  -64  -62]
+ [   4    2    1    2 1635]]
+[[-76 -68 -63 -62]
+ [  7  14 102 375]]
+[[ -63  -62]
+ [   7 1110]]
+Mean PCS: [-63.3772 -62.0462 -62.5703 -62.0063]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 16729
+Node 0, (CST, Tx power, MCS) = (-68.0, 15, 7) - (mean, std): (0.323005505067666232, 0.066964953018242498)    played     6.31 s,        222 time(s)
+Node 0, (CST, Tx power, MCS) = (-68.0, 23, 7) - (mean, std): (0.343376734068152167, 0.062500000000000000)    played     6.83 s,        255 time(s)
+Node 0, (CST, Tx power, MCS) = (-65.0, 15, 7) - (mean, std): (0.386637727588568847, 0.043314808182420998)    played     9.43 s,        532 time(s)
+Node 0, (CST, Tx power, MCS) = (-65.0, 23, 7) - (mean, std): (0.399928379123446032, 0.035921060405354983)    played    13.30 s,        774 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.416241439249499190, 0.038152379685825785)    played     9.52 s,        686 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.431623178328987001, 0.029854071701326604)    played    14.59 s,       1121 time(s)
+                                                                                                           played    59.98 s,       3590 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-65.0, 15, 7) - (mean, std): (0.363489871176939261, 0.044587796206770981)    played     8.59 s,        502 time(s)
+Node 1, (CST, Tx power, MCS) = (-65.0, 23, 7) - (mean, std): (0.399941699462189715, 0.033709993123162106)    played    14.71 s,        879 time(s)
+Node 1, (CST, Tx power, MCS) = (-73.0, 15, 7) - (mean, std): (0.305079759523360028, 0.065372045046061353)    played     5.57 s,        233 time(s)
+Node 1, (CST, Tx power, MCS) = (-73.0, 23, 7) - (mean, std): (0.354308692580248552, 0.045834924851410566)    played    11.48 s,        475 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.380510463637860341, 0.042033135170919854)    played     7.51 s,        565 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.416783911488023184, 0.033296357910601343)    played    12.08 s,        901 time(s)
+                                                                                                           played    59.94 s,       3555 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-77.0, 15, 7) - (mean, std): (0.398882438025572550, 0.065512178208041838)    played     4.77 s,        232 time(s)
+Node 2, (CST, Tx power, MCS) = (-77.0, 23, 7) - (mean, std): (0.411982253586151648, 0.062136976600120006)    played     5.02 s,        258 time(s)
+Node 2, (CST, Tx power, MCS) = (-73.0, 15, 7) - (mean, std): (0.397762068351308284, 0.066964953018242498)    played     3.66 s,        222 time(s)
+Node 2, (CST, Tx power, MCS) = (-73.0, 23, 7) - (mean, std): (0.396658017163114163, 0.066226617853252193)    played     3.90 s,        227 time(s)
+Node 2, (CST, Tx power, MCS) = (-69.0, 15, 7) - (mean, std): (0.441971881187675775, 0.049386479832479478)    played     5.35 s,        409 time(s)
+Node 2, (CST, Tx power, MCS) = (-69.0, 23, 7) - (mean, std): (0.435297787945314540, 0.056433264798310033)    played     4.16 s,        313 time(s)
+Node 2, (CST, Tx power, MCS) = (-66.0, 15, 7) - (mean, std): (0.467351263818130136, 0.049266463908214653)    played     4.40 s,        411 time(s)
+Node 2, (CST, Tx power, MCS) = (-66.0, 23, 7) - (mean, std): (0.483571080823930854, 0.048001536073731935)    played     4.90 s,        433 time(s)
+Node 2, (CST, Tx power, MCS) = (-65.0, 15, 7) - (mean, std): (0.451755095175106480, 0.058621038176054914)    played     3.17 s,        290 time(s)
+Node 2, (CST, Tx power, MCS) = (-65.0, 23, 7) - (mean, std): (0.476379536432374073, 0.048336824452283177)    played     4.68 s,        427 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.524257084043733501, 0.029185420270888950)    played     9.66 s,       1173 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.528714039153656001, 0.036060922298730945)    played     6.33 s,        768 time(s)
+                                                                                                           played    60.00 s,       5163 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-77.0, 15, 7) - (mean, std): (0.301092802107239488, 0.080845208345444328)    played     3.48 s,        152 time(s)
+Node 3, (CST, Tx power, MCS) = (-77.0, 23, 7) - (mean, std): (0.352898100779746926, 0.056796183424706478)    played     7.01 s,        309 time(s)
+Node 3, (CST, Tx power, MCS) = (-69.0, 15, 7) - (mean, std): (0.387250574495235145, 0.052558833122763667)    played     5.99 s,        361 time(s)
+Node 3, (CST, Tx power, MCS) = (-69.0, 23, 7) - (mean, std): (0.371130569500829899, 0.058621038176054914)    played     5.07 s,        290 time(s)
+Node 3, (CST, Tx power, MCS) = (-67.0, 15, 7) - (mean, std): (0.443947523527374488, 0.033981383301529243)    played    10.32 s,        865 time(s)
+Node 3, (CST, Tx power, MCS) = (-67.0, 23, 7) - (mean, std): (0.436243112579722980, 0.032756089104020919)    played    11.07 s,        931 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.457073048028370787, 0.037371754637596795)    played     8.42 s,        715 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.441924284332153472, 0.035377456883861250)    played     8.63 s,        798 time(s)
+                                                                                                           played    60.00 s,       4421 time(s)
+
+Mean throughputs: [16.5892 16.0854 21.5936 18.4240]
+Aggregate throughput: 72.6922
+Min-Max: 5.5083
+JFI: 0.8939 [0.2500, 1]
+Mean TX power: [19.7911 20.0745 18.7591 19.2126]
+TX power counts:
+[[ -68  -65  -62]
+ [ 477 1306 1807]]
+[[ -73  -65  -62]
+ [ 708 1381 1466]]
+[[ -77  -73  -69  -66  -65  -62]
+ [ 490  449  722  844  717 1941]]
+[[ -77  -69  -67  -62]
+ [ 461  651 1796 1513]]
+Mean PCS: [-63.8886 -65.3561 -66.4296 -66.6261]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 10 seconds of simulation:
+Mean throughputs: [15.9225 17.7904 23.5144 20.6956]
+Aggregate throughput: 77.9229
+Min-Max: 7.5919
+JFI: 0.8711 [0.2500, 1]
+Mean TX power: [20.1867 20.8718 19.1631 18.6454]
+TX power counts:
+[[-68 -65 -62]
+ [ 44 145 411]]
+[[-73 -65 -62]
+ [ 65 228 331]]
+[[-77 -73 -69 -66 -65 -62]
+ [ 37  32  68 192 143 460]]
+[[-77 -69 -67 -62]
+ [ 35  92 293 381]]
+Mean PCS: [-63.1650 -64.2420 -64.7682 -65.2884]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 28837
+Node 0, (CST, Tx power, MCS) = (-63.0, 15, 7) - (mean, std): (0.525886476924724122, 0.048621663832631515)    played     4.61 s,        422 time(s)
+Node 0, (CST, Tx power, MCS) = (-63.0, 23, 7) - (mean, std): (0.568994721490296840, 0.034139437099945942)    played     9.35 s,        857 time(s)
+Node 0, (CST, Tx power, MCS) = (-80.0, 15, 7) - (mean, std): (0.274454293693525475, 0.112508790092602395)    played     8.96 s,         78 time(s)
+Node 0, (CST, Tx power, MCS) = (-80.0, 23, 7) - (mean, std): (0.238415486591915887, 0.129099444873580549)    played     5.37 s,         59 time(s)
+Node 0, (CST, Tx power, MCS) = (-77.0, 15, 7) - (mean, std): (0.208792898372768598, 0.144337567297406433)    played     4.39 s,         47 time(s)
+Node 0, (CST, Tx power, MCS) = (-77.0, 23, 7) - (mean, std): (0.295525937718610465, 0.113960576459637947)    played     6.81 s,         76 time(s)
+Node 0, (CST, Tx power, MCS) = (-72.0, 15, 7) - (mean, std): (0.405701817246760965, 0.094491118252306799)    played     1.50 s,        111 time(s)
+Node 0, (CST, Tx power, MCS) = (-72.0, 23, 7) - (mean, std): (0.482472305137163215, 0.073127242412713067)    played     2.56 s,        186 time(s)
+Node 0, (CST, Tx power, MCS) = (-69.0, 15, 7) - (mean, std): (0.532788489531411114, 0.045980048987170286)    played     5.27 s,        472 time(s)
+Node 0, (CST, Tx power, MCS) = (-69.0, 23, 7) - (mean, std): (0.531245899122519405, 0.047298376984040214)    played     5.28 s,        446 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.448817950449048542, 0.073521462209380772)    played     1.77 s,        184 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.538446035673828982, 0.054232614454664041)    played     3.63 s,        339 time(s)
+                                                                                                           played    59.50 s,       3277 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-79.0, 15, 7) - (mean, std): (0.205481524793047987, 0.166666666666666657)    played     2.00 s,         35 time(s)
+Node 1, (CST, Tx power, MCS) = (-79.0, 23, 7) - (mean, std): (0.263586722938434048, 0.145864991497894558)    played     1.52 s,         46 time(s)
+Node 1, (CST, Tx power, MCS) = (-78.0, 15, 7) - (mean, std): (0.424557113583039269, 0.099503719020998915)    played     1.80 s,        100 time(s)
+Node 1, (CST, Tx power, MCS) = (-78.0, 23, 7) - (mean, std): (0.396118050246552778, 0.109108945117996181)    played     1.23 s,         83 time(s)
+Node 1, (CST, Tx power, MCS) = (-71.0, 15, 7) - (mean, std): (0.502591784215015491, 0.089802651013387455)    played     1.60 s,        123 time(s)
+Node 1, (CST, Tx power, MCS) = (-71.0, 23, 7) - (mean, std): (0.512444092625260139, 0.090909090909090912)    played     1.33 s,        120 time(s)
+Node 1, (CST, Tx power, MCS) = (-63.0, 15, 7) - (mean, std): (0.617131636205336842, 0.064150029909958425)    played     2.03 s,        242 time(s)
+Node 1, (CST, Tx power, MCS) = (-63.0, 23, 7) - (mean, std): (0.803205984841946052, 0.012917481884172804)    played    43.75 s,       5992 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.600529871782680691, 0.052851642258168997)    played     2.81 s,        357 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.576354885176481369, 0.061662641597820742)    played     1.93 s,        262 time(s)
+                                                                                                           played    60.00 s,       7360 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-80.0, 15, 7) - (mean, std): (0.340688247252632248, 0.142857142857142849)    played     1.97 s,         48 time(s)
+Node 2, (CST, Tx power, MCS) = (-80.0, 23, 7) - (mean, std): (0.284600079474625622, 0.158113883008418971)    played     1.66 s,         39 time(s)
+Node 2, (CST, Tx power, MCS) = (-79.0, 15, 7) - (mean, std): (0.304952367055492224, 0.156173761888606072)    played     1.22 s,         40 time(s)
+Node 2, (CST, Tx power, MCS) = (-79.0, 23, 7) - (mean, std): (0.397062842669930305, 0.121267812518166485)    played     1.60 s,         67 time(s)
+Node 2, (CST, Tx power, MCS) = (-74.0, 15, 7) - (mean, std): (0.404620944081155010, 0.119522860933439362)    played     1.29 s,         69 time(s)
+Node 2, (CST, Tx power, MCS) = (-74.0, 23, 7) - (mean, std): (0.323747973508947240, 0.149071198499985985)    played     1.18 s,         44 time(s)
+Node 2, (CST, Tx power, MCS) = (-72.0, 15, 7) - (mean, std): (0.521185799899145263, 0.111111111111111105)    played     0.81 s,         80 time(s)
+Node 2, (CST, Tx power, MCS) = (-72.0, 23, 7) - (mean, std): (0.466313604059395204, 0.117041147196130554)    played     0.67 s,         72 time(s)
+Node 2, (CST, Tx power, MCS) = (-71.0, 15, 7) - (mean, std): (0.538542648404085611, 0.092847669088525930)    played     1.06 s,        115 time(s)
+Node 2, (CST, Tx power, MCS) = (-71.0, 23, 7) - (mean, std): (0.570946090253154570, 0.089087080637474794)    played     1.05 s,        125 time(s)
+Node 2, (CST, Tx power, MCS) = (-66.0, 15, 7) - (mean, std): (0.784702980543482309, 0.051366549693751408)    played     2.47 s,        378 time(s)
+Node 2, (CST, Tx power, MCS) = (-66.0, 23, 7) - (mean, std): (0.754417293187987337, 0.048393391849582724)    played     2.76 s,        426 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.920165098456933284, 0.011919975664202526)    played    39.30 s,       7037 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.745378338748887703, 0.045883146774112350)    played     2.94 s,        474 time(s)
+                                                                                                           played    60.00 s,       9014 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-79.0, 15, 7) - (mean, std): (0.294667061695983890, 0.154303349962091912)    played     1.62 s,         41 time(s)
+Node 3, (CST, Tx power, MCS) = (-79.0, 23, 7) - (mean, std): (0.328943531395795186, 0.152498570332604666)    played     1.23 s,         42 time(s)
+Node 3, (CST, Tx power, MCS) = (-77.0, 15, 7) - (mean, std): (0.320398839106188382, 0.150755672288881815)    played     1.33 s,         43 time(s)
+Node 3, (CST, Tx power, MCS) = (-77.0, 23, 7) - (mean, std): (0.292922695432481728, 0.154303349962091912)    played     0.84 s,         41 time(s)
+Node 3, (CST, Tx power, MCS) = (-74.0, 15, 7) - (mean, std): (0.375745495800659302, 0.136082763487954339)    played     0.92 s,         53 time(s)
+Node 3, (CST, Tx power, MCS) = (-74.0, 23, 7) - (mean, std): (0.430746161909609293, 0.116247638743819284)    played     1.62 s,         73 time(s)
+Node 3, (CST, Tx power, MCS) = (-71.0, 15, 7) - (mean, std): (0.507472474208086499, 0.100503781525921210)    played     1.06 s,         98 time(s)
+Node 3, (CST, Tx power, MCS) = (-71.0, 23, 7) - (mean, std): (0.456971193575139267, 0.123091490979332738)    played     0.73 s,         65 time(s)
+Node 3, (CST, Tx power, MCS) = (-69.0, 15, 7) - (mean, std): (0.541774886014193990, 0.088388347648318447)    played     1.07 s,        127 time(s)
+Node 3, (CST, Tx power, MCS) = (-69.0, 23, 7) - (mean, std): (0.476139108889315210, 0.108465228909328082)    played     0.80 s,         84 time(s)
+Node 3, (CST, Tx power, MCS) = (-66.0, 15, 7) - (mean, std): (0.606513362318154892, 0.073323557510676651)    played     1.42 s,        185 time(s)
+Node 3, (CST, Tx power, MCS) = (-66.0, 23, 7) - (mean, std): (0.577885868442861605, 0.083918135829668908)    played     1.15 s,        141 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.909037274806307249, 0.011123477404433330)    played    45.46 s,       8081 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.617927008731910199, 0.094072086838359728)    played     0.74 s,        112 time(s)
+                                                                                                           played    60.00 s,       9186 time(s)
+
+Mean throughputs: [15.7978 38.8242 48.2095 49.0841]
+Aggregate throughput: 151.9157
+Min-Max: 33.2864
+JFI: 0.7389 [0.2500, 1]
+Mean TX power: [19.7922 22.0685 16.1067 15.4860]
+TX power counts:
+[[ -80  -77  -72  -69  -63  -62]
+ [ 137  123  297  918 1279  523]]
+[[ -79  -78  -71  -63  -62]
+ [  81  183  243 6234  619]]
+[[ -80  -79  -74  -72  -71  -66  -62]
+ [  87  107  113  152  240  804 7511]]
+[[ -79  -77  -74  -71  -69  -66  -62]
+ [  83   84  126  163  211  326 8193]]
+Mean PCS: [-66.5731 -63.7291 -63.2910 -62.9178]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 10 seconds of simulation:
+Mean throughputs: [18.1850 43.8666 58.6898 60.7270]
+Aggregate throughput: 181.4684
+Min-Max: 42.5420
+JFI: 0.7275 [0.2500, 1]
+Mean TX power: [20.1690 22.9817 15.0183 15.0133]
+TX power counts:
+[[-80 -77 -72 -69 -63 -62]
+ [  4   2  64 143 249 106]]
+[[ -78  -63]
+ [   1 1314]]
+[[ -74  -66  -62]
+ [   1   12 1731]]
+[[ -62]
+ [1807]]
+Mean PCS: [-65.5070 -63.0114 -62.0344 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 27659
+Node 0, (CST, Tx power, MCS) = (-78.0, 15, 7) - (mean, std): (0.452108787779131716, 0.104828483672191830)    played     2.01 s,         90 time(s)
+Node 0, (CST, Tx power, MCS) = (-78.0, 23, 7) - (mean, std): (0.400287433968791295, 0.125988157669742418)    played     1.44 s,         62 time(s)
+Node 0, (CST, Tx power, MCS) = (-76.0, 15, 7) - (mean, std): (0.473816445753636295, 0.105409255338945976)    played     1.56 s,         89 time(s)
+Node 0, (CST, Tx power, MCS) = (-76.0, 23, 7) - (mean, std): (0.424990811216939157, 0.118678165819385339)    played     1.17 s,         70 time(s)
+Node 0, (CST, Tx power, MCS) = (-73.0, 15, 7) - (mean, std): (0.558813872317852289, 0.084818892967997092)    played     1.53 s,        138 time(s)
+Node 0, (CST, Tx power, MCS) = (-73.0, 23, 7) - (mean, std): (0.589235255720550355, 0.071795815861773804)    played     2.02 s,        193 time(s)
+Node 0, (CST, Tx power, MCS) = (-70.0, 15, 7) - (mean, std): (0.627304600207627794, 0.062622429108514954)    played     2.07 s,        254 time(s)
+Node 0, (CST, Tx power, MCS) = (-70.0, 23, 7) - (mean, std): (0.641630985575358692, 0.057928444636349226)    played     2.45 s,        297 time(s)
+Node 0, (CST, Tx power, MCS) = (-65.0, 15, 7) - (mean, std): (0.666813895302405424, 0.055727821257535282)    played     2.42 s,        321 time(s)
+Node 0, (CST, Tx power, MCS) = (-65.0, 23, 7) - (mean, std): (0.711725848053309185, 0.037450294313656908)    played     5.09 s,        712 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.788510778799937695, 0.018547162802488575)    played    17.83 s,       2906 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.786815812281480342, 0.017192894613320565)    played    20.42 s,       3382 time(s)
+                                                                                                           played    60.00 s,       8514 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-64.0, 15, 7) - (mean, std): (0.616975344785082869, 0.042485928866208736)    played     4.22 s,        553 time(s)
+Node 1, (CST, Tx power, MCS) = (-64.0, 23, 7) - (mean, std): (0.608874913963752484, 0.058123819371909642)    played     2.30 s,        295 time(s)
+Node 1, (CST, Tx power, MCS) = (-79.0, 15, 7) - (mean, std): (0.218581735474324912, 0.156173761888606072)    played     5.13 s,         40 time(s)
+Node 1, (CST, Tx power, MCS) = (-79.0, 23, 7) - (mean, std): (0.242280540325701843, 0.152498570332604666)    played     2.77 s,         42 time(s)
+Node 1, (CST, Tx power, MCS) = (-72.0, 15, 7) - (mean, std): (0.330980212492559267, 0.136082763487954339)    played     1.09 s,         53 time(s)
+Node 1, (CST, Tx power, MCS) = (-72.0, 23, 7) - (mean, std): (0.266820401886222247, 0.138675049056307287)    played     1.22 s,         51 time(s)
+Node 1, (CST, Tx power, MCS) = (-70.0, 15, 7) - (mean, std): (0.416888202191299295, 0.107211253483779481)    played     1.13 s,         86 time(s)
+Node 1, (CST, Tx power, MCS) = (-70.0, 23, 7) - (mean, std): (0.411244861721785204, 0.112508790092602395)    played     1.04 s,         78 time(s)
+Node 1, (CST, Tx power, MCS) = (-65.0, 15, 7) - (mean, std): (0.573926175566551788, 0.064820372355216441)    played     2.27 s,        237 time(s)
+Node 1, (CST, Tx power, MCS) = (-65.0, 23, 7) - (mean, std): (0.564831088812769777, 0.069673301429161769)    played     1.88 s,        205 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.747645376606123957, 0.020589036786063403)    played    14.81 s,       2358 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.769046739617886388, 0.016659726559488115)    played    22.13 s,       3602 time(s)
+                                                                                                           played    60.00 s,       7600 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-64.0, 15, 7) - (mean, std): (0.585310894639582413, 0.036178730264621081)    played     6.90 s,        763 time(s)
+Node 2, (CST, Tx power, MCS) = (-64.0, 23, 7) - (mean, std): (0.542621419985574338, 0.052777981396925952)    played     3.29 s,        358 time(s)
+Node 2, (CST, Tx power, MCS) = (-78.0, 15, 7) - (mean, std): (0.211231155647560925, 0.131306432859722544)    played     5.93 s,         57 time(s)
+Node 2, (CST, Tx power, MCS) = (-78.0, 23, 7) - (mean, std): (0.192173697065770394, 0.158113883008418971)    played     4.89 s,         39 time(s)
+Node 2, (CST, Tx power, MCS) = (-72.0, 15, 7) - (mean, std): (0.233168933099751036, 0.141421356237309503)    played     3.57 s,         49 time(s)
+Node 2, (CST, Tx power, MCS) = (-72.0, 23, 7) - (mean, std): (0.222642139850036475, 0.150755672288881815)    played     2.69 s,         43 time(s)
+Node 2, (CST, Tx power, MCS) = (-70.0, 15, 7) - (mean, std): (0.339101216282778173, 0.117041147196130554)    played     1.66 s,         72 time(s)
+Node 2, (CST, Tx power, MCS) = (-70.0, 23, 7) - (mean, std): (0.350096149606330453, 0.107832773203438412)    played     2.36 s,         85 time(s)
+Node 2, (CST, Tx power, MCS) = (-68.0, 15, 7) - (mean, std): (0.456807541972931497, 0.074953168899586142)    played     3.01 s,        177 time(s)
+Node 2, (CST, Tx power, MCS) = (-68.0, 23, 7) - (mean, std): (0.444422324634886956, 0.080064076902543566)    played     2.37 s,        155 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.663739259207440035, 0.025213645282964960)    played    12.21 s,       1572 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.651533717488653075, 0.026481357066618801)    played    11.12 s,       1425 time(s)
+                                                                                                           played    60.00 s,       4795 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-70.0, 15, 7) - (mean, std): (0.553584637216076869, 0.066666666666666666)    played     2.58 s,        224 time(s)
+Node 3, (CST, Tx power, MCS) = (-70.0, 23, 7) - (mean, std): (0.612341146951800863, 0.047565149415449412)    played     5.16 s,        441 time(s)
+Node 3, (CST, Tx power, MCS) = (-78.0, 15, 7) - (mean, std): (0.329178401926039477, 0.129099444873580549)    played     2.68 s,         59 time(s)
+Node 3, (CST, Tx power, MCS) = (-78.0, 23, 7) - (mean, std): (0.329005039526018561, 0.129099444873580549)    played     2.01 s,         59 time(s)
+Node 3, (CST, Tx power, MCS) = (-68.0, 15, 7) - (mean, std): (0.653128488705652321, 0.038807526285316647)    played     6.34 s,        663 time(s)
+Node 3, (CST, Tx power, MCS) = (-68.0, 23, 7) - (mean, std): (0.653061726720645441, 0.040961596025952021)    played     5.35 s,        595 time(s)
+Node 3, (CST, Tx power, MCS) = (-76.0, 15, 7) - (mean, std): (0.454604041499534040, 0.091287092917527679)    played     2.53 s,        119 time(s)
+Node 3, (CST, Tx power, MCS) = (-76.0, 23, 7) - (mean, std): (0.457152227053117088, 0.092847669088525930)    played     1.93 s,        115 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.708574398118415938, 0.021329769189683427)    played    15.76 s,       2197 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.721369511368605165, 0.020947289622255394)    played    15.64 s,       2278 time(s)
+                                                                                                           played    59.99 s,       6750 time(s)
+
+Mean throughputs: [41.4117 35.9928 22.2738 32.4199]
+Aggregate throughput: 132.0983
+Min-Max: 19.1379
+JFI: 0.8254 [0.2500, 1]
+Mean TX power: [19.4313 19.4979 18.5120 19.1339]
+TX power counts:
+[[ -78  -76  -73  -70  -65  -62]
+ [ 152  159  331  551 1033 6288]]
+[[ -79  -72  -70  -65  -64  -62]
+ [  82  104  164  442  848 5960]]
+[[ -78  -72  -70  -68  -64  -62]
+ [  96   92  157  332 1121 2997]]
+[[ -78  -76  -70  -68  -62]
+ [ 118  234  665 1258 4475]]
+Mean PCS: [-63.8565 -62.8905 -63.6571 -64.6714]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 10 seconds of simulation:
+Mean throughputs: [45.4682 49.3524 26.4178 35.2908]
+Aggregate throughput: 156.5291
+Min-Max: 22.9346
+JFI: 0.8137 [0.2500, 1]
+Mean TX power: [19.4410 20.9988 18.4543 19.7027]
+TX power counts:
+[[ -78  -76  -73  -70  -65  -62]
+ [   2    6    8   23   57 1446]]
+[[ -72  -70  -65  -64  -62]
+ [   3    3    3    7 1623]]
+[[-78 -72 -70 -68 -64 -62]
+ [  3   4   3   9  45 823]]
+[[ -78  -76  -70  -68  -62]
+ [   3    6   27  140 1008]]
+Mean PCS: [-62.3625 -62.0470 -62.2886 -63.0034]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 28861
+Node 0, (CST, Tx power, MCS) = (-80.0, 15, 7) - (mean, std): (0.282815803968250234, 0.162221421130762544)    played     1.21 s,         37 time(s)
+Node 0, (CST, Tx power, MCS) = (-80.0, 23, 7) - (mean, std): (0.330232561515127754, 0.150755672288881815)    played     1.57 s,         43 time(s)
+Node 0, (CST, Tx power, MCS) = (-77.0, 15, 7) - (mean, std): (0.412085688012266527, 0.127000127000190505)    played     0.94 s,         61 time(s)
+Node 0, (CST, Tx power, MCS) = (-77.0, 23, 7) - (mean, std): (0.421704067169160479, 0.118678165819385339)    played     1.04 s,         70 time(s)
+Node 0, (CST, Tx power, MCS) = (-72.0, 15, 7) - (mean, std): (0.517163763025642265, 0.104828483672191830)    played     0.90 s,         90 time(s)
+Node 0, (CST, Tx power, MCS) = (-72.0, 23, 7) - (mean, std): (0.602446514222819030, 0.082478609884232251)    played     1.34 s,        146 time(s)
+Node 0, (CST, Tx power, MCS) = (-70.0, 15, 7) - (mean, std): (0.618479400116827227, 0.085435765771676095)    played     1.13 s,        136 time(s)
+Node 0, (CST, Tx power, MCS) = (-70.0, 23, 7) - (mean, std): (0.642191986122336744, 0.071428571428571425)    played     1.51 s,        195 time(s)
+Node 0, (CST, Tx power, MCS) = (-69.0, 15, 7) - (mean, std): (0.638199035717459617, 0.062257280636469035)    played     1.82 s,        257 time(s)
+Node 0, (CST, Tx power, MCS) = (-69.0, 23, 7) - (mean, std): (0.620871209351833042, 0.078086880944303036)    played     1.18 s,        163 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.893565239341534090, 0.012377792377468904)    played    36.97 s,       6526 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.838685938624118110, 0.023796037813647447)    played    10.37 s,       1765 time(s)
+                                                                                                           played    60.00 s,       9489 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-70.0, 15, 7) - (mean, std): (0.389899996945663851, 0.081923192051904042)    played     2.41 s,        148 time(s)
+Node 1, (CST, Tx power, MCS) = (-70.0, 23, 7) - (mean, std): (0.348155646669883023, 0.097590007294853329)    played     1.70 s,        104 time(s)
+Node 1, (CST, Tx power, MCS) = (-78.0, 15, 7) - (mean, std): (0.196871544935974335, 0.130188910980823858)    played     8.03 s,         58 time(s)
+Node 1, (CST, Tx power, MCS) = (-78.0, 23, 7) - (mean, std): (0.210475883446912676, 0.125000000000000000)    played     6.72 s,         63 time(s)
+Node 1, (CST, Tx power, MCS) = (-66.0, 15, 7) - (mean, std): (0.473211033048048735, 0.045129368240652418)    played     6.23 s,        490 time(s)
+Node 1, (CST, Tx power, MCS) = (-66.0, 23, 7) - (mean, std): (0.450565342894538257, 0.053605626741889741)    played     4.42 s,        347 time(s)
+Node 1, (CST, Tx power, MCS) = (-74.0, 15, 7) - (mean, std): (0.194788180031651381, 0.125988157669742418)    played     6.24 s,         62 time(s)
+Node 1, (CST, Tx power, MCS) = (-74.0, 23, 7) - (mean, std): (0.254075343078837557, 0.116247638743819284)    played     5.92 s,         73 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.510766182220969589, 0.031814238148788886)    played    10.44 s,        987 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.506347133018211548, 0.036107907233705945)    played     7.87 s,        766 time(s)
+                                                                                                           played    59.99 s,       3098 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-80.0, 15, 7) - (mean, std): (0.262248555571367614, 0.162221421130762544)    played     1.40 s,         37 time(s)
+Node 2, (CST, Tx power, MCS) = (-80.0, 23, 7) - (mean, std): (0.240283377819782568, 0.166666666666666657)    played     1.92 s,         35 time(s)
+Node 2, (CST, Tx power, MCS) = (-76.0, 15, 7) - (mean, std): (0.354012925017067603, 0.150755672288881815)    played     0.81 s,         43 time(s)
+Node 2, (CST, Tx power, MCS) = (-76.0, 23, 7) - (mean, std): (0.290634090303129700, 0.158113883008418971)    played     0.86 s,         39 time(s)
+Node 2, (CST, Tx power, MCS) = (-74.0, 15, 7) - (mean, std): (0.419911722714538027, 0.129099444873580549)    played     0.82 s,         59 time(s)
+Node 2, (CST, Tx power, MCS) = (-74.0, 23, 7) - (mean, std): (0.439832984843544106, 0.124034734589208454)    played     0.97 s,         64 time(s)
+Node 2, (CST, Tx power, MCS) = (-72.0, 15, 7) - (mean, std): (0.498784432768337227, 0.107832773203438412)    played     0.99 s,         85 time(s)
+Node 2, (CST, Tx power, MCS) = (-72.0, 23, 7) - (mean, std): (0.451257110879548451, 0.124034734589208454)    played     0.64 s,         64 time(s)
+Node 2, (CST, Tx power, MCS) = (-68.0, 15, 7) - (mean, std): (0.652567642401587156, 0.065232807305344226)    played     1.92 s,        234 time(s)
+Node 2, (CST, Tx power, MCS) = (-68.0, 23, 7) - (mean, std): (0.665385309691448823, 0.057639041770423498)    played     2.36 s,        300 time(s)
+Node 2, (CST, Tx power, MCS) = (-66.0, 15, 7) - (mean, std): (0.666728214069669756, 0.065795169495976899)    played     1.64 s,        230 time(s)
+Node 2, (CST, Tx power, MCS) = (-66.0, 23, 7) - (mean, std): (0.687754004093098059, 0.060302268915552723)    played     1.85 s,        274 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.884058862873911555, 0.013369031746173899)    played    32.06 s,       5594 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.861608925126832181, 0.022043335708870272)    played    11.75 s,       2057 time(s)
+                                                                                                           played    59.99 s,       9115 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-68.0, 15, 7) - (mean, std): (0.392966989313507931, 0.111803398874989482)    played     0.98 s,         79 time(s)
+Node 3, (CST, Tx power, MCS) = (-68.0, 23, 7) - (mean, std): (0.425437463745636291, 0.100503781525921210)    played     1.27 s,         98 time(s)
+Node 3, (CST, Tx power, MCS) = (-77.0, 15, 7) - (mean, std): (0.264252744712463072, 0.131306432859722544)    played     2.72 s,         57 time(s)
+Node 3, (CST, Tx power, MCS) = (-77.0, 23, 7) - (mean, std): (0.261030603444426801, 0.147441956154897136)    played     1.44 s,         45 time(s)
+Node 3, (CST, Tx power, MCS) = (-76.0, 15, 7) - (mean, std): (0.283521551908896718, 0.138675049056307287)    played     1.28 s,         51 time(s)
+Node 3, (CST, Tx power, MCS) = (-76.0, 23, 7) - (mean, std): (0.287726084407347316, 0.140028008402800969)    played     1.26 s,         50 time(s)
+Node 3, (CST, Tx power, MCS) = (-69.0, 15, 7) - (mean, std): (0.451421608929705842, 0.094915799575249898)    played     1.59 s,        110 time(s)
+Node 3, (CST, Tx power, MCS) = (-69.0, 23, 7) - (mean, std): (0.473807827913443669, 0.092847669088525930)    played     1.65 s,        115 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.699819500087887070, 0.028536507276767480)    played     9.38 s,       1227 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.780250373453297064, 0.013699915608779775)    played    38.42 s,       5327 time(s)
+                                                                                                           played    59.98 s,       7159 time(s)
+
+Mean throughputs: [49.7295 14.2516 47.5552 37.1608]
+Aggregate throughput: 148.6971
+Min-Max: 35.4779
+JFI: 0.7256 [0.2500, 1]
+Mean TX power: [17.0082 18.4939 17.4865 21.2970]
+TX power counts:
+[[ -80  -77  -72  -70  -69  -62]
+ [  80  131  236  331  420 8291]]
+[[ -78  -74  -70  -66  -62]
+ [ 121  135  252  837 1753]]
+[[ -80  -76  -74  -72  -68  -66  -62]
+ [  72   82  123  149  534  504 7651]]
+[[ -77  -76  -69  -68  -62]
+ [ 102  101  225  177 6554]]
+Mean PCS: [-63.1964 -64.8793 -63.1662 -62.7796]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 10 seconds of simulation:
+Mean throughputs: [59.6835 13.9602 58.8595 44.9406]
+Aggregate throughput: 177.4437
+Min-Max: 45.7234
+JFI: 0.7057 [0.2500, 1]
+Mean TX power: [15.2415 18.4939 16.6424 22.9132]
+TX power counts:
+[[ -77  -70  -69  -62]
+ [   1    3    1 1784]]
+[[-78 -74 -70 -66 -62]
+ [  5   5  37 107 336]]
+[[ -74  -72  -68  -66  -62]
+ [   1    1    1    5 1765]]
+[[ -76  -69  -62]
+ [   1    2 1380]]
+Mean PCS: [-62.0257 -63.7633 -62.0271 -62.0202]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 22150
+Node 0, (CST, Tx power, MCS) = (-64.0, 15, 7) - (mean, std): (0.581512254523508076, 0.028712406871010714)    played    12.63 s,       1212 time(s)
+Node 0, (CST, Tx power, MCS) = (-64.0, 23, 7) - (mean, std): (0.573433109314798850, 0.038749212914606423)    played     7.32 s,        665 time(s)
+Node 0, (CST, Tx power, MCS) = (-75.0, 15, 7) - (mean, std): (0.167419827365804574, 0.149071198499985985)    played     3.95 s,         44 time(s)
+Node 0, (CST, Tx power, MCS) = (-75.0, 23, 7) - (mean, std): (0.205842018879841965, 0.144337567297406433)    played     2.91 s,         47 time(s)
+Node 0, (CST, Tx power, MCS) = (-74.0, 15, 7) - (mean, std): (0.295833525778415096, 0.125000000000000000)    played     2.12 s,         63 time(s)
+Node 0, (CST, Tx power, MCS) = (-74.0, 23, 7) - (mean, std): (0.297944067785296030, 0.117851130197757920)    played     2.42 s,         71 time(s)
+Node 0, (CST, Tx power, MCS) = (-67.0, 15, 7) - (mean, std): (0.433872689125874955, 0.090166963466743230)    played     2.08 s,        122 time(s)
+Node 0, (CST, Tx power, MCS) = (-67.0, 23, 7) - (mean, std): (0.365436812223363106, 0.098532927816429305)    played     1.72 s,        102 time(s)
+Node 0, (CST, Tx power, MCS) = (-66.0, 15, 7) - (mean, std): (0.498901513248286410, 0.058025885318565944)    played     3.86 s,        296 time(s)
+Node 0, (CST, Tx power, MCS) = (-66.0, 23, 7) - (mean, std): (0.512471622322902221, 0.058222250973958195)    played     4.19 s,        294 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.568230568519999757, 0.038604571824109146)    played     5.41 s,        670 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.592874509482518408, 0.026425821129084499)    played    11.39 s,       1431 time(s)
+                                                                                                           played    60.00 s,       5017 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-79.0, 15, 7) - (mean, std): (0.257491294527983583, 0.129099444873580549)    played     5.07 s,         59 time(s)
+Node 1, (CST, Tx power, MCS) = (-79.0, 23, 7) - (mean, std): (0.244118644963863513, 0.134839972492648424)    played     3.33 s,         54 time(s)
+Node 1, (CST, Tx power, MCS) = (-74.0, 15, 7) - (mean, std): (0.367035141619999283, 0.097128586235726413)    played     2.60 s,        105 time(s)
+Node 1, (CST, Tx power, MCS) = (-74.0, 23, 7) - (mean, std): (0.288290546442358853, 0.125988157669742418)    played     1.87 s,         62 time(s)
+Node 1, (CST, Tx power, MCS) = (-71.0, 15, 7) - (mean, std): (0.415147819511247795, 0.078326044998795738)    played     3.41 s,        162 time(s)
+Node 1, (CST, Tx power, MCS) = (-71.0, 23, 7) - (mean, std): (0.405105557971103203, 0.087038827977848926)    played     2.22 s,        131 time(s)
+Node 1, (CST, Tx power, MCS) = (-66.0, 15, 7) - (mean, std): (0.512067202286367040, 0.049446817643414874)    played     5.14 s,        408 time(s)
+Node 1, (CST, Tx power, MCS) = (-66.0, 23, 7) - (mean, std): (0.494593880069313430, 0.064549722436790274)    played     3.34 s,        239 time(s)
+Node 1, (CST, Tx power, MCS) = (-65.0, 15, 7) - (mean, std): (0.555371236426264625, 0.037904902178945168)    played     7.38 s,        695 time(s)
+Node 1, (CST, Tx power, MCS) = (-65.0, 23, 7) - (mean, std): (0.572058931873467347, 0.033576713893653728)    played     9.82 s,        886 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.595971571299026448, 0.033149677206589796)    played     6.80 s,        909 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.609377197682076988, 0.028915746598312010)    played     9.03 s,       1195 time(s)
+                                                                                                           played    60.00 s,       4905 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-64.0, 15, 7) - (mean, std): (0.632910427733067604, 0.025197631533948481)    played    14.83 s,       1574 time(s)
+Node 2, (CST, Tx power, MCS) = (-64.0, 23, 7) - (mean, std): (0.634194850797240584, 0.022016606784635510)    played    19.78 s,       2062 time(s)
+Node 2, (CST, Tx power, MCS) = (-78.0, 15, 7) - (mean, std): (0.170728563097750530, 0.156173761888606072)    played     1.86 s,         40 time(s)
+Node 2, (CST, Tx power, MCS) = (-78.0, 23, 7) - (mean, std): (0.306981608487839286, 0.122169444356305223)    played     1.82 s,         66 time(s)
+Node 2, (CST, Tx power, MCS) = (-76.0, 15, 7) - (mean, std): (0.396058109095988875, 0.099014754297667429)    played     1.61 s,        101 time(s)
+Node 2, (CST, Tx power, MCS) = (-76.0, 23, 7) - (mean, std): (0.406080061951603399, 0.092847669088525930)    played     2.07 s,        115 time(s)
+Node 2, (CST, Tx power, MCS) = (-71.0, 15, 7) - (mean, std): (0.455853101673534822, 0.086386842558136015)    played     1.95 s,        133 time(s)
+Node 2, (CST, Tx power, MCS) = (-71.0, 23, 7) - (mean, std): (0.442391840832513983, 0.092450032704204863)    played     1.95 s,        116 time(s)
+Node 2, (CST, Tx power, MCS) = (-69.0, 15, 7) - (mean, std): (0.445550253213099989, 0.088045090632562384)    played     1.65 s,        128 time(s)
+Node 2, (CST, Tx power, MCS) = (-69.0, 23, 7) - (mean, std): (0.526076259476627617, 0.067884423330213065)    played     2.57 s,        216 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.586217172159810951, 0.040356715613563084)    played     4.94 s,        613 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.616086787898665000, 0.039103094350288754)    played     4.97 s,        653 time(s)
+                                                                                                           played    60.00 s,       5817 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-64.0, 15, 7) - (mean, std): (0.621348891223753697, 0.037823473723611688)    played     6.03 s,        698 time(s)
+Node 3, (CST, Tx power, MCS) = (-64.0, 23, 7) - (mean, std): (0.635310331876366652, 0.028583097523751475)    played    10.49 s,       1223 time(s)
+Node 3, (CST, Tx power, MCS) = (-77.0, 15, 7) - (mean, std): (0.204859669054219012, 0.150755672288881815)    played     1.89 s,         43 time(s)
+Node 3, (CST, Tx power, MCS) = (-77.0, 23, 7) - (mean, std): (0.253663143751569342, 0.136082763487954339)    played     2.06 s,         53 time(s)
+Node 3, (CST, Tx power, MCS) = (-75.0, 15, 7) - (mean, std): (0.402698838629260147, 0.097590007294853329)    played     2.19 s,        104 time(s)
+Node 3, (CST, Tx power, MCS) = (-75.0, 23, 7) - (mean, std): (0.338397247361883813, 0.109764259989690346)    played     2.06 s,         82 time(s)
+Node 3, (CST, Tx power, MCS) = (-69.0, 15, 7) - (mean, std): (0.406263165836127760, 0.106600358177805221)    played     1.38 s,         87 time(s)
+Node 3, (CST, Tx power, MCS) = (-69.0, 23, 7) - (mean, std): (0.483546775334632140, 0.073922127095457285)    played     2.66 s,        182 time(s)
+Node 3, (CST, Tx power, MCS) = (-67.0, 15, 7) - (mean, std): (0.549859837480640934, 0.054635836470815304)    played     3.71 s,        334 time(s)
+Node 3, (CST, Tx power, MCS) = (-67.0, 23, 7) - (mean, std): (0.541600410523470743, 0.056888012398857428)    played     3.63 s,        308 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.709543992277158586, 0.018598415854403409)    played    20.84 s,       2890 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.603099414816119839, 0.049507377148833714)    played     3.04 s,        407 time(s)
+                                                                                                           played    59.99 s,       6411 time(s)
+
+Mean throughputs: [22.8013 21.9781 26.9003 30.0512]
+Aggregate throughput: 101.7308
+Min-Max: 8.0731
+JFI: 0.8866 [0.2500, 1]
+Mean TX power: [19.1618 19.1867 19.4394 17.8139]
+TX power counts:
+[[ -75  -74  -67  -66  -64  -62]
+ [  91  134  224  590 1877 2101]]
+[[ -79  -74  -71  -66  -65  -62]
+ [ 113  167  293  647 1581 2104]]
+[[ -78  -76  -71  -69  -64  -62]
+ [ 106  216  249  344 3636 1266]]
+[[ -77  -75  -69  -67  -64  -62]
+ [  96  186  269  642 1921 3297]]
+Mean PCS: [-63.9982 -64.8324 -64.8608 -63.9955]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 10 seconds of simulation:
+Mean throughputs: [21.9650 23.9608 31.9170 38.5990]
+Aggregate throughput: 116.4418
+Min-Max: 16.6340
+JFI: 0.8146 [0.2500, 1]
+Mean TX power: [19.8795 19.5418 19.2426 15.2788]
+TX power counts:
+[[-75 -74 -67 -66 -64 -62]
+ [  3   4  13  70 351 364]]
+[[-79 -74 -71 -66 -65 -62]
+ [  5  16  26  43 204 592]]
+[[-78 -76 -71 -69 -64 -62]
+ [  7  10  40  55 719 257]]
+[[ -77  -69  -67  -64  -62]
+ [   3    6    6   36 1269]]
+Mean PCS: [-63.4087 -63.4616 -64.2381 -62.1432]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 17634
+Node 0, (CST, Tx power, MCS) = (-71.0, 15, 7) - (mean, std): (0.352627030808279507, 0.090166963466743230)    played     2.19 s,        122 time(s)
+Node 0, (CST, Tx power, MCS) = (-71.0, 23, 7) - (mean, std): (0.437711948124687500, 0.058621038176054914)    played     4.57 s,        290 time(s)
+Node 0, (CST, Tx power, MCS) = (-63.0, 15, 7) - (mean, std): (0.494434891060494874, 0.057353933467640443)    played     2.91 s,        303 time(s)
+Node 0, (CST, Tx power, MCS) = (-63.0, 23, 7) - (mean, std): (0.562884069532036180, 0.026499947000159001)    played    14.42 s,       1423 time(s)
+Node 0, (CST, Tx power, MCS) = (-66.0, 15, 7) - (mean, std): (0.479153923925323744, 0.058621038176054914)    played     3.30 s,        290 time(s)
+Node 0, (CST, Tx power, MCS) = (-66.0, 23, 7) - (mean, std): (0.488690825719215238, 0.048056933133221270)    played     5.21 s,        432 time(s)
+Node 0, (CST, Tx power, MCS) = (-73.0, 15, 7) - (mean, std): (0.421852695083620555, 0.066226617853252193)    played     3.66 s,        227 time(s)
+Node 0, (CST, Tx power, MCS) = (-73.0, 23, 7) - (mean, std): (0.441271150193150774, 0.065653216429861272)    played     3.44 s,        231 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.564310261635883603, 0.032547227745205964)    played     8.23 s,        943 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.599533074482202277, 0.026707054531881675)    played    12.06 s,       1401 time(s)
+                                                                                                           played    59.99 s,       5662 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-64.0, 15, 7) - (mean, std): (0.286603618475246902, 0.059234887775909240)    played     5.65 s,        284 time(s)
+Node 1, (CST, Tx power, MCS) = (-64.0, 23, 7) - (mean, std): (0.352107909952313891, 0.035114749361031178)    played    15.58 s,        810 time(s)
+Node 1, (CST, Tx power, MCS) = (-67.0, 15, 7) - (mean, std): (0.309729430912487780, 0.049507377148833714)    played     8.10 s,        407 time(s)
+Node 1, (CST, Tx power, MCS) = (-67.0, 23, 7) - (mean, std): (0.348577881838533998, 0.038547167224584983)    played    13.87 s,        672 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.306507099427000718, 0.050062617432175889)    played     6.21 s,        398 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.349583842268831102, 0.038404768632128425)    played    10.58 s,        677 time(s)
+                                                                                                           played    59.98 s,       3248 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-71.0, 15, 7) - (mean, std): (0.284293422316659772, 0.062257280636469035)    played     7.77 s,        257 time(s)
+Node 2, (CST, Tx power, MCS) = (-71.0, 23, 7) - (mean, std): (0.289345101693795181, 0.062745580513815860)    played     7.55 s,        253 time(s)
+Node 2, (CST, Tx power, MCS) = (-63.0, 15, 7) - (mean, std): (0.334298358099127668, 0.048280454958526758)    played     8.83 s,        428 time(s)
+Node 2, (CST, Tx power, MCS) = (-63.0, 23, 7) - (mean, std): (0.332851217304234226, 0.046423834544262965)    played     9.25 s,        463 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.403049320074836848, 0.028127197523150599)    played    15.97 s,       1263 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.403851564060625279, 0.034001020045902296)    played    10.62 s,        864 time(s)
+                                                                                                           played    59.99 s,       3528 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-66.0, 15, 7) - (mean, std): (0.403578505147839328, 0.058222250973958195)    played     3.95 s,        294 time(s)
+Node 3, (CST, Tx power, MCS) = (-66.0, 23, 7) - (mean, std): (0.391499599064526804, 0.065232807305344226)    played     3.40 s,        234 time(s)
+Node 3, (CST, Tx power, MCS) = (-67.0, 15, 7) - (mean, std): (0.407709271904128978, 0.055901699437494741)    played     4.54 s,        319 time(s)
+Node 3, (CST, Tx power, MCS) = (-67.0, 23, 7) - (mean, std): (0.367821554508508120, 0.066519010523773930)    played     3.23 s,        225 time(s)
+Node 3, (CST, Tx power, MCS) = (-74.0, 15, 7) - (mean, std): (0.327210918967767106, 0.079808688446762213)    played     3.38 s,        156 time(s)
+Node 3, (CST, Tx power, MCS) = (-74.0, 23, 7) - (mean, std): (0.334904659063920196, 0.079555728417573010)    played     3.26 s,        157 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.541097100532970665, 0.018824415287446387)    played    28.39 s,       2821 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.527516777685096305, 0.031766046899489794)    played     9.84 s,        990 time(s)
+                                                                                                           played    60.00 s,       5196 time(s)
+
+Mean throughputs: [24.6772 13.4292 15.2709 22.9034]
+Aggregate throughput: 76.2807
+Min-Max: 11.2481
+JFI: 0.7987 [0.2500, 1]
+Mean TX power: [20.3366 20.3177 18.5828 17.4727]
+TX power counts:
+[[ -73  -71  -66  -63  -62]
+ [ 458  412  722 1726 2344]]
+[[ -67  -64  -62]
+ [1079 1094 1075]]
+[[ -71  -63  -62]
+ [ 510  891 2127]]
+[[ -74  -67  -66  -62]
+ [ 313  544  528 3811]]
+Mean PCS: [-64.3596 -64.3347 -63.5536 -63.6528]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 10 seconds of simulation:
+Mean throughputs: [29.8794 11.1925 15.8659 25.8640]
+Aggregate throughput: 82.8018
+Min-Max: 18.6868
+JFI: 0.7342 [0.2500, 1]
+Mean TX power: [20.5190 20.7702 19.4342 17.5962]
+TX power counts:
+[[-73 -71 -66 -63 -62]
+ [ 20  14  67 269 736]]
+[[-67 -64 -62]
+ [150 160 160]]
+[[-71 -63 -62]
+ [ 31  68 509]]
+[[-74 -67 -66 -62]
+ [ 10   9  16 911]]
+Mean PCS: [-62.7984 -64.2766 -62.5707 -62.2421]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 22681
+Node 0, (CST, Tx power, MCS) = (-79.0, 15, 7) - (mean, std): (0.283169074808491406, 0.104828483672191830)    played     3.29 s,         90 time(s)
+Node 0, (CST, Tx power, MCS) = (-79.0, 23, 7) - (mean, std): (0.310005642894226829, 0.100000000000000006)    played     3.35 s,         99 time(s)
+Node 0, (CST, Tx power, MCS) = (-71.0, 15, 7) - (mean, std): (0.371594695419517562, 0.079808688446762213)    played     4.00 s,        156 time(s)
+Node 0, (CST, Tx power, MCS) = (-71.0, 23, 7) - (mean, std): (0.326485752436357024, 0.093658581158169399)    played     3.43 s,        113 time(s)
+Node 0, (CST, Tx power, MCS) = (-68.0, 15, 7) - (mean, std): (0.469282011742543081, 0.054153036107388232)    played     3.85 s,        340 time(s)
+Node 0, (CST, Tx power, MCS) = (-68.0, 23, 7) - (mean, std): (0.468314183769507786, 0.057928444636349226)    played     3.43 s,        297 time(s)
+Node 0, (CST, Tx power, MCS) = (-69.0, 15, 7) - (mean, std): (0.500328607771377443, 0.044280744277004763)    played     6.07 s,        509 time(s)
+Node 0, (CST, Tx power, MCS) = (-69.0, 23, 7) - (mean, std): (0.428567537332631143, 0.073127242412713067)    played     2.33 s,        186 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.662107313938047670, 0.019741114796436383)    played    21.67 s,       2565 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.582854324658035106, 0.031670317760976820)    played     8.57 s,        996 time(s)
+                                                                                                           played    60.00 s,       5351 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-72.0, 15, 7) - (mean, std): (0.271967137228723954, 0.102062072615965754)    played     4.56 s,         95 time(s)
+Node 1, (CST, Tx power, MCS) = (-72.0, 23, 7) - (mean, std): (0.267084167753550539, 0.102062072615965754)    played     4.48 s,         95 time(s)
+Node 1, (CST, Tx power, MCS) = (-69.0, 15, 7) - (mean, std): (0.341659374415846873, 0.083333333333333329)    played     3.03 s,        143 time(s)
+Node 1, (CST, Tx power, MCS) = (-69.0, 23, 7) - (mean, std): (0.333358841127621097, 0.083918135829668908)    played     3.10 s,        141 time(s)
+Node 1, (CST, Tx power, MCS) = (-64.0, 15, 7) - (mean, std): (0.390257886987195768, 0.071066905451870152)    played     3.02 s,        197 time(s)
+Node 1, (CST, Tx power, MCS) = (-64.0, 23, 7) - (mean, std): (0.434860374135320915, 0.052486388108147798)    played     5.46 s,        362 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.602870450970819594, 0.028409549486356805)    played    11.60 s,       1238 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.608529131791160860, 0.019466160726095222)    played    24.74 s,       2638 time(s)
+                                                                                                           played    60.00 s,       4909 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-70.0, 15, 7) - (mean, std): (0.327991030822354479, 0.077382323253413682)    played     4.90 s,        166 time(s)
+Node 2, (CST, Tx power, MCS) = (-70.0, 23, 7) - (mean, std): (0.332456392247427956, 0.074535599249992993)    played     4.17 s,        179 time(s)
+Node 2, (CST, Tx power, MCS) = (-66.0, 15, 7) - (mean, std): (0.419905711069799903, 0.046625240412015691)    played     7.95 s,        459 time(s)
+Node 2, (CST, Tx power, MCS) = (-66.0, 23, 7) - (mean, std): (0.380008551386575466, 0.068199433947047347)    played     3.52 s,        214 time(s)
+Node 2, (CST, Tx power, MCS) = (-74.0, 15, 7) - (mean, std): (0.293616149708409546, 0.085125653075874858)    played     5.63 s,        137 time(s)
+Node 2, (CST, Tx power, MCS) = (-74.0, 23, 7) - (mean, std): (0.253430166197507079, 0.101015254455221068)    played     4.87 s,         97 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.522534161576943545, 0.025118017965166415)    played    16.74 s,       1584 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.536951234847296788, 0.029373674772302332)    played    11.97 s,       1158 time(s)
+                                                                                                           played    59.75 s,       3994 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-64.0, 15, 7) - (mean, std): (0.575066102241575727, 0.060858061945018457)    played     2.22 s,        269 time(s)
+Node 3, (CST, Tx power, MCS) = (-64.0, 23, 7) - (mean, std): (0.601920990041515225, 0.070186240634359645)    played     1.48 s,        202 time(s)
+Node 3, (CST, Tx power, MCS) = (-80.0, 15, 7) - (mean, std): (0.420450466247764776, 0.103142124625879336)    played     1.99 s,         93 time(s)
+Node 3, (CST, Tx power, MCS) = (-80.0, 23, 7) - (mean, std): (0.349414698930808731, 0.133630620956212198)    played     1.20 s,         55 time(s)
+Node 3, (CST, Tx power, MCS) = (-75.0, 15, 7) - (mean, std): (0.422420245359903967, 0.104257207028537385)    played     1.35 s,         91 time(s)
+Node 3, (CST, Tx power, MCS) = (-75.0, 23, 7) - (mean, std): (0.376442138230886014, 0.122169444356305223)    played     1.16 s,         66 time(s)
+Node 3, (CST, Tx power, MCS) = (-72.0, 15, 7) - (mean, std): (0.401316697730722816, 0.110431526074846548)    played     0.92 s,         81 time(s)
+Node 3, (CST, Tx power, MCS) = (-72.0, 23, 7) - (mean, std): (0.484219836526063041, 0.093658581158169399)    played     1.25 s,        113 time(s)
+Node 3, (CST, Tx power, MCS) = (-71.0, 15, 7) - (mean, std): (0.498945563318323571, 0.085125653075874858)    played     1.40 s,        137 time(s)
+Node 3, (CST, Tx power, MCS) = (-71.0, 23, 7) - (mean, std): (0.510599054890244264, 0.085125653075874858)    played     1.31 s,        137 time(s)
+Node 3, (CST, Tx power, MCS) = (-66.0, 15, 7) - (mean, std): (0.514787218189868723, 0.084215192106651890)    played     1.26 s,        140 time(s)
+Node 3, (CST, Tx power, MCS) = (-66.0, 23, 7) - (mean, std): (0.562919578245688834, 0.073323557510676651)    played     1.51 s,        185 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.744903724261748446, 0.021511595185875910)    played    14.15 s,       2160 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.819414411705883694, 0.014588051152682585)    played    28.80 s,       4698 time(s)
+                                                                                                           played    60.00 s,       8427 time(s)
+
+Mean throughputs: [24.6159 23.2130 18.1407 40.7871]
+Aggregate throughput: 106.7567
+Min-Max: 22.6464
+JFI: 0.7587 [0.2500, 1]
+Mean TX power: [17.5281 20.2736 18.3010 20.1795]
+TX power counts:
+[[ -79  -71  -69  -68  -62]
+ [ 189  269  695  637 3561]]
+[[ -72  -69  -64  -62]
+ [ 190  284  559 3876]]
+[[ -74  -70  -66  -62]
+ [ 234  345  673 2742]]
+[[ -80  -75  -72  -71  -66  -64  -62]
+ [ 148  157  194  274  325  471 6858]]
+Mean PCS: [-64.6763 -63.0198 -64.0681 -63.3472]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 10 seconds of simulation:
+Mean throughputs: [34.7693 33.0535 18.6791 53.4095]
+Aggregate throughput: 139.9114
+Min-Max: 34.7304
+JFI: 0.7392 [0.2500, 1]
+Mean TX power: [15.6380 20.0889 19.4111 22.9099]
+TX power counts:
+[[ -71  -69  -68  -62]
+ [   6    4    3 1103]]
+[[ -72  -69  -64  -62]
+ [   3    1    3 1073]]
+[[-74 -70 -66 -62]
+ [  8   3  15 587]]
+[[ -80  -72  -64  -62]
+ [   2    1    4 1680]]
+Mean PCS: [-62.0896 -62.0398 -62.2936 -62.0320]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 21000
+Node 0, (CST, Tx power, MCS) = (-70.0, 15, 7) - (mean, std): (0.336536276612304786, 0.088735650941611371)    played     3.57 s,        126 time(s)
+Node 0, (CST, Tx power, MCS) = (-70.0, 23, 7) - (mean, std): (0.350503174191317324, 0.082199493652678646)    played     4.48 s,        147 time(s)
+Node 0, (CST, Tx power, MCS) = (-63.0, 15, 7) - (mean, std): (0.518998703302803843, 0.046175709653961013)    played     5.22 s,        468 time(s)
+Node 0, (CST, Tx power, MCS) = (-63.0, 23, 7) - (mean, std): (0.572975853740427477, 0.025070610528195012)    played    17.59 s,       1590 time(s)
+Node 0, (CST, Tx power, MCS) = (-78.0, 15, 7) - (mean, std): (0.245516173210371030, 0.113960576459637947)    played     4.71 s,         76 time(s)
+Node 0, (CST, Tx power, MCS) = (-78.0, 23, 7) - (mean, std): (0.254420575996108511, 0.112508790092602395)    played     4.53 s,         78 time(s)
+Node 0, (CST, Tx power, MCS) = (-66.0, 15, 7) - (mean, std): (0.470197679537736890, 0.050188561322849559)    played     4.65 s,        396 time(s)
+Node 0, (CST, Tx power, MCS) = (-66.0, 23, 7) - (mean, std): (0.471559319940925759, 0.059868434008924970)    played     3.77 s,        278 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.505655410409331263, 0.050572173742417362)    played     4.45 s,        390 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.522287256650386444, 0.039253433598942983)    played     7.04 s,        648 time(s)
+                                                                                                           played    60.00 s,       4197 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-79.0, 15, 7) - (mean, std): (0.272932921617306701, 0.090909090909090912)    played     4.57 s,        120 time(s)
+Node 1, (CST, Tx power, MCS) = (-79.0, 23, 7) - (mean, std): (0.248472386141764950, 0.102597835208515412)    played     5.70 s,         94 time(s)
+Node 1, (CST, Tx power, MCS) = (-71.0, 15, 7) - (mean, std): (0.331371392279461885, 0.083045479853739973)    played     4.63 s,        144 time(s)
+Node 1, (CST, Tx power, MCS) = (-71.0, 23, 7) - (mean, std): (0.358717523416934914, 0.070359754473029182)    played     5.30 s,        201 time(s)
+Node 1, (CST, Tx power, MCS) = (-67.0, 15, 7) - (mean, std): (0.456543966644850474, 0.044065264923923174)    played     6.76 s,        514 time(s)
+Node 1, (CST, Tx power, MCS) = (-67.0, 23, 7) - (mean, std): (0.500652933163797775, 0.036202430712799827)    played     9.51 s,        762 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.492328131737143904, 0.036107907233705945)    played     8.95 s,        766 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.517643566119399545, 0.027389551783238836)    played    14.58 s,       1332 time(s)
+                                                                                                           played    60.00 s,       3933 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-81.0, 15, 7) - (mean, std): (0.337906429522133733, 0.132453235706504385)    played     1.36 s,         56 time(s)
+Node 2, (CST, Tx power, MCS) = (-81.0, 23, 7) - (mean, std): (0.338743359736035476, 0.133630620956212198)    played     1.08 s,         55 time(s)
+Node 2, (CST, Tx power, MCS) = (-79.0, 15, 7) - (mean, std): (0.399040431229179871, 0.117041147196130554)    played     0.97 s,         72 time(s)
+Node 2, (CST, Tx power, MCS) = (-79.0, 23, 7) - (mean, std): (0.407184109877915645, 0.113227703414459577)    played     1.22 s,         77 time(s)
+Node 2, (CST, Tx power, MCS) = (-73.0, 15, 7) - (mean, std): (0.490203020786181054, 0.093658581158169399)    played     1.13 s,        113 time(s)
+Node 2, (CST, Tx power, MCS) = (-73.0, 23, 7) - (mean, std): (0.437918161499774528, 0.104257207028537385)    played     0.96 s,         91 time(s)
+Node 2, (CST, Tx power, MCS) = (-71.0, 15, 7) - (mean, std): (0.503843944926464893, 0.097590007294853329)    played     0.89 s,        104 time(s)
+Node 2, (CST, Tx power, MCS) = (-71.0, 23, 7) - (mean, std): (0.591359365150958549, 0.059443829827776400)    played     2.60 s,        282 time(s)
+Node 2, (CST, Tx power, MCS) = (-70.0, 15, 7) - (mean, std): (0.532376886983853659, 0.087370405666103795)    played     1.22 s,        130 time(s)
+Node 2, (CST, Tx power, MCS) = (-70.0, 23, 7) - (mean, std): (0.601024065101912419, 0.057639041770423498)    played     2.16 s,        300 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.801113774079829977, 0.019589023819033338)    played    16.07 s,       2605 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.854202226035315815, 0.013995941765246817)    played    30.34 s,       5104 time(s)
+                                                                                                           played    60.00 s,       8989 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-73.0, 15, 7) - (mean, std): (0.354245409144743784, 0.074953168899586142)    played     3.91 s,        177 time(s)
+Node 3, (CST, Tx power, MCS) = (-73.0, 23, 7) - (mean, std): (0.384558069551713233, 0.059654998627189357)    played     5.39 s,        280 time(s)
+Node 3, (CST, Tx power, MCS) = (-81.0, 15, 7) - (mean, std): (0.263478383455474474, 0.094915799575249898)    played     6.42 s,        110 time(s)
+Node 3, (CST, Tx power, MCS) = (-81.0, 23, 7) - (mean, std): (0.299809037137256207, 0.081378845877115941)    played     6.05 s,        150 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.477179112965337493, 0.041134503489486357)    played     7.38 s,        590 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.588269692129069210, 0.019706585563285865)    played    30.82 s,       2574 time(s)
+                                                                                                           played    59.98 s,       3881 time(s)
+
+Mean throughputs: [19.1542 18.2451 45.2334 19.7275]
+Aggregate throughput: 102.3602
+Min-Max: 26.9883
+JFI: 0.6927 [0.2500, 1]
+Mean TX power: [20.2247 19.8594 20.2589 21.1922]
+TX power counts:
+[[ -78  -70  -66  -63  -62]
+ [ 154  273  674 2058 1038]]
+[[ -79  -71  -67  -62]
+ [ 214  345 1276 2098]]
+[[ -81  -79  -73  -71  -70  -62]
+ [ 111  149  204  386  430 7709]]
+[[ -81  -73  -62]
+ [ 260  457 3164]]
+Mean PCS: [-64.2402 -65.3366 -63.5352 -64.5682]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 10 seconds of simulation:
+Mean throughputs: [17.5149 15.1876 58.7722 29.2496]
+Aggregate throughput: 120.7243
+Min-Max: 43.5846
+JFI: 0.6350 [0.2500, 1]
+Mean TX power: [21.0478 20.7033 22.4727 22.8296]
+TX power counts:
+[[-78 -70 -66 -63 -62]
+ [  3   8  39 404 132]]
+[[-79 -71 -67 -62]
+ [  2  12 144 361]]
+[[ -71  -70  -62]
+ [   1    1 1773]]
+[[-73 -62]
+ [  2 890]]
+Mean PCS: [-63.1468 -63.6609 -62.0096 -62.0247]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 23880
+Node 0, (CST, Tx power, MCS) = (-64.0, 15, 7) - (mean, std): (0.420502650923975652, 0.073720978077448568)    played     2.36 s,        183 time(s)
+Node 0, (CST, Tx power, MCS) = (-64.0, 23, 7) - (mean, std): (0.492190837081823485, 0.063245553203367583)    played     3.20 s,        249 time(s)
+Node 0, (CST, Tx power, MCS) = (-66.0, 15, 7) - (mean, std): (0.395369669472093066, 0.094915799575249898)    played     1.43 s,        110 time(s)
+Node 0, (CST, Tx power, MCS) = (-66.0, 23, 7) - (mean, std): (0.553543256930844940, 0.047511433814557982)    played     5.80 s,        442 time(s)
+Node 0, (CST, Tx power, MCS) = (-74.0, 15, 7) - (mean, std): (0.333046540207611319, 0.094072086838359728)    played     6.03 s,        112 time(s)
+Node 0, (CST, Tx power, MCS) = (-74.0, 23, 7) - (mean, std): (0.292282953719438188, 0.099503719020998915)    played     5.43 s,        100 time(s)
+Node 0, (CST, Tx power, MCS) = (-73.0, 15, 7) - (mean, std): (0.354803027598693976, 0.088045090632562384)    played     2.80 s,        128 time(s)
+Node 0, (CST, Tx power, MCS) = (-73.0, 23, 7) - (mean, std): (0.401909277434526979, 0.074743509275193590)    played     3.42 s,        178 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.599992103443714120, 0.020040120401405060)    played    25.79 s,       2489 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.510756174760345960, 0.051917413165116506)    played     3.74 s,        370 time(s)
+                                                                                                           played    60.00 s,       4361 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-66.0, 15, 7) - (mean, std): (0.504175982949914059, 0.076696498884737049)    played     1.69 s,        169 time(s)
+Node 1, (CST, Tx power, MCS) = (-66.0, 23, 7) - (mean, std): (0.537376213645466838, 0.062017367294604227)    played     2.36 s,        259 time(s)
+Node 1, (CST, Tx power, MCS) = (-75.0, 15, 7) - (mean, std): (0.262212025494335088, 0.137360563948689035)    played     2.55 s,         52 time(s)
+Node 1, (CST, Tx power, MCS) = (-75.0, 23, 7) - (mean, std): (0.257266543338764364, 0.137360563948689035)    played     2.52 s,         52 time(s)
+Node 1, (CST, Tx power, MCS) = (-74.0, 15, 7) - (mean, std): (0.464690333225356134, 0.083045479853739973)    played     2.62 s,        144 time(s)
+Node 1, (CST, Tx power, MCS) = (-74.0, 23, 7) - (mean, std): (0.406621720616409166, 0.095782628522115137)    played     1.97 s,        108 time(s)
+Node 1, (CST, Tx power, MCS) = (-67.0, 15, 7) - (mean, std): (0.546878088481518976, 0.056254395046301198)    played     3.79 s,        315 time(s)
+Node 1, (CST, Tx power, MCS) = (-67.0, 23, 7) - (mean, std): (0.461875281616388522, 0.083624201000709081)    played     2.11 s,        142 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.735370081856704383, 0.013303802104754786)    played    38.40 s,       5649 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.579515484939123970, 0.061662641597820742)    played     1.99 s,        262 time(s)
+                                                                                                           played    60.00 s,       7152 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-63.0, 15, 7) - (mean, std): (0.637668821042760903, 0.033786868919974296)    played     7.74 s,        875 time(s)
+Node 2, (CST, Tx power, MCS) = (-63.0, 23, 7) - (mean, std): (0.667573416434678935, 0.033922676577637915)    played     7.89 s,        868 time(s)
+Node 2, (CST, Tx power, MCS) = (-76.0, 15, 7) - (mean, std): (0.298833228358225622, 0.127000127000190505)    played     2.51 s,         61 time(s)
+Node 2, (CST, Tx power, MCS) = (-76.0, 23, 7) - (mean, std): (0.350417288038858576, 0.111111111111111105)    played     3.00 s,         80 time(s)
+Node 2, (CST, Tx power, MCS) = (-74.0, 15, 7) - (mean, std): (0.412253856420264020, 0.099014754297667429)    played     1.46 s,        101 time(s)
+Node 2, (CST, Tx power, MCS) = (-74.0, 23, 7) - (mean, std): (0.401806158087406995, 0.103142124625879336)    played     1.50 s,         93 time(s)
+Node 2, (CST, Tx power, MCS) = (-68.0, 15, 7) - (mean, std): (0.583267161998010986, 0.059549133417541367)    played     3.08 s,        281 time(s)
+Node 2, (CST, Tx power, MCS) = (-68.0, 23, 7) - (mean, std): (0.543134847412211519, 0.071981575074869450)    played     2.26 s,        192 time(s)
+Node 2, (CST, Tx power, MCS) = (-67.0, 15, 7) - (mean, std): (0.640420495181753147, 0.039133024009741620)    played     6.30 s,        652 time(s)
+Node 2, (CST, Tx power, MCS) = (-67.0, 23, 7) - (mean, std): (0.591029125669288113, 0.052704627669472988)    played     3.69 s,        359 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.669458435285867015, 0.024492448305451230)    played    13.82 s,       1666 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.657401381566777077, 0.035759926992607577)    played     6.75 s,        781 time(s)
+                                                                                                           played    59.99 s,       6009 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-64.0, 15, 7) - (mean, std): (0.619822735906723099, 0.035245368842512066)    played     6.09 s,        804 time(s)
+Node 3, (CST, Tx power, MCS) = (-64.0, 23, 7) - (mean, std): (0.595140272722588404, 0.045501575519329006)    played     3.81 s,        482 time(s)
+Node 3, (CST, Tx power, MCS) = (-76.0, 15, 7) - (mean, std): (0.310421717073151526, 0.112508790092602395)    played     3.61 s,         78 time(s)
+Node 3, (CST, Tx power, MCS) = (-76.0, 23, 7) - (mean, std): (0.306317416193071512, 0.121267812518166485)    played     3.64 s,         67 time(s)
+Node 3, (CST, Tx power, MCS) = (-72.0, 15, 7) - (mean, std): (0.399821742912787326, 0.088735650941611371)    played     3.35 s,        126 time(s)
+Node 3, (CST, Tx power, MCS) = (-72.0, 23, 7) - (mean, std): (0.393480815626978508, 0.093250480824031381)    played     3.27 s,        114 time(s)
+Node 3, (CST, Tx power, MCS) = (-68.0, 15, 7) - (mean, std): (0.481044023336340165, 0.070534561585859828)    played     3.35 s,        200 time(s)
+Node 3, (CST, Tx power, MCS) = (-68.0, 23, 7) - (mean, std): (0.419365891381211331, 0.087705801930702917)    played     2.31 s,        129 time(s)
+Node 3, (CST, Tx power, MCS) = (-66.0, 15, 7) - (mean, std): (0.521266528849704036, 0.055300126360933101)    played     3.32 s,        326 time(s)
+Node 3, (CST, Tx power, MCS) = (-66.0, 23, 7) - (mean, std): (0.449855796823089238, 0.097128586235726413)    played     1.02 s,        105 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.727110677211469492, 0.019017456528224095)    played    18.18 s,       2764 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.654666061995779369, 0.029310519088027457)    played     8.06 s,       1163 time(s)
+                                                                                                           played    59.99 s,       6358 time(s)
+
+Mean throughputs: [20.8356 33.8888 29.0969 28.8455]
+Aggregate throughput: 112.6668
+Min-Max: 13.0532
+JFI: 0.8574 [0.2500, 1]
+Mean TX power: [17.4563 15.9206 18.1593 17.5920]
+TX power counts:
+[[ -74  -73  -66  -64  -62]
+ [ 212  306  552  432 2859]]
+[[ -75  -74  -67  -66  -62]
+ [ 104  252  457  428 5911]]
+[[ -76  -74  -68  -67  -63  -62]
+ [ 141  194  473 1011 1743 2447]]
+[[ -76  -72  -68  -66  -64  -62]
+ [ 145  240  329  431 1286 3927]]
+Mean PCS: [-64.0596 -63.1707 -64.3195 -63.6829]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 10 seconds of simulation:
+Mean throughputs: [24.3601 44.9380 30.9151 45.9139]
+Aggregate throughput: 146.1270
+Min-Max: 21.5538
+JFI: 0.7989 [0.2500, 1]
+Mean TX power: [16.7909 15.1956 18.9176 15.8260]
+TX power counts:
+[[-74 -73 -66 -64 -62]
+ [  4   7 131  37 634]]
+[[ -75  -74  -67  -66  -62]
+ [   2    2    1   12 1496]]
+[[-76 -74 -68 -67 -63 -62]
+ [  2   5  40 137 360 475]]
+[[ -76  -72  -66  -64  -62]
+ [   1    1    7   60 1500]]
+Mean PCS: [-62.8893 -62.0681 -63.3474 -62.1096]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 21129
+Node 0, (CST, Tx power, MCS) = (-72.0, 15, 7) - (mean, std): (0.362763644444568323, 0.086066296582387042)    played     2.32 s,        134 time(s)
+Node 0, (CST, Tx power, MCS) = (-72.0, 23, 7) - (mean, std): (0.355733741151357752, 0.092450032704204863)    played     2.51 s,        116 time(s)
+Node 0, (CST, Tx power, MCS) = (-63.0, 15, 7) - (mean, std): (0.490559085945626139, 0.050636968354183333)    played     3.50 s,        389 time(s)
+Node 0, (CST, Tx power, MCS) = (-63.0, 23, 7) - (mean, std): (0.508269077922197665, 0.049147318718299041)    played     4.34 s,        413 time(s)
+Node 0, (CST, Tx power, MCS) = (-66.0, 15, 7) - (mean, std): (0.408570724135116137, 0.079808688446762213)    played     2.60 s,        156 time(s)
+Node 0, (CST, Tx power, MCS) = (-66.0, 23, 7) - (mean, std): (0.405567133615939435, 0.083624201000709081)    played     2.49 s,        142 time(s)
+Node 0, (CST, Tx power, MCS) = (-65.0, 15, 7) - (mean, std): (0.362107972623574637, 0.090166963466743230)    played     1.85 s,        122 time(s)
+Node 0, (CST, Tx power, MCS) = (-65.0, 23, 7) - (mean, std): (0.432285713930705029, 0.067728546147859642)    played     3.34 s,        217 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.770377828122557617, 0.015154994659001948)    played    29.80 s,       4353 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.560932864152101640, 0.035967500063280325)    played     7.25 s,        772 time(s)
+                                                                                                           played    60.00 s,       6814 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-72.0, 15, 7) - (mean, std): (0.335714280910058671, 0.072168783648703216)    played     8.52 s,        191 time(s)
+Node 1, (CST, Tx power, MCS) = (-72.0, 23, 7) - (mean, std): (0.358689666327943635, 0.063245553203367583)    played     9.85 s,        249 time(s)
+Node 1, (CST, Tx power, MCS) = (-64.0, 15, 7) - (mean, std): (0.419597085076392151, 0.057166195047502949)    played     3.79 s,        305 time(s)
+Node 1, (CST, Tx power, MCS) = (-64.0, 23, 7) - (mean, std): (0.452721367404325892, 0.055470019622522911)    played     3.62 s,        324 time(s)
+Node 1, (CST, Tx power, MCS) = (-68.0, 15, 7) - (mean, std): (0.348191205872150411, 0.079305158571814416)    played     3.19 s,        158 time(s)
+Node 1, (CST, Tx power, MCS) = (-68.0, 23, 7) - (mean, std): (0.432921505160925868, 0.055901699437494741)    played     5.33 s,        319 time(s)
+Node 1, (CST, Tx power, MCS) = (-65.0, 15, 7) - (mean, std): (0.360784797253763279, 0.070014004201400484)    played     2.51 s,        203 time(s)
+Node 1, (CST, Tx power, MCS) = (-65.0, 23, 7) - (mean, std): (0.373275914168141598, 0.076249285166302333)    played     2.13 s,        171 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.752868405272568597, 0.020801757406701711)    played    15.36 s,       2310 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.531488869787570040, 0.037796447300922721)    played     5.68 s,        699 time(s)
+                                                                                                           played    60.00 s,       4929 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-72.0, 15, 7) - (mean, std): (0.414695278830685687, 0.073127242412713067)    played     3.00 s,        186 time(s)
+Node 2, (CST, Tx power, MCS) = (-72.0, 23, 7) - (mean, std): (0.410181641049492507, 0.077849894416152296)    played     2.68 s,        164 time(s)
+Node 2, (CST, Tx power, MCS) = (-65.0, 15, 7) - (mean, std): (0.453457819542435248, 0.067267279399631244)    played     2.71 s,        220 time(s)
+Node 2, (CST, Tx power, MCS) = (-65.0, 23, 7) - (mean, std): (0.395647972250615543, 0.090166963466743230)    played     1.67 s,        122 time(s)
+Node 2, (CST, Tx power, MCS) = (-64.0, 15, 7) - (mean, std): (0.484844791299625821, 0.072168783648703216)    played     1.90 s,        191 time(s)
+Node 2, (CST, Tx power, MCS) = (-64.0, 23, 7) - (mean, std): (0.530456686021099855, 0.045834924851410566)    played     4.74 s,        475 time(s)
+Node 2, (CST, Tx power, MCS) = (-73.0, 15, 7) - (mean, std): (0.332138317815705186, 0.098532927816429305)    played     2.20 s,        102 time(s)
+Node 2, (CST, Tx power, MCS) = (-73.0, 23, 7) - (mean, std): (0.393007349762608316, 0.079555728417573010)    played     3.22 s,        157 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.839313432826560568, 0.014111125222243389)    played    31.08 s,       5021 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.602499241493150484, 0.034752402342845795)    played     6.80 s,        827 time(s)
+                                                                                                           played    60.00 s,       7465 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-63.0, 15, 7) - (mean, std): (0.332702196193936983, 0.063119440309780311)    played     7.32 s,        250 time(s)
+Node 3, (CST, Tx power, MCS) = (-63.0, 23, 7) - (mean, std): (0.347389619085633650, 0.057543533764843599)    played    10.47 s,        301 time(s)
+Node 3, (CST, Tx power, MCS) = (-67.0, 15, 7) - (mean, std): (0.331997594754137870, 0.062257280636469035)    played     9.64 s,        257 time(s)
+Node 3, (CST, Tx power, MCS) = (-67.0, 23, 7) - (mean, std): (0.359950063016444444, 0.053760333057047034)    played    17.57 s,        345 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.367784749619934515, 0.057928444636349226)    played     4.96 s,        297 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.390099874758008225, 0.046028730894916166)    played     9.85 s,        471 time(s)
+                                                                                                           played    59.82 s,       1921 time(s)
+
+Mean throughputs: [32.0950 22.3584 36.8259  8.9920]
+Aggregate throughput: 100.2714
+Min-Max: 27.8340
+JFI: 0.7019 [0.2500, 1]
+Mean TX power: [16.9489 17.8598 16.8701 19.6517]
+TX power counts:
+[[ -72  -66  -65  -63  -62]
+ [ 250  298  339  802 5125]]
+[[ -72  -68  -65  -64  -62]
+ [ 440  477  374  629 3009]]
+[[ -73  -72  -65  -64  -62]
+ [ 259  350  342  666 5848]]
+[[-67 -63 -62]
+ [602 551 768]]
+Mean PCS: [-62.8088 -63.9562 -63.1664 -63.8537]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 10 seconds of simulation:
+Mean throughputs: [52.4526 49.3871 57.2604  1.9142]
+Aggregate throughput: 161.0143
+Min-Max: 55.3462
+JFI: 0.6434 [0.2500, 1]
+Mean TX power: [15.0000 15.1970 15.0000 20.7436]
+TX power counts:
+[[ -62]
+ [1661]]
+[[ -72  -68  -64  -62]
+ [   1    2    8 1573]]
+[[ -62]
+ [1735]]
+[[-67 -63 -62]
+ [ 15  11  52]]
+Mean PCS: [-62.0000 -62.0240 -62.0000 -63.1026]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 20926
+Node 0, (CST, Tx power, MCS) = (-72.0, 15, 7) - (mean, std): (0.413940005551052037, 0.085125653075874858)    played     2.17 s,        137 time(s)
+Node 0, (CST, Tx power, MCS) = (-72.0, 23, 7) - (mean, std): (0.407474834804444075, 0.087038827977848926)    played     2.13 s,        131 time(s)
+Node 0, (CST, Tx power, MCS) = (-64.0, 15, 7) - (mean, std): (0.493347308190302536, 0.062136976600120006)    played     2.92 s,        258 time(s)
+Node 0, (CST, Tx power, MCS) = (-64.0, 23, 7) - (mean, std): (0.468193984182051604, 0.071247049987909636)    played     2.27 s,        196 time(s)
+Node 0, (CST, Tx power, MCS) = (-81.0, 15, 7) - (mean, std): (0.349639831687119318, 0.104257207028537385)    played     2.06 s,         91 time(s)
+Node 0, (CST, Tx power, MCS) = (-81.0, 23, 7) - (mean, std): (0.336561874882844447, 0.110431526074846548)    played     1.88 s,         81 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.705369914907699957, 0.026425821129084499)    played    10.60 s,       1431 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.874859638427386233, 0.013041013273932527)    played    35.96 s,       5879 time(s)
+                                                                                                           played    60.00 s,       8204 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-80.0, 15, 7) - (mean, std): (0.369108962793517570, 0.098058067569092022)    played     4.04 s,        103 time(s)
+Node 1, (CST, Tx power, MCS) = (-80.0, 23, 7) - (mean, std): (0.292590747712262678, 0.113227703414459577)    played     4.80 s,         77 time(s)
+Node 1, (CST, Tx power, MCS) = (-77.0, 15, 7) - (mean, std): (0.323641453779733967, 0.107832773203438412)    played     3.23 s,         85 time(s)
+Node 1, (CST, Tx power, MCS) = (-77.0, 23, 7) - (mean, std): (0.376574920080647413, 0.087038827977848926)    played     5.34 s,        131 time(s)
+Node 1, (CST, Tx power, MCS) = (-72.0, 15, 7) - (mean, std): (0.422076454993095762, 0.070888120500833596)    played     8.98 s,        198 time(s)
+Node 1, (CST, Tx power, MCS) = (-72.0, 23, 7) - (mean, std): (0.337488376785859912, 0.097128586235726413)    played     3.85 s,        105 time(s)
+Node 1, (CST, Tx power, MCS) = (-70.0, 15, 7) - (mean, std): (0.472372707360423416, 0.070014004201400484)    played     2.41 s,        203 time(s)
+Node 1, (CST, Tx power, MCS) = (-70.0, 23, 7) - (mean, std): (0.514641390989108882, 0.048168305085908802)    played     4.98 s,        430 time(s)
+Node 1, (CST, Tx power, MCS) = (-69.0, 15, 7) - (mean, std): (0.514588434141385664, 0.044766148103584522)    played     5.63 s,        498 time(s)
+Node 1, (CST, Tx power, MCS) = (-69.0, 23, 7) - (mean, std): (0.530500991111148679, 0.044324220717793621)    played     5.80 s,        508 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.546830136975920755, 0.039223227027636809)    played     5.86 s,        649 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.561513014295259127, 0.045175395145262566)    played     4.66 s,        489 time(s)
+                                                                                                           played    59.58 s,       3476 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-64.0, 15, 7) - (mean, std): (0.482323955352046807, 0.064549722436790274)    played     2.79 s,        239 time(s)
+Node 2, (CST, Tx power, MCS) = (-64.0, 23, 7) - (mean, std): (0.481990022991911404, 0.056523341894422145)    played     2.92 s,        312 time(s)
+Node 2, (CST, Tx power, MCS) = (-71.0, 15, 7) - (mean, std): (0.354425267971795355, 0.094915799575249898)    played     2.34 s,        110 time(s)
+Node 2, (CST, Tx power, MCS) = (-71.0, 23, 7) - (mean, std): (0.393810866612501698, 0.082478609884232251)    played     2.80 s,        146 time(s)
+Node 2, (CST, Tx power, MCS) = (-70.0, 15, 7) - (mean, std): (0.407269845320056390, 0.080321932890249886)    played     2.92 s,        154 time(s)
+Node 2, (CST, Tx power, MCS) = (-70.0, 23, 7) - (mean, std): (0.451075582016184529, 0.059131239598908258)    played     4.95 s,        285 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.628162019744409550, 0.032359240084528680)    played     7.70 s,        954 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.848675260252833130, 0.013809204416652687)    played    33.57 s,       5243 time(s)
+                                                                                                           played    60.00 s,       7443 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-77.0, 15, 7) - (mean, std): (0.300050086166009644, 0.084515425472851652)    played     7.96 s,        139 time(s)
+Node 3, (CST, Tx power, MCS) = (-77.0, 23, 7) - (mean, std): (0.316222462834534368, 0.082199493652678646)    played     7.53 s,        147 time(s)
+Node 3, (CST, Tx power, MCS) = (-69.0, 15, 7) - (mean, std): (0.298263396785690416, 0.091287092917527679)    played     4.64 s,        119 time(s)
+Node 3, (CST, Tx power, MCS) = (-69.0, 23, 7) - (mean, std): (0.357969959599462539, 0.068041381743977170)    played     7.23 s,        215 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.438117804181680892, 0.034441829515914534)    played    24.59 s,        842 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.402864944504244316, 0.054073807043587510)    played     7.69 s,        341 time(s)
+                                                                                                           played    59.63 s,       1803 time(s)
+
+Mean throughputs: [42.6316 15.9474 38.3583  7.9497]
+Aggregate throughput: 104.8870
+Min-Max: 34.6819
+JFI: 0.6419 [0.2500, 1]
+Mean TX power: [21.1307 19.0046 21.4340 18.1192]
+TX power counts:
+[[ -81  -72  -64  -62]
+ [ 172  268  454 7310]]
+[[ -80  -77  -72  -70  -69  -62]
+ [ 180  216  303  633 1006 1138]]
+[[ -71  -70  -64  -62]
+ [ 256  439  551 6197]]
+[[ -77  -69  -62]
+ [ 286  334 1183]]
+Mean PCS: [-62.8357 -68.2186 -62.9295 -65.6761]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 10 seconds of simulation:
+Mean throughputs: [60.2172  8.2355 55.6998  0.0000]
+Aggregate throughput: 124.1524
+Min-Max: 60.2172
+JFI: 0.5336 [0.2500, 1]
+Mean TX power: [23.0000 20.0190 23.0000 17.4000]
+TX power counts:
+[[ -62]
+ [1792]]
+[[-80 -77 -72 -70 -69 -62]
+ [  3   5   6  39  48 162]]
+[[ -62]
+ [1658]]
+[[-77 -69 -62]
+ [  4   1  15]]
+Mean PCS: [-62.0000 -65.1825 -62.0000 -65.3500]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 20473
+Node 0, (CST, Tx power, MCS) = (-70.0, 15, 7) - (mean, std): (0.393712147045931327, 0.083333333333333329)    played     1.97 s,        143 time(s)
+Node 0, (CST, Tx power, MCS) = (-70.0, 23, 7) - (mean, std): (0.411509350816212982, 0.077151674981045956)    played     2.46 s,        167 time(s)
+Node 0, (CST, Tx power, MCS) = (-65.0, 15, 7) - (mean, std): (0.511594036425743304, 0.045883146774112350)    played     5.20 s,        474 time(s)
+Node 0, (CST, Tx power, MCS) = (-65.0, 23, 7) - (mean, std): (0.542558942218213547, 0.036539204762093477)    played     8.32 s,        748 time(s)
+Node 0, (CST, Tx power, MCS) = (-78.0, 15, 7) - (mean, std): (0.251588005853400853, 0.125000000000000000)    played     2.31 s,         63 time(s)
+Node 0, (CST, Tx power, MCS) = (-78.0, 23, 7) - (mean, std): (0.276652568674609856, 0.109108945117996181)    played     2.99 s,         83 time(s)
+Node 0, (CST, Tx power, MCS) = (-73.0, 15, 7) - (mean, std): (0.393522794702756862, 0.083333333333333329)    played     2.71 s,        143 time(s)
+Node 0, (CST, Tx power, MCS) = (-73.0, 23, 7) - (mean, std): (0.326688294259766254, 0.105409255338945976)    played     1.82 s,         89 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.594038275145989392, 0.025615775978927998)    played    13.77 s,       1523 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.619486554499299347, 0.022327214034455325)    played    18.45 s,       2005 time(s)
+                                                                                                           played    59.99 s,       5438 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-63.0, 15, 7) - (mean, std): (0.509635326535429423, 0.040225899335456484)    played     7.10 s,        617 time(s)
+Node 1, (CST, Tx power, MCS) = (-63.0, 23, 7) - (mean, std): (0.532782659660261060, 0.036711154910717615)    played     8.14 s,        741 time(s)
+Node 1, (CST, Tx power, MCS) = (-75.0, 15, 7) - (mean, std): (0.194449648506628631, 0.122169444356305223)    played     5.93 s,         66 time(s)
+Node 1, (CST, Tx power, MCS) = (-75.0, 23, 7) - (mean, std): (0.297002673215428781, 0.089087080637474794)    played     8.40 s,        125 time(s)
+Node 1, (CST, Tx power, MCS) = (-73.0, 15, 7) - (mean, std): (0.320853062747240625, 0.092847669088525930)    played     3.08 s,        115 time(s)
+Node 1, (CST, Tx power, MCS) = (-73.0, 23, 7) - (mean, std): (0.293706481908175832, 0.098058067569092022)    played     3.19 s,        103 time(s)
+Node 1, (CST, Tx power, MCS) = (-67.0, 15, 7) - (mean, std): (0.348169285183742683, 0.082199493652678646)    played     2.62 s,        147 time(s)
+Node 1, (CST, Tx power, MCS) = (-67.0, 23, 7) - (mean, std): (0.367063250805620522, 0.074124931666110117)    played     3.52 s,        181 time(s)
+Node 1, (CST, Tx power, MCS) = (-65.0, 15, 7) - (mean, std): (0.354950090058840095, 0.083624201000709081)    played     2.34 s,        142 time(s)
+Node 1, (CST, Tx power, MCS) = (-65.0, 23, 7) - (mean, std): (0.404283189573063861, 0.061898446059017287)    played     4.06 s,        260 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.503488167475451109, 0.040032038451271783)    played     5.13 s,        623 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.530720180824262977, 0.035179877236514591)    played     6.49 s,        807 time(s)
+                                                                                                           played    59.99 s,       3927 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-80.0, 15, 7) - (mean, std): (0.308543984110968506, 0.095346258924559224)    played     4.26 s,        109 time(s)
+Node 2, (CST, Tx power, MCS) = (-80.0, 23, 7) - (mean, std): (0.283642623509352154, 0.102062072615965754)    played     4.59 s,         95 time(s)
+Node 2, (CST, Tx power, MCS) = (-75.0, 15, 7) - (mean, std): (0.345666527320286077, 0.092057461789832332)    played     2.41 s,        117 time(s)
+Node 2, (CST, Tx power, MCS) = (-75.0, 23, 7) - (mean, std): (0.339416888628816138, 0.090909090909090912)    played     2.22 s,        120 time(s)
+Node 2, (CST, Tx power, MCS) = (-72.0, 15, 7) - (mean, std): (0.425788837241327656, 0.070710678118654752)    played     2.85 s,        199 time(s)
+Node 2, (CST, Tx power, MCS) = (-72.0, 23, 7) - (mean, std): (0.405527905991796833, 0.079808688446762213)    played     2.37 s,        156 time(s)
+Node 2, (CST, Tx power, MCS) = (-67.0, 15, 7) - (mean, std): (0.482733530259138344, 0.046373889576016826)    played     5.71 s,        464 time(s)
+Node 2, (CST, Tx power, MCS) = (-67.0, 23, 7) - (mean, std): (0.509936328944080808, 0.034380708208626445)    played     9.91 s,        845 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.539237293912019466, 0.026270346874636689)    played    14.27 s,       1448 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.532340688993709565, 0.030206104666508846)    played    11.39 s,       1095 time(s)
+                                                                                                           played    59.99 s,       4648 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-63.0, 15, 7) - (mean, std): (0.721179771719298812, 0.016462159944159827)    played    30.19 s,       3689 time(s)
+Node 3, (CST, Tx power, MCS) = (-63.0, 23, 7) - (mean, std): (0.670427099486770484, 0.027756369082668448)    played    11.30 s,       1297 time(s)
+Node 3, (CST, Tx power, MCS) = (-80.0, 15, 7) - (mean, std): (0.321016996582842662, 0.130188910980823858)    played     1.72 s,         58 time(s)
+Node 3, (CST, Tx power, MCS) = (-80.0, 23, 7) - (mean, std): (0.310410729102531979, 0.127000127000190505)    played     1.81 s,         61 time(s)
+Node 3, (CST, Tx power, MCS) = (-78.0, 15, 7) - (mean, std): (0.308406137991910689, 0.134839972492648424)    played     1.03 s,         54 time(s)
+Node 3, (CST, Tx power, MCS) = (-78.0, 23, 7) - (mean, std): (0.347091429147632025, 0.119522860933439362)    played     1.32 s,         69 time(s)
+Node 3, (CST, Tx power, MCS) = (-72.0, 15, 7) - (mean, std): (0.438976019172358289, 0.092450032704204863)    played     1.71 s,        116 time(s)
+Node 3, (CST, Tx power, MCS) = (-72.0, 23, 7) - (mean, std): (0.513773666010361452, 0.067419986246324212)    played     2.72 s,        219 time(s)
+Node 3, (CST, Tx power, MCS) = (-70.0, 15, 7) - (mean, std): (0.458696557321101150, 0.091669849702821132)    played     1.26 s,        118 time(s)
+Node 3, (CST, Tx power, MCS) = (-70.0, 23, 7) - (mean, std): (0.525512822082903619, 0.066666666666666666)    played     2.40 s,        224 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.537268819529203912, 0.061313933948496581)    played     2.31 s,        265 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.595057063424506816, 0.058621038176054914)    played     2.20 s,        290 time(s)
+                                                                                                           played    59.98 s,       6460 time(s)
+
+Mean throughputs: [25.9332 16.6099 21.4727 30.9076]
+Aggregate throughput: 94.9233
+Min-Max: 14.2977
+JFI: 0.8176 [0.2500, 1]
+Mean TX power: [19.5487 19.5164 18.9776 17.6749]
+TX power counts:
+[[ -78  -73  -70  -65  -62]
+ [ 146  232  310 1222 3528]]
+[[ -75  -73  -67  -65  -63  -62]
+ [ 191  218  328  402 1358 1430]]
+[[ -80  -75  -72  -67  -62]
+ [ 204  237  355 1309 2543]]
+[[ -80  -78  -72  -70  -63  -62]
+ [ 119  123  335  342 4986  555]]
+Mean PCS: [-64.0291 -64.3135 -65.6248 -64.3502]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 10 seconds of simulation:
+Mean throughputs: [31.4193 23.0308 20.7390 29.1102]
+Aggregate throughput: 104.2992
+Min-Max: 10.6803
+JFI: 0.8572 [0.2500, 1]
+Mean TX power: [20.8002 20.0243 18.7112 15.4614]
+TX power counts:
+[[-78 -73 -70 -65 -62]
+ [  1   5   9  58 978]]
+[[-75 -73 -67 -65 -63 -62]
+ [  5   7  21  25 414 391]]
+[[-80 -75 -72 -67 -62]
+ [  5  24  47 157 515]]
+[[-80 -78 -72 -70 -63 -62]
+ [  5   1   1   3 992  21]]
+Mean PCS: [-62.3016 -62.8528 -64.2152 -63.1065]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 14545
+Node 0, (CST, Tx power, MCS) = (-71.0, 15, 7) - (mean, std): (0.435994261794971916, 0.046473941234017310)    played     8.69 s,        462 time(s)
+Node 0, (CST, Tx power, MCS) = (-71.0, 23, 7) - (mean, std): (0.433929361580860706, 0.043937477516374682)    played     9.46 s,        517 time(s)
+Node 0, (CST, Tx power, MCS) = (-70.0, 15, 7) - (mean, std): (0.405334917476083689, 0.058520573598065277)    played     4.39 s,        291 time(s)
+Node 0, (CST, Tx power, MCS) = (-70.0, 23, 7) - (mean, std): (0.463335509509443411, 0.038749212914606423)    played     9.84 s,        665 time(s)
+Node 0, (CST, Tx power, MCS) = (-69.0, 15, 7) - (mean, std): (0.439548914003628277, 0.045834924851410566)    played     5.96 s,        475 time(s)
+Node 0, (CST, Tx power, MCS) = (-69.0, 23, 7) - (mean, std): (0.439889634691320641, 0.046126560401444257)    played     5.82 s,        469 time(s)
+Node 0, (CST, Tx power, MCS) = (-63.0, 15, 7) - (mean, std): (0.422543535318068542, 0.049937616943892232)    played     4.37 s,        400 time(s)
+Node 0, (CST, Tx power, MCS) = (-63.0, 23, 7) - (mean, std): (0.415980080995248636, 0.054232614454664041)    played     3.93 s,        339 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.426160985699112926, 0.051298917604257706)    played     3.46 s,        379 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.429801432515586113, 0.048564293117863207)    played     4.06 s,        423 time(s)
+                                                                                                           played    59.98 s,       4420 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-71.0, 15, 7) - (mean, std): (0.300522347951428348, 0.067115605521402430)    played     5.02 s,        221 time(s)
+Node 1, (CST, Tx power, MCS) = (-71.0, 23, 7) - (mean, std): (0.371925654797444882, 0.039253433598942983)    played    13.23 s,        648 time(s)
+Node 1, (CST, Tx power, MCS) = (-63.0, 15, 7) - (mean, std): (0.356384677238382075, 0.046077567758409141)    played     7.76 s,        470 time(s)
+Node 1, (CST, Tx power, MCS) = (-63.0, 23, 7) - (mean, std): (0.382441017199726951, 0.036588086663230115)    played    12.70 s,        746 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.387847222413321535, 0.034159349284257755)    played    10.72 s,        856 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.384408765501301375, 0.035179877236514591)    played    10.57 s,        807 time(s)
+                                                                                                           played    59.99 s,       3748 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-70.0, 15, 7) - (mean, std): (0.301731582802572673, 0.044367825470805686)    played    11.25 s,        507 time(s)
+Node 2, (CST, Tx power, MCS) = (-70.0, 23, 7) - (mean, std): (0.329867544083920383, 0.035990787537434725)    played    16.28 s,        771 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.330820741597543100, 0.034462275839778879)    played    13.95 s,        841 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.337534695065374035, 0.030570892025787152)    played    18.52 s,       1069 time(s)
+                                                                                                           played    60.00 s,       3188 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-69.0, 15, 7) - (mean, std): (0.335851815628690320, 0.038433122101204392)    played    14.18 s,        676 time(s)
+Node 3, (CST, Tx power, MCS) = (-69.0, 23, 7) - (mean, std): (0.335979394187859604, 0.039253433598942983)    played    14.51 s,        648 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.342908216313670300, 0.041134503489486357)    played    10.07 s,        590 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.366244018114082914, 0.027994625547792713)    played    21.21 s,       1275 time(s)
+                                                                                                           played    59.97 s,       3189 time(s)
+
+Mean throughputs: [19.3147 16.1526 14.3918 14.8285]
+Aggregate throughput: 64.6876
+Min-Max: 4.9229
+JFI: 0.8935 [0.2500, 1]
+Mean TX power: [19.3674 19.6980 19.6173 19.8241]
+TX power counts:
+[[-71 -70 -69 -63 -62]
+ [979 956 944 739 802]]
+[[ -71  -63  -62]
+ [ 869 1216 1663]]
+[[ -70  -62]
+ [1278 1910]]
+[[ -69  -62]
+ [1324 1865]]
+Mean PCS: [-67.3860 -64.4112 -65.2070 -64.9062]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 10 seconds of simulation:
+Mean throughputs: [19.5135 16.5811 14.4550 14.9334]
+Aggregate throughput: 65.4830
+Min-Max: 5.0585
+JFI: 0.8922 [0.2500, 1]
+Mean TX power: [19.7809 19.2617 19.6427 19.5844]
+TX power counts:
+[[-71 -70 -69 -63 -62]
+ [160 172 182 118 121]]
+[[-71 -63 -62]
+ [123 200 319]]
+[[-70 -62]
+ [192 337]]
+[[-69 -62]
+ [175 352]]
+Mean PCS: [-67.5883 -64.0358 -64.9036 -64.3245]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 23700
+Node 0, (CST, Tx power, MCS) = (-70.0, 15, 7) - (mean, std): (0.311287999858849973, 0.061313933948496581)    played    11.78 s,        265 time(s)
+Node 0, (CST, Tx power, MCS) = (-70.0, 23, 7) - (mean, std): (0.343932443391717302, 0.046625240412015691)    played    20.31 s,        459 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.344811967389811902, 0.052486388108147798)    played    13.24 s,        362 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.356972715159267540, 0.046274481338274755)    played    14.19 s,        466 time(s)
+                                                                                                           played    59.52 s,       1552 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-66.0, 15, 7) - (mean, std): (0.346805109282098845, 0.094072086838359728)    played     2.06 s,        112 time(s)
+Node 1, (CST, Tx power, MCS) = (-66.0, 23, 7) - (mean, std): (0.441356281577781007, 0.069006555934235422)    played     3.30 s,        209 time(s)
+Node 1, (CST, Tx power, MCS) = (-74.0, 15, 7) - (mean, std): (0.323263601013021373, 0.101534616513361903)    played     2.29 s,         96 time(s)
+Node 1, (CST, Tx power, MCS) = (-74.0, 23, 7) - (mean, std): (0.341416578150742722, 0.091287092917527679)    played     2.69 s,        119 time(s)
+Node 1, (CST, Tx power, MCS) = (-65.0, 15, 7) - (mean, std): (0.510451717061370713, 0.051097613030759603)    played     4.17 s,        382 time(s)
+Node 1, (CST, Tx power, MCS) = (-65.0, 23, 7) - (mean, std): (0.529736662493988320, 0.046726931351599776)    played     4.82 s,        457 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.828862979829486979, 0.013021098250950340)    played    38.03 s,       5897 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.492440128110597064, 0.060633906259083242)    played     2.64 s,        271 time(s)
+                                                                                                           played    60.00 s,       7543 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-63.0, 15, 7) - (mean, std): (0.563829962565168152, 0.059234887775909240)    played     2.30 s,        284 time(s)
+Node 2, (CST, Tx power, MCS) = (-63.0, 23, 7) - (mean, std): (0.604076500574576736, 0.046625240412015691)    played     3.94 s,        459 time(s)
+Node 2, (CST, Tx power, MCS) = (-74.0, 15, 7) - (mean, std): (0.410009164035260665, 0.086386842558136015)    played     2.52 s,        133 time(s)
+Node 2, (CST, Tx power, MCS) = (-74.0, 23, 7) - (mean, std): (0.368091179890485121, 0.103695169473042526)    played     2.07 s,         92 time(s)
+Node 2, (CST, Tx power, MCS) = (-71.0, 15, 7) - (mean, std): (0.484334984329345575, 0.073521462209380772)    played     2.62 s,        184 time(s)
+Node 2, (CST, Tx power, MCS) = (-71.0, 23, 7) - (mean, std): (0.467224873589268896, 0.070888120500833596)    played     2.80 s,        198 time(s)
+Node 2, (CST, Tx power, MCS) = (-69.0, 15, 7) - (mean, std): (0.471190495781716512, 0.069006555934235422)    played     2.35 s,        209 time(s)
+Node 2, (CST, Tx power, MCS) = (-69.0, 23, 7) - (mean, std): (0.481433601218496432, 0.070186240634359645)    played     2.48 s,        202 time(s)
+Node 2, (CST, Tx power, MCS) = (-66.0, 15, 7) - (mean, std): (0.513796004899103376, 0.084215192106651890)    played     1.27 s,        140 time(s)
+Node 2, (CST, Tx power, MCS) = (-66.0, 23, 7) - (mean, std): (0.606484208417493065, 0.048737017882857940)    played     3.58 s,        420 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.887437758926092113, 0.014118155126142940)    played    29.20 s,       5016 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.609396736850007503, 0.040291148201269014)    played     4.87 s,        615 time(s)
+                                                                                                           played    60.00 s,       7952 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-72.0, 15, 7) - (mean, std): (0.301954833855120397, 0.081110710565381272)    played     5.26 s,        151 time(s)
+Node 3, (CST, Tx power, MCS) = (-72.0, 23, 7) - (mean, std): (0.301330498786353151, 0.084515425472851652)    played     4.04 s,        139 time(s)
+Node 3, (CST, Tx power, MCS) = (-63.0, 15, 7) - (mean, std): (0.423107476354519785, 0.059339082909692670)    played     3.42 s,        283 time(s)
+Node 3, (CST, Tx power, MCS) = (-63.0, 23, 7) - (mean, std): (0.462041010222937421, 0.057166195047502949)    played     3.90 s,        305 time(s)
+Node 3, (CST, Tx power, MCS) = (-66.0, 15, 7) - (mean, std): (0.307856999186958580, 0.085125653075874858)    played     3.04 s,        137 time(s)
+Node 3, (CST, Tx power, MCS) = (-66.0, 23, 7) - (mean, std): (0.327389303443209378, 0.074124931666110117)    played     3.88 s,        181 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.840288475874200191, 0.014085904245475277)    played    32.06 s,       5039 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.431707509556623403, 0.048853196874603155)    played     4.41 s,        418 time(s)
+                                                                                                           played    59.99 s,       6653 time(s)
+
+Mean throughputs: [ 7.5172 37.9390 40.0688 33.3974]
+Aggregate throughput: 118.9224
+Min-Max: 32.5515
+JFI: 0.6950 [0.2500, 1]
+Mean TX power: [19.7680 16.1200 16.9980 16.2542]
+TX power counts:
+[[-70 -62]
+ [724 828]]
+[[ -74  -66  -65  -62]
+ [ 215  321  839 6168]]
+[[ -74  -71  -69  -66  -63  -62]
+ [ 225  382  411  560  743 5631]]
+[[ -72  -66  -63  -62]
+ [ 290  318  588 5457]]
+Mean PCS: [-65.7320 -62.8459 -63.5088 -62.7155]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 10 seconds of simulation:
+Mean throughputs: [ 0.0000 61.0617 60.9798 61.0628]
+Aggregate throughput: 183.1043
+Min-Max: 61.0628
+JFI: 0.6340 [0.2500, 1]
+Mean TX power: [18.6000 15.0000 15.0000 15.0000]
+TX power counts:
+[[-70 -62]
+ [  9  11]]
+[[ -62]
+ [1808]]
+[[ -62]
+ [1807]]
+[[ -62]
+ [1807]]
+Mean PCS: [-65.6000 -62.0000 -62.0000 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 28917
+Node 0, (CST, Tx power, MCS) = (-72.0, 15, 7) - (mean, std): (0.316707526573620779, 0.137360563948689035)    played     1.17 s,         52 time(s)
+Node 0, (CST, Tx power, MCS) = (-72.0, 23, 7) - (mean, std): (0.361088000691023037, 0.132453235706504385)    played     0.87 s,         56 time(s)
+Node 0, (CST, Tx power, MCS) = (-68.0, 15, 7) - (mean, std): (0.540670439966699501, 0.084818892967997092)    played     1.46 s,        138 time(s)
+Node 0, (CST, Tx power, MCS) = (-68.0, 23, 7) - (mean, std): (0.526119252098847801, 0.076249285166302333)    played     1.98 s,        171 time(s)
+Node 0, (CST, Tx power, MCS) = (-75.0, 15, 7) - (mean, std): (0.306573622417003477, 0.138675049056307287)    played     1.09 s,         51 time(s)
+Node 0, (CST, Tx power, MCS) = (-75.0, 23, 7) - (mean, std): (0.378281066581165171, 0.118678165819385339)    played     1.75 s,         70 time(s)
+Node 0, (CST, Tx power, MCS) = (-64.0, 15, 7) - (mean, std): (0.573947263776988903, 0.075164602800282879)    played     1.72 s,        176 time(s)
+Node 0, (CST, Tx power, MCS) = (-64.0, 23, 7) - (mean, std): (0.567621907032164197, 0.089802651013387455)    played     1.19 s,        123 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.880670677883561126, 0.011948019705168268)    played    41.55 s,       7004 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.729729239435115251, 0.031326574483831929)    played     7.21 s,       1018 time(s)
+                                                                                                           played    60.00 s,       8859 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-63.0, 15, 7) - (mean, std): (0.390671106575592286, 0.072547625011001163)    played     5.53 s,        189 time(s)
+Node 1, (CST, Tx power, MCS) = (-63.0, 23, 7) - (mean, std): (0.381527043735594984, 0.077151674981045956)    played     6.21 s,        167 time(s)
+Node 1, (CST, Tx power, MCS) = (-70.0, 15, 7) - (mean, std): (0.319373747805266284, 0.095782628522115137)    played     5.16 s,        108 time(s)
+Node 1, (CST, Tx power, MCS) = (-70.0, 23, 7) - (mean, std): (0.279654218974771496, 0.114707866935280886)    played     3.74 s,         75 time(s)
+Node 1, (CST, Tx power, MCS) = (-68.0, 15, 7) - (mean, std): (0.365755979913793050, 0.082199493652678646)    played     6.18 s,        147 time(s)
+Node 1, (CST, Tx power, MCS) = (-68.0, 23, 7) - (mean, std): (0.322134995549789360, 0.094491118252306799)    played     5.67 s,        111 time(s)
+Node 1, (CST, Tx power, MCS) = (-76.0, 15, 7) - (mean, std): (0.248847470972790391, 0.123091490979332738)    played     7.82 s,         65 time(s)
+Node 1, (CST, Tx power, MCS) = (-76.0, 23, 7) - (mean, std): (0.220463008516450482, 0.118678165819385339)    played     9.62 s,         70 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.411828787871196478, 0.064549722436790274)    played     5.86 s,        239 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.385612530320626368, 0.076471911290187253)    played     3.77 s,        170 time(s)
+                                                                                                           played    59.57 s,       1341 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-64.0, 15, 7) - (mean, std): (0.594215058263922291, 0.085125653075874858)    played     1.06 s,        137 time(s)
+Node 2, (CST, Tx power, MCS) = (-64.0, 23, 7) - (mean, std): (0.714864374198598940, 0.071611487403943283)    played     1.38 s,        194 time(s)
+Node 2, (CST, Tx power, MCS) = (-63.0, 15, 7) - (mean, std): (0.794676755337752949, 0.033241124765726680)    played     5.56 s,        904 time(s)
+Node 2, (CST, Tx power, MCS) = (-63.0, 23, 7) - (mean, std): (0.895774380106018064, 0.012684677601610459)    played    35.46 s,       6214 time(s)
+Node 2, (CST, Tx power, MCS) = (-74.0, 15, 7) - (mean, std): (0.233938054249906824, 0.169030850945703304)    played     2.27 s,         34 time(s)
+Node 2, (CST, Tx power, MCS) = (-74.0, 23, 7) - (mean, std): (0.255866712077111036, 0.162221421130762544)    played     2.36 s,         37 time(s)
+Node 2, (CST, Tx power, MCS) = (-72.0, 15, 7) - (mean, std): (0.345563993299972949, 0.149071198499985985)    played     0.86 s,         44 time(s)
+Node 2, (CST, Tx power, MCS) = (-72.0, 23, 7) - (mean, std): (0.317448434129721291, 0.152498570332604666)    played     1.26 s,         42 time(s)
+Node 2, (CST, Tx power, MCS) = (-70.0, 15, 7) - (mean, std): (0.472081306460975625, 0.111803398874989482)    played     0.88 s,         79 time(s)
+Node 2, (CST, Tx power, MCS) = (-70.0, 23, 7) - (mean, std): (0.392930055763247299, 0.128036879932895975)    played     0.72 s,         60 time(s)
+Node 2, (CST, Tx power, MCS) = (-66.0, 15, 7) - (mean, std): (0.467537179758395316, 0.120385853085769198)    played     0.67 s,         68 time(s)
+Node 2, (CST, Tx power, MCS) = (-66.0, 23, 7) - (mean, std): (0.503516616089979108, 0.110431526074846548)    played     0.86 s,         81 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.796378290529448085, 0.037450294313656908)    played     4.43 s,        712 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.711691815852228071, 0.054312544659356837)    played     2.23 s,        338 time(s)
+                                                                                                           played    60.00 s,       8944 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-68.0, 15, 7) - (mean, std): (0.508965621609640206, 0.106600358177805221)    played     0.99 s,         87 time(s)
+Node 3, (CST, Tx power, MCS) = (-68.0, 23, 7) - (mean, std): (0.532199051200849871, 0.092847669088525930)    played     1.23 s,        115 time(s)
+Node 3, (CST, Tx power, MCS) = (-76.0, 15, 7) - (mean, std): (0.295037046911519107, 0.158113883008418971)    played     1.09 s,         39 time(s)
+Node 3, (CST, Tx power, MCS) = (-76.0, 23, 7) - (mean, std): (0.359897174130954955, 0.134839972492648424)    played     1.47 s,         54 time(s)
+Node 3, (CST, Tx power, MCS) = (-66.0, 15, 7) - (mean, std): (0.636698318496675020, 0.065938047339578698)    played     1.65 s,        229 time(s)
+Node 3, (CST, Tx power, MCS) = (-66.0, 23, 7) - (mean, std): (0.639268266105019523, 0.078567420131838608)    played     1.26 s,        161 time(s)
+Node 3, (CST, Tx power, MCS) = (-74.0, 15, 7) - (mean, std): (0.408173816076020768, 0.128036879932895975)    played     0.68 s,         60 time(s)
+Node 3, (CST, Tx power, MCS) = (-74.0, 23, 7) - (mean, std): (0.356500663173830223, 0.140028008402800969)    played     0.65 s,         50 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.878544939039005657, 0.014782809899727065)    played    26.10 s,       4575 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.904322138268374376, 0.015068719366972804)    played    24.88 s,       4403 time(s)
+                                                                                                           played    59.99 s,       9773 time(s)
+
+Mean throughputs: [46.8537  5.7054 46.9185 51.9926]
+Aggregate throughput: 151.4702
+Min-Max: 46.2872
+JFI: 0.6696 [0.2500, 1]
+Mean TX power: [16.2986 18.5377 21.2308 18.9153]
+TX power counts:
+[[ -75  -72  -68  -64  -62]
+ [ 121  108  309  299 8022]]
+[[-76 -70 -68 -63 -62]
+ [135 183 258 356 409]]
+[[ -74  -72  -70  -66  -64  -63  -62]
+ [  71   86  139  149  331 7118 1050]]
+[[ -76  -74  -68  -66  -62]
+ [  93  110  202  390 8978]]
+Mean PCS: [-62.5763 -65.9210 -63.2522 -62.5519]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 10 seconds of simulation:
+Mean throughputs: [59.7815  0.3786 58.8478 60.0704]
+Aggregate throughput: 179.0783
+Min-Max: 59.6917
+JFI: 0.6359 [0.2500, 1]
+Mean TX power: [15.0000 18.5862 22.8777 21.6763]
+TX power counts:
+[[ -62]
+ [1788]]
+[[-76 -68 -63 -62]
+ [  3   5  11  10]]
+[[ -72  -70  -64  -63  -62]
+ [   1    1    7 1738   19]]
+[[ -68  -66  -62]
+ [   1    3 1791]]
+Mean PCS: [-62.0000 -64.8621 -63.0023 -62.0100]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 27471
+Node 0, (CST, Tx power, MCS) = (-68.0, 15, 7) - (mean, std): (0.443485024051195720, 0.085125653075874858)    played     1.38 s,        137 time(s)
+Node 0, (CST, Tx power, MCS) = (-68.0, 23, 7) - (mean, std): (0.436921442513751812, 0.084515425472851652)    played     1.48 s,        139 time(s)
+Node 0, (CST, Tx power, MCS) = (-76.0, 15, 7) - (mean, std): (0.315730676203616556, 0.119522860933439362)    played     2.21 s,         69 time(s)
+Node 0, (CST, Tx power, MCS) = (-76.0, 23, 7) - (mean, std): (0.268565953546503755, 0.131306432859722544)    played     2.16 s,         57 time(s)
+Node 0, (CST, Tx power, MCS) = (-66.0, 15, 7) - (mean, std): (0.603286831103557630, 0.044022545316281192)    played     4.11 s,        515 time(s)
+Node 0, (CST, Tx power, MCS) = (-66.0, 23, 7) - (mean, std): (0.617651947448957572, 0.039746431675858215)    played     5.10 s,        632 time(s)
+Node 0, (CST, Tx power, MCS) = (-74.0, 15, 7) - (mean, std): (0.382617479720145981, 0.093250480824031381)    played     2.06 s,        114 time(s)
+Node 0, (CST, Tx power, MCS) = (-74.0, 23, 7) - (mean, std): (0.367468925826140769, 0.099014754297667429)    played     1.74 s,        101 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.902954224144413731, 0.012712320904523036)    played    34.94 s,       6187 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.652677390720384110, 0.037164707312358318)    played     4.81 s,        723 time(s)
+                                                                                                           played    60.00 s,       8674 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-80.0, 15, 7) - (mean, std): (0.302862139119717877, 0.110431526074846548)    played     3.48 s,         81 time(s)
+Node 1, (CST, Tx power, MCS) = (-80.0, 23, 7) - (mean, std): (0.270872997952144645, 0.116247638743819284)    played     3.13 s,         73 time(s)
+Node 1, (CST, Tx power, MCS) = (-71.0, 15, 7) - (mean, std): (0.416205064017849957, 0.093250480824031381)    played     1.61 s,        114 time(s)
+Node 1, (CST, Tx power, MCS) = (-71.0, 23, 7) - (mean, std): (0.442140976805506347, 0.075164602800282879)    played     2.43 s,        176 time(s)
+Node 1, (CST, Tx power, MCS) = (-66.0, 15, 7) - (mean, std): (0.532257625859267280, 0.050572173742417362)    played     4.06 s,        390 time(s)
+Node 1, (CST, Tx power, MCS) = (-66.0, 23, 7) - (mean, std): (0.456608530321775730, 0.076923076923076927)    played     2.06 s,        168 time(s)
+Node 1, (CST, Tx power, MCS) = (-74.0, 15, 7) - (mean, std): (0.324713843831012483, 0.107832773203438412)    played     1.73 s,         85 time(s)
+Node 1, (CST, Tx power, MCS) = (-74.0, 23, 7) - (mean, std): (0.350908391856476709, 0.102597835208515412)    played     2.29 s,         94 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.760629177518477917, 0.014329647903382261)    played    36.04 s,       4869 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.629589442380945941, 0.050767308256680951)    played     3.16 s,        387 time(s)
+                                                                                                           played    59.99 s,       6437 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-66.0, 15, 7) - (mean, std): (0.493507983048927068, 0.066226617853252193)    played     3.05 s,        227 time(s)
+Node 2, (CST, Tx power, MCS) = (-66.0, 23, 7) - (mean, std): (0.479474176888287640, 0.054554472558998091)    played     4.35 s,        335 time(s)
+Node 2, (CST, Tx power, MCS) = (-76.0, 15, 7) - (mean, std): (0.303101794497216637, 0.095782628522115137)    played     6.32 s,        108 time(s)
+Node 2, (CST, Tx power, MCS) = (-76.0, 23, 7) - (mean, std): (0.254763083713361316, 0.116247638743819284)    played     4.24 s,         73 time(s)
+Node 2, (CST, Tx power, MCS) = (-67.0, 15, 7) - (mean, std): (0.431260905257023097, 0.081110710565381272)    played     2.07 s,        151 time(s)
+Node 2, (CST, Tx power, MCS) = (-67.0, 23, 7) - (mean, std): (0.453128995514454125, 0.060858061945018457)    played     3.96 s,        269 time(s)
+Node 2, (CST, Tx power, MCS) = (-74.0, 15, 7) - (mean, std): (0.294902824086163862, 0.104257207028537385)    played     4.93 s,         91 time(s)
+Node 2, (CST, Tx power, MCS) = (-74.0, 23, 7) - (mean, std): (0.343503514494470419, 0.089087080637474794)    played     5.55 s,        125 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.562985506163282134, 0.034139437099945942)    played    10.13 s,        857 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.580043561916942063, 0.028386647790182976)    played    15.39 s,       1240 time(s)
+                                                                                                           played    59.99 s,       3476 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-80.0, 15, 7) - (mean, std): (0.349612312354837917, 0.125000000000000000)    played     1.59 s,         63 time(s)
+Node 3, (CST, Tx power, MCS) = (-80.0, 23, 7) - (mean, std): (0.333499436048205200, 0.128036879932895975)    played     1.40 s,         60 time(s)
+Node 3, (CST, Tx power, MCS) = (-76.0, 15, 7) - (mean, std): (0.371981965705470541, 0.125988157669742418)    played     1.14 s,         62 time(s)
+Node 3, (CST, Tx power, MCS) = (-76.0, 23, 7) - (mean, std): (0.389155986933013898, 0.118678165819385339)    played     1.26 s,         70 time(s)
+Node 3, (CST, Tx power, MCS) = (-75.0, 15, 7) - (mean, std): (0.425590283676997638, 0.113960576459637947)    played     1.25 s,         76 time(s)
+Node 3, (CST, Tx power, MCS) = (-75.0, 23, 7) - (mean, std): (0.443809008777855007, 0.100000000000000006)    played     1.42 s,         99 time(s)
+Node 3, (CST, Tx power, MCS) = (-71.0, 15, 7) - (mean, std): (0.491796340296003276, 0.089802651013387455)    played     1.21 s,        123 time(s)
+Node 3, (CST, Tx power, MCS) = (-71.0, 23, 7) - (mean, std): (0.520435838802771999, 0.086386842558136015)    played     1.48 s,        133 time(s)
+Node 3, (CST, Tx power, MCS) = (-68.0, 15, 7) - (mean, std): (0.560530430323297746, 0.066815310478106099)    played     2.01 s,        223 time(s)
+Node 3, (CST, Tx power, MCS) = (-68.0, 23, 7) - (mean, std): (0.543766954700028782, 0.083333333333333329)    played     1.23 s,        143 time(s)
+Node 3, (CST, Tx power, MCS) = (-67.0, 15, 7) - (mean, std): (0.562635226008567524, 0.069171446386607466)    played     1.67 s,        208 time(s)
+Node 3, (CST, Tx power, MCS) = (-67.0, 23, 7) - (mean, std): (0.683349245114410198, 0.044108109139123088)    played     3.79 s,        513 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.903021642161518923, 0.012301695782628073)    played    37.38 s,       6607 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.698303825458832628, 0.044499415948998478)    played     3.15 s,        504 time(s)
+                                                                                                           played    60.00 s,       8884 time(s)
+
+Mean throughputs: [44.6721 32.4014 16.9603 46.1463]
+Aggregate throughput: 140.1801
+Min-Max: 29.1861
+JFI: 0.7493 [0.2500, 1]
+Mean TX power: [16.5236 16.1160 19.6997 16.3706]
+TX power counts:
+[[ -76  -74  -68  -66  -62]
+ [ 126  215  276 1147 6910]]
+[[ -80  -74  -71  -66  -62]
+ [ 154  179  290  558 5256]]
+[[ -76  -74  -67  -66  -62]
+ [ 181  216  420  562 2097]]
+[[ -80  -76  -75  -71  -68  -67  -62]
+ [ 123  132  175  256  366  721 7111]]
+Mean PCS: [-63.2207 -63.5165 -64.7255 -63.6256]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 10 seconds of simulation:
+Mean throughputs: [60.1997 41.9785 18.2838 60.8122]
+Aggregate throughput: 181.2742
+Min-Max: 42.5285
+JFI: 0.7232 [0.2500, 1]
+Mean TX power: [15.0000 15.0363 19.5673 15.0000]
+TX power counts:
+[[ -62]
+ [1802]]
+[[ -62]
+ [1322]]
+[[-74 -67 -66 -62]
+ [  7  23  54 473]]
+[[ -62]
+ [1806]]
+Mean PCS: [-62.0000 -62.0000 -62.7451 -62.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 19644
+Node 0, (CST, Tx power, MCS) = (-72.0, 15, 7) - (mean, std): (0.296790436252976408, 0.109764259989690346)    played     1.68 s,         82 time(s)
+Node 0, (CST, Tx power, MCS) = (-72.0, 23, 7) - (mean, std): (0.379073023807271758, 0.086066296582387042)    played     3.18 s,        134 time(s)
+Node 0, (CST, Tx power, MCS) = (-64.0, 15, 7) - (mean, std): (0.405658855586886413, 0.071428571428571425)    played     3.01 s,        195 time(s)
+Node 0, (CST, Tx power, MCS) = (-64.0, 23, 7) - (mean, std): (0.390396871388780542, 0.081923192051904042)    played     2.34 s,        148 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.567480208308620560, 0.040193393552907040)    played     6.08 s,        618 time(s)
+Node 0, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.862853595453846767, 0.012132134845448853)    played    43.70 s,       6793 time(s)
+                                                                                                           played    60.00 s,       7970 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-64.0, 15, 7) - (mean, std): (0.236156351607352877, 0.103142124625879336)    played     4.20 s,         93 time(s)
+Node 1, (CST, Tx power, MCS) = (-64.0, 23, 7) - (mean, std): (0.327356833855015017, 0.074535599249992993)    played     9.63 s,        179 time(s)
+Node 1, (CST, Tx power, MCS) = (-63.0, 15, 7) - (mean, std): (0.279707033637752567, 0.082478609884232251)    played     7.68 s,        146 time(s)
+Node 1, (CST, Tx power, MCS) = (-63.0, 23, 7) - (mean, std): (0.349367634879493127, 0.062017367294604227)    played    16.41 s,        259 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.326960640697570304, 0.063372425052447792)    played     9.33 s,        248 time(s)
+Node 1, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.329120221988834061, 0.068199433947047347)    played    12.74 s,        214 time(s)
+                                                                                                           played    60.00 s,       1139 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-72.0, 15, 7) - (mean, std): (0.385551425424451866, 0.094072086838359728)    played     2.26 s,        112 time(s)
+Node 2, (CST, Tx power, MCS) = (-72.0, 23, 7) - (mean, std): (0.343943085829131412, 0.102062072615965754)    played     2.07 s,         95 time(s)
+Node 2, (CST, Tx power, MCS) = (-63.0, 15, 7) - (mean, std): (0.551827805521526549, 0.052999894000318001)    played     3.33 s,        355 time(s)
+Node 2, (CST, Tx power, MCS) = (-63.0, 23, 7) - (mean, std): (0.538874782908291605, 0.050315460542662761)    played     3.45 s,        394 time(s)
+Node 2, (CST, Tx power, MCS) = (-64.0, 15, 7) - (mean, std): (0.368266831989658872, 0.098532927816429305)    played     1.46 s,        102 time(s)
+Node 2, (CST, Tx power, MCS) = (-64.0, 23, 7) - (mean, std): (0.484521605498432817, 0.065232807305344226)    played     2.76 s,        234 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.536295600607783252, 0.065372045046061353)    played     1.92 s,        233 time(s)
+Node 2, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.874496266662820321, 0.011805626722019106)    played    42.75 s,       7174 time(s)
+                                                                                                           played    60.00 s,       8699 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-72.0, 15, 7) - (mean, std): (0.271732631602339680, 0.080064076902543566)    played     9.35 s,        155 time(s)
+Node 3, (CST, Tx power, MCS) = (-72.0, 23, 7) - (mean, std): (0.327576992785681864, 0.065094455490411929)    played    13.50 s,        235 time(s)
+Node 3, (CST, Tx power, MCS) = (-64.0, 15, 7) - (mean, std): (0.300770026591913209, 0.074329414624716636)    played     8.74 s,        180 time(s)
+Node 3, (CST, Tx power, MCS) = (-64.0, 23, 7) - (mean, std): (0.343228967947194430, 0.057543533764843599)    played    15.57 s,        301 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 15, 7) - (mean, std): (0.407145133689635008, 0.055384877562171128)    played     4.04 s,        325 time(s)
+Node 3, (CST, Tx power, MCS) = (-62.0, 23, 7) - (mean, std): (0.445583086970319897, 0.039497625276668218)    played     8.53 s,        640 time(s)
+                                                                                                           played    59.73 s,       1836 time(s)
+
+Mean throughputs: [42.3598  4.9383 44.8615  8.1494]
+Aggregate throughput: 100.3090
+Min-Max: 39.9233
+JFI: 0.5743 [0.2500, 1]
+Mean TX power: [22.1016 19.5795 22.2624 20.1242]
+TX power counts:
+[[ -72  -64  -62]
+ [ 216  343 7411]]
+[[-64 -63 -62]
+ [272 405 462]]
+[[ -72  -64  -63  -62]
+ [ 207  336  749 7407]]
+[[-72 -64 -62]
+ [390 481 965]]
+Mean PCS: [-62.3571 -62.8332 -62.4013 -64.6481]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 10 seconds of simulation:
+Mean throughputs: [53.8834  0.0000 56.3214  5.2444]
+Aggregate throughput: 115.4492
+Min-Max: 56.3214
+JFI: 0.5230 [0.2500, 1]
+Mean TX power: [23.0000 22.2000 23.0000 20.6043]
+TX power counts:
+[[ -62]
+ [1634]]
+[[-64 -63 -62]
+ [  2   6  12]]
+[[ -62]
+ [1727]]
+[[-72 -64 -62]
+ [  7  18 162]]
+Mean PCS: [-62.0000 -62.5000 -62.0000 -62.5668]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]

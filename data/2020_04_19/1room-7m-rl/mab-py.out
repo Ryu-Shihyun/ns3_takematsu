@@ -1,0 +1,3042 @@
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 12752
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.259895138431013084, 0.018854504950126014)    played    56.51 s,       2812 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.123831022343270467, 0.054882129994845173)    played     3.48 s,        331 time(s)
+                                                                                                           played    59.99 s,       3143 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.253652098115923874, 0.019270004820392310)    played    55.96 s,       2692 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.111976264279050927, 0.056165595630173044)    played     4.04 s,        316 time(s)
+                                                                                                           played    60.00 s,       3008 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.262272430200271744, 0.018306300648455311)    played    57.11 s,       2983 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.110846112065298513, 0.054635836470815304)    played     2.86 s,        334 time(s)
+                                                                                                           played    59.97 s,       3317 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.279772902606472584, 0.019826289642953604)    played    51.92 s,       2543 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.231741381565838511, 0.036711154910717615)    played     8.08 s,        741 time(s)
+                                                                                                           played    60.00 s,       3284 time(s)
+
+Mean throughputs: [11.2956 10.5727 10.8627 12.1935]
+Aggregate throughput: 44.9245
+Min-Max: 1.6208
+JFI: 0.9483 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [2812  331]]
+[[ -82  -68]
+ [2692  316]]
+[[ -82  -68]
+ [2983  334]]
+[[ -82  -68]
+ [2543  741]]
+Mean PCS: [-80.5256 -80.5293 -80.5903 -78.8410]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [12.8797 12.5312 12.3114 12.0185]
+Aggregate throughput: 49.7408
+Min-Max: 0.8612
+JFI: 0.9753 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [1010   25]]
+[[ -82  -68]
+ [1023    8]]
+[[ -82  -68]
+ [1039    9]]
+[[-82 -68]
+ [899 109]]
+Mean PCS: [-81.6618 -81.8914 -81.8798 -80.4861]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 30793
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000973561545178693, 0.013899618043744165)    played    30.30 s,       5175 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000835195683899578, 0.014027577269281083)    played    29.70 s,       5081 time(s)
+                                                                                                           played    60.00 s,      10256 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000012569804089113, 0.014009670009611716)    played    29.84 s,       5094 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000018599234895968, 0.013925199771478561)    played    30.15 s,       5156 time(s)
+                                                                                                           played    60.00 s,      10250 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000031668926624390, 0.014022060031203643)    played    30.12 s,       5085 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000038257200230944, 0.014095696324687421)    played    29.88 s,       5032 time(s)
+                                                                                                           played    60.00 s,      10117 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000000000000000000, 0.106600358177805221)    played    34.12 s,         87 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000000000000000000, 0.109108945117996181)    played    25.71 s,         83 time(s)
+                                                                                                           played    59.83 s,        170 time(s)
+
+Mean throughputs: [0.0581 0.0010 0.0022 0.0000]
+Aggregate throughput: 0.0613
+Min-Max: 0.0581
+JFI: 0.3829 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [5175 5081]]
+[[ -82  -68]
+ [5094 5156]]
+[[ -82  -68]
+ [5085 5032]]
+[[-82 -68]
+ [ 87  83]]
+Mean PCS: [-75.0642 -74.9577 -75.0367 -75.1647]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [0.0645 0.0006 0.0012 0.0000]
+Aggregate throughput: 0.0663
+Min-Max: 0.0645
+JFI: 0.3746 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [1741 1681]]
+[[ -82  -68]
+ [1714 1705]]
+[[ -82  -68]
+ [1706 1664]]
+[[-82 -68]
+ [ 21  19]]
+Mean PCS: [-75.1227 -75.0184 -75.0872 -75.3500]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:14269): Gdk-CRITICAL **: 22:22:52.859: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 20882
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.002794323999739957, 0.019649437297296481)    played    30.59 s,       2589 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.002321255846126194, 0.019818500882235451)    played    29.40 s,       2545 time(s)
+                                                                                                           played    60.00 s,       5134 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000231007689355179, 0.014174775185418743)    played    30.51 s,       4976 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000275459026168030, 0.014118155126142940)    played    29.48 s,       5016 time(s)
+                                                                                                           played    60.00 s,       9992 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.002507697366559933, 0.019418390934515434)    played    30.88 s,       2651 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.002600373532492057, 0.019783564706223267)    played    29.11 s,       2554 time(s)
+                                                                                                           played    59.99 s,       5205 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.053223374314620812, 0.055814557218594754)    played    57.28 s,        320 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.026402365028974133, 0.065653216429861272)    played     2.49 s,        231 time(s)
+                                                                                                           played    59.77 s,        551 time(s)
+
+Mean throughputs: [0.1456 0.0159 0.1460 0.3494]
+Aggregate throughput: 0.6568
+Min-Max: 0.3335
+JFI: 0.5791 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [2589 2545]]
+[[ -82  -68]
+ [4976 5016]]
+[[ -82  -68]
+ [2651 2554]]
+[[-82 -68]
+ [320 231]]
+Mean PCS: [-75.0600 -74.9720 -75.1305 -76.1307]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [0.1495 0.0157 0.1393 0.4058]
+Aggregate throughput: 0.7102
+Min-Max: 0.3901
+JFI: 0.5558 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [857 841]]
+[[ -82  -68]
+ [1607 1713]]
+[[-82 -68]
+ [885 846]]
+[[-82 -68]
+ [117  72]]
+Mean PCS: [-75.0660 -74.7765 -75.1577 -76.6667]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:14297): Gdk-CRITICAL **: 22:23:56.370: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 20872
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.029968738987069553, 0.073323557510676651)    played    39.15 s,        185 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.020738775830016938, 0.078086880944303036)    played    20.79 s,        163 time(s)
+                                                                                                           played    59.93 s,        348 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.002690020874538609, 0.019536616629114087)    played    29.99 s,       2619 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.002542767626021352, 0.019462473604038074)    played    30.01 s,       2639 time(s)
+                                                                                                           played    60.00 s,       5258 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000227698274572887, 0.014132246511151978)    played    30.36 s,       5006 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000238958454037803, 0.014159136794714975)    played    29.64 s,       4987 time(s)
+                                                                                                           played    60.00 s,       9993 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.002408009383857954, 0.019547811329657872)    played    29.92 s,       2616 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.002302365371179167, 0.019396461632280274)    played    30.07 s,       2657 time(s)
+                                                                                                           played    59.99 s,       5273 time(s)
+
+Mean throughputs: [0.1783 0.1484 0.0147 0.1392]
+Aggregate throughput: 0.4806
+Min-Max: 0.1637
+JFI: 0.6575 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [185 163]]
+[[ -82  -68]
+ [2619 2639]]
+[[ -82  -68]
+ [5006 4987]]
+[[ -82  -68]
+ [2616 2657]]
+Mean PCS: [-75.4425 -74.9734 -75.0133 -74.9456]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [0.0000 0.1411 0.0139 0.1345]
+Aggregate throughput: 0.2894
+Min-Max: 0.1411
+JFI: 0.5243 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [ 17  23]]
+[[-82 -68]
+ [880 913]]
+[[ -82  -68]
+ [1675 1714]]
+[[-82 -68]
+ [857 917]]
+Mean PCS: [-73.9500 -74.8712 -74.9194 -74.7632]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:14322): Gdk-CRITICAL **: 22:24:54.501: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 31876
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.001630149893422214, 0.019331116825676477)    played    30.54 s,       2675 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000479696655107508, 0.019585266453731865)    played    29.46 s,       2606 time(s)
+                                                                                                           played    60.00 s,       5281 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.003358092665623272, 0.017190354104313223)    played    35.24 s,       3383 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.002543348078791004, 0.017674908041006729)    played    24.75 s,       3200 time(s)
+                                                                                                           played    59.99 s,       6583 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000282731428318623, 0.014092896504156339)    played    30.70 s,       5034 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000354145083264539, 0.014173351371926584)    played    29.30 s,       4977 time(s)
+                                                                                                           played    60.00 s,      10011 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000347280024573561, 0.014139308044851598)    played    30.58 s,       5001 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000423449641306582, 0.014140721622265262)    played    29.42 s,       5000 time(s)
+                                                                                                           played    60.00 s,      10001 time(s)
+
+Mean throughputs: [0.0575 0.1784 0.0203 0.0243]
+Aggregate throughput: 0.2805
+Min-Max: 0.1581
+JFI: 0.5223 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [2675 2606]]
+[[ -82  -68]
+ [3383 3200]]
+[[ -82  -68]
+ [5034 4977]]
+[[ -82  -68]
+ [5001 5000]]
+Mean PCS: [-75.0915 -75.1946 -75.0399 -75.0007]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [0.0651 0.1947 0.0217 0.0283]
+Aggregate throughput: 0.3099
+Min-Max: 0.1730
+JFI: 0.5265 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [903 856]]
+[[ -82  -68]
+ [1137 1053]]
+[[ -82  -68]
+ [1682 1663]]
+[[ -82  -68]
+ [1666 1678]]
+Mean PCS: [-75.1870 -75.2685 -75.0398 -74.9749]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:14347): Gdk-CRITICAL **: 22:26:13.854: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 29013
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.011384248298895195, 0.015085856549091080)    played    30.03 s,       4393 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.011202018511080400, 0.015005815880699064)    played    29.97 s,       4440 time(s)
+                                                                                                           played    60.00 s,       8833 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000000000000000000, 0.015609763526361566)    played    31.68 s,       4103 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000007738162240622, 0.015496893184343590)    played    28.32 s,       4163 time(s)
+                                                                                                           played    60.00 s,       8266 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000011693789052438, 0.024610841494742634)    played    49.26 s,       1650 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000094388847509187, 0.024529262467676907)    played    10.73 s,       1661 time(s)
+                                                                                                           played    59.99 s,       3311 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.075956361835287090, 0.014219127353430847)    played    36.60 s,       4945 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.070398324143260402, 0.016531748712584435)    played    23.40 s,       3658 time(s)
+                                                                                                           played    60.00 s,       8603 time(s)
+
+Mean throughputs: [0.6764 0.0002 0.0016 4.3770]
+Aggregate throughput: 5.0553
+Min-Max: 4.3768
+JFI: 0.4100 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [4393 4440]]
+[[ -82  -68]
+ [4103 4163]]
+[[ -82  -68]
+ [1650 1661]]
+[[ -82  -68]
+ [4945 3658]]
+Mean PCS: [-74.9628 -74.9492 -74.9767 -76.0472]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [0.6236 0.0006 0.0018 4.2012]
+Aggregate throughput: 4.8272
+Min-Max: 4.2006
+JFI: 0.4085 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [1484 1483]]
+[[ -82  -68]
+ [1369 1426]]
+[[-82 -68]
+ [523 543]]
+[[ -82  -68]
+ [1668 1235]]
+Mean PCS: [-75.0024 -74.8572 -74.8687 -76.0441]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:14375): Gdk-CRITICAL **: 22:27:26.993: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 30862
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.004860968967574209, 0.014071950894605837)    played    29.47 s,       5049 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.005319224854698486, 0.013825031590233275)    played    30.53 s,       5231 time(s)
+                                                                                                           played    60.00 s,      10280 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000029009864505127, 0.019544077624852607)    played    30.11 s,       2617 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000042417330204777, 0.019392813966684824)    played    29.89 s,       2658 time(s)
+                                                                                                           played    59.99 s,       5275 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000045914310120302, 0.014281343114939598)    played    29.73 s,       4902 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000106892612036288, 0.014123786620234526)    played    30.27 s,       5012 time(s)
+                                                                                                           played    60.00 s,       9914 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000027870672892316, 0.019181177921614532)    played    30.44 s,       2717 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000054830335472624, 0.019327505895071394)    played    29.55 s,       2676 time(s)
+                                                                                                           played    60.00 s,       5393 time(s)
+
+Mean throughputs: [0.3283 0.0022 0.0048 0.0026]
+Aggregate throughput: 0.3380
+Min-Max: 0.3261
+JFI: 0.3751 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [5049 5231]]
+[[ -82  -68]
+ [2617 2658]]
+[[ -82  -68]
+ [4902 5012]]
+[[ -82  -68]
+ [2717 2676]]
+Mean PCS: [-74.8761 -74.9456 -74.9223 -75.0532]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [0.3190 0.0018 0.0030 0.0042]
+Aggregate throughput: 0.3280
+Min-Max: 0.3172
+JFI: 0.3748 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [1651 1775]]
+[[-82 -68]
+ [904 854]]
+[[ -82  -68]
+ [1601 1694]]
+[[-82 -68]
+ [913 884]]
+Mean PCS: [-74.7466 -75.1991 -74.8024 -75.1130]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:14402): Gdk-CRITICAL **: 22:28:38.801: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 25185
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000054458619066596, 0.020240261084859691)    played    41.87 s,       2440 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000096483807764316, 0.020068348776964950)    played    18.13 s,       2482 time(s)
+                                                                                                           played    60.00 s,       4922 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000112445538566400, 0.018857857160117855)    played    31.27 s,       2811 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000024810525572385, 0.018685877318798397)    played    28.72 s,       2863 time(s)
+                                                                                                           played    59.99 s,       5674 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.153455473709667473, 0.013178445040493487)    played    49.15 s,       5757 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.128849298268357004, 0.024640709031819096)    played    10.85 s,       1646 time(s)
+                                                                                                           played    60.00 s,       7403 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000031756052623322, 0.016706158440387590)    played    38.15 s,       3582 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000027027229974817, 0.016655104634982609)    played    21.84 s,       3604 time(s)
+                                                                                                           played    59.99 s,       7186 time(s)
+
+Mean throughputs: [0.0038 0.0048 8.2521 0.0018]
+Aggregate throughput: 8.2626
+Min-Max: 8.2503
+JFI: 0.3664 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [2440 2482]]
+[[ -82  -68]
+ [2811 2863]]
+[[ -82  -68]
+ [5757 1646]]
+[[ -82  -68]
+ [3582 3604]]
+Mean PCS: [-74.9403 -74.9358 -78.8872 -74.9786]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [0.0030 0.0054 8.3003 0.0018]
+Aggregate throughput: 8.3106
+Min-Max: 8.2985
+JFI: 0.3664 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [797 843]]
+[[-82 -68]
+ [954 936]]
+[[ -82  -68]
+ [2046  386]]
+[[ -82  -68]
+ [1193 1210]]
+Mean PCS: [-74.8037 -75.0667 -79.7780 -74.9505]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:14427): Gdk-CRITICAL **: 22:29:49.545: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 19321
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.005007371116081428, 0.015036318982290577)    played    33.63 s,       4422 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.004560298858322770, 0.015264062771816588)    played    26.36 s,       4291 time(s)
+                                                                                                           played    60.00 s,       8713 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.079910236716522254, 0.054964970992931274)    played    46.93 s,        330 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.038319587215017090, 0.079555728417573010)    played    12.97 s,        157 time(s)
+                                                                                                           played    59.90 s,        487 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.187285897004211638, 0.038433122101204392)    played    41.03 s,        676 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.239350773148514301, 0.022238701440076277)    played    18.96 s,       2021 time(s)
+                                                                                                           played    59.99 s,       2697 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.003889510701081135, 0.016347378131669827)    played    30.53 s,       3741 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.003574558353485954, 0.016475560157973419)    played    29.46 s,       3683 time(s)
+                                                                                                           played    60.00 s,       7424 time(s)
+
+Mean throughputs: [0.2859 0.4515 6.3522 0.1840]
+Aggregate throughput: 7.2737
+Min-Max: 6.1683
+JFI: 0.4098 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [4422 4291]]
+[[-82 -68]
+ [330 157]]
+[[ -82  -68]
+ [ 676 2021]]
+[[ -82  -68]
+ [3741 3683]]
+Mean PCS: [-75.1052 -77.4867 -71.5091 -75.0547]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [0.2164 0.0000 9.8914 0.1369]
+Aggregate throughput: 10.2447
+Min-Max: 9.8914
+JFI: 0.3770 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [1428 1365]]
+[[-82 -68]
+ [ 28  12]]
+[[ -82  -68]
+ [ 215 1101]]
+[[ -82  -68]
+ [1078 1080]]
+Mean PCS: [-75.1579 -77.8000 -70.2872 -74.9935]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:14466): Gdk-CRITICAL **: 22:30:46.406: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 23085
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.213561709010738954, 0.018983159915049980)    played    37.00 s,       2774 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.220088055761221202, 0.015933346823572690)    played    22.99 s,       3938 time(s)
+                                                                                                           played    59.99 s,       6712 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.005913319478716842, 0.023589892481053584)    played    42.17 s,       1796 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.004553919246415288, 0.025023470510567421)    played    17.82 s,       1596 time(s)
+                                                                                                           played    60.00 s,       3392 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.005145221973772274, 0.021496679019617389)    played    39.34 s,       2163 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.003399397438000354, 0.022059419866945280)    played    20.66 s,       2054 time(s)
+                                                                                                           played    60.00 s,       4217 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000032571557133128, 0.015010886840871084)    played    30.78 s,       4437 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000014763237149990, 0.015200447507762040)    played    29.22 s,       4327 time(s)
+                                                                                                           played    60.00 s,       8764 time(s)
+
+Mean throughputs: [11.6977  0.2230  0.2554  0.0014]
+Aggregate throughput: 12.1775
+Min-Max: 11.6963
+JFI: 0.3786 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [2774 3938]]
+[[ -82  -68]
+ [1796 1596]]
+[[ -82  -68]
+ [2163 2054]]
+[[ -82  -68]
+ [4437 4327]]
+Mean PCS: [-73.7861 -75.4127 -75.1809 -75.0879]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [11.9394  0.2219  0.2482  0.0024]
+Aggregate throughput: 12.4119
+Min-Max: 11.9370
+JFI: 0.3782 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [1000 1186]]
+[[-82 -68]
+ [571 570]]
+[[-82 -68]
+ [730 649]]
+[[ -82  -68]
+ [1487 1466]]
+Mean PCS: [-74.4044 -75.0061 -75.4112 -75.0498]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:14491): Gdk-CRITICAL **: 22:31:52.741: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 22157
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.127350157002193015, 0.021461994946516343)    played    51.17 s,       2170 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.079825967610153287, 0.035828718195000928)    played     8.80 s,        778 time(s)
+                                                                                                           played    59.98 s,       2948 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000441108215920917, 0.025607375986579195)    played    34.25 s,       1524 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000379601975948993, 0.025649458802128853)    played    25.74 s,       1519 time(s)
+                                                                                                           played    59.99 s,       3043 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.145908540668036296, 0.013614580855202115)    played    31.15 s,       5394 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.146567961768008626, 0.014163396676512620)    played    28.85 s,       4984 time(s)
+                                                                                                           played    60.00 s,      10378 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.516366922702775288, 0.013623421903119947)    played    56.57 s,       5387 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.388126125813781142, 0.049875466805381644)    played     3.43 s,        401 time(s)
+                                                                                                           played    59.99 s,       5788 time(s)
+
+Mean throughputs: [ 5.4123  0.0179  9.4571 25.7337]
+Aggregate throughput: 40.6210
+Min-Max: 25.7158
+JFI: 0.5141 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [2170  778]]
+[[ -82  -68]
+ [1524 1519]]
+[[ -82  -68]
+ [5394 4984]]
+[[ -82  -68]
+ [5387  401]]
+Mean PCS: [-78.3053 -75.0115 -75.2765 -81.0301]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [ 5.4944  0.0175 10.3035 28.1930]
+Aggregate throughput: 44.0084
+Min-Max: 28.1756
+JFI: 0.5100 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [761 145]]
+[[-82 -68]
+ [482 504]]
+[[ -82  -68]
+ [1674 1775]]
+[[ -82  -68]
+ [1951   34]]
+Mean PCS: [-79.7594 -74.8438 -74.7950 -81.7602]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:14519): Gdk-CRITICAL **: 22:33:00.118: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 24329
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000092070742173040, 0.017995393768717362)    played    38.37 s,       3087 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000130310283282938, 0.017658366242304668)    played    21.62 s,       3206 time(s)
+                                                                                                           played    59.99 s,       6293 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000081071619342287, 0.019672236884115842)    played    33.08 s,       2583 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000389410797293552, 0.018962670799619143)    played    26.91 s,       2780 time(s)
+                                                                                                           played    59.99 s,       5363 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000179397707537178, 0.017279947800812524)    played    34.19 s,       3348 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000078556294077438, 0.017180203318601237)    played    25.81 s,       3387 time(s)
+                                                                                                           played    60.00 s,       6735 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000108092101215829, 0.018148850216015693)    played    34.88 s,       3035 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000099726947172940, 0.018556740475630138)    played    25.12 s,       2903 time(s)
+                                                                                                           played    60.00 s,       5938 time(s)
+
+Mean throughputs: [0.0062 0.0093 0.0072 0.0052]
+Aggregate throughput: 0.0280
+Min-Max: 0.0040
+JFI: 0.8245 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [3087 3206]]
+[[ -82  -68]
+ [2583 2780]]
+[[ -82  -68]
+ [3348 3387]]
+[[ -82  -68]
+ [3035 2903]]
+Mean PCS: [-74.8676 -74.7429 -74.9595 -75.1556]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [0.0048 0.0036 0.0078 0.0060]
+Aggregate throughput: 0.0223
+Min-Max: 0.0042
+JFI: 0.7814 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [1046 1028]]
+[[-82 -68]
+ [859 938]]
+[[ -82  -68]
+ [1120 1106]]
+[[ -82  -68]
+ [1013  950]]
+Mean PCS: [-75.0608 -74.6923 -75.0440 -75.2247]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:14544): Gdk-CRITICAL **: 22:34:13.001: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 20318
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.005979189076949211, 0.018712029714127994)    played    38.22 s,       2855 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.001604944904629498, 0.020792762051726844)    played    21.77 s,       2312 time(s)
+                                                                                                           played    59.99 s,       5167 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.005635267051747614, 0.018193851153474074)    played    41.38 s,       3020 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.002498261144574197, 0.019714243067193778)    played    18.62 s,       2572 time(s)
+                                                                                                           played    60.00 s,       5592 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000209978262652673, 0.016602227504272985)    played    32.08 s,       3627 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000223864493589274, 0.016570286951800781)    played    27.92 s,       3641 time(s)
+                                                                                                           played    60.00 s,       7268 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.086963825471012196, 0.028444006199428714)    played    51.90 s,       1235 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.078754766874395907, 0.030758312596043252)    played     8.03 s,       1056 time(s)
+                                                                                                           played    59.94 s,       2291 time(s)
+
+Mean throughputs: [0.2508 0.2666 0.0109 2.5505]
+Aggregate throughput: 3.0788
+Min-Max: 2.5396
+JFI: 0.4269 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [2855 2312]]
+[[ -82  -68]
+ [3020 2572]]
+[[ -82  -68]
+ [3627 3641]]
+[[ -82  -68]
+ [1235 1056]]
+Mean PCS: [-75.7356 -75.5608 -74.9865 -75.5469]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [0.2660 0.2575 0.0121 2.7881]
+Aggregate throughput: 3.3236
+Min-Max: 2.7760
+JFI: 0.4227 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [978 732]]
+[[ -82  -68]
+ [1025  788]]
+[[ -82  -68]
+ [1208 1223]]
+[[-82 -68]
+ [419 330]]
+Mean PCS: [-76.0070 -75.9151 -74.9568 -75.8318]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:14570): Gdk-CRITICAL **: 22:35:19.394: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 23752
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000083843269886760, 0.018205908047543198)    played    34.09 s,       3016 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000069912495108841, 0.018676098402828818)    played    25.90 s,       2866 time(s)
+                                                                                                           played    60.00 s,       5882 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.201916503517808155, 0.016314711653683211)    played    29.66 s,       3756 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.208017517290017606, 0.013852860582056379)    played    30.33 s,       5210 time(s)
+                                                                                                           played    60.00 s,       8966 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.004083876886378122, 0.022744902159317754)    played    46.47 s,       1932 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.002904810479521113, 0.023008272961461865)    played    13.50 s,       1888 time(s)
+                                                                                                           played    59.97 s,       3820 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.001546140761309188, 0.019447746039610348)    played    39.28 s,       2643 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.001306485970429267, 0.020236116462908824)    played    20.71 s,       2441 time(s)
+                                                                                                           played    59.99 s,       5084 time(s)
+
+Mean throughputs: [ 0.0040 12.4551  0.1577  0.0672]
+Aggregate throughput: 12.6840
+Min-Max: 12.4511
+JFI: 0.3717 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [3016 2866]]
+[[ -82  -68]
+ [3756 5210]]
+[[ -82  -68]
+ [1932 1888]]
+[[ -82  -68]
+ [2643 2441]]
+Mean PCS: [-75.1785 -73.8648 -75.0806 -75.2781]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [ 0.0000 12.2214  0.1374  0.0501]
+Aggregate throughput: 12.4089
+Min-Max: 12.2214
+JFI: 0.3708 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [1022  948]]
+[[ -82  -68]
+ [1217 1784]]
+[[-82 -68]
+ [665 612]]
+[[-82 -68]
+ [880 799]]
+Mean PCS: [-75.2629 -73.6774 -75.2905 -75.3377]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:14595): Gdk-CRITICAL **: 22:36:28.436: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 22278
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000301387528446211, 0.019341961772855316)    played    30.58 s,       2672 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000310747305074563, 0.019634281539316643)    played    29.41 s,       2593 time(s)
+                                                                                                           played    60.00 s,       5265 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000037943264356660, 0.019114484997483857)    played    31.15 s,       2736 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000030373493752623, 0.019473541261232866)    played    28.84 s,       2636 time(s)
+                                                                                                           played    59.99 s,       5372 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000417483148373409, 0.019209468759882466)    played    29.99 s,       2709 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000405335095355578, 0.019280747181992474)    played    30.00 s,       2689 time(s)
+                                                                                                           played    59.99 s,       5398 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000087060006437205, 0.017792017089454125)    played    33.56 s,       3158 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000086326005239856, 0.018001224124862152)    played    26.44 s,       3085 time(s)
+                                                                                                           played    60.00 s,       6243 time(s)
+
+Mean throughputs: [0.0177 0.0018 0.0241 0.0048]
+Aggregate throughput: 0.0485
+Min-Max: 0.0223
+JFI: 0.5697 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [2672 2593]]
+[[ -82  -68]
+ [2736 2636]]
+[[ -82  -68]
+ [2709 2689]]
+[[ -82  -68]
+ [3158 3085]]
+Mean PCS: [-75.1050 -75.1303 -75.0259 -75.0819]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [0.0217 0.0024 0.0241 0.0036]
+Aggregate throughput: 0.0518
+Min-Max: 0.0217
+JFI: 0.5647 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [870 878]]
+[[-82 -68]
+ [913 874]]
+[[-82 -68]
+ [914 884]]
+[[ -82  -68]
+ [1065  996]]
+Mean PCS: [-74.9680 -75.1528 -75.1168 -75.2344]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:14621): Gdk-CRITICAL **: 22:37:38.526: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 12613
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.274747131533842504, 0.017995393768717362)    played    58.14 s,       3087 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.073350723263810799, 0.070186240634359645)    played     1.85 s,        202 time(s)
+                                                                                                           played    59.99 s,       3289 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.251102941578573935, 0.019191772331658235)    played    56.24 s,       2714 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.090481036979044818, 0.063500063500095252)    played     3.75 s,        247 time(s)
+                                                                                                           played    60.00 s,       2961 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.286220244384055134, 0.019418390934515434)    played    53.23 s,       2651 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.217083987486060670, 0.043073049225394802)    played     6.76 s,        538 time(s)
+                                                                                                           played    59.99 s,       3189 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.262954623259183562, 0.019313082381200476)    played    55.52 s,       2680 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.176534523100181112, 0.044946657497549475)    played     4.47 s,        494 time(s)
+                                                                                                           played    59.99 s,       3174 time(s)
+
+Mean throughputs: [11.3876 10.4692 12.4020 10.9534]
+Aggregate throughput: 45.2123
+Min-Max: 1.9328
+JFI: 0.9407 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [3087  202]]
+[[ -82  -68]
+ [2714  247]]
+[[ -82  -68]
+ [2651  538]]
+[[ -82  -68]
+ [2680  494]]
+Mean PCS: [-81.1402 -80.8322 -79.6381 -79.8210]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [12.9430 11.7960 12.5280 12.1298]
+Aggregate throughput: 49.3968
+Min-Max: 1.1470
+JFI: 0.9664 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [1048    2]]
+[[-82 -68]
+ [986  15]]
+[[-82 -68]
+ [932  93]]
+[[-82 -68]
+ [978  38]]
+Mean PCS: [-81.9733 -81.7902 -80.7298 -81.4764]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:14646): Gdk-CRITICAL **: 22:38:29.505: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 20436
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.103092324618846487, 0.051366549693751408)    played    50.60 s,        378 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.089117310338487271, 0.058621038176054914)    played     9.02 s,        290 time(s)
+                                                                                                           played    59.62 s,        668 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.004354184501572186, 0.014653685993835359)    played    31.45 s,       4656 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.004355911534588811, 0.014693177484605833)    played    28.55 s,       4631 time(s)
+                                                                                                           played    60.00 s,       9287 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.004256305277864743, 0.014530954842977411)    played    32.24 s,       4735 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.004146031059130055, 0.014560190658208840)    played    27.76 s,       4716 time(s)
+                                                                                                           played    60.00 s,       9451 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.080131662022338346, 0.047673129462279612)    played    54.51 s,        439 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.099974390445845662, 0.041099746826339323)    played     5.13 s,        591 time(s)
+                                                                                                           played    59.64 s,       1030 time(s)
+
+Mean throughputs: [0.9814 0.2548 0.2511 1.2297]
+Aggregate throughput: 2.7170
+Min-Max: 0.9786
+JFI: 0.6095 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [378 290]]
+[[ -82  -68]
+ [4656 4631]]
+[[ -82  -68]
+ [4735 4716]]
+[[-82 -68]
+ [439 591]]
+Mean PCS: [-75.9222 -75.0188 -75.0141 -73.9670]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [0.5420 0.2598 0.2629 1.0988]
+Aggregate throughput: 2.1635
+Min-Max: 0.8389
+JFI: 0.6127 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [ 78  61]]
+[[ -82  -68]
+ [1603 1554]]
+[[ -82  -68]
+ [1608 1594]]
+[[-82 -68]
+ [132 253]]
+Mean PCS: [-75.8561 -75.1086 -75.0306 -72.8000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:14716): Gdk-CRITICAL **: 22:39:29.749: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 23893
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000903304399118669, 0.020378478648480559)    played    32.63 s,       2407 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.001212629529894219, 0.020032077005375095)    played    27.35 s,       2491 time(s)
+                                                                                                           played    59.98 s,       4898 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.006616335283966857, 0.021708374752650368)    played    39.55 s,       2121 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.002655921985481846, 0.024318019154289876)    played    20.44 s,       1690 time(s)
+                                                                                                           played    59.99 s,       3811 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.002864794874558394, 0.017482090031876639)    played    36.69 s,       3271 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.001074803217248561, 0.019349201886068965)    played    23.31 s,       2670 time(s)
+                                                                                                           played    60.00 s,       5941 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000013888972223876, 0.014680505487867587)    played    30.15 s,       4639 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000000383527761630, 0.014736188992246295)    played    29.85 s,       4604 time(s)
+                                                                                                           played    60.00 s,       9243 time(s)
+
+Mean throughputs: [0.0495 0.2678 0.0766 0.0006]
+Aggregate throughput: 0.3945
+Min-Max: 0.2672
+JFI: 0.4930 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [2407 2491]]
+[[ -82  -68]
+ [2121 1690]]
+[[ -82  -68]
+ [3271 2670]]
+[[ -82  -68]
+ [4639 4604]]
+Mean PCS: [-74.8800 -75.7917 -75.7081 -75.0265]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [0.0169 0.2296 0.0151 0.0006]
+Aggregate throughput: 0.2622
+Min-Max: 0.2290
+JFI: 0.4084 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [772 879]]
+[[-82 -68]
+ [712 553]]
+[[ -82  -68]
+ [1067  925]]
+[[ -82  -68]
+ [1522 1585]]
+Mean PCS: [-74.5463 -75.8798 -75.4990 -74.8581]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:14755): Gdk-CRITICAL **: 22:40:40.490: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 29904
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000000000000000000, 0.014953715113864480)    played    34.37 s,       4471 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000000000000000000, 0.015186418480769674)    played    25.63 s,       4335 time(s)
+                                                                                                           played    60.00 s,       8806 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.063040416073403813, 0.014454852115694089)    played    34.50 s,       4785 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.058625441075019102, 0.016095569499491261)    played    25.50 s,       3859 time(s)
+                                                                                                           played    60.00 s,       8644 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000000000000000000, 0.029721914913888200)    played    48.98 s,       1131 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000014685714617725, 0.030556616567607043)    played    10.90 s,       1070 time(s)
+                                                                                                           played    59.87 s,       2201 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.051520417980965176, 0.014441280189584203)    played    28.27 s,       4794 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.055094612491534800, 0.013533299049019169)    played    31.73 s,       5459 time(s)
+                                                                                                           played    60.00 s,      10253 time(s)
+
+Mean throughputs: [0.0000 3.6111 0.0002 3.4362]
+Aggregate throughput: 7.0475
+Min-Max: 3.6111
+JFI: 0.4999 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [4471 4335]]
+[[ -82  -68]
+ [4785 3859]]
+[[ -82  -68]
+ [1131 1070]]
+[[ -82  -68]
+ [4794 5459]]
+Mean PCS: [-75.1081 -75.7499 -75.1940 -74.5460]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [0.0000 3.7945 0.0000 3.5553]
+Aggregate throughput: 7.3498
+Min-Max: 3.7945
+JFI: 0.4997 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [1524 1414]]
+[[ -82  -68]
+ [1615 1265]]
+[[-82 -68]
+ [378 347]]
+[[ -82  -68]
+ [1477 1930]]
+Mean PCS: [-75.2621 -75.8507 -75.2993 -74.0693]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:14780): Gdk-CRITICAL **: 22:41:55.053: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 19054
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.128206759210042154, 0.044901325506693728)    played    44.54 s,        495 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.126297049325527683, 0.048450158311150925)    played    14.99 s,        425 time(s)
+                                                                                                           played    59.53 s,        920 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.113205692515209053, 0.052999894000318001)    played    40.20 s,        355 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.104834574046649601, 0.052057920629535355)    played    19.65 s,        368 time(s)
+                                                                                                           played    59.86 s,        723 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.012077801444125827, 0.014334063592841508)    played    35.04 s,       4866 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.009790272870465853, 0.015992325525180033)    played    24.96 s,       3909 time(s)
+                                                                                                           played    60.00 s,       8775 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.010711986703776787, 0.014555562743489549)    played    34.21 s,       4719 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.009376191952043625, 0.015975990152658322)    played    25.79 s,       3917 time(s)
+                                                                                                           played    60.00 s,       8636 time(s)
+
+Mean throughputs: [1.3163 0.9866 0.7005 0.6173]
+Aggregate throughput: 3.6207
+Min-Max: 0.6989
+JFI: 0.7676 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [495 425]]
+[[-82 -68]
+ [355 368]]
+[[ -82  -68]
+ [4866 3909]]
+[[ -82  -68]
+ [4719 3917]]
+Mean PCS: [-75.5326 -74.8741 -75.7634 -75.6501]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [0.0000 0.0000 1.0282 0.9482]
+Aggregate throughput: 1.9763
+Min-Max: 1.0282
+JFI: 0.4996 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [ 20  20]]
+[[-82 -68]
+ [ 18  22]]
+[[ -82  -68]
+ [1674 1383]]
+[[ -82  -68]
+ [1636 1390]]
+Mean PCS: [-75.0000 -74.3000 -75.6663 -75.5691]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:14807): Gdk-CRITICAL **: 22:42:54.783: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 19959
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.112231284801996831, 0.044543540318737397)    played    54.18 s,        503 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.076505896311317462, 0.056523341894422145)    played     5.42 s,        312 time(s)
+                                                                                                           played    59.60 s,        815 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.004388653221946154, 0.014983900955063838)    played    30.37 s,       4453 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.004739727053477820, 0.014650540413463423)    played    29.63 s,       4658 time(s)
+                                                                                                           played    60.00 s,       9111 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.006020383645614672, 0.014462408628372749)    played    31.28 s,       4780 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.005873782524775077, 0.014656833601216487)    played    28.72 s,       4654 time(s)
+                                                                                                           played    60.00 s,       9434 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.089873188843991175, 0.053838190205816552)    played    46.31 s,        344 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.071364889933346082, 0.062500000000000000)    played    13.68 s,        255 time(s)
+                                                                                                           played    59.99 s,        599 time(s)
+
+Mean throughputs: [1.1292 0.2636 0.3971 0.7230]
+Aggregate throughput: 2.5129
+Min-Max: 0.8656
+JFI: 0.6529 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [503 312]]
+[[ -82  -68]
+ [4453 4658]]
+[[ -82  -68]
+ [4780 4654]]
+[[-82 -68]
+ [344 255]]
+Mean PCS: [-76.6405 -74.8425 -75.0935 -76.0401]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [0.4225 0.2949 0.3485 0.0000]
+Aggregate throughput: 1.0658
+Min-Max: 0.4225
+JFI: 0.6243 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [ 95  32]]
+[[ -82  -68]
+ [1629 1701]]
+[[ -82  -68]
+ [1666 1679]]
+[[-82 -68]
+ [ 23  17]]
+Mean PCS: [-78.4724 -74.8486 -74.9728 -76.0500]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:14833): Gdk-CRITICAL **: 22:43:54.647: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 23242
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.276526335143538082, 0.018847805889708431)    played    32.13 s,       2814 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.275872906423846764, 0.020231974386012930)    played    27.87 s,       2442 time(s)
+                                                                                                           played    59.99 s,       5256 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.654478067311244471, 0.011058672612085900)    played    58.17 s,       8176 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.506064079946289436, 0.059549133417541367)    played     1.82 s,        281 time(s)
+                                                                                                           played    60.00 s,       8457 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000128469556126510, 0.022102483685126760)    played    47.97 s,       2046 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000016651884315243, 0.022750787759664503)    played    12.01 s,       1931 time(s)
+                                                                                                           played    59.98 s,       3977 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.299745907358917707, 0.023715600272562448)    played    19.43 s,       1777 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.312451602411052354, 0.016273613872602982)    played    40.55 s,       3775 time(s)
+                                                                                                           played    59.98 s,       5552 time(s)
+
+Mean throughputs: [15.5009 36.7051  0.0042 16.9288]
+Aggregate throughput: 69.1390
+Min-Max: 36.7008
+JFI: 0.5702 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [2814 2442]]
+[[ -82  -68]
+ [8176  281]]
+[[ -82  -68]
+ [2046 1931]]
+[[ -82  -68]
+ [1777 3775]]
+Mean PCS: [-75.4954 -81.5348 -75.2024 -72.4809]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [15.7610 37.2066  0.0042 16.8937]
+Aggregate throughput: 69.8655
+Min-Max: 37.2024
+JFI: 0.5694 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [884 867]]
+[[ -82  -68]
+ [2802   28]]
+[[-82 -68]
+ [681 622]]
+[[ -82  -68]
+ [ 647 1209]]
+Mean PCS: [-75.0680 -81.8615 -75.3170 -72.8804]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:14858): Gdk-CRITICAL **: 22:44:58.036: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 21380
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.002469377238726984, 0.020378478648480559)    played    41.54 s,       2407 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.001601987983492383, 0.021086537485779239)    played    18.44 s,       2248 time(s)
+                                                                                                           played    59.98 s,       4655 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.004806538962495294, 0.023243246638896764)    played    32.87 s,       1850 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.002337320922358473, 0.023755716907278991)    played    27.13 s,       1771 time(s)
+                                                                                                           played    60.00 s,       3621 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.004923601377472258, 0.021452116007007208)    played    36.36 s,       2172 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.002909748651366542, 0.022692136494882290)    played    23.62 s,       1941 time(s)
+                                                                                                           played    59.99 s,       4113 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000212768130083719, 0.014821729168218806)    played    30.84 s,       4551 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000029227387531506, 0.015005815880699064)    played    29.16 s,       4440 time(s)
+                                                                                                           played    60.00 s,       8991 time(s)
+
+Mean throughputs: [0.1193 0.1944 0.2160 0.0068]
+Aggregate throughput: 0.5365
+Min-Max: 0.2092
+JFI: 0.6212 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [2407 2248]]
+[[ -82  -68]
+ [1850 1771]]
+[[ -82  -68]
+ [2172 1941]]
+[[ -82  -68]
+ [4551 4440]]
+Mean PCS: [-75.2391 -75.1527 -75.3931 -75.0864]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [0.1152 0.1760 0.2055 0.0036]
+Aggregate throughput: 0.5003
+Min-Max: 0.2019
+JFI: 0.6180 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [811 741]]
+[[-82 -68]
+ [635 568]]
+[[-82 -68]
+ [721 639]]
+[[ -82  -68]
+ [1499 1508]]
+Mean PCS: [-75.3157 -75.3899 -75.4221 -74.9790]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:14884): Gdk-CRITICAL **: 22:46:08.193: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 30759
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.003445120249272190, 0.044108109139123088)    played    52.16 s,        513 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.003930868454322553, 0.042333375666730164)    played     7.84 s,        557 time(s)
+                                                                                                           played    60.00 s,       1070 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000093014970470123, 0.014406769314303260)    played    30.29 s,       4817 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000078003400598939, 0.014250856858528702)    played    29.70 s,       4923 time(s)
+                                                                                                           played    59.99 s,       9740 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000092476181270991, 0.014309095175803562)    played    31.50 s,       4883 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000099524461390994, 0.014384395066736768)    played    28.49 s,       4832 time(s)
+                                                                                                           played    59.99 s,       9715 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.008624982527994624, 0.014265349750363764)    played    28.91 s,       4913 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.009280024218852947, 0.013707636046478374)    played    31.09 s,       5321 time(s)
+                                                                                                           played    60.00 s,      10234 time(s)
+
+Mean throughputs: [0.0493 0.0052 0.0058 0.5781]
+Aggregate throughput: 0.6384
+Min-Max: 0.5728
+JFI: 0.3971 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [513 557]]
+[[ -82  -68]
+ [4817 4923]]
+[[ -82  -68]
+ [4883 4832]]
+[[ -82  -68]
+ [4913 5321]]
+Mean PCS: [-74.7121 -74.9238 -75.0367 -74.7209]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [0.0403 0.0048 0.0072 0.5210]
+Aggregate throughput: 0.5733
+Min-Max: 0.5161
+JFI: 0.3962 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [168 163]]
+[[ -82  -68]
+ [1550 1710]]
+[[ -82  -68]
+ [1628 1625]]
+[[ -82  -68]
+ [1600 1813]]
+Mean PCS: [-75.1057 -74.6564 -75.0065 -74.5631]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:14910): Gdk-CRITICAL **: 22:47:20.565: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 20809
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000332926789753758, 0.014142135623730951)    played    30.61 s,       4999 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000382143286791170, 0.014246517597268445)    played    29.39 s,       4926 time(s)
+                                                                                                           played    60.00 s,       9925 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.030177133973319704, 0.058025885318565944)    played    57.71 s,        296 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.034448824610585627, 0.062017367294604227)    played     2.12 s,        259 time(s)
+                                                                                                           played    59.82 s,        555 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.002537878999886532, 0.019884999542396455)    played    30.09 s,       2528 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.002436951304839292, 0.019710413199636088)    played    29.91 s,       2573 time(s)
+                                                                                                           played    60.00 s,       5101 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.002732539302790412, 0.019562767576168476)    played    30.06 s,       2612 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.002674126381017573, 0.019547811329657872)    played    29.93 s,       2616 time(s)
+                                                                                                           played    59.99 s,       5228 time(s)
+
+Mean throughputs: [0.0223 0.3485 0.1416 0.1563]
+Aggregate throughput: 0.6686
+Min-Max: 0.3261
+JFI: 0.5885 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [4999 4926]]
+[[-82 -68]
+ [296 259]]
+[[ -82  -68]
+ [2528 2573]]
+[[ -82  -68]
+ [2612 2616]]
+Mean PCS: [-75.0515 -75.4667 -74.9382 -74.9946]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [0.0199 0.3071 0.1495 0.1604]
+Aggregate throughput: 0.6369
+Min-Max: 0.2872
+JFI: 0.6102 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [1686 1620]]
+[[-82 -68]
+ [ 97  98]]
+[[-82 -68]
+ [847 855]]
+[[-82 -68]
+ [875 864]]
+Mean PCS: [-75.1397 -74.9641 -74.9671 -75.0443]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:14935): Gdk-CRITICAL **: 22:48:20.555: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 24296
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.048119270657882955, 0.015640281177246359)    played    42.53 s,       4087 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.037723081418423995, 0.019791312333191979)    played    17.46 s,       2552 time(s)
+                                                                                                           played    60.00 s,       6639 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000012108711669945, 0.019506857866021760)    played    34.94 s,       2627 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000053657884681340, 0.019360077316559157)    played    25.05 s,       2667 time(s)
+                                                                                                           played    60.00 s,       5294 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000889435344083579, 0.023662426214015049)    played    39.64 s,       1785 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000848083276567373, 0.024274991071356489)    played    20.36 s,       1696 time(s)
+                                                                                                           played    60.00 s,       3481 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000007237580316700, 0.014987266233254517)    played    33.06 s,       4451 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000050484282519717, 0.015021044203152742)    played    26.93 s,       4431 time(s)
+                                                                                                           played    59.99 s,       8882 time(s)
+
+Mean throughputs: [2.5117 0.0012 0.0460 0.0016]
+Aggregate throughput: 2.5606
+Min-Max: 2.5105
+JFI: 0.3720 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [4087 2552]]
+[[ -82  -68]
+ [2627 2667]]
+[[ -82  -68]
+ [1785 1696]]
+[[ -82  -68]
+ [4451 4431]]
+Mean PCS: [-76.6185 -74.9471 -75.1790 -75.0158]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [2.6104 0.0018 0.0494 0.0030]
+Aggregate throughput: 2.6646
+Min-Max: 2.6085
+JFI: 0.3724 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [1411  768]]
+[[-82 -68]
+ [874 886]]
+[[-82 -68]
+ [566 584]]
+[[ -82  -68]
+ [1473 1493]]
+Mean PCS: [-77.0656 -74.9523 -74.8904 -74.9528]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:14960): Gdk-CRITICAL **: 22:49:24.587: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 13043
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.195574680135952583, 0.020797258270192576)    played    50.70 s,       2311 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.120527041582252914, 0.032241294010958051)    played     9.29 s,        961 time(s)
+                                                                                                           played    59.98 s,       3272 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.209409525969142418, 0.022792115291927591)    played    45.23 s,       1924 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.114652035718600664, 0.034319911152729012)    played    14.74 s,        848 time(s)
+                                                                                                           played    59.97 s,       2772 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.285508225267923077, 0.019097049542795109)    played    49.76 s,       2741 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.217819755613962690, 0.034380708208626445)    played    10.24 s,        845 time(s)
+                                                                                                           played    60.00 s,       3586 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.185615055013122560, 0.021349204063136496)    played    48.14 s,       2193 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.103710355790425923, 0.028618190351607124)    played    11.85 s,       1220 time(s)
+                                                                                                           played    59.99 s,       3413 time(s)
+
+Mean throughputs: [ 7.8817  7.2938 12.1345  6.9897]
+Aggregate throughput: 34.2997
+Min-Max: 5.1448
+JFI: 0.8048 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [2311  961]]
+[[ -82  -68]
+ [1924  848]]
+[[ -82  -68]
+ [2741  845]]
+[[ -82  -68]
+ [2193 1220]]
+Mean PCS: [-77.8881 -77.7172 -78.7011 -76.9956]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [11.0911 11.7631 13.5292 10.7294]
+Aggregate throughput: 47.1128
+Min-Max: 2.7998
+JFI: 0.9162 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [905  73]]
+[[-82 -68]
+ [957  92]]
+[[ -82  -68]
+ [1046   63]]
+[[-82 -68]
+ [918  63]]
+Mean PCS: [-80.9550 -80.7722 -81.2047 -81.1009]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:14999): Gdk-CRITICAL **: 22:50:20.053: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 27329
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000070070061207346, 0.015705730024402176)    played    34.73 s,       4053 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000054009741130698, 0.015553021195625068)    played    25.26 s,       4133 time(s)
+                                                                                                           played    59.99 s,       8186 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.006958146924359323, 0.014645825838791560)    played    33.20 s,       4661 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.006355828744364159, 0.014907119849998597)    played    26.79 s,       4499 time(s)
+                                                                                                           played    60.00 s,       9160 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.003017149627460020, 0.021626993492417011)    played    43.18 s,       2137 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.002878993291851985, 0.021393127492027906)    played    16.80 s,       2184 time(s)
+                                                                                                           played    59.98 s,       4321 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000000000000000000, 0.018811088266103344)    played    37.24 s,       2825 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000022762367841254, 0.018771276394456946)    played    22.76 s,       2837 time(s)
+                                                                                                           played    59.99 s,       5662 time(s)
+
+Mean throughputs: [0.0032 0.4134 0.1420 0.0004]
+Aggregate throughput: 0.5591
+Min-Max: 0.4130
+JFI: 0.4541 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [4053 4133]]
+[[ -82  -68]
+ [4661 4499]]
+[[ -82  -68]
+ [2137 2184]]
+[[ -82  -68]
+ [2825 2837]]
+Mean PCS: [-74.9316 -75.1238 -74.9239 -74.9852]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [0.0012 0.4433 0.1483 0.0000]
+Aggregate throughput: 0.5928
+Min-Max: 0.4433
+JFI: 0.4505 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [1361 1354]]
+[[ -82  -68]
+ [1578 1462]]
+[[-82 -68]
+ [727 731]]
+[[-82 -68]
+ [949 907]]
+Mean PCS: [-75.0180 -75.2671 -74.9808 -75.1584]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:15025): Gdk-CRITICAL **: 22:51:28.563: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 20158
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.088899440722427003, 0.036273812505500581)    played    55.04 s,        759 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.031113647707468512, 0.043314808182420998)    played     4.91 s,        532 time(s)
+                                                                                                           played    59.96 s,       1291 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.006160145694764414, 0.014787658047405828)    played    31.89 s,       4572 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.006121876229931239, 0.014838036499774766)    played    28.11 s,       4541 time(s)
+                                                                                                           played    60.00 s,       9113 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.006534227116904621, 0.014671022977143325)    played    32.16 s,       4645 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.005627120773606518, 0.014957060089885260)    played    27.84 s,       4469 time(s)
+                                                                                                           played    60.00 s,       9114 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.003912809265821163, 0.055814557218594754)    played    29.62 s,        320 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.005614329201805596, 0.055814557218594754)    played    30.27 s,        320 time(s)
+                                                                                                           played    59.90 s,        640 time(s)
+
+Mean throughputs: [0.9302 0.3788 0.3738 0.0205]
+Aggregate throughput: 1.7034
+Min-Max: 0.9096
+JFI: 0.5669 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [759 532]]
+[[ -82  -68]
+ [4572 4541]]
+[[ -82  -68]
+ [4645 4469]]
+[[-82 -68]
+ [320 320]]
+Mean PCS: [-76.2308 -75.0238 -75.1352 -75.0000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [0.9095 0.3727 0.3811 0.0000]
+Aggregate throughput: 1.6634
+Min-Max: 0.9095
+JFI: 0.5621 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [197  42]]
+[[ -82  -68]
+ [1591 1626]]
+[[ -82  -68]
+ [1666 1550]]
+[[-82 -68]
+ [ 18  22]]
+Mean PCS: [-79.5397 -74.9238 -75.2525 -74.3000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:15063): Gdk-CRITICAL **: 22:52:25.647: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 28033
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000000000000000000, 0.015899075018722335)    played    36.57 s,       3955 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000007810956401695, 0.015945495774497994)    played    23.42 s,       3932 time(s)
+                                                                                                           played    59.99 s,       7887 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000000000000000000, 0.024463116021507716)    played    38.29 s,       1670 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000019559446918207, 0.024700771787671948)    played    21.69 s,       1638 time(s)
+                                                                                                           played    59.97 s,       3308 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.121003327941982347, 0.015156735311928954)    played    35.86 s,       4352 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.112977912813478604, 0.018569533817705184)    played    24.13 s,       2899 time(s)
+                                                                                                           played    60.00 s,       7251 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.158917890950977747, 0.012551092808470126)    played    41.14 s,       6347 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.144521292632910109, 0.017565498707177146)    played    18.85 s,       3240 time(s)
+                                                                                                           played    59.99 s,       9587 time(s)
+
+Mean throughputs: [ 0.0002  0.0004  7.4646 10.2404]
+Aggregate throughput: 17.7056
+Min-Max: 10.2402
+JFI: 0.4940 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [3955 3932]]
+[[ -82  -68]
+ [1670 1638]]
+[[ -82  -68]
+ [4352 2899]]
+[[ -82  -68]
+ [6347 3240]]
+Mean PCS: [-75.0204 -75.0677 -76.4027 -77.2686]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [0.0000 0.0000 7.1074 9.9607]
+Aggregate throughput: 17.0681
+Min-Max: 9.9607
+JFI: 0.4932 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [1299 1338]]
+[[-82 -68]
+ [548 570]]
+[[ -82  -68]
+ [1548  851]]
+[[ -82  -68]
+ [2439  710]]
+Mean PCS: [-74.8965 -74.8623 -77.0338 -78.8434]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:15088): Gdk-CRITICAL **: 22:53:32.547: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 20268
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.005641695301340112, 0.020416668438946989)    played    32.08 s,       2398 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.004128689657680038, 0.021124141684149264)    played    27.92 s,       2240 time(s)
+                                                                                                           played    60.00 s,       4638 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.075067801173679657, 0.034752402342845795)    played    54.84 s,        827 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.065521723602085954, 0.035421817348790727)    played     4.80 s,        796 time(s)
+                                                                                                           played    59.64 s,       1623 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000189592386388184, 0.014890583938253495)    played    32.47 s,       4509 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000195745274313651, 0.014908776472757504)    played    27.53 s,       4498 time(s)
+                                                                                                           played    60.00 s,       9007 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.006392709993484290, 0.019540346058684974)    played    32.79 s,       2618 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.005382434936457564, 0.020485094834173604)    played    27.20 s,       2382 time(s)
+                                                                                                           played    59.99 s,       5000 time(s)
+
+Mean throughputs: [0.2803 1.3776 0.0121 0.3133]
+Aggregate throughput: 1.9833
+Min-Max: 1.3656
+JFI: 0.4870 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [2398 2240]]
+[[-82 -68]
+ [827 796]]
+[[ -82  -68]
+ [4509 4498]]
+[[ -82  -68]
+ [2618 2382]]
+Mean PCS: [-75.2385 -75.1337 -75.0085 -75.3304]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [0.2827 1.2632 0.0084 0.2460]
+Aggregate throughput: 1.8004
+Min-Max: 1.2548
+JFI: 0.4834 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [838 744]]
+[[-82 -68]
+ [270 198]]
+[[ -82  -68]
+ [1510 1510]]
+[[-82 -68]
+ [854 829]]
+Mean PCS: [-75.4159 -76.0769 -75.0000 -75.1040]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:15113): Gdk-CRITICAL **: 22:54:33.230: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 21381
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000102934763554769, 0.023843339369540383)    played    30.42 s,       1758 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000095107008097137, 0.024289308377863011)    played    29.57 s,       1694 time(s)
+                                                                                                           played    59.99 s,       3452 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.014269233424354341, 0.023205666587415449)    played    29.98 s,       1856 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.014367572835306914, 0.022911446554115689)    played    30.02 s,       1904 time(s)
+                                                                                                           played    60.00 s,       3760 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.161846208117604473, 0.012955367905607862)    played    34.40 s,       5957 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.156586004724391575, 0.015019349877480086)    played    25.60 s,       4432 time(s)
+                                                                                                           played    60.00 s,      10389 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.001001549322752542, 0.023087854826980506)    played    29.83 s,       1875 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.001167334611215936, 0.022905435417568808)    played    30.16 s,       1905 time(s)
+                                                                                                           played    59.99 s,       3780 time(s)
+
+Mean throughputs: [ 0.0060  0.7945 10.3578  0.0511]
+Aggregate throughput: 11.2094
+Min-Max: 10.3518
+JFI: 0.3905 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [1758 1694]]
+[[ -82  -68]
+ [1856 1904]]
+[[ -82  -68]
+ [5957 4432]]
+[[ -82  -68]
+ [1875 1905]]
+Mean PCS: [-75.1298 -74.9106 -76.0275 -74.9444]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [ 0.0048  0.7871 10.3777  0.0500]
+Aggregate throughput: 11.2197
+Min-Max: 10.3729
+JFI: 0.3902 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [575 582]]
+[[-82 -68]
+ [610 631]]
+[[ -82  -68]
+ [2022 1429]]
+[[-82 -68]
+ [621 641]]
+Mean PCS: [-74.9576 -74.8815 -76.2028 -74.8891]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:15138): Gdk-CRITICAL **: 22:55:36.223: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 19409
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.002506642497824364, 0.015326682995723429)    played    33.23 s,       4256 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.002810885423258510, 0.015193428136569098)    played    26.76 s,       4331 time(s)
+                                                                                                           played    60.00 s,       8587 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.003609166888412004, 0.016729520440949854)    played    30.34 s,       3572 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.003460311313943144, 0.016692188131234506)    played    29.66 s,       3588 time(s)
+                                                                                                           played    60.00 s,       7160 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.157283912228500994, 0.048336824452283177)    played    32.95 s,        427 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.217939433387213888, 0.019818500882235451)    played    27.04 s,       2545 time(s)
+                                                                                                           played    59.98 s,       2972 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.085420818075736704, 0.053224629541234948)    played    43.10 s,        352 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.092546726886277422, 0.054312544659356837)    played    16.63 s,        338 time(s)
+                                                                                                           played    59.73 s,        690 time(s)
+
+Mean throughputs: [0.1440 0.1737 6.8705 0.8825]
+Aggregate throughput: 8.0707
+Min-Max: 6.7265
+JFI: 0.4173 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [4256 4331]]
+[[ -82  -68]
+ [3572 3588]]
+[[ -82  -68]
+ [ 427 2545]]
+[[-82 -68]
+ [352 338]]
+Mean PCS: [-74.9389 -74.9844 -70.0114 -75.1420]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [0.0989 0.1272 9.0277 0.0000]
+Aggregate throughput: 9.2538
+Min-Max: 9.0277
+JFI: 0.3737 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [1378 1459]]
+[[ -82  -68]
+ [1090 1112]]
+[[ -82  -68]
+ [ 139 1199]]
+[[-82 -68]
+ [ 22  18]]
+Mean PCS: [-74.8001 -74.9301 -69.4544 -75.7000]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:15163): Gdk-CRITICAL **: 22:56:32.062: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 30761
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000006443761090741, 0.014108316199577508)    played    29.97 s,       5023 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000012698762407261, 0.014015172629623431)    played    30.02 s,       5090 time(s)
+                                                                                                           played    60.00 s,      10113 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000012334057322008, 0.013828996894083706)    played    30.56 s,       5228 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000038300316842977, 0.014088699899813706)    played    29.44 s,       5037 time(s)
+                                                                                                           played    60.00 s,      10265 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000299343860774919, 0.073127242412713067)    played    37.20 s,        186 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000329783674349404, 0.071611487403943283)    played    22.69 s,        194 time(s)
+                                                                                                           played    59.89 s,        380 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.004167596827833763, 0.014083110254721722)    played    30.22 s,       5041 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.004142005550250564, 0.014194753736821313)    played    29.77 s,       4962 time(s)
+                                                                                                           played    59.99 s,      10003 time(s)
+
+Mean throughputs: [0.0006 0.0016 0.0022 0.2622]
+Aggregate throughput: 0.2666
+Min-Max: 0.2616
+JFI: 0.3712 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [5023 5090]]
+[[ -82  -68]
+ [5228 5037]]
+[[-82 -68]
+ [186 194]]
+[[ -82  -68]
+ [5041 4962]]
+Mean PCS: [-74.9536 -75.1302 -74.8526 -75.0553]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [0.0012 0.0042 0.0000 0.2907]
+Aggregate throughput: 0.2962
+Min-Max: 0.2907
+JFI: 0.3718 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [1652 1765]]
+[[ -82  -68]
+ [1746 1675]]
+[[-82 -68]
+ [ 20  20]]
+[[ -82  -68]
+ [1774 1643]]
+Mean PCS: [-74.7685 -75.1453 -75.0000 -75.2684]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:15190): Gdk-CRITICAL **: 22:57:40.145: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 19716
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.003962585682038447, 0.015945495774497994)    played    29.26 s,       3932 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.003705629971972891, 0.015568091956133519)    played    30.73 s,       4125 time(s)
+                                                                                                           played    59.99 s,       8057 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.216845506217273221, 0.038749212914606423)    played    42.20 s,        665 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.260523969844396852, 0.023596458909150436)    played    17.80 s,       1795 time(s)
+                                                                                                           played    60.00 s,       2460 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.034405662979150209, 0.107832773203438412)    played    35.87 s,         85 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000000000000000000, 0.132453235706504385)    played    24.06 s,         56 time(s)
+                                                                                                           played    59.94 s,        141 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.003269873834444087, 0.014908776472757504)    played    32.36 s,       4498 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.003302281220669565, 0.014807098447623807)    played    27.63 s,       4560 time(s)
+                                                                                                           played    59.99 s,       9058 time(s)
+
+Mean throughputs: [0.2065 6.4624 0.0300 0.1876]
+Aggregate throughput: 6.8865
+Min-Max: 6.4324
+JFI: 0.3861 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [3932 4125]]
+[[ -82  -68]
+ [ 665 1795]]
+[[-82 -68]
+ [ 85  56]]
+[[ -82  -68]
+ [4498 4560]]
+Mean PCS: [-74.8323 -71.7846 -76.4397 -74.9521]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [0.1719 7.3328 0.0000 0.1707]
+Aggregate throughput: 7.6754
+Min-Max: 7.3328
+JFI: 0.3803 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [1216 1280]]
+[[-82 -68]
+ [182 832]]
+[[-82 -68]
+ [ 24  16]]
+[[ -82  -68]
+ [1455 1513]]
+Mean PCS: [-74.8205 -70.5128 -76.4000 -74.8632]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:15215): Gdk-CRITICAL **: 22:58:34.332: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 12817
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.190373484485423267, 0.019577758204863373)    played    55.92 s,       2608 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.101348667995404679, 0.048621663832631515)    played     4.05 s,        422 time(s)
+                                                                                                           played    59.97 s,       3030 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.288954430629559111, 0.018824415287446387)    played    54.64 s,       2821 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.187316484249719334, 0.050572173742417362)    played     5.36 s,        390 time(s)
+                                                                                                           played    60.00 s,       3211 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.289843922502430351, 0.019131968294834524)    played    53.71 s,       2731 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.170492756137028467, 0.053300179088902611)    played     6.27 s,        351 time(s)
+                                                                                                           played    59.99 s,       3082 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.261939311885538872, 0.022091694090300196)    played    43.09 s,       2048 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.259972245102994493, 0.026288495648390097)    played    16.91 s,       1446 time(s)
+                                                                                                           played    59.99 s,       3494 time(s)
+
+Mean throughputs: [ 7.4071 12.3064 11.9456 11.9949]
+Aggregate throughput: 43.6540
+Min-Max: 4.8994
+JFI: 0.8432 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [2608  422]]
+[[ -82  -68]
+ [2821  390]]
+[[ -82  -68]
+ [2731  351]]
+[[ -82  -68]
+ [2048 1446]]
+Mean PCS: [-80.0502 -80.2996 -80.4056 -76.2061]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [ 8.0880 12.7092 13.4047 12.2664]
+Aggregate throughput: 46.4682
+Min-Max: 5.3167
+JFI: 0.8483 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [922  46]]
+[[-82 -68]
+ [992  49]]
+[[ -82  -68]
+ [1036   24]]
+[[-82 -68]
+ [636 530]]
+Mean PCS: [-81.3347 -81.3410 -81.6830 -75.6364]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:15240): Gdk-CRITICAL **: 22:59:25.345: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 21145
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000823681672664500, 0.019830187468537895)    played    30.01 s,       2542 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.001014769348714272, 0.019396461632280274)    played    29.99 s,       2657 time(s)
+                                                                                                           played    60.00 s,       5199 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.060053994737679160, 0.060858061945018457)    played    58.19 s,        269 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.059829031620182944, 0.071066905451870152)    played     1.34 s,        197 time(s)
+                                                                                                           played    59.53 s,        466 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000350515389659109, 0.019280747181992474)    played    30.67 s,       2689 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000223550691818912, 0.019626716799471491)    played    29.32 s,       2595 time(s)
+                                                                                                           played    59.99 s,       5284 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.078829519516877972, 0.013945495948656210)    played    30.68 s,       5141 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.078925233391597585, 0.014063598761575299)    played    29.31 s,       5055 time(s)
+                                                                                                           played    60.00 s,      10196 time(s)
+
+Mean throughputs: [0.0428 0.3149 0.0197 5.0564]
+Aggregate throughput: 5.4339
+Min-Max: 5.0367
+JFI: 0.3885 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [2542 2657]]
+[[-82 -68]
+ [269 197]]
+[[ -82  -68]
+ [2689 2595]]
+[[ -82  -68]
+ [5141 5055]]
+Mean PCS: [-74.8452 -76.0815 -75.1245 -75.0590]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [0.0458 0.3147 0.0241 5.0017]
+Aggregate throughput: 5.3863
+Min-Max: 4.9775
+JFI: 0.3892 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [865 882]]
+[[-82 -68]
+ [ 96  91]]
+[[-82 -68]
+ [928 827]]
+[[ -82  -68]
+ [1627 1750]]
+Mean PCS: [-74.9319 -75.1872 -75.4028 -74.7450]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:15280): Gdk-CRITICAL **: 23:00:26.399: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 20012
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.108355789973421407, 0.036563621206356534)    played    53.12 s,        747 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.116078890253257447, 0.034360406637202474)    played     6.86 s,        846 time(s)
+                                                                                                           played    59.99 s,       1593 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.101642498449909899, 0.036961063547728643)    played    53.79 s,        731 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.116815005404153974, 0.031878835653166918)    played     6.20 s,        983 time(s)
+                                                                                                           played    59.99 s,       1714 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.006403561870448160, 0.015019349877480086)    played    34.45 s,       4432 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.005175206851957073, 0.015738764073941116)    played    25.55 s,       4036 time(s)
+                                                                                                           played    60.00 s,       8468 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.004029179436756298, 0.015509935357050633)    played    33.32 s,       4156 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.003803717143513062, 0.015651771528626447)    played    26.68 s,       4081 time(s)
+                                                                                                           played    60.00 s,       8237 time(s)
+
+Mean throughputs: [1.9390 1.9104 0.3559 0.2049]
+Aggregate throughput: 4.4102
+Min-Max: 1.7341
+JFI: 0.5723 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [747 846]]
+[[-82 -68]
+ [731 983]]
+[[ -82  -68]
+ [4432 4036]]
+[[ -82  -68]
+ [4156 4081]]
+Mean PCS: [-74.5650 -73.9708 -75.3274 -75.0637]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [2.2136 2.0731 0.3473 0.1863]
+Aggregate throughput: 4.8203
+Min-Max: 2.0273
+JFI: 0.5614 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [278 322]]
+[[-82 -68]
+ [253 401]]
+[[ -82  -68]
+ [1444 1303]]
+[[ -82  -68]
+ [1343 1321]]
+Mean PCS: [-74.4867 -73.4159 -75.3593 -75.0578]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:15305): Gdk-CRITICAL **: 23:01:26.974: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 12453
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.257498355589995565, 0.018682615973574360)    played    56.56 s,       2864 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.097128554701746764, 0.064018439966447988)    played     3.43 s,        243 time(s)
+                                                                                                           played    59.99 s,       3107 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.244049117451964420, 0.019349201886068965)    played    55.76 s,       2670 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.082578855411755817, 0.057259833431386825)    played     4.19 s,        304 time(s)
+                                                                                                           played    59.95 s,       2974 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.259471057043743847, 0.018614519776248499)    played    56.84 s,       2885 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.117304179918311449, 0.063757671306333835)    played     3.14 s,        245 time(s)
+                                                                                                           played    59.98 s,       3130 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.287048382437120664, 0.019128467797450026)    played    53.30 s,       2732 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.211874809772546802, 0.044237395520380883)    played     6.70 s,        510 time(s)
+                                                                                                           played    60.00 s,       3242 time(s)
+
+Mean throughputs: [10.9015  9.7408 11.1851 12.3985]
+Aggregate throughput: 44.2259
+Min-Max: 2.6577
+JFI: 0.9213 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [2864  243]]
+[[ -82  -68]
+ [2670  304]]
+[[ -82  -68]
+ [2885  245]]
+[[ -82  -68]
+ [2732  510]]
+Mean PCS: [-80.9051 -80.5689 -80.9042 -79.7977]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [11.7867 12.0717 12.3927 12.6336]
+Aggregate throughput: 48.8846
+Min-Max: 0.8469
+JFI: 0.9745 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [1002    9]]
+[[ -82  -68]
+ [1014    8]]
+[[ -82  -68]
+ [1033   15]]
+[[-82 -68]
+ [956  57]]
+Mean PCS: [-81.8754 -81.8904 -81.7996 -81.2122]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:15332): Gdk-CRITICAL **: 23:02:17.992: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 32076
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000175260557653274, 0.016762392512812200)    played    38.11 s,       3558 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000041923377009063, 0.016975995936626100)    played    21.88 s,       3469 time(s)
+                                                                                                           played    59.98 s,       7027 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000074194747206564, 0.017661119983645748)    played    34.38 s,       3205 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000040744115853584, 0.017786387594901105)    played    25.62 s,       3160 time(s)
+                                                                                                           played    60.00 s,       6365 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.001258953721682767, 0.014862598735590328)    played    32.79 s,       4526 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.001027544654409425, 0.014829876109507997)    played    27.20 s,       4546 time(s)
+                                                                                                           played    60.00 s,       9072 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000006443580924056, 0.014494275891311212)    played    30.76 s,       4759 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000006566357868715, 0.014353245528100829)    played    29.23 s,       4853 time(s)
+                                                                                                           played    60.00 s,       9612 time(s)
+
+Mean throughputs: [0.0070 0.0028 0.0688 0.0004]
+Aggregate throughput: 0.0790
+Min-Max: 0.0684
+JFI: 0.4103 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [3558 3469]]
+[[ -82  -68]
+ [3205 3160]]
+[[ -82  -68]
+ [4526 4546]]
+[[ -82  -68]
+ [4759 4853]]
+Mean PCS: [-75.0887 -75.0495 -74.9846 -74.9315]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [0.0066 0.0054 0.0651 0.0006]
+Aggregate throughput: 0.0778
+Min-Max: 0.0645
+JFI: 0.4235 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [1158 1178]]
+[[ -82  -68]
+ [1065 1071]]
+[[ -82  -68]
+ [1541 1480]]
+[[ -82  -68]
+ [1612 1588]]
+Mean PCS: [-74.9401 -74.9803 -75.1413 -75.0525]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:15359): Gdk-CRITICAL **: 23:03:32.366: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 21176
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000474979871173681, 0.014157717688041934)    played    30.49 s,       4988 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000434177763229294, 0.014207641788266268)    played    29.50 s,       4953 time(s)
+                                                                                                           played    60.00 s,       9941 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.003910927810755965, 0.021561540911771697)    played    32.79 s,       2150 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.004206867399325324, 0.021276595744680851)    played    27.21 s,       2208 time(s)
+                                                                                                           played    59.99 s,       4358 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.453329108816922288, 0.017420968301749516)    played    32.92 s,       3294 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.452320305864251704, 0.018411492357966467)    played    27.08 s,       2949 time(s)
+                                                                                                           played    60.00 s,       6243 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.035599506178618567, 0.059761430466719681)    played    56.60 s,        279 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.041689940658404499, 0.052999894000318001)    played     2.98 s,        355 time(s)
+                                                                                                           played    59.57 s,        634 time(s)
+
+Mean throughputs: [ 0.0284  0.2260 25.5930  0.3289]
+Aggregate throughput: 26.1763
+Min-Max: 25.5647
+JFI: 0.3730 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [4988 4953]]
+[[ -82  -68]
+ [2150 2208]]
+[[ -82  -68]
+ [3294 2949]]
+[[-82 -68]
+ [279 355]]
+Mean PCS: [-75.0246 -74.9068 -75.3868 -74.1609]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [ 0.0289  0.2266 25.9025  0.1957]
+Aggregate throughput: 26.3538
+Min-Max: 25.8736
+JFI: 0.3714 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [1688 1650]]
+[[-82 -68]
+ [696 777]]
+[[ -82  -68]
+ [1127  946]]
+[[-82 -68]
+ [ 78  75]]
+Mean PCS: [-75.0797 -74.6151 -75.6112 -75.1373]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:15384): Gdk-CRITICAL **: 23:04:34.926: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 23827
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.001127181968542020, 0.021378456240450639)    played    46.53 s,       2187 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000963040987178087, 0.021501647626876532)    played    13.46 s,       2162 time(s)
+                                                                                                           played    59.99 s,       4349 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000432128640877595, 0.015996417203774600)    played    31.57 s,       3907 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000384262159075785, 0.015891043154093204)    played    28.43 s,       3959 time(s)
+                                                                                                           played    59.99 s,       7866 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000299894127502246, 0.016327754729706809)    played    31.90 s,       3750 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000235601204145489, 0.016518211042472374)    played    28.09 s,       3664 time(s)
+                                                                                                           played    59.99 s,       7414 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.003819252654006122, 0.021566554640687685)    played    46.87 s,       2149 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.003014713592257078, 0.022086305214969310)    played    13.12 s,       2049 time(s)
+                                                                                                           played    60.00 s,       4198 time(s)
+
+Mean throughputs: [0.0487 0.0213 0.0125 0.1331]
+Aggregate throughput: 0.2156
+Min-Max: 0.1206
+JFI: 0.5307 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [2187 2162]]
+[[ -82  -68]
+ [3907 3959]]
+[[ -82  -68]
+ [3750 3664]]
+[[ -82  -68]
+ [2149 2049]]
+Mean PCS: [-75.0402 -74.9537 -75.0812 -75.1667]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [0.0482 0.0217 0.0145 0.0730]
+Aggregate throughput: 0.1573
+Min-Max: 0.0585
+JFI: 0.6297 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [742 726]]
+[[ -82  -68]
+ [1296 1323]]
+[[ -82  -68]
+ [1233 1271]]
+[[-82 -68]
+ [709 652]]
+Mean PCS: [-75.0763 -74.9278 -74.8938 -75.2932]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:15411): Gdk-CRITICAL **: 23:05:41.881: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 12364
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.195651235574296006, 0.021030505843376807)    played    53.44 s,       2260 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.060057794880104536, 0.047192917818300872)    played     6.53 s,        448 time(s)
+                                                                                                           played    59.98 s,       2708 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.265638287007933738, 0.019378243856463639)    played    51.91 s,       2662 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.182369062199104898, 0.045129368240652418)    played     8.09 s,        490 time(s)
+                                                                                                           played    59.99 s,       3152 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.257410497816174866, 0.019411072904885092)    played    52.61 s,       2653 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.158361279642968311, 0.047673129462279612)    played     7.39 s,        439 time(s)
+                                                                                                           played    60.00 s,       3092 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.263275361655696372, 0.020344711469278985)    played    45.67 s,       2415 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.193010037767167159, 0.031654446891645920)    played    14.32 s,        997 time(s)
+                                                                                                           played    59.99 s,       3412 time(s)
+
+Mean throughputs: [ 6.8010 10.9295 10.5781 11.1747]
+Aggregate throughput: 39.4832
+Min-Max: 4.3737
+JFI: 0.8469 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [2260  448]]
+[[ -82  -68]
+ [2662  490]]
+[[ -82  -68]
+ [2653  439]]
+[[ -82  -68]
+ [2415  997]]
+Mean PCS: [-79.6839 -79.8236 -80.0123 -77.9091]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [ 9.9101 11.6490 12.5070 12.4627]
+Aggregate throughput: 46.5289
+Min-Max: 2.5969
+JFI: 0.9171 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [943  10]]
+[[-82 -68]
+ [966  47]]
+[[ -82  -68]
+ [1026   30]]
+[[-82 -68]
+ [996  73]]
+Mean PCS: [-81.8531 -81.3504 -81.6023 -81.0440]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:15436): Gdk-CRITICAL **: 23:06:34.382: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 21974
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.376613829454959581, 0.012828950144769636)    played    56.77 s,       6075 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.276387045525614494, 0.047245559126153400)    played     3.23 s,        447 time(s)
+                                                                                                           played    59.99 s,       6522 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.307110263232600822, 0.013907681247386885)    played    31.25 s,       5169 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.309434589359171008, 0.014300313895335042)    played    28.75 s,       4889 time(s)
+                                                                                                           played    60.00 s,      10058 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.051270447025656238, 0.063372425052447792)    played    57.05 s,        248 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.077502230574368461, 0.050832856777534893)    played     2.94 s,        386 time(s)
+                                                                                                           played    59.99 s,        634 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.001718592550530539, 0.020519567041703081)    played    35.72 s,       2374 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.001521743212908214, 0.020467923754178649)    played    24.28 s,       2386 time(s)
+                                                                                                           played    60.00 s,       4760 time(s)
+
+Mean throughputs: [19.7071 19.5428  0.5883  0.0794]
+Aggregate throughput: 39.9176
+Min-Max: 19.6277
+JFI: 0.5085 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [6075  447]]
+[[ -82  -68]
+ [5169 4889]]
+[[-82 -68]
+ [248 386]]
+[[ -82  -68]
+ [2374 2386]]
+Mean PCS: [-81.0405 -75.1949 -73.4763 -74.9824]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [20.1299 19.6808  0.5430  0.0807]
+Aggregate throughput: 40.4343
+Min-Max: 20.0492
+JFI: 0.5078 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [2124   49]]
+[[ -82  -68]
+ [1560 1786]]
+[[-82 -68]
+ [ 80 133]]
+[[-82 -68]
+ [770 782]]
+Mean PCS: [-81.6843 -74.5272 -73.2582 -74.9459]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:15462): Gdk-CRITICAL **: 23:07:41.933: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 22455
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000362208328501068, 0.014183327086761071)    played    30.32 s,       4970 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000283683513073393, 0.014180474733371392)    played    29.68 s,       4972 time(s)
+                                                                                                           played    60.00 s,       9942 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.034843870024883872, 0.062869461346193145)    played    57.24 s,        252 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.041356842960432141, 0.054073807043587510)    played     2.59 s,        341 time(s)
+                                                                                                           played    59.82 s,        593 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.001515016664101291, 0.018142875285741499)    played    33.05 s,       3037 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000787326161425352, 0.018346307741382219)    played    26.94 s,       2970 time(s)
+                                                                                                           played    59.99 s,       6007 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.001617719696151378, 0.018297105352446882)    played    33.41 s,       2986 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000804774903971609, 0.018480531773864321)    played    26.59 s,       2927 time(s)
+                                                                                                           played    60.00 s,       5913 time(s)
+
+Mean throughputs: [0.0201 0.3944 0.0658 0.0682]
+Aggregate throughput: 0.5485
+Min-Max: 0.3743
+JFI: 0.4779 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [4970 4972]]
+[[-82 -68]
+ [252 341]]
+[[ -82  -68]
+ [3037 2970]]
+[[ -82  -68]
+ [2986 2927]]
+Mean PCS: [-74.9986 -73.9494 -75.0781 -75.0698]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [0.0211 0.3448 0.0645 0.0621]
+Aggregate throughput: 0.4925
+Min-Max: 0.3237
+JFI: 0.4881 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [1646 1679]]
+[[-82 -68]
+ [ 81 114]]
+[[ -82  -68]
+ [1026  975]]
+[[ -82  -68]
+ [1028  951]]
+Mean PCS: [-74.9305 -73.8154 -75.1784 -75.2724]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:15487): Gdk-CRITICAL **: 23:08:51.124: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 24242
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000059219814260565, 0.016993144648922320)    played    35.29 s,       3462 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000076303833414283, 0.017236256333167305)    played    24.70 s,       3365 time(s)
+                                                                                                           played    59.99 s,       6827 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000290944416689737, 0.015699922050080532)    played    34.79 s,       4056 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000119883323285534, 0.015513667744388273)    played    25.21 s,       4154 time(s)
+                                                                                                           played    60.00 s,       8210 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.016265876456485379, 0.019418390934515434)    played    42.74 s,       2651 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.011378621982726973, 0.021223817998900444)    played    17.26 s,       2219 time(s)
+                                                                                                           played    60.00 s,       4870 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.002885764346359798, 0.022064789082034391)    played    41.69 s,       2053 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.003097273763710405, 0.020928930907403050)    played    18.31 s,       2282 time(s)
+                                                                                                           played    60.00 s,       4335 time(s)
+
+Mean throughputs: [0.0036 0.0123 0.6901 0.1432]
+Aggregate throughput: 0.8492
+Min-Max: 0.6865
+JFI: 0.4300 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [3462 3365]]
+[[ -82  -68]
+ [4056 4154]]
+[[ -82  -68]
+ [2651 2219]]
+[[ -82  -68]
+ [2053 2282]]
+Mean PCS: [-75.0995 -74.9164 -75.6209 -74.6302]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [0.0030 0.0103 0.6673 0.1435]
+Aggregate throughput: 0.8241
+Min-Max: 0.6643
+JFI: 0.4308 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [1158 1123]]
+[[ -82  -68]
+ [1314 1406]]
+[[-82 -68]
+ [883 711]]
+[[-82 -68]
+ [709 746]]
+Mean PCS: [-75.1074 -74.7632 -75.7553 -74.8220]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:15557): Gdk-CRITICAL **: 23:09:59.562: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 20425
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.004383644895218741, 0.014388861576723854)    played    30.80 s,       4829 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.004377632484158058, 0.014414250630336545)    played    29.20 s,       4812 time(s)
+                                                                                                           played    60.00 s,       9641 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.090575401286293392, 0.053074489243427531)    played    45.25 s,        354 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.094168630836649447, 0.051987524491003634)    played    14.28 s,        369 time(s)
+                                                                                                           played    59.53 s,        723 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.051143237090220985, 0.090535746042518531)    played    36.58 s,        121 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.040542461258104949, 0.107211253483779481)    played    23.34 s,         86 time(s)
+                                                                                                           played    59.91 s,        207 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.006470314173011791, 0.014105508853773261)    played    31.13 s,       5025 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.006543296998514328, 0.014388861576723854)    played    28.87 s,       4829 time(s)
+                                                                                                           played    60.00 s,       9854 time(s)
+
+Mean throughputs: [0.2660 0.7898 0.1230 0.4289]
+Aggregate throughput: 1.6077
+Min-Max: 0.6667
+JFI: 0.6178 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [4829 4812]]
+[[-82 -68]
+ [354 369]]
+[[-82 -68]
+ [121  86]]
+[[ -82  -68]
+ [5025 4829]]
+Mean PCS: [-75.0123 -74.8548 -76.1836 -75.1392]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [0.2967 0.0000 0.0000 0.4095]
+Aggregate throughput: 0.7062
+Min-Max: 0.4095
+JFI: 0.4938 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [1726 1645]]
+[[-82 -68]
+ [ 21  19]]
+[[-82 -68]
+ [ 23  17]]
+[[ -82  -68]
+ [1734 1687]]
+Mean PCS: [-75.1682 -75.3500 -76.0500 -75.0962]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:15596): Gdk-CRITICAL **: 23:10:55.144: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 25399
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.351583112000640352, 0.012925032498419444)    played    54.77 s,       5985 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.308721899403570199, 0.033277916281986092)    played     5.23 s,        902 time(s)
+                                                                                                           played    60.00 s,       6887 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.087153544794379006, 0.014659983237784748)    played    46.68 s,       4652 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.059283703111936752, 0.024700771787671948)    played    13.32 s,       1638 time(s)
+                                                                                                           played    60.00 s,       6290 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000179561311445538, 0.017562789445387736)    played    40.35 s,       3241 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000109119644045004, 0.017535765595797358)    played    19.64 s,       3251 time(s)
+                                                                                                           played    59.99 s,       6492 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000082775902860745, 0.018572736289716184)    played    33.20 s,       2898 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000080147710008742, 0.018787833931763167)    played    26.80 s,       2832 time(s)
+                                                                                                           played    59.99 s,       5730 time(s)
+
+Mean throughputs: [19.1879  4.5480  0.0084  0.0048]
+Aggregate throughput: 23.7492
+Min-Max: 19.1831
+JFI: 0.4300 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [5985  902]]
+[[ -82  -68]
+ [4652 1638]]
+[[ -82  -68]
+ [3241 3251]]
+[[ -82  -68]
+ [2898 2832]]
+Mean PCS: [-80.1664 -78.3542 -74.9892 -75.0806]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [19.3678  4.7061  0.0066  0.0072]
+Aggregate throughput: 24.0878
+Min-Max: 19.3612
+JFI: 0.4313 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[ -82  -68]
+ [2041  244]]
+[[ -82  -68]
+ [1671  393]]
+[[ -82  -68]
+ [1083 1077]]
+[[-82 -68]
+ [972 919]]
+Mean PCS: [-80.5050 -79.3343 -75.0194 -75.1962]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:15621): Gdk-CRITICAL **: 23:12:05.203: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 20983
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.071605205221088791, 0.031927542840705050)    played    52.75 s,        980 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.069500133899517272, 0.033864273073929821)    played     7.23 s,        871 time(s)
+                                                                                                           played    59.98 s,       1851 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.041203876577110166, 0.015613568465729805)    played    44.15 s,       4101 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.029186802268009168, 0.021044471869825904)    played    15.85 s,       2257 time(s)
+                                                                                                           played    60.00 s,       6358 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.005620368752694796, 0.020298554489911171)    played    39.55 s,       2426 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.002732508972570017, 0.021718612138153470)    played    20.44 s,       2119 time(s)
+                                                                                                           played    59.99 s,       4545 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000163788065119288, 0.015642194478516867)    played    31.43 s,       4086 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000116304359208494, 0.015534244150030001)    played    28.57 s,       4143 time(s)
+                                                                                                           played    60.00 s,       8229 time(s)
+
+Mean throughputs: [2.0221 1.9972 0.2317 0.0074]
+Aggregate throughput: 4.2585
+Min-Max: 2.0147
+JFI: 0.5289 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [980 871]]
+[[ -82  -68]
+ [4101 2257]]
+[[ -82  -68]
+ [2426 2119]]
+[[ -82  -68]
+ [4086 4143]]
+Mean PCS: [-75.4122 -77.0302 -75.4728 -74.9515]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [2.1261 1.9676 0.2374 0.0072]
+Aggregate throughput: 4.3383
+Min-Max: 2.1189
+JFI: 0.5286 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [334 283]]
+[[ -82  -68]
+ [1407  683]]
+[[-82 -68]
+ [814 708]]
+[[ -82  -68]
+ [1350 1373]]
+Mean PCS: [-75.5786 -77.4249 -75.4875 -74.9409]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(mab_agents.py:15648): Gdk-CRITICAL **: 23:13:11.546: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Simulation time: 60 s
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+Start
+Progress: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Done
+Final step: 20895
+Node 0, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.062564429051273449, 0.044676705160877024)    played    55.82 s,        500 time(s)
+Node 0, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.074678697094680363, 0.040756957296961119)    played     3.99 s,        601 time(s)
+                                                                                                           played    59.81 s,       1101 time(s)
+
+Node 1, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.000152546442910274, 0.014362124740535652)    played    31.59 s,       4847 time(s)
+Node 1, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.000254170126614597, 0.014421743613444024)    played    28.40 s,       4807 time(s)
+                                                                                                           played    60.00 s,       9654 time(s)
+
+Node 2, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.002249795798504674, 0.019577758204863373)    played    31.75 s,       2608 time(s)
+Node 2, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.002124143803931223, 0.019877141411466244)    played    28.25 s,       2530 time(s)
+                                                                                                           played    60.00 s,       5138 time(s)
+
+Node 3, (CST, Tx power, MCS) = (-82,  0, 7) - (mean, std): (0.002498719972156494, 0.020153755044768931)    played    30.41 s,       2461 time(s)
+Node 3, (CST, Tx power, MCS) = (-68,  0, 7) - (mean, std): (0.002351341168686722, 0.019834087593950483)    played    29.58 s,       2541 time(s)
+                                                                                                           played    59.99 s,       5002 time(s)
+
+Mean throughputs: [0.9576 0.0125 0.1255 0.1353]
+Aggregate throughput: 1.2309
+Min-Max: 0.9452
+JFI: 0.4486 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [500 601]]
+[[ -82  -68]
+ [4847 4807]]
+[[ -82  -68]
+ [2608 2530]]
+[[ -82  -68]
+ [2461 2541]]
+Mean PCS: [-74.3579 -75.0290 -75.1063 -74.8880]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
+
+Last 20 seconds of simulation:
+Mean throughputs: [0.9291 0.0109 0.1290 0.1375]
+Aggregate throughput: 1.2065
+Min-Max: 0.9183
+JFI: 0.4520 [0.2500, 1]
+Mean TX power: [0.0000 0.0000 0.0000 0.0000]
+TX power counts:
+[[-82 -68]
+ [154 243]]
+[[ -82  -68]
+ [1618 1601]]
+[[-82 -68]
+ [866 849]]
+[[-82 -68]
+ [845 823]]
+Mean PCS: [-73.4307 -75.0370 -75.0694 -75.0923]
+Mean MCS: [7.0000 7.0000 7.0000 7.0000]
